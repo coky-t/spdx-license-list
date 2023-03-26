@@ -175,7 +175,7 @@
 | curl License | curl | 2.3 |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | 1.18 |
 | diffmark license | diffmark | 1.20 |
-| Data licence Germany ? attribution ? version 2.0 | DL-DE-BY-2.0 | 3.16 |
+| Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | 3.16 |
 | DOC License | DOC | 1.20 |
 | Dotseqn License | Dotseqn | 1.20 |
 | Detection Rule License 1.0 | DRL-1.0 | 3.12 |
