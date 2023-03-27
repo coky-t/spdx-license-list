@@ -288,9 +288,9 @@
 | libselinux public domain notice | libselinux-1.0 | 3.8 |
 | libtiff License | libtiff | 1.20 |
 | libutil David Nugent License | libutil-David-Nugent | 3.19 |
-| Licence Libre du Qu?bec ? Permissive version 1.1 | LiLiQ-P-1.1 | 2.4 |
-| Licence Libre du Qu?bec ? R?ciprocit? version 1.1 | LiLiQ-R-1.1 | 2.4 |
-| Licence Libre du Qu?bec ? R?ciprocit? forte version 1.1 | LiLiQ-Rplus-1.1 | 2.4 |
+| Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | 2.4 |
+| Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | 2.4 |
+| Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | 2.4 |
 | Linux man-pages Copyleft | Linux-man-pages-copyleft | 3.15 |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | 3.1 |
 | Common Lisp LOOP License | LOOP | 3.20 |
