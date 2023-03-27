@@ -50,3 +50,9 @@
 | Universal FOSS Exception, Version 1.0 | Universal-FOSS-exception-1.0 | 3.6 |
 | WxWindows Library Exception 3.1 | WxWindows-exception-3.1 | 2.1 |
 | x11vnc OpenSSL Exception | x11vnc-openssl-exception | 3.19 |
+
+## Deprecated
+
+| License Name | Identifier | Release | Deprecated |
+| ------------ | ---------- | ------- | ---------- |
+| Nokia Qt LGPL exception 1.1 | Nokia-Qt-exception-1.1 | 2.1 | 3.1 |
