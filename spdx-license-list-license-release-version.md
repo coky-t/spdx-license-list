@@ -329,8 +329,8 @@
 | Microsoft Public License | MS-PL | 1.0 |
 | Microsoft Reciprocal License | MS-RL | 1.0 |
 | Matrix Template Library License | MTLL | 1.20 |
-| "Mulan Permissive Software License, Version 1" | MulanPSL-1.0 | 3.7 |
-| "Mulan Permissive Software License, Version 2" | MulanPSL-2.0 | 3.9 |
+| Mulan Permissive Software License, Version 1 | MulanPSL-1.0 | 3.7 |
+| Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | 3.9 |
 | Multics License | Multics | 1.0 |
 | Mup License | Mup | 1.20 |
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | 3.12 |
@@ -343,7 +343,7 @@
 | NetCDF license | NetCDF | 1.20 |
 | Newsletr License | Newsletr | 1.20 |
 | Nethack General Public License | NGPL | 1.0 |
-| "NICTA Public Software License, Version 1.0" | NICTA-1.0 | 3.18 |
+| NICTA Public Software License, Version 1.0 | NICTA-1.0 | 3.18 |
 | NIST Public Domain Notice | NIST-PD | 3.10 |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | 3.10 |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | 2.4 |
@@ -370,8 +370,8 @@
 | SIL Open Font License 1.1 | OFL-1.1 | 1.0 |
 | SIL Open Font License 1.1 with no Reserved Font Name | OFL-1.1-no-RFN | 3.8 |
 | SIL Open Font License 1.1 with Reserved Font Name | OFL-1.1-RFN | 3.8 |
-| "OGC Software License, Version 1.0" | OGC-1.0 | 3.9 |
-| "Taiwan Open Government Data License, version 1.0" | OGDL-Taiwan-1.0 | 3.12 |
+| OGC Software License, Version 1.0 | OGC-1.0 | 3.9 |
+| Taiwan Open Government Data License, version 1.0 | OGDL-Taiwan-1.0 | 3.12 |
 | Open Government Licence - Canada | OGL-Canada-2.0 | 3.7 |
 | Open Government Licence v1.0 | OGL-UK-1.0 | 3.3 |
 | Open Government Licence v2.0 | OGL-UK-2.0 | 3.3 |
@@ -439,7 +439,7 @@
 | SGI Free Software License B v1.1 | SGI-B-1.1 | 1.17 |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | 1.17 |
 | Solderpad Hardware License v0.5 | SHL-0.5 | 3.6 |
-| "Solderpad Hardware License, Version 0.51" | SHL-0.51 | 3.6 |
+| Solderpad Hardware License, Version 0.51 | SHL-0.51 | 3.6 |
 | Simple Public License 2.0 | SimPL-2.0 | 1.0 |
 | Sun Industry Standards Source License v1.1 | SISSL | 1.17 |
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | 1.19 |
@@ -454,7 +454,7 @@
 | Sun Public License v1.0 | SPL-1.0 | 1.0 |
 | SSH OpenSSH license | SSH-OpenSSH | 3.7 |
 | SSH short notice | SSH-short | 3.7 |
-| "Server Side Public License, v 1" | SSPL-1.0 | 3.6 |
+| Server Side Public License, v 1 | SSPL-1.0 | 3.6 |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 1.0 |
 | SunPro License | SunPro | 3.20 |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | 1.20 |
