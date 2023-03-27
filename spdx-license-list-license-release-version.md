@@ -507,3 +507,39 @@
 | Zope Public License 1.1 | ZPL-1.1 | 1.0 |
 | Zope Public License 2.0 | ZPL-2.0 | 1.0 |
 | Zope Public License 2.1 | ZPL-2.1 | 1.0 |
+
+## Deprecated
+
+| License Name | Identifier | Release | Deprecated |
+| ------------ | ---------- | ------- | ---------- |
+| Affero General Public License v1.0 | AGPL-1.0 | 1.18 | 3.1 |
+| GNU Affero General Public License v3.0 | AGPL-3.0 | 1.0 | 3.0 |
+| BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | 1.15 | 3.10 |
+| BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | 1.15 | 3.9 |
+| bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | 1.20 | 3.16 |
+| eCos license version 2.0 | eCos-2.0 | 1.0 | 2.0rc2 |
+| GNU Free Documentation License v1.1 | GFDL-1.1 | 1.0 | 3.0 |
+| GNU Free Documentation License v1.2 | GFDL-1.2 | 1.0 | 3.0 |
+| GNU Free Documentation License v1.3 | GFDL-1.3 | 1.0 | 3.0 |
+| GNU General Public License v1.0 only | GPL-1.0 | 1.0 | 3.0 |
+| GNU General Public License v1.0 or later | GPL-1.0+ | 1.0 | 2.0rc2 |
+| GNU General Public License v2.0 only | GPL-2.0 | 1.0 | 3.0 |
+| GNU General Public License v2.0 or later | GPL-2.0+ | 1.0 | 2.0rc2 |
+| GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | 1.0 | 2.0rc2 |
+| GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | 1.0 | 2.0rc2 |
+| GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | 1.0 | 2.0rc2 |
+| GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | 1.0 | 2.0rc2 |
+| GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | 1.0 | 2.0rc2 |
+| GNU General Public License v3.0 only | GPL-3.0 | 1.0 | 3.0 |
+| GNU General Public License v3.0 or later | GPL-3.0+ | 1.0 | 2.0rc2 |
+| GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | 1.0 | 2.0rc2 |
+| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | 1.0 | 2.0rc2 |
+| GNU Library General Public License v2 only | LGPL-2.0 | 1.0 | 3.0 |
+| GNU Library General Public License v2 or later | LGPL-2.0+ | 1.0 | 2.0rc2 |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1 | 1.0 | 3.0 |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 1.0 | 2.0rc2 |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0 | 1.0 | 3.0 |
+| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 1.0 | 2.0rc2 |
+| Nunit License | Nunit | 1.20 | 3.0 |
+| Standard ML of New Jersey License | StandardML-NJ | 1.20 | 2.0rc2 |
+| wxWindows Library License | wxWindows | 1.0 | 2.0rc2 |
