@@ -82,7 +82,7 @@
 | Cryptographic Autonomy License 1.0 | CAL-1.0 | [Cryptographic Autonomy License version 1.0](https://opensource.org/license/cal-1-0/) |
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | |
 | Caldera License | Caldera | |
-| Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | [Computer Associates Trusted Open Source License 1.1](https://opensource.org/license/ca-tosl1-1-php/] |
+| Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | [Computer Associates Trusted Open Source License 1.1](https://opensource.org/license/ca-tosl1-1-php/) |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | |
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | |
 | Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | |
@@ -93,7 +93,7 @@
 | Creative Commons Attribution 3.0 IGO | CC-BY-3.0-IGO | |
 | Creative Commons Attribution 3.0 Netherlands | CC-BY-3.0-NL | |
 | Creative Commons Attribution 3.0 United States | CC-BY-3.0-US | |
-| Creative Commons Attribution 4.0 International | CC-BY-4.0 | 1.20 |
+| Creative Commons Attribution 4.0 International | CC-BY-4.0 | |
 | Creative Commons Attribution Non Commercial 1.0 Generic | CC-BY-NC-1.0 | |
 | Creative Commons Attribution Non Commercial 2.0 Generic | CC-BY-NC-2.0 | |
 | Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | |
