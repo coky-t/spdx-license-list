@@ -17,7 +17,7 @@
 | Afmparse License | Afmparse | |
 | Affero General Public License v1.0 only | AGPL-1.0-only | |
 | Affero General Public License v1.0 or later | AGPL-1.0-or-later | |
-| GNU Affero General Public License v3.0 only | AGPL-3.0-only | |
+| GNU Affero General Public License v3.0 only | AGPL-3.0-only | [GNU Affero General Public License v3](https://www.tldrlegal.com/license/gnu-affero-general-public-license-v3-agpl-3-0) |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | |
 | Aladdin Free Public License | Aladdin | |
 | AMD's plpa_map.c License | AMDPLPA | |
@@ -225,7 +225,7 @@
 | GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | |
 | GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | |
 | GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | |
-| GNU Free Documentation License v1.3 only | GFDL-1.3-only | |
+| GNU Free Documentation License v1.3 only | GFDL-1.3-only | [GNU Free Documentation License v1.3](https://www.tldrlegal.com/license/gnu-free-documentation-license) |
 | GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | |
 | Giftware License | Giftware | |
 | GL2PS License | GL2PS | |
@@ -235,9 +235,9 @@
 | gnuplot License | gnuplot | |
 | GNU General Public License v1.0 only | GPL-1.0-only | |
 | GNU General Public License v1.0 or later | GPL-1.0-or-later | |
-| GNU General Public License v2.0 only | GPL-2.0-only | |
+| GNU General Public License v2.0 only | GPL-2.0-only | [GNU General Public License v2.0](https://www.tldrlegal.com/license/gnu-general-public-license-v2) |
 | GNU General Public License v2.0 or later | GPL-2.0-or-later | |
-| GNU General Public License v3.0 only | GPL-3.0-only | |
+| GNU General Public License v3.0 only | GPL-3.0-only | [GNU General Public License v3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
 | GNU General Public License v3.0 or later | GPL-3.0-or-later | |
 | Graphics Gems License | Graphics-Gems | |
 | gSOAP Public License v1.3b | gSOAP-1.3b | |
@@ -278,9 +278,9 @@
 | Leptonica License | Leptonica | |
 | GNU Library General Public License v2 only | LGPL-2.0-only | |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | [GNU Lesser General Public License v2.1](https://www.tldrlegal.com/license/gnu-lesser-general-public-license-v2-1-lgpl-2-1) |
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | [GNU Lesser General Public License v3](https://www.tldrlegal.com/license/gnu-lesser-general-public-license-v3-lgpl-3) |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
 | libpng License | Libpng | |

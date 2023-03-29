@@ -17,7 +17,7 @@
 | Afmparse License | Afmparse | |
 | Affero General Public License v1.0 only | AGPL-1.0-only | |
 | Affero General Public License v1.0 or later | AGPL-1.0-or-later | |
-| GNU Affero General Public License v3.0 only | AGPL-3.0-only | |
+| GNU Affero General Public License v3.0 only | AGPL-3.0-only | https://licenses.opensource.jp/AGPL-3.0/AGPL-3.0.html |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | |
 | Aladdin Free Public License | Aladdin | |
 | AMD's plpa_map.c License | AMDPLPA | |
@@ -235,9 +235,9 @@
 | gnuplot License | gnuplot | |
 | GNU General Public License v1.0 only | GPL-1.0-only | |
 | GNU General Public License v1.0 or later | GPL-1.0-or-later | |
-| GNU General Public License v2.0 only | GPL-2.0-only | |
+| GNU General Public License v2.0 only | GPL-2.0-only | https://licenses.opensource.jp/GPL-2.0/GPL-2.0.html |
 | GNU General Public License v2.0 or later | GPL-2.0-or-later | |
-| GNU General Public License v3.0 only | GPL-3.0-only | |
+| GNU General Public License v3.0 only | GPL-3.0-only | https://licenses.opensource.jp/GPL-3.0/GPL-3.0.html |
 | GNU General Public License v3.0 or later | GPL-3.0-or-later | |
 | Graphics Gems License | Graphics-Gems | |
 | gSOAP Public License v1.3b | gSOAP-1.3b | |
@@ -278,9 +278,9 @@
 | Leptonica License | Leptonica | |
 | GNU Library General Public License v2 only | LGPL-2.0-only | |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | https://licenses.opensource.jp/LGPL-2.1/LGPL-2.1.html |
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | https://licenses.opensource.jp/LGPL-3.0/LGPL-3.0.html |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
 | libpng License | Libpng | |

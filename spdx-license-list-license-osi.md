@@ -233,9 +233,9 @@
 | Glulxe License | Glulxe | |
 | Good Luck With That Public License | GLWTPL | |
 | gnuplot License | gnuplot | |
-| GNU General Public License v1.0 only | GPL-1.0-only | |
+| GNU General Public License v1.0 only | GPL-1.0-only | [GNU General Public License, version 1](https://opensource.org/license/gpl-1-0/) |
 | GNU General Public License v1.0 or later | GPL-1.0-or-later | |
-| GNU General Public License v2.0 only | GPL-2.0-only | |
+| GNU General Public License v2.0 only | GPL-2.0-only | [GNU General Public License version 2](https://opensource.org/license/gpl-2-0/) |
 | GNU General Public License v2.0 or later | GPL-2.0-or-later | |
 | GNU General Public License v3.0 only | GPL-3.0-only | [GNU General Public License version 3](https://opensource.org/license/gpl-3-0/) |
 | GNU General Public License v3.0 or later | GPL-3.0-or-later | |
@@ -278,7 +278,7 @@
 | Leptonica License | Leptonica | |
 | GNU Library General Public License v2 only | LGPL-2.0-only | [GNU Library General Public License version 2](https://opensource.org/license/lgpl-2-0/) |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | [GNU Lesser General Public License version 2.1](https://opensource.org/license/lgpl-2-1/) |
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0-only | [GNU Lesser General Public License version 3](https://opensource.org/license/lgpl-3-0/) |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
@@ -513,7 +513,7 @@
 | License Name | Identifier | OSI |
 | ------------ | ---------- | --- |
 | Affero General Public License v1.0 | AGPL-1.0 | |
-| GNU Affero General Public License v3.0 | AGPL-3.0 | |
+| GNU Affero General Public License v3.0 | AGPL-3.0 | [GNU Affero General Public License version 3](https://opensource.org/license/agpl-v3/) |
 | BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | |
 | BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | |
 | bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | |
@@ -530,15 +530,15 @@
 | GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | |
 | GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | |
 | GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | |
-| GNU General Public License v3.0 only | GPL-3.0 | |
+| GNU General Public License v3.0 only | GPL-3.0 | [GNU General Public License version 3](https://opensource.org/license/gpl-3-0/) |
 | GNU General Public License v3.0 or later | GPL-3.0+ | |
 | GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | |
 | GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | |
-| GNU Library General Public License v2 only | LGPL-2.0 | |
+| GNU Library General Public License v2 only | LGPL-2.0 | [GNU Library General Public License version 2](https://opensource.org/license/lgpl-2-0/) |
 | GNU Library General Public License v2 or later | LGPL-2.0+ | |
 | GNU Lesser General Public License v2.1 only | LGPL-2.1 | [GNU Lesser General Public License version 2.1](https://opensource.org/license/lgpl-2-1/) |
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0 | |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0 | [GNU Lesser General Public License version 3](https://opensource.org/license/lgpl-3-0/) |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | |
 | Nunit License | Nunit | |
 | Standard ML of New Jersey License | StandardML-NJ | |
