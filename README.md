@@ -17,7 +17,8 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 ### SPDX License List - License
 
 - [Release Version](spdx-license-list-license-release-version.md)
-- [Size](spdx-license-list-license-size.md)
+- [OSI](spdx-license-list-license-osi.md)
+- [Japanese](spdx-license-list-license-japanese.md)
 
 ### SPDX License Exceptions - Version
 
