@@ -543,3 +543,7 @@
 | Nunit License | Nunit | |
 | Standard ML of New Jersey License | StandardML-NJ | |
 | wxWindows Library License | wxWindows | |
+
+## Reference
+
+- [Choose a License - Appendix](https://choosealicense.com/appendix/)

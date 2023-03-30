@@ -543,3 +543,7 @@
 | Nunit License | Nunit | |
 | Standard ML of New Jersey License | StandardML-NJ | |
 | wxWindows Library License | wxWindows | https://licenses.opensource.jp/WXwindows/WXwindows.html |
+
+## Reference
+
+- [Open Source Group Japan - オープンソースライセンスの日本語参考訳](https://licenses.opensource.jp/)

@@ -543,3 +543,7 @@
 | Nunit License | Nunit | |
 | Standard ML of New Jersey License | StandardML-NJ | |
 | wxWindows Library License | wxWindows | [The wxWindows Library Licence](https://opensource.org/license/wxwindows-php/) |
+
+## Reference
+
+- [Open Source Initiative - OSI Approved Licenses](https://opensource.org/licenses/)
