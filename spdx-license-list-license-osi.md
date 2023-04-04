@@ -1,4 +1,4 @@
-# SPDX License List - License - OSI
+# SPDX License List - License - Link to OSI
 
 | License Name | Identifier | OSI |
 | ------------ | ---------- | --- |
