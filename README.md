@@ -17,10 +17,13 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 ### SPDX License List - License
 
 - [Release Version](spdx-license-list-license-release-version.md)
-- [OSI](spdx-license-list-license-osi.md)
-- [tl;drLegal](spdx-license-list-license-tldrlegal.md)
-- [choosealicense](spdx-license-list-license-choosealicense.md)
-- [Japanese](spdx-license-list-license-japanese.md)
+
+#### External Reference
+
+- [OSI](spdx-license-list-license-link-osi.md)
+- [tl;drLegal](spdx-license-list-license-link-tldrlegal.md)
+- [choosealicense](spdx-license-list-license-link-choosealicense.md)
+- [Japanese](spdx-license-list-license-link-japanese.md)
 
 ### SPDX License Exceptions - Version
 
