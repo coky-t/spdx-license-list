@@ -1,4 +1,4 @@
-# SPDX License List - License - tl;drLegal
+# SPDX License List - License - Link to tl;drLegal
 
 | License Name | Identifier | tl;drLegal |
 | ------------ | ---------- | ---------- |
