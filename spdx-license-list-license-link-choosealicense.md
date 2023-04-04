@@ -1,4 +1,4 @@
-# SPDX License List - License - choosealicense.com
+# SPDX License List - License - Link to choosealicense.com
 
 | License Name | Identifier | choosealicense.com |
 | ------------ | ---------- | ------------------ |
