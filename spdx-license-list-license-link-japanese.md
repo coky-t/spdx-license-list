@@ -1,4 +1,4 @@
-# SPDX License List - License - Japanese
+# SPDX License List - License - Link to Japanese
 
 | License Name | Identifier | Japanese |
 | ------------ | ---------- | -------- |
