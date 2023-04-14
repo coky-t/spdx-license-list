@@ -20,6 +20,7 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 
 #### External Reference
 
+- [GNU](spdx-license-list-license-link-gnu.md)
 - [OSI](spdx-license-list-license-link-osi.md)
 - [tl;drLegal](spdx-license-list-license-link-tldrlegal.md)
 - [choosealicense](spdx-license-list-license-link-choosealicense.md)
