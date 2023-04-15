@@ -84,7 +84,7 @@
 | Caldera License | Caldera | | |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | | |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | | |
-| Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | http://web.archive.org/web/20150121013706/https://www.gnu.org/licenses/license-list.en.html#ccby | http://web.archive.org/web/20150127062041/https://www.gnu.org/licenses/license-list.ja.html#ccby |
+| Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | [Web.Archive](http://web.archive.org/web/20150121013706/https://www.gnu.org/licenses/license-list.en.html#ccby) | [Web.Archive](http://web.archive.org/web/20150127062041/https://www.gnu.org/licenses/license-list.ja.html#ccby) |
 | Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | | |
 | Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | | |
 | Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | | |
@@ -124,7 +124,7 @@
 | Creative Commons Attribution No Derivatives 3.0 Germany | CC-BY-ND-3.0-DE | https://www.gnu.org/licenses/license-list.en.html#CC-BY-ND | https://www.gnu.org/licenses/license-list.ja.html#CC-BY-ND |
 | Creative Commons Attribution No Derivatives 4.0 International | CC-BY-ND-4.0 | https://www.gnu.org/licenses/license-list.en.html#CC-BY-ND | https://www.gnu.org/licenses/license-list.ja.html#CC-BY-ND |
 | Creative Commons Attribution Share Alike 1.0 Generic | CC-BY-SA-1.0 | | |
-| Creative Commons Attribution Share Alike 2.0 Generic | CC-BY-SA-2.0 | http://web.archive.org/web/20150121013706/https://www.gnu.org/licenses/license-list.en.html#ccbysa | http://web.archive.org/web/20150127062041/https://www.gnu.org/licenses/license-list.ja.html#ccbysa |
+| Creative Commons Attribution Share Alike 2.0 Generic | CC-BY-SA-2.0 | [Web.Archive](http://web.archive.org/web/20150121013706/https://www.gnu.org/licenses/license-list.en.html#ccbysa) | [Web.Archive](http://web.archive.org/web/20150127062041/https://www.gnu.org/licenses/license-list.ja.html#ccbysa) |
 | Creative Commons Attribution Share Alike 2.0 England and Wales | CC-BY-SA-2.0-UK | | |
 | Creative Commons Attribution Share Alike 2.1 Japan | CC-BY-SA-2.1-JP | | |
 | Creative Commons Attribution Share Alike 2.5 Generic | CC-BY-SA-2.5 | | |
