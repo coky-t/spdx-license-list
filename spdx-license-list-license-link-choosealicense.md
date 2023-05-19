@@ -510,8 +510,8 @@
 
 ## Deprecated
 
-| License Name | Identifier | XXXX |
-| ------------ | ---------- | ---- |
+| License Name | Identifier | choosealicense.com |
+| ------------ | ---------- | ------------------ |
 | Affero General Public License v1.0 | AGPL-1.0 | |
 | GNU Affero General Public License v3.0 | AGPL-3.0 | [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/) |
 | BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | |
