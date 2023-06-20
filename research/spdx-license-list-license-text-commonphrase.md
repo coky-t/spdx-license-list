@@ -40,6 +40,8 @@
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | |
 | Artistic License 2.0 | Artistic-2.0 | |
+| ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | Redistribution and use |
+| ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | Redistribution and use |
 | Baekmuk License | Baekmuk | Permission to use, copy |
 | Bahyph License | Bahyph | |
 | Barr License | Barr | |
@@ -50,6 +52,7 @@
 | BitTorrent Open Source License v1.1 | BitTorrent-1.1 | |
 | SQLite Blessing | blessing | |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | |
+| Boehm-Demers-Weiser GC License | Boehm-GC | Permission is hereby granted |
 | Borceux license | Borceux | |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | |
 | BSD 1-Clause License | BSD-1-Clause | Redistribution and use |
@@ -131,6 +134,7 @@
 | Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | |
 | Creative Commons Attribution Share Alike 3.0 Austria | CC-BY-SA-3.0-AT | |
 | Creative Commons Attribution Share Alike 3.0 Germany | CC-BY-SA-3.0-DE | |
+| Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | |
@@ -180,6 +184,7 @@
 | Dotseqn License | Dotseqn | |
 | Detection Rule License 1.0 | DRL-1.0 | Permission is hereby granted |
 | DSDP License | DSDP | |
+| David M. Gay dtoa License | dtoa | Permission to use, copy |
 | dvipdfm License | dvipdfm | |
 | Educational Community License v1.0 | ECL-1.0 | Permission to use, copy |
 | Educational Community License v2.0 | ECL-2.0 | |
@@ -259,6 +264,7 @@
 | iMatix Standard Function Library Agreement | iMatix | |
 | Imlib2 License | Imlib2 | Permission is hereby granted |
 | Info-ZIP License | Info-ZIP | Permission is granted |
+| Inner Net License v2.0 | Inner-Net-2.0 | |
 | Intel Open Source License | Intel | Redistribution and use |
 | Intel ACPI Software License Agreement | Intel-ACPI | |
 | Interbase Public License v1.0 | Interbase-1.0 | |
@@ -275,6 +281,7 @@
 | Licence Art Libre 1.2 | LAL-1.2 | |
 | Licence Art Libre 1.3 | LAL-1.3 | |
 | Latex2e License | Latex2e | Permission is granted |
+| Latex2e with translated notice permission | Latex2e-translated-notice | Permission is granted |
 | Leptonica License | Leptonica | |
 | GNU Library General Public License v2 only | LGPL-2.0-only | |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | |
@@ -291,7 +298,10 @@
 | Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | |
 | Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | |
 | Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | |
+| Linux man-pages - 1 paragraph | Linux-man-pages-1-para | Permission is granted |
 | Linux man-pages Copyleft | Linux-man-pages-copyleft | Permission is granted |
+| Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | Permission is granted |
+| Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | Permission is granted |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | Redistribution and use |
 | Common Lisp LOOP License | LOOP | Permission to use, copy |
 | Lucent Public License Version 1.0 | LPL-1.0 | |
@@ -305,6 +315,7 @@
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | |
 | MakeIndex License | MakeIndex | Permission is hereby granted / Permission is granted |
 | Martin Birgmeier License | Martin-Birgmeier | |
+| metamail License | metamail | Permission to use, copy |
 | Minpack License | Minpack | Redistribution and use |
 | The MirOS Licence | MirOS | |
 | MIT License | MIT | Permission is hereby granted |
@@ -313,6 +324,7 @@
 | CMU License | MIT-CMU | Permission to use, copy |
 | enna License | MIT-enna | Permission is hereby granted |
 | feh License | MIT-feh | Permission is hereby granted |
+| MIT Festival Variant | MIT-Festival | Permission is hereby granted |
 | MIT License Modern Variant | MIT-Modern-Variant | Permission is hereby granted |
 | MIT Open Group variant | MIT-open-group | Permission to use, copy |
 | MIT Tom Wu Variant | MIT-Wu | Permission is hereby granted |
@@ -346,6 +358,7 @@
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | |
 | NIST Public Domain Notice | NIST-PD | |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | |
+| NIST Software License | NIST-Software | |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | |
 | Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | |
 | No Limit Public License | NLPL | |
@@ -393,10 +406,12 @@
 | Open LDAP Public License v2.6 | OLDAP-2.6 | Redistribution and use |
 | Open LDAP Public License v2.7 | OLDAP-2.7 | Redistribution and use |
 | Open LDAP Public License v2.8 | OLDAP-2.8 | Redistribution and use |
+| Open Logistics Foundation License Version 1.3 | OLFL-1.3 | |
 | Open Market License | OML | |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | |
 | OpenSSL License | OpenSSL | Redistribution and use |
 | Open Public License v1.0 | OPL-1.0 | |
+| United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | |
 | Open Publication License v1.0 | OPUBL-1.0 | |
 | OSET Public License version 2.1 | OSET-PL-2.1 | |
 | Open Software License 1.0 | OSL-1.0 | Permission is hereby granted |
@@ -438,6 +453,7 @@
 | SGI Free Software License B v1.0 | SGI-B-1.0 | |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | Permission is hereby granted |
+| SGP4 Permission Notice | SGP4 | |
 | Solderpad Hardware License v0.5 | SHL-0.5 | |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | |
 | Simple Public License 2.0 | SimPL-2.0 | |
@@ -462,6 +478,7 @@
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | |
 | TCL/TK License | TCL | |
 | TCP Wrappers License | TCP-wrappers | Redistribution and use |
+| TermReadKey License | TermReadKey | |
 | TMate Open Source License | TMate | Redistribution and use |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | |
 | Trusster Open Source License | TOSL | Redistribution and use |
@@ -475,6 +492,7 @@
 | Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | Permission is hereby granted |
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | Permission is hereby granted |
 | Unicode Terms of Use | Unicode-TOU | |
+| UnixCrypt License | UnixCrypt | Permission to use, copy |
 | The Unlicense | Unlicense | |
 | Universal Permissive License v1.0 | UPL-1.0 | |
 | Vim License | Vim | |
@@ -485,11 +503,14 @@
 | W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | |
 | w3m License | w3m | |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | |
+| Widget Workshop License | Widget-Workshop | Permission to use, copy |
 | Wsuipa License | Wsuipa | |
 | Do What The F*ck You Want To Public License | WTFPL | |
 | X11 License | X11 | Permission is hereby granted |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permission is hereby granted |
+| Xdebug License v 1.03 | Xdebug-1.03 | Redistribution and use |
 | Xerox License | Xerox | |
+| Xfig License | Xfig | |
 | XFree86 License 1.1 | XFree86-1.1 | Permission is hereby granted |
 | xinetd License | xinetd | |
 | xlock License | xlock | Permission to use, copy |

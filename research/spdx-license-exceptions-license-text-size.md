@@ -3,13 +3,16 @@
 | License Name | Identifier | Size (Bytes) |
 | ------------ | ---------- | ------------ |
 | 389 Directory Server Exception | 389-exception | 1931 |
+| Asterisk exception | Asterisk-exception | 332 |
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | 1573 |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | 1818 |
 | Autoconf generic exception | Autoconf-exception-generic | 266 |
+{ Autoconf macro exception | Autoconf-exception-macro | 768 |
 | Bison exception 2.2 | Bison-exception-2.2 | 673 |
 | Bootloader Distribution Exception | Bootloader-exception | 523 |
 | Classpath exception 2.0 | Classpath-exception-2.0 | 919 |
 | CLISP exception 2.0 | CLISP-exception-2.0 | 2698 |
+| cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | 700 |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | 3131 |
 | eCos exception 2.0 | eCos-exception-2.0 | 575 |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | 1344 |
@@ -20,6 +23,7 @@
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | 3390 |
 | GNAT exception | GNAT-exception | 379 |
 | GNU JavaMail exception | gnu-javamail-exception | 341 |
+| GPL-3.0 Interface Exception | GPL-3.0-interface-exception | 1618 |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | 359  |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | 531 |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | 2092 |
@@ -28,8 +32,10 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | 605 |
 | KiCad Libraries Exception | KiCad-libraries-exception | 299 |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | 1033 |
+| libpri OpenH323 exception | libpri-OpenH323-exception | 229 |
 | Libtool Exception | Libtool-exception | 254 |
 | Linux Syscall Note | Linux-syscall-note | 638 |
+| LLGPL Preamble | LLGPL | 3603 |
 | LLVM Exception | LLVM-exception | 919 |
 | LZMA exception | LZMA-exception | 522 |
 | Macros and Inline Functions Exception | mif-exception | 529 |
@@ -48,6 +54,7 @@
 | Swift Exception | Swift-exception | 355 |
 | U-Boot exception 2.0 | u-boot-exception-2.0 | 629 |
 | Universal FOSS Exception, Version 1.0 | Universal-FOSS-exception-1.0 | 3154 |
+| vsftpd OpenSSL exception | vsftpd-openssl-exception | 295 |
 | WxWindows Library Exception 3.1 | WxWindows-exception-3.1 | 1267 |
 | x11vnc OpenSSL Exception | x11vnc-openssl-exception | 591 |
 

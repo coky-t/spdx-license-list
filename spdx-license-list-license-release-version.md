@@ -281,7 +281,7 @@
 | Licence Art Libre 1.2 | LAL-1.2 | 2.4 |
 | Licence Art Libre 1.3 | LAL-1.3 | 2.4 |
 | Latex2e License | Latex2e | 1.20 |
-| Latex2e with translated notice permission | Latex2e with translated notice permission | 3.21 |
+| Latex2e with translated notice permission | Latex2e-translated-notice | 3.21 |
 | Leptonica License | Leptonica | 1.20 |
 | GNU Library General Public License v2 only | LGPL-2.0-only | 3.0 |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | 3.0 |

@@ -3,13 +3,16 @@
 | License Name | Identifier | Common Phrase |
 | ------------ | ---------- | ------------- |
 | 389 Directory Server Exception | 389-exception | In addition, as a special exception |
+| Asterisk exception | Asterisk-exception | In addition |
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | As a special exception |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | an additional permission |
 | Autoconf generic exception | Autoconf-exception-generic | As a special exception |
+{ Autoconf macro exception | Autoconf-exception-macro | As a special exception |
 | Bison exception 2.2 | Bison-exception-2.2 | As a special exception |
 | Bootloader Distribution Exception | Bootloader-exception | In addition to the permissions |
 | Classpath exception 2.0 | Classpath-exception-2.0 | As a special exception |
 | CLISP exception 2.0 | CLISP-exception-2.0 | |
+| cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | In addition, as a special exception |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | |
 | eCos exception 2.0 | eCos-exception-2.0 | As a special exception |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | As a special exception |
@@ -20,6 +23,7 @@
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | an additional permission |
 | GNAT exception | GNAT-exception | As a special exception |
 | GNU JavaMail exception | gnu-javamail-exception | As a special exception |
+| GPL-3.0 Interface Exception | GPL-3.0-interface-exception | As a special exception |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | Additional permission / grant you additional permission |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | Additional permission / grant you additional permission |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | |
@@ -28,8 +32,10 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | In addition, as a special exception |
 | KiCad Libraries Exception | KiCad-libraries-exception | |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | As a special exception |
+| libpri OpenH323 exception | libpri-OpenH323-exception | As a special exception |
 | Libtool Exception | Libtool-exception | As a special exception |
 | Linux Syscall Note | Linux-syscall-note | |
+| LLGPL Preamble | LLGPL | |
 | LLVM Exception | LLVM-exception | As an exception |
 | LZMA exception | LZMA-exception | |
 | Macros and Inline Functions Exception | mif-exception | As a special exception |
@@ -48,6 +54,7 @@
 | Swift Exception | Swift-exception | As an exception |
 | U-Boot exception 2.0 | u-boot-exception-2.0 | |
 | Universal FOSS Exception, Version 1.0 | Universal-FOSS-exception-1.0 | additional permission |
+| vsftpd OpenSSL exception | vsftpd-openssl-exception | |
 | WxWindows Library Exception 3.1 | WxWindows-exception-3.1 | As a special exception |
 | x11vnc OpenSSL Exception | x11vnc-openssl-exception | In addition, as a special exception |
 
