@@ -37,3 +37,4 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 ## Tools
 
 - [Diff with SPDX Licenses](https://coky-t.github.io/js-parts/js.html/Test_StrArrayDiff3_SpdxLicenseText.js.html)
+- [Diff with SPDX Licenses (template)](https://coky-t.github.io/js-parts/js.html/Test_StrArrayDiff3_SpdxLicenseTemplate.js.html)

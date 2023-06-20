@@ -2,6 +2,7 @@
 
 | Version | Date | List | Repo(Tree) | Repo(Release) | Summary |
 | ------- | ---- | ---- | ---------- | ------------- | ------- |
+| 3.21 | 2023-06-18 | [latest](https://spdx.org/licenses/) | [v3.21](https://github.com/spdx/license-list-data/tree/v3.21) | [v3.21](https://github.com/spdx/license-list-data/releases/tag/v3.21) | [v3.21](https://github.com/spdx/license-list-XML/releases/tag/v3.21) |
 | 3.20 | 2023-02-17 | [3.20](https://web.archive.org/web/20230221205641/https://spdx.org/licenses/) | [v3.20](https://github.com/spdx/license-list-data/tree/v3.20) | [v3.20](https://github.com/spdx/license-list-data/releases/tag/v3.20) | [v3.20](https://github.com/spdx/license-list-XML/releases/tag/v3.20) |
 | 3.19 | 2022-11-30 | [3.19](https://web.archive.org/web/20221205135747/https://spdx.org/licenses/) | [v3.19](https://github.com/spdx/license-list-data/tree/v3.19) | [v3.19](https://github.com/spdx/license-list-data/releases/tag/v3.19) | [v3.19](https://github.com/spdx/license-list-XML/releases/tag/v3.19) |
 | 3.18 | 2022-08-12 | [3.18](https://web.archive.org/web/20220815090752/https://spdx.org/licenses/) | [v3.18](https://github.com/spdx/license-list-data/tree/v3.18) | [v3.18](https://github.com/spdx/license-list-data/releases/tag/v3.18) | [v3.18](https://github.com/spdx/license-list-XML/releases/tag/v3.18) |

@@ -40,6 +40,8 @@
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | 1.19 |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | 1.19 |
 | Artistic License 2.0 | Artistic-2.0 | 1.0 |
+| ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | 3.21 |
+| ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | 3.21 |
 | Baekmuk License | Baekmuk | 3.17 |
 | Bahyph License | Bahyph | 1.20 |
 | Barr License | Barr | 1.20 |
@@ -50,6 +52,7 @@
 | BitTorrent Open Source License v1.1 | BitTorrent-1.1 | 1.17 |
 | SQLite Blessing | blessing | 3.6 |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | 3.6 |
+| Boehm-Demers-Weiser GC License | Boehm-GC | 3.21 |
 | Borceux license | Borceux | 1.20 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 3.20 |
 | BSD 1-Clause License | BSD-1-Clause | 3.0 |
@@ -131,6 +134,7 @@
 | Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | 1.0 |
 | Creative Commons Attribution Share Alike 3.0 Austria | CC-BY-SA-3.0-AT | 3.10 |
 | Creative Commons Attribution Share Alike 3.0 Germany | CC-BY-SA-3.0-DE | 3.14 |
+| Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | 3.21 |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | 1.20 |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | 3.6 |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | 1.0 |
@@ -180,6 +184,7 @@
 | Dotseqn License | Dotseqn | 1.20 |
 | Detection Rule License 1.0 | DRL-1.0 | 3.12 |
 | DSDP License | DSDP | 1.20 |
+| David M. Gay dtoa License | dtoa | 3.21 |
 | dvipdfm License | dvipdfm | 1.20 |
 | Educational Community License v1.0 | ECL-1.0 | 1.0 |
 | Educational Community License v2.0 | ECL-2.0 | 1.0 |
@@ -259,6 +264,7 @@
 | iMatix Standard Function Library Agreement | iMatix | 1.20 |
 | Imlib2 License | Imlib2 | 1.17 |
 | Info-ZIP License | Info-ZIP | 2.3 |
+| Inner Net License v2.0 | Inner-Net-2.0 | 3.21 |
 | Intel Open Source License | Intel | 1.17 |
 | Intel ACPI Software License Agreement | Intel-ACPI | 1.20 |
 | Interbase Public License v1.0 | Interbase-1.0 | 2.2 |
@@ -275,6 +281,7 @@
 | Licence Art Libre 1.2 | LAL-1.2 | 2.4 |
 | Licence Art Libre 1.3 | LAL-1.3 | 2.4 |
 | Latex2e License | Latex2e | 1.20 |
+| Latex2e with translated notice permission | Latex2e with translated notice permission | 3.21 |
 | Leptonica License | Leptonica | 1.20 |
 | GNU Library General Public License v2 only | LGPL-2.0-only | 3.0 |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | 3.0 |
@@ -291,7 +298,10 @@
 | Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | 2.4 |
 | Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | 2.4 |
 | Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | 2.4 |
+| Linux man-pages - 1 paragraph | Linux-man-pages-1-para | 3.21 |
 | Linux man-pages Copyleft | Linux-man-pages-copyleft | 3.15 |
+| Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | 3.21 |
+| Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | 3.21 |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | 3.1 |
 | Common Lisp LOOP License | LOOP | 3.20 |
 | Lucent Public License Version 1.0 | LPL-1.0 | 1.14 |
@@ -305,6 +315,7 @@
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | 3.18 |
 | MakeIndex License | MakeIndex | 1.20 |
 | Martin Birgmeier License | Martin-Birgmeier | 3.20 |
+| metamail License | metamail | 3.21 |
 | Minpack License | Minpack | 3.18 |
 | The MirOS Licence | MirOS | 1.0 |
 | MIT License | MIT | 1.0 |
@@ -313,6 +324,7 @@
 | CMU License | MIT-CMU | 1.20 |
 | enna License | MIT-enna | 1.20 |
 | feh License | MIT-feh | 1.20 |
+| MIT Festival Variant | MIT-Festival | 3.21 |
 | MIT License Modern Variant | MIT-Modern-Variant | 3.12 |
 | MIT Open Group variant | MIT-open-group | 3.11 |
 | MIT Tom Wu Variant | MIT-Wu | 3.20 |
@@ -346,6 +358,7 @@
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | 3.18 |
 | NIST Public Domain Notice | NIST-PD | 3.10 |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | 3.10 |
+| NIST Software License | NIST-Software | 3.21 |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | 2.4 |
 | Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | 3.14 |
 | No Limit Public License | NLPL | 1.20 |
@@ -393,10 +406,12 @@
 | Open LDAP Public License v2.6 | OLDAP-2.6 | 1.17 |
 | Open LDAP Public License v2.7 | OLDAP-2.7 | 1.17 |
 | Open LDAP Public License v2.8 | OLDAP-2.8 | 1.0 |
+| Open Logistics Foundation License Version 1.3 | OLFL-1.3 | 3.21 |
 | Open Market License | OML | 1.20 |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | 3.20 |
 | OpenSSL License | OpenSSL | 1.0 |
 | Open Public License v1.0 | OPL-1.0 | 1.17 |
+| United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | 3.21 |
 | Open Publication License v1.0 | OPUBL-1.0 | 3.14 |
 | OSET Public License version 2.1 | OSET-PL-2.1 | 2.4 |
 | Open Software License 1.0 | OSL-1.0 | 1.0 |
@@ -438,6 +453,7 @@
 | SGI Free Software License B v1.0 | SGI-B-1.0 | 1.17 |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | 1.17 |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | 1.17 |
+| SGP4 Permission Notice | SGP4 | 3.21 |
 | Solderpad Hardware License v0.5 | SHL-0.5 | 3.6 |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | 3.6 |
 | Simple Public License 2.0 | SimPL-2.0 | 1.0 |
@@ -462,6 +478,7 @@
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | 3.5 |
 | TCL/TK License | TCL | 1.20 |
 | TCP Wrappers License | TCP-wrappers | 2.6 |
+| TermReadKey License | TermReadKey | 3.21 |
 | TMate Open Source License | TMate | 1.20 |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 1.20 |
 | Trusster Open Source License | TOSL | 1.20 |
@@ -475,6 +492,7 @@
 | Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | 2.6 |
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | 2.6 |
 | Unicode Terms of Use | Unicode-TOU | 1.20 |
+| UnixCrypt License | UnixCrypt | 3.21 |
 | The Unlicense | Unlicense | 1.19 |
 | Universal Permissive License v1.0 | UPL-1.0 | 2.1 |
 | Vim License | Vim | 1.20 |
@@ -485,11 +503,14 @@
 | W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | 2.6 |
 | w3m License | w3m | 3.20 |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | 1.0 |
+| Widget Workshop License | Widget-Workshop | 3.21 |
 | Wsuipa License | Wsuipa | 1.20 |
 | Do What The F*ck You Want To Public License | WTFPL | 1.17 |
 | X11 License | X11 | 1.17 |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 3.16 |
+| Xdebug License v 1.03 | Xdebug-1.03 | 3.21 |
 | Xerox License | Xerox | 1.20 |
+| Xfig License | Xfig | 3.21 |
 | XFree86 License 1.1 | XFree86-1.1 | 1.0 |
 | xinetd License | xinetd | 1.20 |
 | xlock License | xlock | 3.20 |

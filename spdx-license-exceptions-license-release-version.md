@@ -1,15 +1,18 @@
-# SPDX License Exceptions - Release Version
+# SPDX License Exceptions - License - Release Version
 
 | License Name | Identifier | Release |
 | ------------ | ---------- | ------- |
 | 389 Directory Server Exception | 389-exception | 2.1 |
+| Asterisk exception | Asterisk-exception | 3.21 |
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | 2.1 |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | 2.1 |
 | Autoconf generic exception | Autoconf-exception-generic | 3.20 |
+{ Autoconf macro exception | Autoconf-exception-macro | 3.21 |
 | Bison exception 2.2 | Bison-exception-2.2 | 2.1 |
 | Bootloader Distribution Exception | Bootloader-exception | 3.0 |
 | Classpath exception 2.0 | Classpath-exception-2.0 | 2.1 |
 | CLISP exception 2.0 | CLISP-exception-2.0 | 2.1 |
+| cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | 3.21 |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | 2.2 |
 | eCos exception 2.0 | eCos-exception-2.0 | 2.1 |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | 2.2 |
@@ -20,6 +23,7 @@
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | 2.1 |
 | GNAT exception | GNAT-exception | 3.20 |
 | GNU JavaMail exception | gnu-javamail-exception | 2.1 |
+| GPL-3.0 Interface Exception | GPL-3.0-interface-exception | 3.21 |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | 3.8 |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | 3.8 |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | 3.5 |
@@ -28,8 +32,10 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | 2.1 |
 | KiCad Libraries Exception | KiCad-libraries-exception | 3.17 |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | 3.9 |
+| libpri OpenH323 exception | libpri-OpenH323-exception | 3.21 |
 | Libtool Exception | Libtool-exception | 2.1 |
 | Linux Syscall Note | Linux-syscall-note | 3.0 |
+| LLGPL Preamble | LLGPL | 3.21 |
 | LLVM Exception | LLVM-exception | 3.1 |
 | LZMA exception | LZMA-exception | 2.1 |
 | Macros and Inline Functions Exception | mif-exception | 2.1 |
@@ -48,6 +54,7 @@
 | Swift Exception | Swift-exception | 3.6 |
 | U-Boot exception 2.0 | u-boot-exception-2.0 | 2.1 |
 | Universal FOSS Exception, Version 1.0 | Universal-FOSS-exception-1.0 | 3.6 |
+| vsftpd OpenSSL exception | vsftpd-openssl-exception | 3.21 |
 | WxWindows Library Exception 3.1 | WxWindows-exception-3.1 | 2.1 |
 | x11vnc OpenSSL Exception | x11vnc-openssl-exception | 3.19 |
 
