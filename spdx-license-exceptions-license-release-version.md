@@ -7,7 +7,7 @@
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | 2.1 |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | 2.1 |
 | Autoconf generic exception | Autoconf-exception-generic | 3.20 |
-{ Autoconf macro exception | Autoconf-exception-macro | 3.21 |
+| Autoconf macro exception | Autoconf-exception-macro | 3.21 |
 | Bison exception 2.2 | Bison-exception-2.2 | 2.1 |
 | Bootloader Distribution Exception | Bootloader-exception | 3.0 |
 | Classpath exception 2.0 | Classpath-exception-2.0 | 2.1 |

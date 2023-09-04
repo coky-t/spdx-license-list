@@ -7,7 +7,7 @@
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | As a special exception |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | an additional permission |
 | Autoconf generic exception | Autoconf-exception-generic | As a special exception |
-{ Autoconf macro exception | Autoconf-exception-macro | As a special exception |
+| Autoconf macro exception | Autoconf-exception-macro | As a special exception |
 | Bison exception 2.2 | Bison-exception-2.2 | As a special exception |
 | Bootloader Distribution Exception | Bootloader-exception | In addition to the permissions |
 | Classpath exception 2.0 | Classpath-exception-2.0 | As a special exception |
