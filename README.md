@@ -26,6 +26,11 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 - [choosealicense](spdx-license-list-license-link-choosealicense.md)
 - [Japanese](spdx-license-list-license-link-japanese.md)
 
+#### License Type
+
+- [Blue Oak Council](spdx-license-list-license-type-blueoak.md)
+- [tl;drLegal](spdx-license-list-license-type-tldrlegal.md)
+
 ### SPDX License Exceptions - Version
 
 - [Count](spdx-license-exceptions-version-count.md)
