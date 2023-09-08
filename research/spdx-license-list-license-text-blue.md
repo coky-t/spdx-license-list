@@ -30,7 +30,7 @@
 | [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html) | Apache-2.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Apache-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Apache-2.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Apache-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Apache-2.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Apache-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Apache-2.0.html)) |
 | [Adobe Postscript AFM License](https://spdx.org/licenses/APAFML.html) | APAFML | 1.20 | none | N/A | N/A |
 | [Adaptive Public License 1.0](https://spdx.org/licenses/APL-1.0.html) | APL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APL-1.0.html)) |
-| [App::s2p License](https://spdx.org/licenses/App-s2p.html) | App-s2p | 3.16 | none | N/A | N/A |
+| [App::s2p License](https://spdx.org/licenses/App-s2p.html) | App-s2p | 3.16 | none | black | N/A |
 | [Apple Public Source License 1.0](https://spdx.org/licenses/APSL-1.0.html) | APSL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APSL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APSL-1.0.html)) | N/A |
 | [Apple Public Source License 1.1](https://spdx.org/licenses/APSL-1.1.html) | APSL-1.1 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APSL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APSL-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APSL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APSL-1.1.html)) | N/A |
 | [Apple Public Source License 1.2](https://spdx.org/licenses/APSL-1.2.html) | APSL-1.2 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APSL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APSL-1.2.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/APSL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/APSL-1.2.html)) | N/A |
@@ -42,45 +42,45 @@
 | [Artistic License 2.0](https://spdx.org/licenses/Artistic-2.0.html) | Artistic-2.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Artistic-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Artistic-2.0.html)) | N/A |
 | [ASWF Digital Assets License version 1.0](https://spdx.org/licenses/ASWF-Digital-Assets-1.0.html) | ASWF-Digital-Assets-1.0 | 3.21 | none | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/ASWF-Digital-Assets-1.0.html)) | N/A |
 | [ASWF Digital Assets License 1.1](https://spdx.org/licenses/ASWF-Digital-Assets-1.1.html) | ASWF-Digital-Assets-1.1 | 3.21 | none | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/ASWF-Digital-Assets-1.1.html)) | N/A |
-| Baekmuk License | Baekmuk | 3.17 |
-| Bahyph License | Bahyph | 1.20 |
-| Barr License | Barr | 1.20 |
-| Beerware License | Beerware | 1.20 |
-| Bitstream Charter Font License | Bitstream-Charter | 3.20 |
-| Bitstream Vera Font License | Bitstream-Vera | 3.17 |
-| BitTorrent Open Source License v1.0 | BitTorrent-1.0 | 1.17 |
-| BitTorrent Open Source License v1.1 | BitTorrent-1.1 | 1.17 |
-| SQLite Blessing | blessing | 3.6 |
-| Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | 3.6 |
-| Boehm-Demers-Weiser GC License | Boehm-GC | 3.21 |
-| Borceux license | Borceux | 1.20 |
-| Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 3.20 |
-| BSD 1-Clause License | BSD-1-Clause | 3.0 |
-| BSD 2-Clause "Simplified" License | BSD-2-Clause | 1.0 |
-| BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 3.0 |
-| BSD 2-Clause with views sentence | BSD-2-Clause-Views | 3.10 |
-| BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1.0 |
-| BSD with attribution | BSD-3-Clause-Attribution | 1.20 |
-| BSD 3-Clause Clear License | BSD-3-Clause-Clear | 1.17 |
-| Lawrence Berkeley National Labs BSD variant license | BSD-3-Clause-LBNL | 1.20 |
-| BSD 3-Clause Modification | BSD-3-Clause-Modification | 3.12 |
-| BSD 3-Clause No Military License | BSD-3-Clause-No-Military-License | 2.5 |
-| BSD 3-Clause No Nuclear License | BSD-3-Clause-No-Nuclear-License | 3.13 |
-| BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | 2.5 |
-| BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | 2.5 |
-| BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | 3.6 |
-| BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | 1.0 |
-| BSD 4 Clause Shortened | BSD-4-Clause-Shortened | 3.12 |
-| BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | 1.15 |
-| BSD 4.3 RENO License | BSD-4.3RENO | 3.20 |
-| BSD 4.3 TAHOE License | BSD-4.3TAHOE | 3.20 |
-| BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | 3.20 |
-| BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | 3.20 |
-| BSD Protection License | BSD-Protection | 1.20 |
-| BSD Source Code Attribution | BSD-Source-Code | 2.5 |
-| Boost Software License 1.0 | BSL-1.0 | 1.0 |
-| Business Source License 1.1 | BUSL-1.1 | 3.11 |
-| bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | 1.20 |
+| [Baekmuk License](https://spdx.org/licenses/Baekmuk.html) | Baekmuk | 3.17 | none | N/A | N/A |
+| [Bahyph License](https://spdx.org/licenses/Bahyph.html) | Bahyph | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Bahyph.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Bahyph.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Bahyph.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Bahyph.html)) |
+| [Barr License](https://spdx.org/licenses/Barr.html) | Barr | 1.20 | none | N/A | N/A |
+| [Beerware License](https://spdx.org/licenses/Beerware.html) | Beerware | 1.20 | none | black | N/A |
+| [Bitstream Charter Font License](https://spdx.org/licenses/Bitstream-Charter.html) | Bitstream-Charter | 3.20 | blue (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/Bitstream-Charter.html)) | N/A | N/A |
+| [Bitstream Vera Font License](https://spdx.org/licenses/Bitstream-Vera.html) | Bitstream-Vera | 3.17 | none | N/A | N/A |
+| [BitTorrent Open Source License v1.0](https://spdx.org/licenses/BitTorrent-1.0.html) | BitTorrent-1.0 | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BitTorrent-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BitTorrent-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BitTorrent-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BitTorrent-1.0.html)) | N/A |
+| [BitTorrent Open Source License v1.1](https://spdx.org/licenses/BitTorrent-1.1.html) | BitTorrent-1.1 | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BitTorrent-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BitTorrent-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BitTorrent-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BitTorrent-1.1.html)) | N/A |
+| [SQLite Blessing](https://spdx.org/licenses/blessing.html) | blessing | 3.6 | none | N/A | N/A |
+| [Blue Oak Model License 1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html) | BlueOak-1.0.0 | 3.6 | blue (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/BlueOak-1.0.0.html)) | blue (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/BlueOak-1.0.0.html)) | N/A |
+| [Boehm-Demers-Weiser GC License](https://spdx.org/licenses/Boehm-GC.html) | Boehm-GC | 3.21 | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/Boehm-GC.html)) | N/A | N/A |
+| [Borceux license](https://spdx.org/licenses/Borceux.html) | Borceux | 1.20 | none | N/A | N/A |
+| [Brian Gladman 3-Clause License](https://spdx.org/licenses/Brian-Gladman-3-Clause.html) | Brian-Gladman-3-Clause | 3.20 | none | black | N/A |
+| [BSD 1-Clause License](https://spdx.org/licenses/BSD-1-Clause.html) | BSD-1-Clause | 3.0 | none | N/A | N/A |
+| [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html) | BSD-2-Clause | 1.0 | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/BSD-2-Clause.html)), black (until [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/BSD-2-Clause.html)) |
+| [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) | BSD-2-Clause-Patent | 3.0 | none | N/A | N/A |
+| [BSD 2-Clause with views sentence](https://spdx.org/licenses/BSD-2-Clause-Views.html) | BSD-2-Clause-Views | 3.10 | none | N/A | N/A |
+| [BSD 3-Clause "New" or "Revised" License](https://spdx.org/licenses/BSD-3-Clause.html) | BSD-3-Clause | 1.0 | none | N/A | N/A |
+| [BSD with attribution](https://spdx.org/licenses/BSD-3-Clause-Attribution.html) | BSD-3-Clause-Attribution | 1.20 | none | N/A | N/A |
+| [BSD 3-Clause Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html) | BSD-3-Clause-Clear | 1.17 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-3-Clause-Clear.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-3-Clause-Clear.html)) | N/A |
+| [Lawrence Berkeley National Labs BSD variant license](https://spdx.org/licenses/BSD-3-Clause-LBNL.html) | BSD-3-Clause-LBNL | 1.20 | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/BSD-3-Clause-LBNL.html)), black (until [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/BSD-3-Clause-LBNL.html)) | N/A | N/A |
+| [BSD 3-Clause Modification](https://spdx.org/licenses/BSD-3-Clause-Modification.html) | BSD-3-Clause-Modification | 3.12 | none | N/A | N/A |
+| [BSD 3-Clause No Military License](https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html) | BSD-3-Clause-No-Military-License | 3.13 | none | N/A | N/A |
+| [BSD 3-Clause No Nuclear License](https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.html) | BSD-3-Clause-No-Nuclear-License | 2.5 | none | N/A | N/A |
+| [BSD 3-Clause No Nuclear License 2014](https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014.html) | BSD-3-Clause-No-Nuclear-License-2014 | 2.5 | none | N/A | N/A |
+| [BSD 3-Clause No Nuclear Warranty](https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html) | BSD-3-Clause-No-Nuclear-Warranty | 2.5 | none | N/A | N/A |
+| [BSD 3-Clause Open MPI variant](https://spdx.org/licenses/BSD-3-Clause-Open-MPI.html) | BSD-3-Clause-Open-MPI | 3.6 | none | N/A | N/A |
+| [BSD 4-Clause "Original" or "Old" License](https://spdx.org/licenses/BSD-4-Clause.html) | BSD-4-Clause | 1.0 | none | N/A | N/A |
+| [BSD 4 Clause Shortened](https://spdx.org/licenses/BSD-4-Clause-Shortened.html) | BSD-4-Clause-Shortened | 3.12 | none | blue (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/BSD-4-Clause-Shortened.html)) | N/A |
+| [BSD-4-Clause (University of California-Specific)](https://spdx.org/licenses/BSD-4-Clause-UC.html) | BSD-4-Clause-UC | 1.15 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-4-Clause-UC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-4-Clause-UC.html)) |
+| [BSD 4.3 RENO License](https://spdx.org/licenses/BSD-4.3RENO.html) | BSD-4.3RENO | 3.20 | none | N/A | N/A |
+| [BSD 4.3 TAHOE License](https://spdx.org/licenses/BSD-4.3TAHOE.html) | BSD-4.3TAHOE | 3.20 | none | N/A | N/A |
+| [BSD Advertising Acknowledgement License](https://spdx.org/licenses/BSD-Advertising-Acknowledgement.html) | BSD-Advertising-Acknowledgement | 3.20 | none | N/A | N/A |
+| [BSD with Attribution and HPND disclaimer](https://spdx.org/licenses/BSD-Attribution-HPND-disclaimer.html) | BSD-Attribution-HPND-disclaimer | 3.20 | none | N/A | N/A |
+| [BSD Protection License](https://spdx.org/licenses/BSD-Protection.html) | BSD-Protection | 1.20 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-Protection.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-Protection.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-Protection.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-Protection.html)) | N/A |
+| [BSD Source Code Attribution](https://spdx.org/licenses/BSD-Source-Code.html) | BSD-Source-Code | 2.5 | none | N/A | N/A |
+| [Boost Software License 1.0](https://spdx.org/licenses/BSL-1.0.html) | BSL-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSL-1.0.html)) | N/A |
+| [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html) | BUSL-1.1 | 3.11 | none | blue (since [3.11](https://github.com/spdx/license-list-data/blob/v3.11/html/BUSL-1.1.html)) | N/A |
+| [bzip2 and libbzip2 License v1.0.6](https://spdx.org/licenses/bzip2-1.0.6.html) | bzip2-1.0.6 | 1.20 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/bzip2-1.0.6.html)), black (until [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/bzip2-1.0.6.html)) | N/A | N/A |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | 3.12 |
 | Cryptographic Autonomy License 1.0 | CAL-1.0 | 3.9 |
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | 3.9 |
