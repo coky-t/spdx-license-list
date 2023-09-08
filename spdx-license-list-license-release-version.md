@@ -64,8 +64,8 @@
 | BSD 3-Clause Clear License | BSD-3-Clause-Clear | 1.17 |
 | Lawrence Berkeley National Labs BSD variant license | BSD-3-Clause-LBNL | 1.20 |
 | BSD 3-Clause Modification | BSD-3-Clause-Modification | 3.12 |
-| BSD 3-Clause No Military License | BSD-3-Clause-No-Military-License | 2.5 |
-| BSD 3-Clause No Nuclear License | BSD-3-Clause-No-Nuclear-License | 3.13 |
+| BSD 3-Clause No Military License | BSD-3-Clause-No-Military-License | 3.13 |
+| BSD 3-Clause No Nuclear License | BSD-3-Clause-No-Nuclear-License | 2.5 |
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | 2.5 |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | 2.5 |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | 3.6 |
