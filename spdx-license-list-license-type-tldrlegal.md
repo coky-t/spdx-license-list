@@ -2,7 +2,7 @@
 
 | License Name | Identifier | Tags in tl:drLegal |
 | ------------ | ---------- | ------------------ |
-| BSD Zero Clause License | 0BSD | |
+| BSD Zero Clause License | 0BSD | Permissive |
 | Attribution Assurance License | AAL | |
 | Abstyles License | Abstyles | |
 | AdaCore Doc License | AdaCore-doc | |
@@ -27,7 +27,7 @@
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | |
 | Apache License 1.0 | Apache-1.0 | |
 | Apache License 1.1 | Apache-1.1 | |
-| Apache License 2.0 | Apache-2.0 | |
+| Apache License 2.0 | Apache-2.0 | Permissive |
 | Adobe Postscript AFM License | APAFML | |
 | Adaptive Public License 1.0 | APL-1.0 | Weak Copyleft |
 | App::s2p License | App-s2p | |
@@ -56,10 +56,10 @@
 | Borceux license | Borceux | |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | |
 | BSD 1-Clause License | BSD-1-Clause | |
-| BSD 2-Clause "Simplified" License | BSD-2-Clause | |
+| BSD 2-Clause "Simplified" License | BSD-2-Clause | Permissive |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | |
-| BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | |
+| BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Permissive |
 | BSD with attribution | BSD-3-Clause-Attribution | |
 | BSD 3-Clause Clear License | BSD-3-Clause-Clear | |
 | Lawrence Berkeley National Labs BSD variant license | BSD-3-Clause-LBNL | |
@@ -78,7 +78,7 @@
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | |
 | BSD Protection License | BSD-Protection | |
 | BSD Source Code Attribution | BSD-Source-Code | |
-| Boost Software License 1.0 | BSL-1.0 | |
+| Boost Software License 1.0 | BSL-1.0 | Permissive |
 | Business Source License 1.1 | BUSL-1.1 | |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
@@ -255,7 +255,7 @@
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | |
 | HTML Tidy License | HTMLTIDY | |
-| IBM PowerPC Initialization and Boot Software | IBM-pibs | |
+| IBM PowerPC Initialization and Boot Software | IBM-pibs | Permissive |
 | ICU License | ICU | |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
 | Independent JPEG Group License | IJG | |
@@ -270,12 +270,12 @@
 | Interbase Public License v1.0 | Interbase-1.0 | |
 | IPA Font License | IPA | |
 | IBM Public License v1.0 | IPL-1.0 | |
-| ISC License | ISC | |
+| ISC License | ISC | Permissive |
 | Jam License | Jam | |
 | JasPer License | JasPer-2.0 | |
 | JPL Image Use Policy | JPL-image | |
 | Japan Network Information Center License | JPNIC | |
-| JSON License | JSON | |
+| JSON License | JSON | Permissive |
 | Kazlib License | Kazlib | |
 | Knuth CTAN License | Knuth-CTAN | |
 | Licence Art Libre 1.2 | LAL-1.2 | |
@@ -318,7 +318,7 @@
 | metamail License | metamail | |
 | Minpack License | Minpack | |
 | The MirOS Licence | MirOS | |
-| MIT License | MIT | |
+| MIT License | MIT | Permissive |
 | MIT No Attribution | MIT-0 | |
 | Enlightenment License (e16) | MIT-advertising | |
 | CMU License | MIT-CMU | |
@@ -350,7 +350,7 @@
 | Naumen Public License | Naumen | |
 | Net Boolean Public License v1 | NBPL-1.0 | |
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
-| University of Illinois/NCSA Open Source License | NCSA | |
+| University of Illinois/NCSA Open Source License | NCSA | Permissive |
 | Net-SNMP License | Net-SNMP | |
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | |
@@ -494,7 +494,7 @@
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | |
 | The Unlicense | Unlicense | |
-| Universal Permissive License v1.0 | UPL-1.0 | |
+| Universal Permissive License v1.0 | UPL-1.0 | Permissive |
 | Vim License | Vim | |
 | VOSTROM Public License for Open Source | VOSTROM | |
 | Vovida Software License v1.0 | VSL-1.0 | |
@@ -509,7 +509,7 @@
 | X11 License | X11 | |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | |
 | Xdebug License v 1.03 | Xdebug-1.03 | |
-| Xerox License | Xerox | |
+| Xerox License | Xerox | Permissive |
 | Xfig License | Xfig | |
 | XFree86 License 1.1 | XFree86-1.1 | |
 | xinetd License | xinetd | |
@@ -535,7 +535,7 @@
 | ------------ | ---------- | ------------------ |
 | Affero General Public License v1.0 | AGPL-1.0 | |
 | GNU Affero General Public License v3.0 | AGPL-3.0 | Copyleft |
-| BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | |
+| BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | Permissive |
 | BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | |
 | bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | |
 | eCos license version 2.0 | eCos-2.0 | |
