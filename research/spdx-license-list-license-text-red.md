@@ -519,15 +519,15 @@
 | XSkat License | XSkat | 1.20 |
 | Yahoo! Public License v1.0 | YPL-1.0 | 1.15 |
 | Yahoo! Public License v1.1 | YPL-1.1 | 1.0 |
-| Zed License | Zed | 1.20 |
-| Zend License v2.0 | Zend-2.0 | 1.20 |
-| Zimbra Public License v1.3 | Zimbra-1.3 | 1.0 |
-| Zimbra Public License v1.4 | Zimbra-1.4 | 2.0rc2 |
-| zlib License | Zlib | 1.0 |
-| zlib/libpng License with Acknowledgement | zlib-acknowledgement | 1.20 |
-| Zope Public License 1.1 | ZPL-1.1 | 1.0 |
-| Zope Public License 2.0 | ZPL-2.0 | 1.0 |
-| Zope Public License 2.1 | ZPL-2.1 | 1.0 |
+| [Zed License](https://spdx.org/licenses/Zed.html) | Zed | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Zed.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Zed.html)) |
+| [Zend License v2.0](https://spdx.org/licenses/Zend-2.0.html) | Zend-2.0 | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zend-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zend-2.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Zend-2.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Zend-2.0.html)) |
+| [Zimbra Public License v1.3](https://spdx.org/licenses/Zimbra-1.3.html) | Zimbra-1.3 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zimbra-1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zimbra-1.3.html)) | N/A |
+| [Zimbra Public License v1.4](https://spdx.org/licenses/Zimbra-1.4.html) | Zimbra-1.4 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zimbra-1.4.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zimbra-1.4.html)) | N/A |
+| [zlib License](https://spdx.org/licenses/Zlib.html) | Zlib | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zlib.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zlib.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zlib.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zlib.html)) |
+| [zlib/libpng License with Acknowledgement](https://spdx.org/licenses/zlib-acknowledgement.html) | zlib-acknowledgement | 1.20 | red (since [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/zlib-acknowledgement.html)), black (until [3.14](https://github.com/spdx/license-list-data/blob/v3.14/html/zlib-acknowledgement.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/zlib-acknowledgement.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/zlib-acknowledgement.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/zlib-acknowledgement.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/zlib-acknowledgement.html)) |
+| [Zope Public License 1.1](https://spdx.org/licenses/ZPL-1.1.html) | ZPL-1.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ZPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ZPL-1.1.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/ZPL-1.1.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/ZPL-1.1.html)) |
+| [Zope Public License 2.0](https://spdx.org/licenses/ZPL-2.0.html) | ZPL-2.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ZPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ZPL-2.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/ZPL-2.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/ZPL-2.0.html)) |
+| [Zope Public License 2.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ZPL-2.1.html) | ZPL-2.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ZPL-2.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ZPL-2.1.html)) | N/A |
 
 ## Deprecated
 
