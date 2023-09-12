@@ -81,12 +81,12 @@
 | [Boost Software License 1.0](https://spdx.org/licenses/BSL-1.0.html) | BSL-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSL-1.0.html)) | N/A |
 | [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html) | BUSL-1.1 | 3.11 | none | blue (since [3.11](https://github.com/spdx/license-list-data/blob/v3.11/html/BUSL-1.1.html)) | N/A |
 | [bzip2 and libbzip2 License v1.0.6](https://spdx.org/licenses/bzip2-1.0.6.html) | bzip2-1.0.6 | 1.20 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/bzip2-1.0.6.html)), black (until [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/bzip2-1.0.6.html)) | N/A | N/A |
-| Computational Use of Data Agreement v1.0 | C-UDA-1.0 | 3.12 |
-| Cryptographic Autonomy License 1.0 | CAL-1.0 | 3.9 |
-| Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | 3.9 |
-| Caldera License | Caldera | 1.20 |
-| Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | 1.0 |
-| Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | 1.0 |
+| [Computational Use of Data Agreement v1.0](https://spdx.org/licenses/C-UDA-1.0.html) | C-UDA-1.0 | 3.12 | none | blue (since [3.12](https://spdx.org/licenses/C-UDA-1.0.html)) | N/A |
+| [Cryptographic Autonomy License 1.0](https://spdx.org/licenses/CAL-1.0.html) | CAL-1.0 | 3.9 | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CAL-1.0.html)) | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CAL-1.0.html)) | N/A |
+| [Cryptographic Autonomy License 1.0 (Combined Work Exception)](https://spdx.org/licenses/CAL-1.0-Combined-Work-Exception.html) | CAL-1.0-Combined-Work-Exception | 3.9 | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CAL-1.0-Combined-Work-Exception.html)) | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CAL-1.0-Combined-Work-Exception.html)) | N/A |
+| [Caldera License](https://spdx.org/licenses/Caldera.html) | Caldera | 1.20 | none | N/A | N/A |
+| [Computer Associates Trusted Open Source License 1.1](https://spdx.org/licenses/CATOSL-1.1.html) | CATOSL-1.1 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CATOSL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CATOSL-1.1.html)) | N/A |
+| [Creative Commons Attribution 1.0 Generic](https://spdx.org/licenses/CC-BY-1.0.html) | CC-BY-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CC-BY-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CC-BY-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CC-BY-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CC-BY-1.0.html)) | N/A |
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | 1.0 |
 | Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | 1.0 |
 | Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | 3.14 |
@@ -270,7 +270,7 @@
 | Interbase Public License v1.0 | Interbase-1.0 | 2.2 |
 | IPA Font License | IPA | 1.0 |
 | IBM Public License v1.0 | IPL-1.0 | 1.0 |
-| ISC License | ISC | 1.0 |
+| [ISC License](https://spdx.org/licenses/ISC.html) | ISC | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ISC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ISC.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ISC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ISC.html)) | N/A |
 | Jam License | Jam | 3.16 |
 | JasPer License | JasPer-2.0 | 1.20 |
 | JPL Image Use Policy | JPL-image | 3.20 |
@@ -428,7 +428,7 @@
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | 3.9 |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | 3.9 |
 | PostgreSQL License | PostgreSQL | 1.0 |
-| Python Software Foundation License 2.0 | PSF-2.0 | 3.8 |
+| [Python Software Foundation License 2.0](https://spdx.org/licenses/PSF-2.0.html) | PSF-2.0 | 3.8 | none | blue (since [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/PSF-2.0.html)) | N/A |
 | psfrag License | psfrag | 1.20 |
 | psutils License | psutils | 1.20 |
 | Python License 2.0 | Python-2.0 | 1.0 |
@@ -506,7 +506,7 @@
 | Widget Workshop License | Widget-Workshop | 3.21 |
 | Wsuipa License | Wsuipa | 1.20 |
 | Do What The F*ck You Want To Public License | WTFPL | 1.17 |
-| X11 License | X11 | 1.17 |
+| [X11 License](https://spdx.org/licenses/X11.html) | X11 | 1.17 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/X11.html)), black (until [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/X11.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/X11.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/X11.html)) | N/A |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 3.16 |
 | Xdebug License v 1.03 | Xdebug-1.03 | 3.21 |
 | Xerox License | Xerox | 1.20 |
