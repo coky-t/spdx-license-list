@@ -517,8 +517,8 @@
 | X.Net License | Xnet | 1.0 |
 | XPP License | xpp | 1.20 |
 | XSkat License | XSkat | 1.20 |
-| Yahoo! Public License v1.0 | YPL-1.0 | 1.15 |
-| Yahoo! Public License v1.1 | YPL-1.1 | 1.0 |
+| [Yahoo! Public License v1.0](https://spdx.org/licenses/YPL-1.0.html) | YPL-1.0 | 1.15 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/YPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/YPL-1.0.html)) | N/A |
+| [Yahoo! Public License v1.1](https://spdx.org/licenses/YPL-1.1.html) | YPL-1.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/YPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/YPL-1.1.html)) | N/A |
 | [Zed License](https://spdx.org/licenses/Zed.html) | Zed | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Zed.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Zed.html)) |
 | [Zend License v2.0](https://spdx.org/licenses/Zend-2.0.html) | Zend-2.0 | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zend-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zend-2.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Zend-2.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Zend-2.0.html)) |
 | [Zimbra Public License v1.3](https://spdx.org/licenses/Zimbra-1.3.html) | Zimbra-1.3 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Zimbra-1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Zimbra-1.3.html)) | N/A |
