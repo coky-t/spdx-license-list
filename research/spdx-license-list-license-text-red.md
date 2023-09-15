@@ -507,16 +507,16 @@
 | Wsuipa License | Wsuipa | 1.20 |
 | Do What The F*ck You Want To Public License | WTFPL | 1.17 |
 | [X11 License](https://spdx.org/licenses/X11.html) | X11 | 1.17 | red (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/X11.html)), black (until [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/X11.html)) | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/X11.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/X11.html)) |
-| X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 3.16 |
-| Xdebug License v 1.03 | Xdebug-1.03 | 3.21 |
-| Xerox License | Xerox | 1.20 |
-| Xfig License | Xfig | 3.21 |
-| XFree86 License 1.1 | XFree86-1.1 | 1.0 |
-| xinetd License | xinetd | 1.20 |
-| xlock License | xlock | 3.20 |
-| X.Net License | Xnet | 1.0 |
-| XPP License | xpp | 1.20 |
-| XSkat License | XSkat | 1.20 |
+| [X11 License Distribution Modification Variant](https://spdx.org/licenses/X11-distribute-modifications-variant.html) | X11-distribute-modifications-variant | 3.16 | none | N/A | red (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/X11-distribute-modifications-variant.html)) |
+| [Xdebug License v 1.03](https://spdx.org/licenses/Xdebug-1.03.html) | Xdebug-1.03 | 3.21 | none | red (since [3.21](https://spdx.org/licenses/Xdebug-1.03.html)) | red (since [3.21](https://spdx.org/licenses/Xdebug-1.03.html)) |
+| [Xerox License](https://spdx.org/licenses/Xerox.html) | Xerox | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Xerox.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Xerox.html)) |
+| [Xfig License](https://spdx.org/licenses/Xfig.html) | Xfig | 3.21 | none | N/A | N/A |
+| [XFree86 License 1.1](https://spdx.org/licenses/XFree86-1.1.html) | XFree86-1.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/XFree86-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/XFree86-1.1.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/XFree86-1.1.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/XFree86-1.1.html)) |
+| [xinetd License](https://spdx.org/licenses/xinetd.html) | xinetd | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/xinetd.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/xinetd.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/xinetd.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/xinetd.html)) |
+| [xlock License](https://spdx.org/licenses/xlock.html) | xlock | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/xlock.html)) |
+| [X.Net License](https://spdx.org/licenses/Xnet.html) | Xnet | 1.0 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Xnet.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Xnet.html)) |
+| [XPP License](https://spdx.org/licenses/xpp.html) | xpp | 1.20 | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/xpp.html)), black (until [3.19](https://github.com/spdx/license-list-data/blob/v3.19/html/xpp.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/xpp.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/xpp.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/xpp.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/xpp.html)) |
+| [XSkat License](https://spdx.org/licenses/XSkat.html) | XSkat | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/XSkat.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/XSkat.html)) | N/A |
 | [Yahoo! Public License v1.0](https://spdx.org/licenses/YPL-1.0.html) | YPL-1.0 | 1.15 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/YPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/YPL-1.0.html)) | N/A |
 | [Yahoo! Public License v1.1](https://spdx.org/licenses/YPL-1.1.html) | YPL-1.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/YPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/YPL-1.1.html)) | N/A |
 | [Zed License](https://spdx.org/licenses/Zed.html) | Zed | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Zed.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Zed.html)) |
