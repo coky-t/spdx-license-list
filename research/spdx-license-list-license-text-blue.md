@@ -495,9 +495,9 @@
 | UnixCrypt License | UnixCrypt | 3.21 |
 | The Unlicense | Unlicense | 1.19 |
 | Universal Permissive License v1.0 | UPL-1.0 | 2.1 |
-| Vim License | Vim | 1.20 |
-| VOSTROM Public License for Open Source | VOSTROM | 1.20 |
-| Vovida Software License v1.0 | VSL-1.0 | 1.0 |
+| [Vim License](https://spdx.org/licenses/Vim.html) | Vim | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Vim.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Vim.html)) | N/A |
+| [VOSTROM Public License for Open Source](https://spdx.org/licenses/VOSTROM.html) | VOSTROM | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/VOSTROM.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/VOSTROM.html)) | N/A |
+| [Vovida Software License v1.0](https://spdx.org/licenses/VSL-1.0.html) | VSL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/VSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/VSL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/VSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/VSL-1.0.html)) | N/A |
 | [W3C Software Notice and License (2002-12-31)](https://spdx.org/licenses/W3C.html) | W3C | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/W3C.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/W3C.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/W3C.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/W3C.html)) | N/A |
 | [W3C Software Notice and License (1998-07-20)](https://spdx.org/licenses/W3C-19980720.html) | W3C-19980720 | 2.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/W3C-19980720.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/W3C-19980720.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/W3C-19980720.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/W3C-19980720.html)) | N/A |
 | [W3C Software Notice and Document License (2015-05-13)](https://spdx.org/licenses/W3C-20150513.html) | W3C-20150513 | 2.6 | none | N/A | N/A |
