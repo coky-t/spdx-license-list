@@ -487,14 +487,14 @@
 | Text-Tabs+Wrap License | TTWL | 3.20 |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | 3.2 |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | 3.2 |
-| UCAR License | UCAR | 3.20 |
-| Upstream Compatibility License v1.0 | UCL-1.0 | 3.7 |
-| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | 2.6 |
-| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | 2.6 |
-| Unicode Terms of Use | Unicode-TOU | 1.20 |
-| UnixCrypt License | UnixCrypt | 3.21 |
-| The Unlicense | Unlicense | 1.19 |
-| Universal Permissive License v1.0 | UPL-1.0 | 2.1 |
+| [UCAR License](https://spdx.org/licenses/UCAR.html) | UCAR | 3.20 | none | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/UCAR.html)) | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/UCAR.html)) |
+| [Upstream Compatibility License v1.0](https://spdx.org/licenses/UCL-1.0.html) | UCL-1.0 | 3.7 | none | red (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/UCL-1.0.html)) | N/A |
+| [Unicode License Agreement - Data Files and Software (2015)](https://spdx.org/licenses/Unicode-DFS-2015.html) | Unicode-DFS-2015 | 2.6 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Unicode-DFS-2015.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Unicode-DFS-2015.html)) | black |
+| [Unicode License Agreement - Data Files and Software (2016)](https://spdx.org/licenses/Unicode-DFS-2016.html) | Unicode-DFS-2016 | 2.6 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Unicode-DFS-2016.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Unicode-DFS-2016.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Unicode-DFS-2016.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Unicode-DFS-2016.html)) |
+| [Unicode Terms of Use](https://spdx.org/licenses/Unicode-TOU.html) | Unicode-TOU | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Unicode-TOU.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Unicode-TOU.html)) | black |
+| [UnixCrypt License](https://spdx.org/licenses/UnixCrypt.html) | UnixCrypt | 3.21 | none | N/A | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/UnixCrypt.html)) |
+| [The Unlicense](https://spdx.org/licenses/Unlicense.html) | Unlicense | 1.19 | none | N/A | N/A |
+| [Universal Permissive License v1.0](https://spdx.org/licenses/UPL-1.0.html) | UPL-1.0 | 2.1 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/UPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/UPL-1.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/UPL-1.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/UPL-1.0.html)) |
 | [Vim License](https://spdx.org/licenses/Vim.html) | Vim | 1.20 | red (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/Vim.html)), black (until [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Vim.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Vim.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Vim.html)) | N/A |
 | [VOSTROM Public License for Open Source](https://spdx.org/licenses/VOSTROM.html) | VOSTROM | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/VOSTROM.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/VOSTROM.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/VOSTROM.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/VOSTROM.html)) |
 | [Vovida Software License v1.0](https://spdx.org/licenses/VSL-1.0.html) | VSL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/VSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/VSL-1.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/VSL-1.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/VSL-1.0.html)) |
