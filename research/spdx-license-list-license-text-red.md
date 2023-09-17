@@ -475,18 +475,18 @@
 | SunPro License | SunPro | 3.20 |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | 1.20 |
 | Symlinks License | Symlinks | 3.20 |
-| TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | 3.5 |
-| TCL/TK License | TCL | 1.20 |
-| TCP Wrappers License | TCP-wrappers | 2.6 |
-| TermReadKey License | TermReadKey | 3.21 |
-| TMate Open Source License | TMate | 1.20 |
-| TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 1.20 |
-| Trusster Open Source License | TOSL | 1.20 |
-| Time::ParseDate License | TPDL | 3.20 |
-| THOR Public License 1.0 | TPL-1.0 | 3.20 |
-| Text-Tabs+Wrap License | TTWL | 3.20 |
-| Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | 3.2 |
-| Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | 3.2 |
+| [TAPR Open Hardware License v1.0](https://spdx.org/licenses/TAPR-OHL-1.0.html) | TAPR-OHL-1.0 | 3.5 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TAPR-OHL-1.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TAPR-OHL-1.0.html)) |
+| [TCL/TK License](https://spdx.org/licenses/TCL.html) | TCL | 1.20 | none | N/A | red2 (until [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TCL.html)), red1 (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TCL.html), until [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/TCL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/TCL.html)) |
+| [TCP Wrappers License](https://spdx.org/licenses/TCP-wrappers.html) | TCP-wrappers | 2.6 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TCP-wrappers.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TCP-wrappers.html)) |
+| [TermReadKey License](https://spdx.org/licenses/TermReadKey.html) | TermReadKey | 3.21 | none | N/A | N/A |
+| [TMate Open Source License](https://spdx.org/licenses/TMate.html) | TMate | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/TMate.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/TMate.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TMate.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TMate.html)) |
+| [TORQUE v2.5+ Software License v1.1](https://spdx.org/licenses/TORQUE-1.1.html) | TORQUE-1.1 | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/TORQUE-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/TORQUE-1.1.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TORQUE-1.1.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TORQUE-1.1.html)) |
+| [Trusster Open Source License](https://spdx.org/licenses/TOSL.html) | TOSL | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/TOSL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/TOSL.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TOSL.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TOSL.html)) |
+| [Time::ParseDate License](https://spdx.org/licenses/TPDL.html) | TPDL | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/TPDL.html)) |
+| [THOR Public License 1.0](https://spdx.org/licenses/TPL-1.0.html) | TPL-1.0 | 3.20 | none | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/TPL-1.0.html)) | N/A |
+| [Text-Tabs+Wrap License](https://spdx.org/licenses/TTWL.html) | TTWL | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/TTWL.html)) |
+| [Technische Universitaet Berlin License 1.0](https://spdx.org/licenses/TU-Berlin-1.0.html) | TU-Berlin-1.0 | 3.2 | none | N/A | red2 (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TU-Berlin-1.0.html)), red1 (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TU-Berlin-1.0.html), since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/TU-Berlin-1.0.html)) |
+| [Technische Universitaet Berlin License 2.0](https://spdx.org/licenses/TU-Berlin-2.0.html) | TU-Berlin-2.0 | 3.2 | none | N/A | red2 (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/TU-Berlin-2.0.html)), red1 (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TU-Berlin-2.0.html), since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/TU-Berlin-2.0.html)) |
 | [UCAR License](https://spdx.org/licenses/UCAR.html) | UCAR | 3.20 | none | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/UCAR.html)) | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/UCAR.html)) |
 | [Upstream Compatibility License v1.0](https://spdx.org/licenses/UCL-1.0.html) | UCL-1.0 | 3.7 | none | red (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/UCL-1.0.html)) | N/A |
 | [Unicode License Agreement - Data Files and Software (2015)](https://spdx.org/licenses/Unicode-DFS-2015.html) | Unicode-DFS-2015 | 2.6 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Unicode-DFS-2015.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Unicode-DFS-2015.html)) | black |
