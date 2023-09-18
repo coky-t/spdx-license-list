@@ -444,37 +444,37 @@
 | RSA Message-Digest License | RSA-MD | 2.0 |
 | Ricoh Source Code Public License | RSCPL | 1.0 |
 | Ruby License | Ruby | 1.0 |
-| Sax Public Domain Notice | SAX-PD | 1.0 |
-| Saxpath License | Saxpath | 1.20 |
-| SCEA Shared Source License | SCEA | 1.20 |
-| Scheme Language Report License | SchemeReport | 3.16 |
-| Sendmail License | Sendmail | 2.2 |
-| Sendmail License 8.23 | Sendmail-8.23 | 3.3 |
-| SGI Free Software License B v1.0 | SGI-B-1.0 | 1.17 |
-| SGI Free Software License B v1.1 | SGI-B-1.1 | 1.17 |
-| SGI Free Software License B v2.0 | SGI-B-2.0 | 1.17 |
-| SGP4 Permission Notice | SGP4 | 3.21 |
-| Solderpad Hardware License v0.5 | SHL-0.5 | 3.6 |
-| Solderpad Hardware License, Version 0.51 | SHL-0.51 | 3.6 |
-| Simple Public License 2.0 | SimPL-2.0 | 1.0 |
-| Sun Industry Standards Source License v1.1 | SISSL | 1.17 |
-| Sun Industry Standards Source License v1.2 | SISSL-1.2 | 1.19 |
-| Sleepycat License | Sleepycat | 1.0 |
-| Standard ML of New Jersey License | SMLNJ | 1.17 |
-| Secure Messaging Protocol Public License | SMPPL | 2.4 |
-| SNIA Public License 1.1 | SNIA | 1.20 |
-| snprintf License | snprintf | 3.20 |
-| Spencer License 86 | Spencer-86 | 2.1 |
-| Spencer License 94 | Spencer-94 | 2.1 |
-| Spencer License 99 | Spencer-99 | 2.1 |
-| Sun Public License v1.0 | SPL-1.0 | 1.0 |
-| SSH OpenSSH license | SSH-OpenSSH | 3.7 |
-| SSH short notice | SSH-short | 3.7 |
-| Server Side Public License, v 1 | SSPL-1.0 | 3.6 |
-| SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 1.0 |
-| SunPro License | SunPro | 3.20 |
-| Scheme Widget Library (SWL) Software License Agreement | SWL | 1.20 |
-| Symlinks License | Symlinks | 3.20 |
+| [Sax Public Domain Notice](https://spdx.org/licenses/SAX-PD.html) | SAX-PD | 1.0 | none | N/A | N/A |
+| [Saxpath License](https://spdx.org/licenses/Saxpath.html) | Saxpath | 1.20 | none | N/A | N/A |
+| [SCEA Shared Source License](https://spdx.org/licenses/SCEA.html) | SCEA | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SCEA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SCEA.html)) | N/A |
+| [Scheme Language Report License](https://spdx.org/licenses/SchemeReport.html) | SchemeReport | 3.16 | none | N/A | N/A |
+| [Sendmail License](https://spdx.org/licenses/Sendmail.html) | Sendmail | 2.2 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Sendmail.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Sendmail.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Sendmail.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Sendmail.html)) | N/A |
+| [Sendmail License 8.23](https://spdx.org/licenses/Sendmail-8.23.html) | Sendmail-8.23 | 3.3 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.3/html/Sendmail-8.23.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.3/html/Sendmail-8.23.html)) | N/A |
+| [SGI Free Software License B v1.0](https://spdx.org/licenses/SGI-B-1.0.html) | SGI-B-1.0 | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SGI-B-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SGI-B-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SGI-B-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SGI-B-1.0.html)) | N/A |
+| [SGI Free Software License B v1.1](https://spdx.org/licenses/SGI-B-1.1.html) | SGI-B-1.1 | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SGI-B-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SGI-B-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SGI-B-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SGI-B-1.1.html)) | N/A |
+| [SGI Free Software License B v2.0](https://spdx.org/licenses/SGI-B-2.0.html) | SGI-B-2.0 | 1.17 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SGI-B-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SGI-B-2.0.html)) | N/A |
+| [SGP4 Permission Notice](https://spdx.org/licenses/SGP4.html) | SGP4 | 3.21 | none | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/SGP4.html)) | N/A |
+| [Solderpad Hardware License v0.5](https://spdx.org/licenses/SHL-0.5.html) | SHL-0.5 | 3.6 | none | black | black |
+| [Solderpad Hardware License, Version 0.51](https://spdx.org/licenses/SHL-0.51.html) | SHL-0.51 | 3.6 | blue (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/SHL-0.51.html)) | blue (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/SHL-0.51.html)) | blue (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/SHL-0.51.html)) |
+| [Simple Public License 2.0](https://spdx.org/licenses/SimPL-2.0.html) | SimPL-2.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SimPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SimPL-2.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SimPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SimPL-2.0.html)) | N/A |
+| [Sun Industry Standards Source License v1.1](https://spdx.org/licenses/SISSL.html) | SISSL | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SISSL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SISSL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SISSL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SISSL.html)) | N/A |
+| [Sun Industry Standards Source License v1.2](https://spdx.org/licenses/SISSL-1.2.html) | SISSL-1.2 | 1.19 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SISSL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SISSL-1.2.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SISSL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SISSL-1.2.html)) | N/A |
+| [Sleepycat License](https://spdx.org/licenses/Sleepycat.html) | Sleepycat | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Sleepycat.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Sleepycat.html)) | N/A |
+| [Standard ML of New Jersey License](https://spdx.org/licenses/SMLNJ.html) | SMLNJ | 1.17 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SMLNJ.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SMLNJ.html)) | N/A |
+| [Secure Messaging Protocol Public License](https://spdx.org/licenses/SMPPL.html) | SMPPL | 2.4 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SMPPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SMPPL.html)) | N/A |
+| [SNIA Public License 1.1](https://spdx.org/licenses/SNIA.html) | SNIA | 1.20 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SNIA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SNIA.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SNIA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SNIA.html)) | N/A |
+| [snprintf License](https://spdx.org/licenses/snprintf.html) | snprintf | 3.20 | none | N/A | N/A |
+| [Spencer License 86](https://spdx.org/licenses/Spencer-86.html) | Spencer-86 | 2.1 | none | N/A | N/A |
+| [Spencer License 94](https://spdx.org/licenses/Spencer-94.html) | Spencer-94 | 2.1 | none | N/A | N/A |
+| [Spencer License 99](https://spdx.org/licenses/Spencer-99.html) | Spencer-99 | 2.1 | none | N/A | N/A |
+| [Sun Public License v1.0](https://spdx.org/licenses/SPL-1.0.html) | SPL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SPL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SPL-1.0.html)) | N/A |
+| [SSH OpenSSH license](https://spdx.org/licenses/SSH-OpenSSH.html) | SSH-OpenSSH | 3.7 | none | N/A | N/A |
+| [SSH short notice](https://spdx.org/licenses/SSH-short.html) | SSH-short | 3.7 | none | N/A | N/A |
+| [Server Side Public License, v 1](https://spdx.org/licenses/SSPL-1.0.html) | SSPL-1.0 | 3.6 | none | black | blue (since [3.19](https://github.com/spdx/license-list-data/blob/v3.19/html/SSPL-1.0.html)), N/A (until [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/SSPL-1.0.html)) |
+| [SugarCRM Public License v1.1.3](https://spdx.org/licenses/SugarCRM-1.1.3.html) | SugarCRM-1.1.3 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SugarCRM-1.1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SugarCRM-1.1.3.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SugarCRM-1.1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SugarCRM-1.1.3.html)) | N/A |
+| [SunPro License](https://github.com/spdx/license-list-data/blob/v3.20/html/SunPro.html) | SunPro | 3.20 | none | N/A | N/A |
+| [Scheme Widget Library (SWL) Software License Agreement](https://spdx.org/licenses/SWL.html) | SWL | 1.20 | none | N/A | N/A |
+| [Symlinks License](https://spdx.org/licenses/Symlinks.html) | Symlinks | 3.20 | none | N/A | N/A |
 | [TAPR Open Hardware License v1.0](https://spdx.org/licenses/TAPR-OHL-1.0.html) | TAPR-OHL-1.0 | 3.5 | none | blue (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/TAPR-OHL-1.0.html)) | N/A |
 | [TCL/TK License](https://spdx.org/licenses/TCL.html) | TCL | 1.20 | none | N/A | N/A |
 | [TCP Wrappers License](https://spdx.org/licenses/TCP-wrappers.html) | TCP-wrappers | 2.6 | none | N/A | N/A |
