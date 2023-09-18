@@ -436,14 +436,14 @@
 | Qhull License | Qhull | 1.20 |
 | Q Public License 1.0 | QPL-1.0 | 1.0 |
 | Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | 3.20 |
-| Rdisc License | Rdisc | 1.20 |
-| Red Hat eCos Public License v1.1 | RHeCos-1.1 | 1.0 |
-| Reciprocal Public License 1.1 | RPL-1.1 | 1.18 |
-| Reciprocal Public License 1.5 | RPL-1.5 | 1.0 |
-| RealNetworks Public Source License v1.0 | RPSL-1.0 | 1.0 |
-| RSA Message-Digest License | RSA-MD | 2.0 |
-| Ricoh Source Code Public License | RSCPL | 1.0 |
-| Ruby License | Ruby | 1.0 |
+| [Rdisc License](https://spdx.org/licenses/Rdisc.html) | Rdisc | 1.20 | none | N/A | N/A |
+| [Red Hat eCos Public License v1.1](https://spdx.org/licenses/RHeCos-1.1.html) | RHeCos-1.1 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RHeCos-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RHeCos-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RHeCos-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RHeCos-1.1.html)) | N/A |
+| [Reciprocal Public License 1.1](https://spdx.org/licenses/RPL-1.1.html) | RPL-1.1 | 1.18 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPL-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPL-1.1.html)) | N/A |
+| [Reciprocal Public License 1.5](https://spdx.org/licenses/RPL-1.5.html) | RPL-1.5 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPL-1.5.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPL-1.5.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPL-1.5.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPL-1.5.html)) | N/A |
+| [RealNetworks Public Source License v1.0](https://spdx.org/licenses/RPSL-1.0.html) | RPSL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPSL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPSL-1.0.html)) | N/A |
+| [RSA Message-Digest License](https://spdx.org/licenses/RSA-MD.html) | RSA-MD | 2.0 | none | N/A | N/A |
+| [Ricoh Source Code Public License](https://spdx.org/licenses/RSCPL.html) | RSCPL | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RSCPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RSCPL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RSCPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RSCPL.html)) | N/A |
+| [Ruby License](https://spdx.org/licenses/Ruby.html) | Ruby | 1.0 | none | N/A | N/A |
 | [Sax Public Domain Notice](https://spdx.org/licenses/SAX-PD.html) | SAX-PD | 1.0 | none | N/A | N/A |
 | [Saxpath License](https://spdx.org/licenses/Saxpath.html) | Saxpath | 1.20 | none | N/A | N/A |
 | [SCEA Shared Source License](https://spdx.org/licenses/SCEA.html) | SCEA | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SCEA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SCEA.html)) | N/A |
