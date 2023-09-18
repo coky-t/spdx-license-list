@@ -433,9 +433,9 @@
 | psutils License | psutils | 1.20 |
 | Python License 2.0 | Python-2.0 | 1.0 |
 | Python License 2.0.1 | Python-2.0.1 | 3.18 |
-| Qhull License | Qhull | 1.20 |
-| Q Public License 1.0 | QPL-1.0 | 1.0 |
-| Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | 3.20 |
+| [Qhull License](https://spdx.org/licenses/Qhull.html) | Qhull | 1.20 | none | N/A | N/A |
+| [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html) | QPL-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/QPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/QPL-1.0.html)) | N/A |
+| [Q Public License 1.0 - INRIA 2004 variant](https://spdx.org/licenses/QPL-1.0-INRIA-2004.html) | QPL-1.0-INRIA-2004 | 3.20 | none | blue (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/QPL-1.0-INRIA-2004.html)) | N/A |
 | [Rdisc License](https://spdx.org/licenses/Rdisc.html) | Rdisc | 1.20 | none | N/A | N/A |
 | [Red Hat eCos Public License v1.1](https://spdx.org/licenses/RHeCos-1.1.html) | RHeCos-1.1 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RHeCos-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RHeCos-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RHeCos-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RHeCos-1.1.html)) | N/A |
 | [Reciprocal Public License 1.1](https://spdx.org/licenses/RPL-1.1.html) | RPL-1.1 | 1.18 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPL-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RPL-1.1.html)) | N/A |
