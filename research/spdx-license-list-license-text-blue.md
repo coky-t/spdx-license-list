@@ -345,32 +345,32 @@
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | 3.9 |
 | Multics License | Multics | 1.0 |
 | Mup License | Mup | 1.20 |
-| Nara Institute of Science and Technology License (2003) | NAIST-2003 | 3.12 |
-| NASA Open Source Agreement 1.3 | NASA-1.3 | 1.0 |
-| Naumen Public License | Naumen | 1.0 |
-| Net Boolean Public License v1 | NBPL-1.0 | 1.17 |
-| Non-Commercial Government Licence | NCGL-UK-2.0 | 3.9 |
-| University of Illinois/NCSA Open Source License | NCSA | 1.0 |
-| Net-SNMP License | Net-SNMP | 2.6 |
-| NetCDF license | NetCDF | 1.20 |
-| Newsletr License | Newsletr | 1.20 |
-| Nethack General Public License | NGPL | 1.0 |
-| NICTA Public Software License, Version 1.0 | NICTA-1.0 | 3.18 |
-| NIST Public Domain Notice | NIST-PD | 3.10 |
-| NIST Public Domain Notice with license fallback | NIST-PD-fallback | 3.10 |
-| NIST Software License | NIST-Software | 3.21 |
-| Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | 2.4 |
-| Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | 3.14 |
-| No Limit Public License | NLPL | 1.20 |
-| Nokia Open Source License | Nokia | 1.0 |
-| Netizen Open Source License | NOSL | 1.17 |
-| Noweb License | Noweb | 1.20 |
-| Netscape Public License v1.0 | NPL-1.0 | 1.17 |
-| Netscape Public License v1.1 | NPL-1.1 | 1.17 |
-| Non-Profit Open Software License 3.0 | NPOSL-3.0 | 1.0 |
-| NRL License | NRL | 1.20 |
-| NTP License | NTP | 1.0 |
-| NTP No Attribution | NTP-0 | 3.8 |
+| [Nara Institute of Science and Technology License (2003)](https://spdx.org/licenses/NAIST-2003.html) | NAIST-2003 | 3.12 | none | N/A | N/A |
+| [NASA Open Source Agreement 1.3](https://spdx.org/licenses/NASA-1.3.html) | NASA-1.3 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NASA-1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NASA-1.3.html)) | N/A |
+| [Naumen Public License](https://spdx.org/licenses/Naumen.html) | Naumen | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Naumen.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Naumen.html)) | N/A |
+| [Net Boolean Public License v1](https://spdx.org/licenses/NBPL-1.0.html) | NBPL-1.0 | 1.17 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NBPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NBPL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NBPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NBPL-1.0.html)) |
+| [Non-Commercial Government Licence](https://spdx.org/licenses/NCGL-UK-2.0.html) | NCGL-UK-2.0 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/NCGL-UK-2.0.html)) | N/A |
+| [University of Illinois/NCSA Open Source License](https://spdx.org/licenses/NCSA.html) | NCSA | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NCSA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NCSA.html)) | N/A |
+| [Net-SNMP License](https://spdx.org/licenses/Net-SNMP.html) | Net-SNMP | 2.6 | none | N/A | N/A |
+| [NetCDF license](https://spdx.org/licenses/NetCDF.html) | NetCDF | 1.20 | none | N/A | N/A |
+| [Newsletr License](https://spdx.org/licenses/Newsletr.html) | Newsletr | 1.20 | none | N/A | N/A |
+| [Nethack General Public License](https://spdx.org/licenses/NGPL.html) | NGPL | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NGPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NGPL.html)) | N/A |
+| [NICTA Public Software License, Version 1.0](https://spdx.org/licenses/NICTA-1.0.html) | NICTA-1.0 | 3.18 | none | blue (since [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/NICTA-1.0.html)) | N/A |
+| [NIST Public Domain Notice](https://spdx.org/licenses/NIST-PD.html) | NIST-PD | 3.10 | none | blue (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/NIST-PD.html)) | N/A |
+| [NIST Public Domain Notice with license fallback](https://spdx.org/licenses/NIST-PD-fallback.html) | NIST-PD-fallback | 3.10 | none | blue (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/NIST-PD-fallback.html)) | N/A |
+| [NIST Software License](https://spdx.org/licenses/NIST-Software.html) | NIST-Software | 3.21 | none | N/A | N/A |
+| [Norwegian Licence for Open Government Data (NLOD) 1.0](https://spdx.org/licenses/NLOD-1.0.html) | NLOD-1.0 | 2.4 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NLOD-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NLOD-1.0.html)) | N/A |
+| [Norwegian Licence for Open Government Data (NLOD) 2.0](https://spdx.org/licenses/NLOD-2.0.html) | NLOD-2.0 | 3.14 | none | blue (since [3.14](https://github.com/spdx/license-list-data/blob/v3.14/html/NLOD-2.0.html)) | N/A |
+| [No Limit Public License](https://spdx.org/licenses/NLPL.html) | NLPL | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NLPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NLPL.html)) | N/A |
+| [Nokia Open Source License](https://spdx.org/licenses/Nokia.html) | Nokia | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Nokia.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Nokia.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Nokia.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Nokia.html)) | N/A |
+| [Netizen Open Source License](https://spdx.org/licenses/NOSL.html) | NOSL | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NOSL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NOSL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NOSL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NOSL.html)) | N/A |
+| [Noweb License](https://spdx.org/licenses/Noweb.html) | Noweb | 1.20 | none | N/A | N/A |
+| [Netscape Public License v1.0](https://spdx.org/licenses/NPL-1.0.html) | NPL-1.0 | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NPL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NPL-1.0.html)) | N/A |
+| [Netscape Public License v1.1](https://spdx.org/licenses/NPL-1.1.html) | NPL-1.1 | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NPL-1.1.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NPL-1.1.html)) | N/A |
+| [Non-Profit Open Software License 3.0](https://spdx.org/licenses/NPOSL-3.0.html) | NPOSL-3.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NPOSL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NPOSL-3.0.html)) | N/A |
+| [NRL License](https://spdx.org/licenses/NRL.html) | NRL | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NRL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NRL.html)) | N/A |
+| [NTP License](https://spdx.org/licenses/NTP.html) | NTP | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NTP.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NTP.html)) | N/A |
+| [NTP No Attribution](https://spdx.org/licenses/NTP-0.html) | NTP-0 | 3.8 | none | blue (since [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/NTP-0.html)) | N/A |
 | [Open Use of Data Agreement v1.0](https://spdx.org/licenses/O-UDA-1.0.html) | O-UDA-1.0 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/O-UDA-1.0.html)) | N/A |
 | [Open CASCADE Technology Public License](https://spdx.org/licenses/OCCT-PL.html) | OCCT-PL | 2.3 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/OCCT-PL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/OCCT-PL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/OCCT-PL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/OCCT-PL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/OCCT-PL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/OCCT-PL.html)) |
 | [OCLC Research Public License 2.0](https://spdx.org/licenses/OCLC-2.0.html) | OCLC-2.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/OCLC-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/OCLC-2.0.html)) | N/A |
