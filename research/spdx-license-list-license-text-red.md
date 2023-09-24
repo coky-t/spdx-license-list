@@ -271,11 +271,11 @@
 | IPA Font License | IPA | 1.0 |
 | IBM Public License v1.0 | IPL-1.0 | 1.0 |
 | [ISC License](https://spdx.org/licenses/ISC.html) | ISC | 1.0 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ISC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ISC.html)) | N/A | red2 (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/ISC.html)), red1 (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/ISC.html), since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ISC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ISC.html)) |
-| Jam License | Jam | 3.16 |
-| JasPer License | JasPer-2.0 | 1.20 |
-| JPL Image Use Policy | JPL-image | 3.20 |
-| Japan Network Information Center License | JPNIC | 3.5 |
-| JSON License | JSON | 1.17 |
+| [Jam License](https://spdx.org/licenses/Jam.html) | Jam | 3.16 | none | N/A | red (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/Jam.html)) |
+| [JasPer License](https://spdx.org/licenses/JasPer-2.0.html) | JasPer-2.0 | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/JasPer-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/JasPer-2.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/JasPer-2.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/JasPer-2.0.html)) |
+| [JPL Image Use Policy](https://spdx.org/licenses/JPL-image.html) | JPL-image | 3.20 | none | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/JPL-image.html)) | N/A |
+| [Japan Network Information Center License](https://spdx.org/licenses/JPNIC.html) | JPNIC | 3.5 | red (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/JPNIC.html)) | red (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/JPNIC.html)) | red2 (until [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/JPNIC.html)), red1 (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/JPNIC.html)) |
+| [JSON License](https://spdx.org/licenses/JSON.html) | JSON | 1.17 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/JSON.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/JSON.html)) |
 | [Kazlib License](https://spdx.org/licenses/Kazlib.html) | Kazlib | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/Kazlib.html)) |
 | [Knuth CTAN License](https://spdx.org/licenses/Knuth-CTAN.html) | Knuth-CTAN | 3.19 | none | N/A | N/A |
 | [Licence Art Libre 1.2](https://spdx.org/licenses/LAL-1.2.html) | LAL-1.2 | 2.4 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LAL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LAL-1.2.html)) | N/A |
