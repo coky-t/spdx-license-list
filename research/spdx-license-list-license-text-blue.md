@@ -276,8 +276,8 @@
 | JPL Image Use Policy | JPL-image | 3.20 |
 | Japan Network Information Center License | JPNIC | 3.5 |
 | JSON License | JSON | 1.17 |
-| Kazlib License | Kazlib | 3.20 |
-| Knuth CTAN License | Knuth-CTAN | 3.19 |
+| [Kazlib License](https://spdx.org/licenses/Kazlib.html) | Kazlib | 3.20 | none | N/A | N/A |
+| [Knuth CTAN License](https://spdx.org/licenses/Knuth-CTAN.html) | Knuth-CTAN | 3.19 | none | N/A | N/A |
 | [Licence Art Libre 1.2](https://spdx.org/licenses/LAL-1.2.html) | LAL-1.2 | 2.4 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LAL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LAL-1.2.html)) | N/A |
 | [Licence Art Libre 1.3](https://spdx.org/licenses/LAL-1.3.html) | LAL-1.3 | 2.4 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LAL-1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LAL-1.3.html)) | N/A |
 | [Latex2e License](https://spdx.org/licenses/Latex2e.html) | Latex2e | 1.20 | none | N/A | N/A |
