@@ -313,38 +313,38 @@
 | LaTeX Project Public License v1.3c | LPPL-1.3c | 1.0 |
 | LZMA SDK License (versions 9.11 to 9.20) | LZMA-SDK-9.11-to-9.20 | 3.18 |
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | 3.18 |
-| MakeIndex License | MakeIndex | 1.20 |
-| Martin Birgmeier License | Martin-Birgmeier | 3.20 |
-| metamail License | metamail | 3.21 |
-| Minpack License | Minpack | 3.18 |
-| The MirOS Licence | MirOS | 1.0 |
-| MIT License | MIT | 1.0 |
-| MIT No Attribution | MIT-0 | 3.1 |
-| Enlightenment License (e16) | MIT-advertising | 1.20 |
-| CMU License | MIT-CMU | 1.20 |
-| enna License | MIT-enna | 1.20 |
-| feh License | MIT-feh | 1.20 |
-| MIT Festival Variant | MIT-Festival | 3.21 |
-| MIT License Modern Variant | MIT-Modern-Variant | 3.12 |
-| MIT Open Group variant | MIT-open-group | 3.11 |
-| MIT Tom Wu Variant | MIT-Wu | 3.20 |
-| MIT +no-false-attribs license | MITNFA | 1.20 |
-| Motosoto License | Motosoto | 1.0 |
-| mpi Permissive License | mpi-permissive | 3.18 |
-| mpich2 License | mpich2 | 1.20 |
-| Mozilla Public License 1.0 | MPL-1.0 | 1.0 |
-| Mozilla Public License 1.1 | MPL-1.1 | 1.0 |
-| Mozilla Public License 2.0 | MPL-2.0 | 1.14 |
-| Mozilla Public License 2.0 (no copyleft exception) | MPL-2.0-no-copyleft-exception | 1.18 |
-| mplus Font License | mplus | 3.17 |
-| Microsoft Limited Public License | MS-LPL | 3.18 |
-| Microsoft Public License | MS-PL | 1.0 |
-| Microsoft Reciprocal License | MS-RL | 1.0 |
-| Matrix Template Library License | MTLL | 1.20 |
-| Mulan Permissive Software License, Version 1 | MulanPSL-1.0 | 3.7 |
-| Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | 3.9 |
-| Multics License | Multics | 1.0 |
-| Mup License | Mup | 1.20 |
+| [MakeIndex License](https://spdx.org/licenses/MakeIndex.html) | MakeIndex | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MakeIndex.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MakeIndex.html)) |
+| [Martin Birgmeier License](https://github.com/spdx/license-list-data/blob/v3.20/html/Martin-Birgmeier.html) | Martin-Birgmeier | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/Martin-Birgmeier.html)) |
+| [metamail License](https://spdx.org/licenses/metamail.html) | metamail | 3.21 | none | N/A | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/metamail.html)) |
+| [Minpack License](https://spdx.org/licenses/Minpack.html) | Minpack | 3.18 | none | red (since [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/Minpack.html)) | black |
+| [The MirOS Licence](https://spdx.org/licenses/MirOS.html) | MirOS | 1.0 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MirOS.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MirOS.html)) |
+| [MIT License](https://spdx.org/licenses/MIT.html) | MIT | 1.0 | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MIT.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MIT.html)) | N/A | red2 (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MIT.html)), red1 (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MIT.html), since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/MIT.html)), black (until [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MIT.html)) |
+| [MIT No Attribution](https://spdx.org/licenses/MIT-0.html) | MIT-0 | 3.1 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MIT-0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MIT-0.html)) |
+| [Enlightenment License (e16)](https://spdx.org/licenses/MIT-advertising.html) | MIT-advertising | 1.20 |
+| [CMU License](https://spdx.org/licenses/MIT-CMU.html) | MIT-CMU | 1.20 | red (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MIT-CMU.html)), black (until [3.4](https://github.com/spdx/license-list-data/blob/v3.4/html/MIT-CMU.html)) | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MIT-CMU.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MIT-CMU.html)) |
+| [enna License](https://spdx.org/licenses/MIT-enna.html) | MIT-enna | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MIT-enna.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MIT-enna.html)) |
+| [feh License](https://spdx.org/licenses/MIT-feh.html) | MIT-feh | 1.20 | none | N/A | N/A |
+| [MIT Festival Variant](https://github.com/spdx/license-list-data/blob/v3.21/html/MIT-Festival.html) | MIT-Festival | 3.21 | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/MIT-Festival.html) | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/MIT-Festival.html) | N/A |
+| [MIT License Modern Variant](https://spdx.org/licenses/MIT-Modern-Variant.html) | MIT-Modern-Variant | 3.12 | red (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/MIT-Modern-Variant.html)) | N/A | red (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/MIT-Modern-Variant.html)) |
+| [MIT Open Group variant](https://spdx.org/licenses/MIT-open-group.html) | MIT-open-group | 3.11 | red (since [3.11](https://github.com/spdx/license-list-data/blob/v3.11/html/MIT-open-group.html)) | N/A | red (since [3.11](https://github.com/spdx/license-list-data/blob/v3.11/html/MIT-open-group.html)) |
+| [MIT Tom Wu Variant](https://spdx.org/licenses/MIT-Wu.html) | MIT-Wu | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/MIT-Wu.html)) |
+| [MIT +no-false-attribs license](https://spdx.org/licenses/MITNFA.html) | MITNFA | 1.20 | none | N/A | N/A |
+| [Motosoto License](https://spdx.org/licenses/Motosoto.html) | Motosoto | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Motosoto.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Motosoto.html)) | N/A |
+| [mpi Permissive License](https://github.com/spdx/license-list-data/blob/v3.18/html/mpi-permissive.html) | mpi-permissive | 3.18 | red (since [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/mpi-permissive.html)) | N/A | red (since [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/mpi-permissive.html)) |
+| [mpich2 License](https://spdx.org/licenses/mpich2.html) | mpich2 | 1.20 | none | N/A | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/mpich2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/mpich2.html)) |
+| [Mozilla Public License 1.0](https://spdx.org/licenses/MPL-1.0.html) | MPL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MPL-1.0.html)) | N/A |
+| [Mozilla Public License 1.1](https://spdx.org/licenses/MPL-1.1.html) | MPL-1.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MPL-1.1.html)) | N/A |
+| [Mozilla Public License 2.0](https://spdx.org/licenses/MPL-2.0.html) | MPL-2.0 | 1.14 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MPL-2.0.html)) | N/A |
+| [Mozilla Public License 2.0 (no copyleft exception)](https://spdx.org/licenses/MPL-2.0-no-copyleft-exception.html) | MPL-2.0-no-copyleft-exception | 1.18 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MPL-2.0-no-copyleft-exception.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MPL-2.0-no-copyleft-exception.html)) | N/A |
+| [mplus Font License](https://spdx.org/licenses/mplus.html) | mplus | 3.17 | none | N/A | N/A |
+| [Microsoft Limited Public License](https://spdx.org/licenses/MS-LPL.html) | MS-LPL | 3.18 | none | red (since [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/MS-LPL.html)) | N/A |
+| [Microsoft Public License](https://spdx.org/licenses/MS-PL.html) | MS-PL | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MS-PL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MS-PL.html)) | N/A |
+| [Microsoft Reciprocal License](https://spdx.org/licenses/MS-RL.html) | MS-RL | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MS-RL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MS-RL.html)) | N/A |
+| [Matrix Template Library License](https://spdx.org/licenses/MTLL.html) | MTLL | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/MTLL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/MTLL.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/MTLL.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/MTLL.html)) |
+| [Mulan Permissive Software License, Version 1](https://spdx.org/licenses/MulanPSL-1.0.html) | MulanPSL-1.0 | 3.7 | none | red (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/MulanPSL-1.0.html)) | N/A |
+| [Mulan Permissive Software License, Version 2](https://spdx.org/licenses/MulanPSL-2.0.html) | MulanPSL-2.0 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/MulanPSL-2.0.html)) | N/A |
+| [Multics License](https://spdx.org/licenses/Multics.html) | Multics | 1.0 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Multics.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Multics.html)) | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Multics.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Multics.html)) |
+| [Mup License](https://spdx.org/licenses/Mup.html) | Mup | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Mup.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Mup.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Mup.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Mup.html)) |
 | [Nara Institute of Science and Technology License (2003)](https://spdx.org/licenses/NAIST-2003.html) | NAIST-2003 | 3.12 | none | N/A | red (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/NAIST-2003.html)) |
 | [NASA Open Source Agreement 1.3](https://spdx.org/licenses/NASA-1.3.html) | NASA-1.3 | 1.0 | red (since [3.3](https://github.com/spdx/license-list-data/blob/v3.3/html/NASA-1.3.html)), black (until [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/NASA-1.3.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NASA-1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NASA-1.3.html)) | N/A |
 | [Naumen Public License](https://spdx.org/licenses/Naumen.html) | Naumen | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Naumen.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Naumen.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Naumen.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Naumen.html)) |
