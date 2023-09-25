@@ -255,21 +255,21 @@
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 3.5 |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 3.20 |
 | HTML Tidy License | HTMLTIDY | 3.11 |
-| IBM PowerPC Initialization and Boot Software | IBM-pibs | 1.19 |
-| ICU License | ICU | 2.0 |
-| IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | 3.20 |
-| Independent JPEG Group License | IJG | 1.17 |
-| Independent JPEG Group License - short | IJG-short | 3.20 |
-| ImageMagick License | ImageMagick | 1.20 |
-| iMatix Standard Function Library Agreement | iMatix | 1.20 |
-| Imlib2 License | Imlib2 | 1.17 |
-| Info-ZIP License | Info-ZIP | 2.3 |
-| Inner Net License v2.0 | Inner-Net-2.0 | 3.21 |
-| Intel Open Source License | Intel | 1.17 |
-| Intel ACPI Software License Agreement | Intel-ACPI | 1.20 |
-| Interbase Public License v1.0 | Interbase-1.0 | 2.2 |
-| IPA Font License | IPA | 1.0 |
-| IBM Public License v1.0 | IPL-1.0 | 1.0 |
+| [IBM PowerPC Initialization and Boot Software](https://spdx.org/licenses/IBM-pibs.html) | IBM-pibs | 1.19 | none | N/A | black |
+| [ICU License](https://spdx.org/licenses/ICU.html) | ICU | 2.0 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/ICU.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/ICU.html)) |
+| [IEC Code Components End-user licence agreement](https://spdx.org/licenses/IEC-Code-Components-EULA.html) | IEC-Code-Components-EULA | 3.20 | none | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/IEC-Code-Components-EULA.html)) | N/A |
+| [Independent JPEG Group License](https://spdx.org/licenses/IJG.html) | IJG | 1.17 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/IJG.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/IJG.html)) | black |
+| [Independent JPEG Group License - short](https://spdx.org/licenses/IJG-short.html) | IJG-short | 3.20 | none | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/IJG-short.html)) | black |
+| [ImageMagick License](https://spdx.org/licenses/ImageMagick.html) | ImageMagick | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ImageMagick.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ImageMagick.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/ImageMagick.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/ImageMagick.html)) |
+| [iMatix Standard Function Library Agreement](https://spdx.org/licenses/iMatix.html) | iMatix | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/iMatix.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/iMatix.html)) | black |
+| [Imlib2 License](https://spdx.org/licenses/Imlib2.html) | Imlib2 | 1.17 | none | N/A | N/A |
+| [Info-ZIP License](https://spdx.org/licenses/Info-ZIP.html) | Info-ZIP | 2.3 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Info-ZIP.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Info-ZIP.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Info-ZIP.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Info-ZIP.html)) |
+| [Inner Net License v2.0](https://spdx.org/licenses/Inner-Net-2.0.html) | Inner-Net-2.0 | 3.21 | none | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/Inner-Net-2.0.html)) | N/A |
+| [Intel Open Source License](https://spdx.org/licenses/Intel.html) | Intel | 1.17 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Intel.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Intel.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Intel.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Intel.html)) |
+| [Intel ACPI Software License Agreement](https://spdx.org/licenses/Intel-ACPI.html) | Intel-ACPI | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Intel-ACPI.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Intel-ACPI.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Intel-ACPI.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Intel-ACPI.html)) |
+| [Interbase Public License v1.0](https://spdx.org/licenses/Interbase-1.0.html) | Interbase-1.0 | 2.2 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Interbase-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Interbase-1.0.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Interbase-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Interbase-1.0.html)) | N/A |
+| [IPA Font License](https://spdx.org/licenses/IPA.html) | IPA | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/IPA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/IPA.html)) | N/A |
+| [IBM Public License v1.0](https://spdx.org/licenses/IPL-1.0.html) | IPL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/IPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/IPL-1.0.html)) | N/A |
 | [ISC License](https://spdx.org/licenses/ISC.html) | ISC | 1.0 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ISC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ISC.html)) | N/A | red2 (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/ISC.html)), red1 (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/ISC.html), since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ISC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ISC.html)) |
 | [Jam License](https://spdx.org/licenses/Jam.html) | Jam | 3.16 | none | N/A | red (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/Jam.html)) |
 | [JasPer License](https://spdx.org/licenses/JasPer-2.0.html) | JasPer-2.0 | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/JasPer-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/JasPer-2.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/JasPer-2.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/JasPer-2.0.html)) |
