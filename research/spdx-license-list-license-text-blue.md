@@ -56,7 +56,7 @@
 | [Borceux license](https://spdx.org/licenses/Borceux.html) | Borceux | 1.20 | none | N/A | N/A |
 | [Brian Gladman 3-Clause License](https://spdx.org/licenses/Brian-Gladman-3-Clause.html) | Brian-Gladman-3-Clause | 3.20 | none | black | N/A |
 | [BSD 1-Clause License](https://spdx.org/licenses/BSD-1-Clause.html) | BSD-1-Clause | 3.0 | none | N/A | N/A |
-| [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html) | BSD-2-Clause | 1.0 | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/BSD-2-Clause.html)), black (until [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/BSD-2-Clause.html)) |
+| [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html) | BSD-2-Clause | 1.0 | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/BSD-2-Clause.html)), black (until [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/BSD-2-Clause.html)) | N/A | N/A |
 | [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) | BSD-2-Clause-Patent | 3.0 | none | N/A | N/A |
 | [BSD 2-Clause with views sentence](https://spdx.org/licenses/BSD-2-Clause-Views.html) | BSD-2-Clause-Views | 3.10 | none | N/A | N/A |
 | [BSD 3-Clause "New" or "Revised" License](https://spdx.org/licenses/BSD-3-Clause.html) | BSD-3-Clause | 1.0 | none | N/A | N/A |
@@ -71,7 +71,7 @@
 | [BSD 3-Clause Open MPI variant](https://spdx.org/licenses/BSD-3-Clause-Open-MPI.html) | BSD-3-Clause-Open-MPI | 3.6 | none | N/A | N/A |
 | [BSD 4-Clause "Original" or "Old" License](https://spdx.org/licenses/BSD-4-Clause.html) | BSD-4-Clause | 1.0 | none | N/A | N/A |
 | [BSD 4 Clause Shortened](https://spdx.org/licenses/BSD-4-Clause-Shortened.html) | BSD-4-Clause-Shortened | 3.12 | none | blue (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/BSD-4-Clause-Shortened.html)) | N/A |
-| [BSD-4-Clause (University of California-Specific)](https://spdx.org/licenses/BSD-4-Clause-UC.html) | BSD-4-Clause-UC | 1.15 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-4-Clause-UC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-4-Clause-UC.html)) |
+| [BSD-4-Clause (University of California-Specific)](https://spdx.org/licenses/BSD-4-Clause-UC.html) | BSD-4-Clause-UC | 1.15 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-4-Clause-UC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-4-Clause-UC.html)) | N/A |
 | [BSD 4.3 RENO License](https://spdx.org/licenses/BSD-4.3RENO.html) | BSD-4.3RENO | 3.20 | none | N/A | N/A |
 | [BSD 4.3 TAHOE License](https://spdx.org/licenses/BSD-4.3TAHOE.html) | BSD-4.3TAHOE | 3.20 | none | N/A | N/A |
 | [BSD Advertising Acknowledgement License](https://spdx.org/licenses/BSD-Advertising-Acknowledgement.html) | BSD-Advertising-Acknowledgement | 3.20 | none | N/A | N/A |
