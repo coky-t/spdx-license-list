@@ -246,15 +246,15 @@
 | GNU General Public License v3.0 or later | GPL-3.0-or-later | 3.0 |
 | Graphics Gems License | Graphics-Gems | 3.20 |
 | gSOAP Public License v1.3b | gSOAP-1.3b | 1.0 |
-| Haskell Language Report License | HaskellReport | 1.20 |
-| Hippocratic License 2.1 | Hippocratic-2.1 | 3.9 |
-| Hewlett-Packard 1986 License | HP-1986 | 3.20 |
-| Historical Permission Notice and Disclaimer | HPND | 1.0 |
-| HPND with US Government export control warning | HPND-export-US | 3.20 |
-| Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | 3.20 |
-| Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 3.5 |
-| HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 3.20 |
-| HTML Tidy License | HTMLTIDY | 3.11 |
+| [Haskell Language Report License](https://spdx.org/licenses/HaskellReport.html) | HaskellReport | 1.20 | none | N/A | N/A |
+| [Hippocratic License 2.1](https://spdx.org/licenses/Hippocratic-2.1.html) | Hippocratic-2.1 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/Hippocratic-2.1.html)) | N/A |
+| [Hewlett-Packard 1986 License](https://spdx.org/licenses/HP-1986.html) | HP-1986 | 3.20 | none | N/A | N/A |
+| [Historical Permission Notice and Disclaimer](https://spdx.org/licenses/HPND.html) | HPND | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/HPND.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/HPND.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/HPND.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/HPND.html)) | N/A |
+| [HPND with US Government export control warning](https://spdx.org/licenses/HPND-export-US.html) | HPND-export-US | 3.20 | none | N/A | N/A |
+| [Historical Permission Notice and Disclaimer - Markus Kuhn variant](https://spdx.org/licenses/HPND-Markus-Kuhn.html) | HPND-Markus-Kuhn | 3.20 | none | N/A | N/A |
+| [Historical Permission Notice and Disclaimer - sell variant](https://spdx.org/licenses/HPND-sell-variant.html) | HPND-sell-variant | 3.5 | blue (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/HPND-sell-variant.html)) | N/A | N/A |
+| [HPND sell variant with MIT disclaimer](https://spdx.org/licenses/HPND-sell-variant-MIT-disclaimer.html) | HPND-sell-variant-MIT-disclaimer | 3.20 | none | N/A | N/A |
+| [HTML Tidy License](https://spdx.org/licenses/HTMLTIDY.html) | HTMLTIDY | 3.11 | none | blue (since [3.11](https://github.com/spdx/license-list-data/blob/v3.11/html/HTMLTIDY.html)) | N/A |
 | [IBM PowerPC Initialization and Boot Software](https://spdx.org/licenses/IBM-pibs.html) | IBM-pibs | 1.19 | none | N/A | N/A |
 | [ICU License](https://spdx.org/licenses/ICU.html) | ICU | 2.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ICU.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ICU.html)) | N/A |
 | [IEC Code Components End-user licence agreement](https://spdx.org/licenses/IEC-Code-Components-EULA.html) | IEC-Code-Components-EULA | 3.20 | none | blue (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/IEC-Code-Components-EULA.html)) | N/A |
