@@ -213,39 +213,39 @@
 | FSF Unlimited License (with License Retention) | FSFULLR | 1.20 |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | 3.19 |
 | Freetype Project License | FTL | 1.17 |
-| GD License | GD | 3.12 |
-| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | 3.10 |
-| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | 3.10 |
-| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | 3.10 |
-| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | 3.10 |
-| GNU Free Documentation License v1.1 only | GFDL-1.1-only | 3.0 |
-| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | 3.0 |
-| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | 3.10 |
-| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | 3.10 |
-| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | 3.10 |
-| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | 3.10 |
-| GNU Free Documentation License v1.2 only | GFDL-1.2-only | 3.0 |
-| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | 3.0 |
-| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | 3.10 |
-| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | 3.10 |
-| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | 3.10 |
-| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | 3.10 |
-| GNU Free Documentation License v1.3 only | GFDL-1.3-only | 3.0 |
-| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | 3.0 |
-| Giftware License | Giftware | 1.20 |
-| GL2PS License | GL2PS | 1.20 |
-| 3dfx Glide License | Glide | 1.20 |
-| Glulxe License | Glulxe | 1.20 |
-| Good Luck With That Public License | GLWTPL | 3.10 |
-| gnuplot License | gnuplot | 1.20 |
-| GNU General Public License v1.0 only | GPL-1.0-only | 3.0 |
-| GNU General Public License v1.0 or later | GPL-1.0-or-later | 3.0 |
-| GNU General Public License v2.0 only | GPL-2.0-only | 3.0 |
-| GNU General Public License v2.0 or later | GPL-2.0-or-later | 3.0 |
-| GNU General Public License v3.0 only | GPL-3.0-only | 3.0 |
-| GNU General Public License v3.0 or later | GPL-3.0-or-later | 3.0 |
-| Graphics Gems License | Graphics-Gems | 3.20 |
-| gSOAP Public License v1.3b | gSOAP-1.3b | 1.0 |
+| [GD License](https://spdx.org/licenses/GD.html) | GD | 3.12 | none | N/A | red (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/GD.html)) |
+| [GNU Free Documentation License v1.1 only - invariants](https://spdx.org/licenses/GFDL-1.1-invariants-only.html) | GFDL-1.1-invariants-only | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-invariants-only.html)) | black |
+| [GNU Free Documentation License v1.1 or later - invariants](https://spdx.org/licenses/GFDL-1.1-invariants-or-later.html) | GFDL-1.1-invariants-or-later | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-invariants-or-later.html)) | black |
+| [GNU Free Documentation License v1.1 only - no invariants](https://spdx.org/licenses/GFDL-1.1-no-invariants-only.html) | GFDL-1.1-no-invariants-only | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-no-invariants-only.html)) | black |
+| [GNU Free Documentation License v1.1 or later - no invariants](https://spdx.org/licenses/GFDL-1.1-no-invariants-or-later.html) | GFDL-1.1-no-invariants-or-later | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-no-invariants-or-later.html)) | black |
+| [GNU Free Documentation License v1.1 only](https://spdx.org/licenses/GFDL-1.1-only.html) | GFDL-1.1-only | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.1-only.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.1-only.html)) | black |
+| [GNU Free Documentation License v1.1 or later](https://spdx.org/licenses/GFDL-1.1-or-later.html) | GFDL-1.1-or-later | 3.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.1-or-later.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.1-or-later.html)) | black |
+| [GNU Free Documentation License v1.2 only - invariants](https://spdx.org/licenses/GFDL-1.2-invariants-only.html) | GFDL-1.2-invariants-only | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.2-invariants-only.html)) | black |
+| [GNU Free Documentation License v1.2 or later - invariants](https://spdx.org/licenses/GFDL-1.2-invariants-or-later.html) | GFDL-1.2-invariants-or-later | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.2-invariants-or-later.html)) | black |
+| [GNU Free Documentation License v1.2 only - no invariants](https://spdx.org/licenses/GFDL-1.2-no-invariants-only.html) | GFDL-1.2-no-invariants-only | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.2-no-invariants-only.html)) | black |
+| [GNU Free Documentation License v1.2 or later - no invariants](https://spdx.org/licenses/GFDL-1.2-no-invariants-or-later.html) | GFDL-1.2-no-invariants-or-later | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.2-no-invariants-or-later.html)) | black |
+| [GNU Free Documentation License v1.2 only](https://spdx.org/licenses/GFDL-1.2-only.html) | GFDL-1.2-only | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.2-only.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.2-only.html)) | black |
+| [GNU Free Documentation License v1.2 or later](https://spdx.org/licenses/GFDL-1.2-or-later.html) | GFDL-1.2-or-later | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.2-or-later.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.2-or-later.html)) | black |
+| [GNU Free Documentation License v1.3 only - invariants](https://spdx.org/licenses/GFDL-1.3-invariants-only.html) | GFDL-1.3-invariants-only | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-invariants-only.html)) | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-invariants-only.html)) |
+| [GNU Free Documentation License v1.3 or later - invariants](https://spdx.org/licenses/GFDL-1.3-invariants-or-later.html) | GFDL-1.3-invariants-or-later | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-invariants-or-later.html)) | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-invariants-or-later.html)) |
+| [GNU Free Documentation License v1.3 only - no invariants](https://spdx.org/licenses/GFDL-1.3-no-invariants-only.html) | GFDL-1.3-no-invariants-only | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-no-invariants-only.html)) | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-no-invariants-only.html)) |
+| [GNU Free Documentation License v1.3 or later - no invariants](https://spdx.org/licenses/GFDL-1.3-no-invariants-or-later.html) | GFDL-1.3-no-invariants-or-later | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-no-invariants-or-later.html)) | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.3-no-invariants-or-later.html)) |
+| [GNU Free Documentation License v1.3 only](https://spdx.org/licenses/GFDL-1.3-only.html) | GFDL-1.3-only | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.3-only.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.3-only.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/GFDL-1.3-only.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/GFDL-1.3-only.html)) |
+| [GNU Free Documentation License v1.3 or later](https://spdx.org/licenses/GFDL-1.3-or-later.html) | GFDL-1.3-or-later | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.3-or-later.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.3-or-later.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/GFDL-1.3-or-later.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/GFDL-1.3-or-later.html)) |
+| [Giftware License](https://spdx.org/licenses/Giftware.html) | Giftware | 1.20 | none | N/A | N/A |
+| [GL2PS License](https://spdx.org/licenses/GL2PS.html) | GL2PS | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GL2PS.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GL2PS.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/GL2PS.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/GL2PS.html)) |
+| [3dfx Glide License](https://spdx.org/licenses/Glide.html) | Glide | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Glide.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Glide.html)) | N/A |
+| [Glulxe License](https://spdx.org/licenses/Glulxe.html) | Glulxe | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Glulxe.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Glulxe.html)) |
+| [Good Luck With That Public License](https://spdx.org/licenses/GLWTPL.html) | GLWTPL | 3.10 | none | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GLWTPL.html)) | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GLWTPL.html)) |
+| [gnuplot License](https://spdx.org/licenses/gnuplot.html) | gnuplot | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/gnuplot.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/gnuplot.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/gnuplot.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/gnuplot.html)) |
+| [GNU General Public License v1.0 only](https://spdx.org/licenses/GPL-1.0-only.html) | GPL-1.0-only | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-1.0-only.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-1.0-only.html)) | black |
+| [GNU General Public License v1.0 or later](https://spdx.org/licenses/GPL-1.0-or-later.html) | GPL-1.0-or-later | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-1.0-or-later.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-1.0-or-later.html)) | black |
+| [GNU General Public License v2.0 only](https://spdx.org/licenses/GPL-2.0-only.html) | GPL-2.0-only | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-2.0-only.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-2.0-only.html)) | black |
+| [GNU General Public License v2.0 or later](https://spdx.org/licenses/GPL-2.0-or-later.html) | GPL-2.0-or-later | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-2.0-or-later.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-2.0-or-later.html)) | black |
+| [GNU General Public License v3.0 only](https://spdx.org/licenses/GPL-3.0-only.html) | GPL-3.0-only | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-3.0-only.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-3.0-only.html)) | black |
+| [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html) | GPL-3.0-or-later | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-3.0-or-later.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-3.0-or-later.html)) | black |
+| [Graphics Gems License](https://spdx.org/licenses/Graphics-Gems.html) | Graphics-Gems | 3.20 | none | N/A | N/A |
+| [gSOAP Public License v1.3b](https://spdx.org/licenses/gSOAP-1.3b.html) | gSOAP-1.3b | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/gSOAP-1.3b.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/gSOAP-1.3b.html)) | N/A |
 | [Haskell Language Report License](https://spdx.org/licenses/HaskellReport.html) | HaskellReport | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/HaskellReport.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/HaskellReport.html)) |
 | [Hippocratic License 2.1](https://spdx.org/licenses/Hippocratic-2.1.html) | Hippocratic-2.1 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/Hippocratic-2.1.html)) | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/Hippocratic-2.1.html)) |
 | [Hewlett-Packard 1986 License](https://spdx.org/licenses/HP-1986.html) | HP-1986 | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/HP-1986.html)) |
