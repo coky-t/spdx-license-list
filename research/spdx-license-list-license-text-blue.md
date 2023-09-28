@@ -203,16 +203,16 @@
 | European Union Public License 1.1 | EUPL-1.1 | 1.0 |
 | European Union Public License 1.2 | EUPL-1.2 | 3.0 |
 | Eurosym License | Eurosym | 1.20 |
-| Fair License | Fair | 1.0 |
-| Fraunhofer FDK AAC Codec Library | FDK-AAC | 3.15 |
-| Frameworx Open License 1.0 | Frameworx-1.0 | 1.0 |
-| FreeBSD Documentation License | FreeBSD-DOC | 3.12 |
-| FreeImage Public License v1.0 | FreeImage | 2.0rc2 |
-| FSF All Permissive License | FSFAP | 2.4 |
-| FSF Unlimited License | FSFUL | 1.20 |
-| FSF Unlimited License (with License Retention) | FSFULLR | 1.20 |
-| FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | 3.19 |
-| Freetype Project License | FTL | 1.17 |
+| [Fair License](https://spdx.org/licenses/Fair.html) | Fair | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Fair.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Fair.html)) | N/A |
+| [Fraunhofer FDK AAC Codec Library](https://spdx.org/licenses/FDK-AAC.html) | FDK-AAC | 3.15 | none | blue (since [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/FDK-AAC.html)) | N/A |
+| [Frameworx Open License 1.0](https://spdx.org/licenses/Frameworx-1.0.html) | Frameworx-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Frameworx-1.0.html), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Frameworx-1.0.html)) | N/A |
+| [FreeBSD Documentation License](https://spdx.org/licenses/FreeBSD-DOC.html) | FreeBSD-DOC | 3.12 | none | blue (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/FreeBSD-DOC.html)) | N/A |
+| [FreeImage Public License v1.0](https://spdx.org/licenses/FreeImage.html) | FreeImage | 2.0rc2 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/FreeImage.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/FreeImage.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/FreeImage.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/FreeImage.html)) | N/A |
+| [FSF All Permissive License](https://spdx.org/licenses/FSFAP.html) | FSFAP | 2.4 | none | N/A | N/A |
+| [FSF Unlimited License](https://spdx.org/licenses/FSFUL.html) | FSFUL | 1.20 | none | N/A | N/A |
+| [FSF Unlimited License (with License Retention)](https://spdx.org/licenses/FSFULLR.html) | FSFULLR | 1.20 | none | N/A | N/A |
+| [FSF Unlimited License (With License Retention and Warranty Disclaimer)](https://spdx.org/licenses/FSFULLRWD.html) | FSFULLRWD | 3.19 | none | N/A | N/A |
+| [Freetype Project License](https://spdx.org/licenses/FTL.html) | FTL | 1.17 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/FTL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/FTL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/FTL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/FTL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/FTL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/FTL.html)) |
 | [GD License](https://spdx.org/licenses/GD.html) | GD | 3.12 | blue (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/GD.html)) | N/A | N/A |
 | [GNU Free Documentation License v1.1 only - invariants](https://spdx.org/licenses/GFDL-1.1-invariants-only.html) | GFDL-1.1-invariants-only | 3.10 | blue (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-invariants-only.html)) | blue (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-invariants-only.html)) | N/A |
 | [GNU Free Documentation License v1.1 or later - invariants](https://spdx.org/licenses/GFDL-1.1-invariants-or-later.html) | GFDL-1.1-invariants-or-later | 3.10 | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-invariants-or-later.html)) | red (since [3.10](https://github.com/spdx/license-list-data/blob/v3.10/html/GFDL-1.1-invariants-or-later.html)) | N/A |
