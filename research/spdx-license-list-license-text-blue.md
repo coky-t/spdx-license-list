@@ -186,23 +186,23 @@
 | DSDP License | DSDP | 1.20 |
 | David M. Gay dtoa License | dtoa | 3.21 |
 | dvipdfm License | dvipdfm | 1.20 |
-| Educational Community License v1.0 | ECL-1.0 | 1.0 |
-| Educational Community License v2.0 | ECL-2.0 | 1.0 |
-| Eiffel Forum License v1.0 | EFL-1.0 | 1.0 |
-| Eiffel Forum License v2.0 | EFL-2.0 | 1.0 |
-| eGenix.com Public License 1.1.0 | eGenix | 1.20 |
-| Elastic License 2.0 | Elastic-2.0 | 3.16 |
-| Entessa Public License v1.0 | Entessa | 1.0 |
-| EPICS Open License | EPICS | 3.10 |
-| Eclipse Public License 1.0 | EPL-1.0 | 1.0 |
-| Eclipse Public License 2.0 | EPL-2.0 | 3.0 |
-| Erlang Public License v1.1 | ErlPL-1.1 | 1.0 |
-| Etalab Open License 2.0 | etalab-2.0 | 3.7 |
-| EU DataGrid Software License | EUDatagrid | 1.0 |
-| European Union Public License 1.0 | EUPL-1.0 | 1.0 |
-| European Union Public License 1.1 | EUPL-1.1 | 1.0 |
-| European Union Public License 1.2 | EUPL-1.2 | 3.0 |
-| Eurosym License | Eurosym | 1.20 |
+| [Educational Community License v1.0](https://spdx.org/licenses/ECL-1.0.html) | ECL-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ECL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ECL-1.0.html)) | N/A |
+| [Educational Community License v2.0](https://spdx.org/licenses/ECL-2.0.html) | ECL-2.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ECL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ECL-2.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ECL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ECL-2.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ECL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ECL-2.0.html)) |
+| [Eiffel Forum License v1.0](https://spdx.org/licenses/EFL-1.0.html) | EFL-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EFL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EFL-1.0.html)) | N/A |
+| [Eiffel Forum License v2.0](https://spdx.org/licenses/EFL-2.0.html) | EFL-2.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EFL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EFL-2.0.html)) | N/A |
+| [eGenix.com Public License 1.1.0](https://spdx.org/licenses/eGenix.html) | eGenix | 1.20 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/eGenix.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/eGenix.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/eGenix.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/eGenix.html)) | N/A |
+| [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html) | Elastic-2.0 | 3.16 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/Elastic-2.0.html)) | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/Elastic-2.0.html)) | N/A |
+| [Entessa Public License v1.0](https://spdx.org/licenses/Entessa.html) | Entessa | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Entessa.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Entessa.html)) | N/A |
+| [EPICS Open License](https://spdx.org/licenses/EPICS.html) | EPICS | 3.10 | none | black | N/A |
+| [Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html) | EPL-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EPL-1.0.html)) | N/A |
+| [Eclipse Public License 2.0](https://spdx.org/licenses/EPL-2.0.html) | EPL-2.0 | 3.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EPL-2.0.html)) | N/A |
+| [Erlang Public License v1.1](https://spdx.org/licenses/ErlPL-1.1.html) | ErlPL-1.1 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ErlPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ErlPL-1.1.html)) | N/A |
+| [Etalab Open License 2.0](https://spdx.org/licenses/etalab-2.0.html) | etalab-2.0 | 3.7 | blue (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/etalab-2.0.html)) | blue (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/etalab-2.0.html)) | N/A |
+| [EU DataGrid Software License](https://spdx.org/licenses/EUDatagrid.html) | EUDatagrid | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EUDatagrid.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EUDatagrid.html)) | N/A |
+| [European Union Public License 1.0](https://spdx.org/licenses/EUPL-1.0.html) | EUPL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EUPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EUPL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EUPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EUPL-1.0.html)) | N/A |
+| [European Union Public License 1.1](https://spdx.org/licenses/EUPL-1.1.html) | EUPL-1.1 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EUPL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EUPL-1.1.html)) | N/A |
+| [European Union Public License 1.2](https://spdx.org/licenses/EUPL-1.2.html) | EUPL-1.2 | 3.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EUPL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EUPL-1.2.html)) | N/A |
+| [Eurosym License](https://spdx.org/licenses/Eurosym.html) | Eurosym | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Eurosym.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Eurosym.html)) | N/A |
 | [Fair License](https://spdx.org/licenses/Fair.html) | Fair | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Fair.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Fair.html)) | N/A |
 | [Fraunhofer FDK AAC Codec Library](https://spdx.org/licenses/FDK-AAC.html) | FDK-AAC | 3.15 | none | blue (since [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/FDK-AAC.html)) | N/A |
 | [Frameworx Open License 1.0](https://spdx.org/licenses/Frameworx-1.0.html) | Frameworx-1.0 | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Frameworx-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Frameworx-1.0.html)) | N/A |
