@@ -177,15 +177,15 @@
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | 1.0 |
 | Cube License | Cube | 1.20 |
 | curl License | curl | 2.3 |
-| Deutsche Freie Software Lizenz | D-FSL-1.0 | 1.18 |
-| diffmark license | diffmark | 1.20 |
-| Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | 3.16 |
-| DOC License | DOC | 1.20 |
-| Dotseqn License | Dotseqn | 1.20 |
-| Detection Rule License 1.0 | DRL-1.0 | 3.12 |
-| DSDP License | DSDP | 1.20 |
-| David M. Gay dtoa License | dtoa | 3.21 |
-| dvipdfm License | dvipdfm | 1.20 |
+| [Deutsche Freie Software Lizenz](https://github.com/spdx/license-list-data/blob/v3.0/html/diffmark.html) | D-FSL-1.0 | 1.18 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/D-FSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/D-FSL-1.0.html)) | black |
+| [diffmark license](https://spdx.org/licenses/diffmark.html) | diffmark | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/diffmark.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/diffmark.html)) | N/A |
+| [Data licence Germany - attribution - version 2.0](https://spdx.org/licenses/DL-DE-BY-2.0.html) | DL-DE-BY-2.0 | 3.16 | none | red (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/DL-DE-BY-2.0.html)) | N/A |
+| [DOC License](https://spdx.org/licenses/DOC.html) | DOC | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/DOC.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/DOC.html)) |
+| [Dotseqn License](https://spdx.org/licenses/Dotseqn.html) | Dotseqn | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Dotseqn.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Dotseqn.html)) |
+| [Detection Rule License 1.0](https://spdx.org/licenses/DRL-1.0.html) | DRL-1.0 | 3.12 | none | red (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/DRL-1.0.html)) | N/A |
+| [DSDP License](https://spdx.org/licenses/DSDP.html) | DSDP | 1.20 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/DSDP.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/DSDP.html)) |
+| [David M. Gay dtoa License](https://spdx.org/licenses/dtoa.html) | dtoa | 3.21 | none | N/A | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/dtoa.html)) |
+| [dvipdfm License](https://spdx.org/licenses/dvipdfm.html) | dvipdfm | 1.20 | none | N/A | N/A |
 | [Educational Community License v1.0](https://spdx.org/licenses/ECL-1.0.html) | ECL-1.0 | 1.0 | none | N/A | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ECL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ECL-1.0.html)) |
 | [Educational Community License v2.0](https://spdx.org/licenses/ECL-2.0.html) | ECL-2.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ECL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ECL-2.0.html)) | N/A |
 | [Eiffel Forum License v1.0](https://spdx.org/licenses/EFL-1.0.html) | EFL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/EFL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/EFL-1.0.html)) | N/A |
