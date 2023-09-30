@@ -138,45 +138,45 @@
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | 1.20 |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | 3.6 |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | 1.0 |
-| Common Development and Distribution License 1.0 | CDDL-1.0 | 1.0 |
-| Common Development and Distribution License 1.1 | CDDL-1.1 | 1.15 |
-| Common Documentation License 1.0 | CDL-1.0 | 3.13 |
-| Community Data License Agreement Permissive 1.0 | CDLA-Permissive-1.0 | 3.0 |
-| Community Data License Agreement Permissive 2.0 | CDLA-Permissive-2.0 | 3.14 |
-| Community Data License Agreement Sharing 1.0 | CDLA-Sharing-1.0 | 3.0 |
-| CeCILL Free Software License Agreement v1.0 | CECILL-1.0 | 1.0 |
-| CeCILL Free Software License Agreement v1.1 | CECILL-1.1 | 1.0 |
-| CeCILL Free Software License Agreement v2.0 | CECILL-2.0 | 1.0 |
-| CeCILL Free Software License Agreement v2.1 | CECILL-2.1 | 2.2 |
-| CeCILL-B Free Software License Agreement | CECILL-B | 1.0 |
-| CeCILL-C Free Software License Agreement | CECILL-C | 1.0 |
-| CERN Open Hardware Licence v1.1 | CERN-OHL-1.1 | 3.5 |
-| CERN Open Hardware Licence v1.2 | CERN-OHL-1.2 | 3.5 |
-| CERN Open Hardware Licence Version 2 - Permissive | CERN-OHL-P-2.0 | 3.9 |
-| CERN Open Hardware Licence Version 2 - Strongly Reciprocal | CERN-OHL-S-2.0 | 3.9 |
-| CERN Open Hardware Licence Version 2 - Weakly Reciprocal | CERN-OHL-W-2.0 | 3.9 |
-| CFITSIO License | CFITSIO | 3.20 |
-| Checkmk License | checkmk | 3.19 |
-| Clarified Artistic License | ClArtistic | 1.0 |
-| Clips License | Clips | 3.20 |
-| CMU Mach License | CMU-Mach | 3.20 |
-| CNRI Jython License | CNRI-Jython | 2.0 |
-| CNRI Python License | CNRI-Python | 1.14 |
-| CNRI Python Open Source GPL Compatible License Agreement | CNRI-Python-GPL-Compatible | 1.14 |
-| Copyfree Open Innovation License | COIL-1.0 | 3.15 |
-| Community Specification License 1.0 | Community-Spec-1.0 | 3.15 |
-| Condor Public License v1.1 | Condor-1.1 | 1.17 |
-| copyleft-next 0.3.0 | copyleft-next-0.3.0 | 3.4 |
-| copyleft-next 0.3.1 | copyleft-next-0.3.1 | 3.3 |
-| Cornell Lossless JPEG License | Cornell-Lossless-JPEG | 3.20 |
-| Common Public Attribution License 1.0 | CPAL-1.0 | 1.0 |
-| Common Public License 1.0 | CPL-1.0 | 1.0 |
-| Code Project Open License 1.02 | CPOL-1.02 | 1.18 |
-| Crossword License | Crossword | 1.20 |
-| CrystalStacker License | CrystalStacker | 2.2 |
-| CUA Office Public License v1.0 | CUA-OPL-1.0 | 1.0 |
-| Cube License | Cube | 1.20 |
-| curl License | curl | 2.3 |
+| [Common Development and Distribution License 1.0](https://spdx.org/licenses/CDDL-1.0.html) | CDDL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CDDL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CDDL-1.0.html)) | N/A |
+| [Common Development and Distribution License 1.1](https://spdx.org/licenses/CDDL-1.1.html) | CDDL-1.1 | 1.15 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CDDL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CDDL-1.1.html)) | N/A |
+| [Common Documentation License 1.0](https://spdx.org/licenses/CDL-1.0.html) | CDL-1.0 | 3.13 | none | red (since [3.13](https://spdx.org/licenses/CDL-1.0.html)) | black |
+| [Community Data License Agreement Permissive 1.0](https://spdx.org/licenses/CDLA-Permissive-1.0.html) | CDLA-Permissive-1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CDLA-Permissive-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CDLA-Permissive-1.0.html)) | N/A |
+| [Community Data License Agreement Permissive 2.0](https://spdx.org/licenses/CDLA-Permissive-2.0.html) | CDLA-Permissive-2.0 | 3.14 | none | red (since [3.14](https://github.com/spdx/license-list-data/blob/v3.14/html/CDLA-Permissive-2.0.html)) | N/A |
+| [Community Data License Agreement Sharing 1.0](https://spdx.org/licenses/CDLA-Sharing-1.0.html) | CDLA-Sharing-1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CDLA-Sharing-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CDLA-Sharing-1.0.html)) | N/A |
+| [CeCILL Free Software License Agreement v1.0](https://spdx.org/licenses/CECILL-1.0.html) | CECILL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CECILL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CECILL-1.0.html)) | N/A |
+| [CeCILL Free Software License Agreement v1.1](https://spdx.org/licenses/CECILL-1.1.html) | CECILL-1.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CECILL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CECILL-1.1.html)) | N/A |
+| [CeCILL Free Software License Agreement v2.0](https://spdx.org/licenses/CECILL-2.0.html) | CECILL-2.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CECILL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CECILL-2.0.html)) | N/A |
+| [CeCILL Free Software License Agreement v2.1](https://spdx.org/licenses/CECILL-2.1.html) | CECILL-2.1 | 2.2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CECILL-2.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CECILL-2.1.html)) | N/A |
+| [CeCILL-B Free Software License Agreement](https://spdx.org/licenses/CECILL-B.html) | CECILL-B | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CECILL-B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CECILL-B.html)) | N/A |
+| [CeCILL-C Free Software License Agreement](https://spdx.org/licenses/CECILL-C.html) | CECILL-C | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CECILL-C.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CECILL-C.html)) | N/A |
+| [CERN Open Hardware Licence v1.1](https://spdx.org/licenses/CERN-OHL-1.1.html) | CERN-OHL-1.1 | 3.5 | none | red (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/CERN-OHL-1.1.html)) | N/A |
+| [CERN Open Hardware Licence v1.2](https://spdx.org/licenses/CERN-OHL-1.2.html) | CERN-OHL-1.2 | 3.5 | none | red (since [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/CERN-OHL-1.2.html)) | N/A |
+| [CERN Open Hardware Licence Version 2 - Permissive](https://spdx.org/licenses/CERN-OHL-P-2.0.html) | CERN-OHL-P-2.0 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CERN-OHL-P-2.0.html)) | N/A |
+| [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://spdx.org/licenses/CERN-OHL-S-2.0.html) | CERN-OHL-S-2.0 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CERN-OHL-S-2.0.html)) | N/A |
+| [CERN Open Hardware Licence Version 2 - Weakly Reciprocal](https://spdx.org/licenses/CERN-OHL-W-2.0.html) | CERN-OHL-W-2.0 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/CERN-OHL-W-2.0.html)) | N/A |
+| [CFITSIO License](https://spdx.org/licenses/CFITSIO.html) | CFITSIO | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/CFITSIO.html)) |
+| [Checkmk License](https://spdx.org/licenses/checkmk.html) | checkmk | 3.19 | none | N/A | red (since [3.19](https://github.com/spdx/license-list-data/blob/v3.19/html/checkmk.html)) |
+| [Clarified Artistic License](https://spdx.org/licenses/ClArtistic.html) | ClArtistic | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/ClArtistic.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/ClArtistic.html)) | N/A |
+| [Clips License](https://spdx.org/licenses/Clips.html) | Clips | 3.20 | none | N/A | N/A |
+| [CMU Mach License](https://spdx.org/licenses/CMU-Mach.html) | CMU-Mach | 3.20 | none | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/CMU-Mach.html)) |
+| [CNRI Jython License](https://spdx.org/licenses/CNRI-Jython.html) | CNRI-Jython | 2.0 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CNRI-Jython.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CNRI-Jython.html)) | N/A |
+| [CNRI Python License](https://spdx.org/licenses/CNRI-Python.html) | CNRI-Python | 1.14 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CNRI-Python.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CNRI-Python.html)) | N/A |
+| [CNRI Python Open Source GPL Compatible License Agreement](https://spdx.org/licenses/CNRI-Python-GPL-Compatible.html) | CNRI-Python-GPL-Compatible | 1.14 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CNRI-Python-GPL-Compatible.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CNRI-Python-GPL-Compatible.html)) | N/A |
+| [Copyfree Open Innovation License](https://spdx.org/licenses/COIL-1.0.html) | COIL-1.0 | 3.15 | none | red (since [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/COIL-1.0.html)) | N/A |
+| [Community Specification License 1.0](https://spdx.org/licenses/Community-Spec-1.0.html) | Community-Spec-1.0 | 3.15 | none | red (since [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/Community-Spec-1.0.html)) | N/A |
+| [Condor Public License v1.1](https://spdx.org/licenses/Condor-1.1.html) | Condor-1.1 | 1.17 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Condor-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Condor-1.1.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Condor-1.1.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Condor-1.1.html)) |
+| [copyleft-next 0.3.0](https://spdx.org/licenses/copyleft-next-0.3.0.html) | copyleft-next-0.3.0 | 3.4 | none | red (since [3.4](https://github.com/spdx/license-list-data/blob/v3.4/html/copyleft-next-0.3.0.html)) | N/A |
+| [copyleft-next 0.3.1](https://spdx.org/licenses/copyleft-next-0.3.1.html) | copyleft-next-0.3.1 | 3.3 | none | red (since [3.3](https://github.com/spdx/license-list-data/blob/v3.3/html/copyleft-next-0.3.1.html)) | N/A |
+| [Cornell Lossless JPEG License](https://spdx.org/licenses/Cornell-Lossless-JPEG.html) | Cornell-Lossless-JPEG | 3.20 | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/Cornell-Lossless-JPEG.html)) | N/A | red (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/Cornell-Lossless-JPEG.html)) |
+| [Common Public Attribution License 1.0](https://spdx.org/licenses/CPAL-1.0.html) | CPAL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CPAL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CPAL-1.0.html)) | N/A |
+| [Common Public License 1.0](https://spdx.org/licenses/CPL-1.0.html) | CPL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CPL-1.0.html)) | N/A |
+| [Code Project Open License 1.02](https://spdx.org/licenses/CPOL-1.02.html) | CPOL-1.02 | 1.18 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CPOL-1.02.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CPOL-1.02.html)) | N/A |
+| [Crossword License](https://spdx.org/licenses/Crossword.html) | Crossword | 1.20 | none | N/A | N/A |
+| [CrystalStacker License](https://spdx.org/licenses/CrystalStacker.html) | CrystalStacker | 2.2 | none | N/A | N/A |
+| [CUA Office Public License v1.0](https://spdx.org/licenses/CUA-OPL-1.0.html) | CUA-OPL-1.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/CUA-OPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/CUA-OPL-1.0.html)) | N/A |
+| [Cube License](https://spdx.org/licenses/Cube.html) | Cube | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Cube.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Cube.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Cube.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Cube.html)) |
+| [curl License](https://spdx.org/licenses/curl.html) | curl | 2.3 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/curl.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/curl.html)) |
 | [Deutsche Freie Software Lizenz](https://github.com/spdx/license-list-data/blob/v3.0/html/diffmark.html) | D-FSL-1.0 | 1.18 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/D-FSL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/D-FSL-1.0.html)) | black |
 | [diffmark license](https://spdx.org/licenses/diffmark.html) | diffmark | 1.20 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/diffmark.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/diffmark.html)) | N/A |
 | [Data licence Germany - attribution - version 2.0](https://spdx.org/licenses/DL-DE-BY-2.0.html) | DL-DE-BY-2.0 | 3.16 | none | red (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/DL-DE-BY-2.0.html)) | N/A |
