@@ -533,37 +533,37 @@
 
 | License Name | Identifier | Release | Deprecated | B.3.4 Replacable Text (exclude B.8, B11) | B.8 Bullets and numbering | B.11 Copyright notice |
 | ------------ | ---------- | ------- | ---------- | ---------------------------------------- | ------------------------- | --------------------- |
-| Affero General Public License v1.0 | AGPL-1.0 | 1.18 | 3.1 |
-| GNU Affero General Public License v3.0 | AGPL-3.0 | 1.0 | 3.0 |
-| BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | 1.15 | 3.10 |
-| BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | 1.15 | 3.9 |
-| bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | 1.20 | 3.16 |
-| eCos license version 2.0 | eCos-2.0 | 1.0 | 2.0rc2 |
-| GNU Free Documentation License v1.1 | GFDL-1.1 | 1.0 | 3.0 |
-| GNU Free Documentation License v1.2 | GFDL-1.2 | 1.0 | 3.0 |
-| GNU Free Documentation License v1.3 | GFDL-1.3 | 1.0 | 3.0 |
-| GNU General Public License v1.0 only | GPL-1.0 | 1.0 | 3.0 |
-| GNU General Public License v1.0 or later | GPL-1.0+ | 1.0 | 2.0rc2 |
-| GNU General Public License v2.0 only | GPL-2.0 | 1.0 | 3.0 |
-| GNU General Public License v2.0 or later | GPL-2.0+ | 1.0 | 2.0rc2 |
-| GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | 1.0 | 2.0rc2 |
-| GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | 1.0 | 2.0rc2 |
-| GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | 1.0 | 2.0rc2 |
-| GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | 1.0 | 2.0rc2 |
-| GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | 1.0 | 2.0rc2 |
-| GNU General Public License v3.0 only | GPL-3.0 | 1.0 | 3.0 |
-| GNU General Public License v3.0 or later | GPL-3.0+ | 1.0 | 2.0rc2 |
-| GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | 1.0 | 2.0rc2 |
-| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | 1.0 | 2.0rc2 |
-| GNU Library General Public License v2 only | LGPL-2.0 | 1.0 | 3.0 |
-| GNU Library General Public License v2 or later | LGPL-2.0+ | 1.0 | 2.0rc2 |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1 | 1.0 | 3.0 |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 1.0 | 2.0rc2 |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0 | 1.0 | 3.0 |
-| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 1.0 | 2.0rc2 |
-| Nunit License | Nunit | 1.20 | 3.0 |
-| Standard ML of New Jersey License | StandardML-NJ | 1.20 | 2.0rc2 |
-| wxWindows Library License | wxWindows | 1.0 | 2.0rc2 |
+| [Affero General Public License v1.0](https://spdx.org/licenses/AGPL-1.0.html) | AGPL-1.0 | 1.18 | 3.1 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/AGPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/AGPL-1.0.html)) | black |
+| [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0.html) | AGPL-3.0 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/AGPL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/AGPL-3.0.html)) | black |
+| [BSD 2-Clause FreeBSD License](https://spdx.org/licenses/BSD-2-Clause-FreeBSD.html) | BSD-2-Clause-FreeBSD | 1.15 | 3.10 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-2-Clause-FreeBSD.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-2-Clause-FreeBSD.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/BSD-2-Clause-FreeBSD.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/BSD-2-Clause-FreeBSD.html)) |
+| [BSD 2-Clause NetBSD License](https://spdx.org/licenses/BSD-2-Clause-NetBSD.html) | BSD-2-Clause-NetBSD | 1.15 | 3.9 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-2-Clause-NetBSD.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-2-Clause-NetBSD.html)) | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/BSD-2-Clause-NetBSD.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/BSD-2-Clause-NetBSD.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/BSD-2-Clause-NetBSD.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/BSD-2-Clause-NetBSD.html)) |
+| [bzip2 and libbzip2 License v1.0.5](https://spdx.org/licenses/bzip2-1.0.5.html) | bzip2-1.0.5 | 1.20 | 3.16 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/bzip2-1.0.5.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/bzip2-1.0.5.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/bzip2-1.0.5.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/bzip2-1.0.5.html)) |
+| [eCos license version 2.0](https://spdx.org/licenses/eCos-2.0.html) | eCos-2.0 | 1.0 | 2.0rc2 | none | N/A | black |
+| [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1.html) | GFDL-1.1 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.1.html)) | black |
+| [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2.html) | GFDL-1.2 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.2.html)) | black |
+| [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3.html) | GFDL-1.3 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GFDL-1.3.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GFDL-1.3.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/GFDL-1.3.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/GFDL-1.3.html)) |
+| [GNU General Public License v1.0 only](https://spdx.org/licenses/GPL-1.0.html) | GPL-1.0 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-1.0.html)) | black |
+| [GNU General Public License v1.0 or later](https://spdx.org/licenses/GPL-1.0+.html) | GPL-1.0+ | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-1.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-1.0%2B.html)) | black |
+| [GNU General Public License v2.0 only](https://spdx.org/licenses/GPL-2.0.html) | GPL-2.0 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-2.0.html)) | black |
+| [GNU General Public License v2.0 or later](https://spdx.org/licenses/GPL-2.0+.html) | GPL-2.0+ | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-2.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-2.0%2B.html)) | black |
+| [GNU General Public License v2.0 w/Autoconf exception](https://spdx.org/licenses/GPL-2.0-with-autoconf-exception.html) | GPL-2.0-with-autoconf-exception | 1.0 | 2.0rc2 | none | N/A | N/A |
+| [GNU General Public License v2.0 w/Bison exception](https://spdx.org/licenses/GPL-2.0-with-bison-exception.html) | GPL-2.0-with-bison-exception | 1.0 | 2.0rc2 | none | N/A | N/A |
+| [GNU General Public License v2.0 w/Classpath exception](https://spdx.org/licenses/GPL-2.0-with-classpath-exception.html) | GPL-2.0-with-classpath-exception | 1.0 | 2.0rc2 | none | N/A | N/A |
+| [GNU General Public License v2.0 w/Font exception](https://spdx.org/licenses/GPL-2.0-with-font-exception.html) | GPL-2.0-with-font-exception | 1.0 | 2.0rc2 | none | N/A | N/A |
+| [GNU General Public License v2.0 w/GCC Runtime Library exception](https://spdx.org/licenses/GPL-2.0-with-GCC-exception.html) | GPL-2.0-with-GCC-exception | 1.0 | 2.0rc2 | none | N/A | N/A |
+| [GNU General Public License v3.0 only](https://spdx.org/licenses/GPL-3.0.html) | GPL-3.0 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-3.0.html)) | black |
+| [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0+.html) | GPL-3.0+ | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-3.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-3.0%2B.html)) | black |
+| [GNU General Public License v3.0 w/Autoconf exception](https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html) | GPL-3.0-with-autoconf-exception | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-3.0-with-autoconf-exception.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-3.0-with-autoconf-exception.html)) | black |
+| [GNU General Public License v3.0 w/GCC Runtime Library exception](https://spdx.org/licenses/GPL-3.0-with-GCC-exception.html) | GPL-3.0-with-GCC-exception | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GPL-3.0-with-GCC-exception.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GPL-3.0-with-GCC-exception.html)) | black |
+| [GNU Library General Public License v2 only](https://spdx.org/licenses/LGPL-2.0.html) | LGPL-2.0 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.0.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/LGPL-2.0.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/LGPL-2.0.html)) |
+| [GNU Library General Public License v2 or later](https://spdx.org/licenses/LGPL-2.0+.html) | LGPL-2.0+ | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.0%2B.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/LGPL-2.0%2B.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/LGPL-2.0%2B.html)) |
+| [GNU Lesser General Public License v2.1 only](https://spdx.org/licenses/LGPL-2.1.html) | LGPL-2.1 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.1.html)) | black |
+| [GNU Lesser General Public License v2.1 or later](https://spdx.org/licenses/LGPL-2.1+.html) | LGPL-2.1+ | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.1%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.1%2B.html)) | black |
+| [GNU Lesser General Public License v3.0 only](https://spdx.org/licenses/LGPL-3.0.html) | LGPL-3.0 | 1.0 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0.html)) | black |
+| [GNU Lesser General Public License v3.0 or later](https://spdx.org/licenses/LGPL-3.0+.html) | LGPL-3.0+ | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0%2B.html)) | black |
+| [Nunit License](https://spdx.org/licenses/Nunit.html) | Nunit | 1.20 | 3.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Nunit.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Nunit.html)) | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/Nunit.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/Nunit.html)) |
+| [Standard ML of New Jersey License](https://spdx.org/licenses/StandardML-NJ.html) | StandardML-NJ | 1.20 | 2.0rc2 | none | N/A | red (since [3.6](https://github.com/spdx/license-list-data/blob/v3.6/html/StandardML-NJ.html)), black (until [3.5](https://github.com/spdx/license-list-data/blob/v3.5/html/StandardML-NJ.html)) |
+| [wxWindows Library License](https://spdx.org/licenses/wxWindows.html) | wxWindows | 1.0 | 2.0rc2 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/WXwindows.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/WXwindows.html)) | N/A |
 
 ## Reference
 
