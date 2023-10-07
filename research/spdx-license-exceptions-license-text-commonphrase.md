@@ -7,6 +7,7 @@
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | As a special exception |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | an additional permission |
 | Autoconf generic exception | Autoconf-exception-generic | As a special exception |
+| Autoconf generic exception for GPL-3.0 | Autoconf-exception-generic-3.0 | As a special exception |
 | Autoconf macro exception | Autoconf-exception-macro | As a special exception |
 | Bison exception 2.2 | Bison-exception-2.2 | As a special exception |
 | Bootloader Distribution Exception | Bootloader-exception | In addition to the permissions |
@@ -20,8 +21,10 @@
 | Font exception 2.0 | Font-exception-2.0 | As a special exception |
 | FreeRTOS Exception 2.0 | freertos-exception-2.0 | As a special exception |
 | GCC Runtime Library exception 2.0 | GCC-exception-2.0 | In addition to the permissions |
+| GCC Runtime Library exception 2.0 - note variant | GCC-exception-2.0-note | In addition to the permissions |
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | an additional permission |
 | GNAT exception | GNAT-exception | As a special exception |
+| GNU Compiler Exception | GNU-compiler-exception | As a special exception |
 | GNU JavaMail exception | gnu-javamail-exception | As a special exception |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | As a special exception |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | Additional permission / grant you additional permission |
@@ -48,11 +51,15 @@
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | As a special exception |
 | Qt LGPL exception 1.1 | Qt-LGPL-exception-1.1 | As an additional permission |
 | Qwt exception 1.0 | Qwt-exception-1.0 | with the following exceptions |
+| SANE Exception | SANE-exception | As a special exception |
 | Solderpad Hardware License v2.0 | SHL-2.0 | |
 | Solderpad Hardware License v2.1 | SHL-2.1 | |
+| stunnel Exception | stunnel-exception | In addition, as a special exception |
 | SWI exception | SWI-exception | As a special exception |
 | Swift Exception | Swift-exception | As an exception |
+| Texinfo exception | Texinfo-exception | As a special exception |
 | U-Boot exception 2.0 | u-boot-exception-2.0 | |
+| Unmodified Binary Distribution exception | UBDL-exception | |
 | Universal FOSS Exception, Version 1.0 | Universal-FOSS-exception-1.0 | additional permission |
 | vsftpd OpenSSL exception | vsftpd-openssl-exception | |
 | WxWindows Library Exception 3.1 | WxWindows-exception-3.1 | As a special exception |

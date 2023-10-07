@@ -7,6 +7,7 @@
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | 1573 |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | 1818 |
 | Autoconf generic exception | Autoconf-exception-generic | 266 |
+| Autoconf generic exception for GPL-3.0 | Autoconf-exception-generic-3.0 | 387 |
 | Autoconf macro exception | Autoconf-exception-macro | 768 |
 | Bison exception 2.2 | Bison-exception-2.2 | 673 |
 | Bootloader Distribution Exception | Bootloader-exception | 523 |
@@ -20,8 +21,10 @@
 | Font exception 2.0 | Font-exception-2.0 | 582 |
 | FreeRTOS Exception 2.0 | freertos-exception-2.0 | 1687 |
 | GCC Runtime Library exception 2.0 | GCC-exception-2.0 | 482 |
+| GCC Runtime Library exception 2.0 - note variant | GCC-exception-2.0-note | 905 |
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | 3390 |
 | GNAT exception | GNAT-exception | 379 |
+| GNU Compiler Exception | GNU-compiler-exception | 346 |
 | GNU JavaMail exception | gnu-javamail-exception | 341 |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | 1618 |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | 359  |
@@ -48,11 +51,15 @@
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | 964 |
 | Qt LGPL exception 1.1 | Qt-LGPL-exception-1.1 | 1195 |
 | Qwt exception 1.0 | Qwt-exception-1.0 | 1199 |
+| SANE Exception | SANE-exception | 1003 |
 | Solderpad Hardware License v2.0 | SHL-2.0 | 2776 |
 | Solderpad Hardware License v2.1 | SHL-2.1 | 4485 |
+| stunnel Exception | stunnel-exception | 1047 |
 | SWI exception | SWI-exception | 382 |
 | Swift Exception | Swift-exception | 355 |
+| Texinfo exception | Texinfo-exception | 256 |
 | U-Boot exception 2.0 | u-boot-exception-2.0 | 629 |
+| Unmodified Binary Distribution exception | UBDL-exception | 2931 |
 | Universal FOSS Exception, Version 1.0 | Universal-FOSS-exception-1.0 | 3154 |
 | vsftpd OpenSSL exception | vsftpd-openssl-exception | 295 |
 | WxWindows Library Exception 3.1 | WxWindows-exception-3.1 | 1267 |
