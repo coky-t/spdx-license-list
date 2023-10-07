@@ -8,6 +8,7 @@
 | AdaCore Doc License | AdaCore-doc | 3.20 |
 | Adobe Systems Incorporated Source Code License Agreement | Adobe-2006 | 1.20 |
 | Adobe Glyph List License | Adobe-Glyph | 1.20 |
+| Adobe Utopia Font License | Adobe-Utopia | 3.22 |
 | Amazon Digital Services License | ADSL | 1.20 |
 | Academic Free License v1.1 | AFL-1.1 | 1.14 |
 | Academic Free License v1.2 | AFL-1.2 | 1.0 |
@@ -62,6 +63,8 @@
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1.0 |
 | BSD with attribution | BSD-3-Clause-Attribution | 1.20 |
 | BSD 3-Clause Clear License | BSD-3-Clause-Clear | 1.17 |
+| BSD 3-Clause Flex variant | BSD-3-Clause-flex | 3.22 |
+| Hewlett-Packard BSD variant license | BSD-3-Clause-HP | 3.22 |
 | Lawrence Berkeley National Labs BSD variant license | BSD-3-Clause-LBNL | 1.20 |
 | BSD 3-Clause Modification | BSD-3-Clause-Modification | 3.12 |
 | BSD 3-Clause No Military License | BSD-3-Clause-No-Military-License | 3.13 |
@@ -69,6 +72,7 @@
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | 2.5 |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | 2.5 |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | 3.6 |
+| BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | 3.22 |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | 1.0 |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | 3.12 |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | 1.15 |
@@ -76,8 +80,10 @@
 | BSD 4.3 TAHOE License | BSD-4.3TAHOE | 3.20 |
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | 3.20 |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | 3.20 |
+| BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | 3.22 |
 | BSD Protection License | BSD-Protection | 1.20 |
 | BSD Source Code Attribution | BSD-Source-Code | 2.5 |
+| Systemics BSD variant license | BSD-Systemics | 3.22 |
 | Boost Software License 1.0 | BSL-1.0 | 1.0 |
 | Business Source License 1.1 | BUSL-1.1 | 3.11 |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | 1.20 |
@@ -156,6 +162,7 @@
 | CERN Open Hardware Licence Version 2 - Strongly Reciprocal | CERN-OHL-S-2.0 | 3.9 |
 | CERN Open Hardware Licence Version 2 - Weakly Reciprocal | CERN-OHL-W-2.0 | 3.9 |
 | CFITSIO License | CFITSIO | 3.20 |
+| check-cvs License | check-cvs | 3.22 |
 | Checkmk License | checkmk | 3.19 |
 | Clarified Artistic License | ClArtistic | 1.0 |
 | Clips License | Clips | 3.20 |
@@ -172,6 +179,7 @@
 | Common Public Attribution License 1.0 | CPAL-1.0 | 1.0 |
 | Common Public License 1.0 | CPL-1.0 | 1.0 |
 | Code Project Open License 1.02 | CPOL-1.02 | 1.18 |
+| Cronyx License | Cronyx | 3.22 |
 | Crossword License | Crossword | 1.20 |
 | CrystalStacker License | CrystalStacker | 2.2 |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | 1.0 |
@@ -180,6 +188,7 @@
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | 1.18 |
 | diffmark license | diffmark | 1.20 |
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | 3.16 |
+| Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | 3.22 |
 | DOC License | DOC | 1.20 |
 | Dotseqn License | Dotseqn | 1.20 |
 | Detection Rule License 1.0 | DRL-1.0 | 3.12 |
@@ -204,7 +213,9 @@
 | European Union Public License 1.2 | EUPL-1.2 | 3.0 |
 | Eurosym License | Eurosym | 1.20 |
 | Fair License | Fair | 1.0 |
+| Fuzzy Bitmap License | FBM | 3.22 |
 | Fraunhofer FDK AAC Codec Library | FDK-AAC | 3.15 |
+| Ferguson Twofish License | Ferguson-Twofish | 3.22 |
 | Frameworx Open License 1.0 | Frameworx-1.0 | 1.0 |
 | FreeBSD Documentation License | FreeBSD-DOC | 3.12 |
 | FreeImage Public License v1.0 | FreeImage | 2.0rc2 |
@@ -213,6 +224,8 @@
 | FSF Unlimited License (with License Retention) | FSFULLR | 1.20 |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | 3.19 |
 | Freetype Project License | FTL | 1.17 |
+| Furuseth License | Furuseth | 3.22 |
+| fwlw License | fwlw | 3.22 |
 | GD License | GD | 3.12 |
 | GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | 3.10 |
 | GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | 3.10 |
@@ -249,11 +262,19 @@
 | Haskell Language Report License | HaskellReport | 1.20 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 3.9 |
 | Hewlett-Packard 1986 License | HP-1986 | 3.20 |
+| Hewlett-Packard 1989 License | HP-1989 | 3.22 |
 | Historical Permission Notice and Disclaimer | HPND | 1.0 |
+| Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | 3.22 |
+| Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | 3.22 |
+| Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | 3.22 |
 | HPND with US Government export control warning | HPND-export-US | 3.20 |
+| HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | 3.22 |
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | 3.20 |
+| Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | 3.22 |
+| Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | 3.22 |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 3.5 |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 3.20 |
+| Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | 3.22 |
 | HTML Tidy License | HTMLTIDY | 3.11 |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | 1.19 |
 | ICU License | ICU | 2.0 |
@@ -276,6 +297,7 @@
 | JPL Image Use Policy | JPL-image | 3.20 |
 | Japan Network Information Center License | JPNIC | 3.5 |
 | JSON License | JSON | 1.17 |
+| Kastrup License | Kastrup | 3.22 |
 | Kazlib License | Kazlib | 3.20 |
 | Knuth CTAN License | Knuth-CTAN | 3.19 |
 | Licence Art Libre 1.2 | LAL-1.2 | 2.4 |
@@ -311,10 +333,14 @@
 | LaTeX Project Public License v1.2 | LPPL-1.2 | 1.0 |
 | LaTeX Project Public License v1.3a | LPPL-1.3a | 1.17 |
 | LaTeX Project Public License v1.3c | LPPL-1.3c | 1.0 |
+| lsof License | lsof | 3.22 |
+| Lucida Bitmap Fonts License | Lucida-Bitmap-Fonts | 3.22 |
 | LZMA SDK License (versions 9.11 to 9.20) | LZMA-SDK-9.11-to-9.20 | 3.18 |
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | 3.18 |
+| magaz License | magaz | 3.22 |
 | MakeIndex License | MakeIndex | 1.20 |
 | Martin Birgmeier License | Martin-Birgmeier | 3.20 |
+| McPhee Slideshow License | McPhee-slideshow | 3.22 |
 | metamail License | metamail | 3.21 |
 | Minpack License | Minpack | 3.18 |
 | The MirOS Licence | MirOS | 1.0 |
@@ -327,9 +353,12 @@
 | MIT Festival Variant | MIT-Festival | 3.21 |
 | MIT License Modern Variant | MIT-Modern-Variant | 3.12 |
 | MIT Open Group variant | MIT-open-group | 3.11 |
+| MIT testregex Variant | MIT-testregex | 3.22 |
 | MIT Tom Wu Variant | MIT-Wu | 3.20 |
 | MIT +no-false-attribs license | MITNFA | 1.20 |
+| MMIXware License | MMIXware | 3.22 |
 | Motosoto License | Motosoto | 1.0 |
+| MPEG Software Simulation | MPEG-SSG | 3.22 |
 | mpi Permissive License | mpi-permissive | 3.18 |
 | mpich2 License | mpich2 | 1.20 |
 | Mozilla Public License 1.0 | MPL-1.0 | 1.0 |
@@ -419,12 +448,14 @@
 | Open Software License 2.0 | OSL-2.0 | 1.0 |
 | Open Software License 2.1 | OSL-2.1 | 1.14 |
 | Open Software License 3.0 | OSL-3.0 | 1.0 |
+| PADL License | PADL | 3.22 |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | 3.6 |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | 3.9 |
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | 1.0 |
 | PHP License v3.0 | PHP-3.0 | 1.0 |
 | PHP License v3.01 | PHP-3.01 | 1.15 |
 | Plexus Classworlds License | Plexus | 1.20 |
+| pnmstitch License | pnmstitch | 3.22 |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | 3.9 |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | 3.9 |
 | PostgreSQL License | PostgreSQL | 1.0 |
@@ -433,6 +464,7 @@
 | psutils License | psutils | 1.20 |
 | Python License 2.0 | Python-2.0 | 1.0 |
 | Python License 2.0.1 | Python-2.0.1 | 3.18 |
+| Python ldap License | python-ldap | 3.22 |
 | Qhull License | Qhull | 1.20 |
 | Q Public License 1.0 | QPL-1.0 | 1.0 |
 | Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | 3.20 |
@@ -453,27 +485,32 @@
 | SGI Free Software License B v1.0 | SGI-B-1.0 | 1.17 |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | 1.17 |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | 1.17 |
+| SGI OpenGL License | SGI-OpenGL | 3.22 |
 | SGP4 Permission Notice | SGP4 | 3.21 |
 | Solderpad Hardware License v0.5 | SHL-0.5 | 3.6 |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | 3.6 |
 | Simple Public License 2.0 | SimPL-2.0 | 1.0 |
 | Sun Industry Standards Source License v1.1 | SISSL | 1.17 |
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | 1.19 |
+| SL License | SL | 3.22 |
 | Sleepycat License | Sleepycat | 1.0 |
 | Standard ML of New Jersey License | SMLNJ | 1.17 |
 | Secure Messaging Protocol Public License | SMPPL | 2.4 |
 | SNIA Public License 1.1 | SNIA | 1.20 |
 | snprintf License | snprintf | 3.20 |
+| Soundex License | Soundex | 3.22 |
 | Spencer License 86 | Spencer-86 | 2.1 |
 | Spencer License 94 | Spencer-94 | 2.1 |
 | Spencer License 99 | Spencer-99 | 2.1 |
 | Sun Public License v1.0 | SPL-1.0 | 1.0 |
+| ssh-keyscan License | ssh-keyscan | 3.22 |
 | SSH OpenSSH license | SSH-OpenSSH | 3.7 |
 | SSH short notice | SSH-short | 3.7 |
 | Server Side Public License, v 1 | SSPL-1.0 | 3.6 |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 1.0 |
 | SunPro License | SunPro | 3.20 |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | 1.20 |
+| swrule License | swrule | 3.22 |
 | Symlinks License | Symlinks | 3.20 |
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | 3.5 |
 | TCL/TK License | TCL | 1.20 |
@@ -485,16 +522,19 @@
 | Time::ParseDate License | TPDL | 3.20 |
 | THOR Public License 1.0 | TPL-1.0 | 3.20 |
 | Text-Tabs+Wrap License | TTWL | 3.20 |
+| TTYP0 License | TTYP0 | 3.22 |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | 3.2 |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | 3.2 |
 | UCAR License | UCAR | 3.20 |
 | Upstream Compatibility License v1.0 | UCL-1.0 | 3.7 |
+| ulem License | ulem | 3.22 |
 | Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | 2.6 |
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | 2.6 |
 | Unicode Terms of Use | Unicode-TOU | 1.20 |
 | UnixCrypt License | UnixCrypt | 3.21 |
 | The Unlicense | Unlicense | 1.19 |
 | Universal Permissive License v1.0 | UPL-1.0 | 2.1 |
+| Utah Raster Toolkit Run Length Encoded License | URT-RLE | 3.22 |
 | Vim License | Vim | 1.20 |
 | VOSTROM Public License for Open Source | VOSTROM | 1.20 |
 | Vovida Software License v1.0 | VSL-1.0 | 1.0 |
@@ -520,6 +560,7 @@
 | Yahoo! Public License v1.0 | YPL-1.0 | 1.15 |
 | Yahoo! Public License v1.1 | YPL-1.1 | 1.0 |
 | Zed License | Zed | 1.20 |
+| Zeeff License | Zeeff | 3.22 |
 | Zend License v2.0 | Zend-2.0 | 1.20 |
 | Zimbra Public License v1.3 | Zimbra-1.3 | 1.0 |
 | Zimbra Public License v1.4 | Zimbra-1.4 | 2.0rc2 |
