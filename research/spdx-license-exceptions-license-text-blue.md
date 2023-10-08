@@ -36,7 +36,7 @@
 | [KiCad Libraries Exception](https://spdx.org/licenses/KiCad-libraries-exception.html) | KiCad-libraries-exception | 3.17 | none | N/A | N/A |
 | [LGPL-3.0 Linking Exception](https://spdx.org/licenses/LGPL-3.0-linking-exception.html) | LGPL-3.0-linking-exception | 3.9 | none | N/A | N/A |
 | [libpri OpenH323 exception](https://spdx.org/licenses/libpri-OpenH323-exception.html) | libpri-OpenH323-exception | 3.21 | none | N/A | N/A |
-| [Libtool Exception](https://spdx.org/licenses/Libtool-exception.html) | Libtool-exception | 2.1 | none | N/A | N/A |
+| [Libtool Exception](https://spdx.org/licenses/Libtool-exception.html) | Libtool-exception | 2.1 | blue (since [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/Libtool-exception.html)), none (until [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/Libtool-exception.html)) | N/A | N/A |
 | [Linux Syscall Note](https://spdx.org/licenses/Linux-syscall-note.html) | Linux-syscall-note | 3.0 | none | N/A | N/A |
 | [LLGPL Preamble](https://spdx.org/licenses/LLGPL.html) | LLGPL | 3.21 | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/LLGPL.html)) | N/A | N/A |
 | [LLVM Exception](https://spdx.org/licenses/LLVM-exception.html) | LLVM-exception | 3.1 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LLVM-exception.html)) | N/A |
