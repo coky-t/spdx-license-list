@@ -11,7 +11,7 @@
 | [Adobe Utopia Font License](https://spdx.org/licenses/Adobe-Utopia.html) | Adobe-Utopia | 3.22 | none | N/A | N/A |
 | [Amazon Digital Services License](https://spdx.org/licenses/ADSL.html) | ADSL | 1.20 | none | N/A | black |
 | [Academic Free License v1.1](https://spdx.org/licenses/AFL-1.1.html) | AFL-1.1 | 1.14 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/AFL-1.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/AFL-1.1.html)) | black |
-| [Academic Free License v1.2](https://spdx.org/licenses/AFL-1.2.html) | AFL-1.2 | 1.0 | none | none | black |
+| [Academic Free License v1.2](https://spdx.org/licenses/AFL-1.2.html) | AFL-1.2 | 1.0 | none | N/A | black |
 | [Academic Free License v2.0](https://spdx.org/licenses/AFL-2.0.html) | AFL-2.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/AFL-2.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/AFL-2.0.html)) | black |
 | [Academic Free License v2.1](https://spdx.org/licenses/AFL-2.1.html) | AFL-2.1 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/AFL-2.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/AFL-2.1.html)) | black |
 | [Academic Free License v3.0](https://spdx.org/licenses/AFL-3.0.html) | AFL-3.0 | 1.0 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/AFL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/AFL-3.0.html)) | black |
