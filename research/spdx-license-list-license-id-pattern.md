@@ -88,7 +88,7 @@
 | Business Source License 1.1 | BUSL-1.1 | |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
-| Cryptographic Autonomy License 1.0 | CAL-1.0 | |
+| Cryptographic Autonomy License 1.0 | CAL-1.0 | `(?!\-)` |
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | |
 | Caldera License | Caldera | |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | |
