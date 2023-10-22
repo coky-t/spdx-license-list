@@ -265,7 +265,7 @@
 | Hewlett-Packard 1989 License | HP-1989 | |
 | Historical Permission Notice and Disclaimer | HPND | `(?!\-)` |
 | Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | |
-| Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | |
+| Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | `(?!\-)` |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | |
 | HPND with US Government export control warning | HPND-export-US | `(?!\-)` |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | |
