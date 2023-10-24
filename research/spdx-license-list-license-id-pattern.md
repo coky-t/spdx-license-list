@@ -466,7 +466,7 @@
 | Python License 2.0.1 | Python-2.0.1 | |
 | Python ldap License | python-ldap | |
 | Qhull License | Qhull | |
-| Q Public License 1.0 | QPL-1.0 | |
+| Q Public License 1.0 | QPL-1.0 | `(?!\.)`|
 | Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | |
 | Rdisc License | Rdisc | |
 | Red Hat eCos Public License v1.1 | RHeCos-1.1 | |
