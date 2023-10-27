@@ -469,7 +469,7 @@
 | Q Public License 1.0 | QPL-1.0 | https://www.gnu.org/licenses/license-list.en.html#QPL | https://www.gnu.org/licenses/license-list.ja.html#QPL |
 | Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | | |
 | Rdisc License | Rdisc | | |
-| Red Hat eCos Public License v1.1 | RHeCos-1.1 | | |
+| Red Hat eCos Public License v1.1 | RHeCos-1.1 | https://www.gnu.org/licenses/license-list.en.html#eCos11 | https://www.gnu.org/licenses/license-list.ja.html#eCos11 |
 | Reciprocal Public License 1.1 | RPL-1.1 | | |
 | Reciprocal Public License 1.5 | RPL-1.5 | | |
 | RealNetworks Public Source License v1.0 | RPSL-1.0 | https://www.gnu.org/licenses/license-list.en.html#RPSL | https://www.gnu.org/licenses/license-list.ja.html#RPSL |
