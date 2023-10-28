@@ -362,7 +362,7 @@
 | mpi Permissive License | mpi-permissive | | |
 | mpich2 License | mpich2 | | |
 | Mozilla Public License 1.0 | MPL-1.0 | | |
-| Mozilla Public License 1.1 | MPL-1.1 | https://www.gnu.org/licenses/license-list.en.html#MPL | https://www.gnu.org/licenses/license-list.ja.html#MPL|
+| Mozilla Public License 1.1 | MPL-1.1 | https://www.gnu.org/licenses/license-list.en.html#MPL | https://www.gnu.org/licenses/license-list.ja.html#MPL |
 | Mozilla Public License 2.0 | MPL-2.0 | https://www.gnu.org/licenses/license-list.en.html#MPL-2.0 | https://www.gnu.org/licenses/license-list.ja.html#MPL-2.0 |
 | Mozilla Public License 2.0 (no copyleft exception) | MPL-2.0-no-copyleft-exception | | |
 | mplus Font License | mplus | | |
