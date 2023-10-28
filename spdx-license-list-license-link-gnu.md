@@ -403,7 +403,7 @@
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | | |
 | Open CASCADE Technology Public License | OCCT-PL | | |
 | OCLC Research Public License 2.0 | OCLC-2.0 | | |
-| Open Data Commons Open Database License v1.0 | ODbL-1.0 | | |
+| Open Data Commons Open Database License v1.0 | ODbL-1.0 | https://www.gnu.org/licenses/license-list.en.html#ODbl | |
 | Open Data Commons Attribution License v1.0 | ODC-By-1.0 | | |
 | OFFIS License | OFFIS | | |
 | SIL Open Font License 1.0 | OFL-1.0 | | |
