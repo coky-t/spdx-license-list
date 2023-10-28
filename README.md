@@ -29,6 +29,7 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 #### License Type
 
 - [Blue Oak Council](spdx-license-list-license-type-blueoak.md)
+- [GNU](spdx-license-list-license-type-gnu.md)
 - [tl;drLegal](spdx-license-list-license-type-tldrlegal.md)
 
 ### SPDX License Exceptions - Version
