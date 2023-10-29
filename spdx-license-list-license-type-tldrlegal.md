@@ -143,7 +143,7 @@
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | |
-| Creative Commons Zero v1.0 Universal | CC0-1.0 | |
+| Creative Commons Zero v1.0 Universal | CC0-1.0 | Public Domain |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | Weak Copyleft |
 | Common Development and Distribution License 1.1 | CDDL-1.1 | |
 | Common Documentation License 1.0 | CDL-1.0 | |
@@ -451,7 +451,7 @@
 | PADL License | PADL | |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | |
-| Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | |
+| Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | Public Domain |
 | PHP License v3.0 | PHP-3.0 | |
 | PHP License v3.01 | PHP-3.01 | |
 | Plexus Classworlds License | Plexus | |
@@ -476,7 +476,7 @@
 | RSA Message-Digest License | RSA-MD | |
 | Ricoh Source Code Public License | RSCPL | |
 | Ruby License | Ruby | |
-| Sax Public Domain Notice | SAX-PD | |
+| Sax Public Domain Notice | SAX-PD | Public Domain |
 | Saxpath License | Saxpath | |
 | SCEA Shared Source License | SCEA | |
 | Scheme Language Report License | SchemeReport | |
@@ -532,7 +532,7 @@
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | |
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | |
-| The Unlicense | Unlicense | |
+| The Unlicense | Unlicense | Public Domain |
 | Universal Permissive License v1.0 | UPL-1.0 | Permissive |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
 | Vim License | Vim | |
@@ -545,7 +545,7 @@
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | |
 | Widget Workshop License | Widget-Workshop | |
 | Wsuipa License | Wsuipa | |
-| Do What The F*ck You Want To Public License | WTFPL | |
+| Do What The F*ck You Want To Public License | WTFPL | Public Domain |
 | X11 License | X11 | |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | |
 | Xdebug License v 1.03 | Xdebug-1.03 | |
