@@ -13,6 +13,7 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 
 - [Release Date](spdx-license-list-version-release-date.md)
 - [Count](spdx-license-list-version-count.md)
+- [SPDX Specification Version](spdx-license-list-version-spec-version.md)
 
 ### SPDX License List - License
 
