@@ -38,7 +38,7 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 
 ### SPDX License Exceptions - License
 
-- [Release Date](spdx-license-exceptions-license-release-version.md)
+- [Release Version](spdx-license-exceptions-license-release-version.md)
 
 ## Tools
 
