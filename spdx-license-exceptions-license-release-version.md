@@ -70,3 +70,7 @@
 | License Name | Identifier | Release | Deprecated |
 | ------------ | ---------- | ------- | ---------- |
 | Nokia Qt LGPL exception 1.1 | Nokia-Qt-exception-1.1 | 2.1 | 3.1 |
+
+## Reference
+
+- [Release Notes for SPDX License List](https://github.com/spdx/license-list-XML/blob/main/RELEASE-NOTES.md)

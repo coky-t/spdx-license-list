@@ -605,3 +605,7 @@
 | Nunit License | Nunit | 1.20 | 3.0 |
 | Standard ML of New Jersey License | StandardML-NJ | 1.20 | 2.0rc2 |
 | wxWindows Library License | wxWindows | 1.0 | 2.0rc2 |
+
+## Reference
+
+- [Release Notes for SPDX License List](https://github.com/spdx/license-list-XML/blob/main/RELEASE-NOTES.md)
