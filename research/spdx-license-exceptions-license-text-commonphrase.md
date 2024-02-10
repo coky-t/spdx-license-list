@@ -9,6 +9,7 @@
 | Autoconf generic exception | Autoconf-exception-generic | As a special exception |
 | Autoconf generic exception for GPL-3.0 | Autoconf-exception-generic-3.0 | As a special exception |
 | Autoconf macro exception | Autoconf-exception-macro | As a special exception |
+| Bison exception 1.24 | Bison-exception-1.24 | As a special exception |
 | Bison exception 2.2 | Bison-exception-2.2 | As a special exception |
 | Bootloader Distribution Exception | Bootloader-exception | In addition to the permissions |
 | Classpath exception 2.0 | Classpath-exception-2.0 | As a special exception |
@@ -18,12 +19,15 @@
 | eCos exception 2.0 | eCos-exception-2.0 | As a special exception |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | As a special exception |
 | FLTK exception | FLTK-exception | with the following exceptions |
+| fmt exception | fmt-exception | As an exception |
 | Font exception 2.0 | Font-exception-2.0 | As a special exception |
 | FreeRTOS Exception 2.0 | freertos-exception-2.0 | As a special exception |
 | GCC Runtime Library exception 2.0 | GCC-exception-2.0 | In addition to the permissions |
 | GCC Runtime Library exception 2.0 - note variant | GCC-exception-2.0-note | In addition to the permissions |
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | an additional permission |
+| Gmsh exception | Gmsh-exception | |
 | GNAT exception | GNAT-exception | As a special exception |
+| GNOME examples exception | GNOME-examples-exception | As a special exception |
 | GNU Compiler Exception | GNU-compiler-exception | As a special exception |
 | GNU JavaMail exception | gnu-javamail-exception | As a special exception |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | As a special exception |

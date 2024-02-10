@@ -9,6 +9,7 @@
 | Autoconf generic exception | Autoconf-exception-generic | `(?!\-)` |
 | Autoconf generic exception for GPL-3.0 | Autoconf-exception-generic-3.0 | |
 | Autoconf macro exception | Autoconf-exception-macro | |
+| Bison exception 1.24 | Bison-exception-1.24 | |
 | Bison exception 2.2 | Bison-exception-2.2 | |
 | Bootloader Distribution Exception | Bootloader-exception | |
 | Classpath exception 2.0 | Classpath-exception-2.0 | |
@@ -18,12 +19,15 @@
 | eCos exception 2.0 | eCos-exception-2.0 | |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | |
 | FLTK exception | FLTK-exception | |
+| fmt exception | fmt-exception | |
 | Font exception 2.0 | Font-exception-2.0 | |
 | FreeRTOS Exception 2.0 | freertos-exception-2.0 | |
 | GCC Runtime Library exception 2.0 | GCC-exception-2.0 | `(?!\-)` |
 | GCC Runtime Library exception 2.0 - note variant | GCC-exception-2.0-note | |
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | |
+| Gmsh exception | Gmsh-exception | |
 | GNAT exception | GNAT-exception | |
+| GNOME examples exception | GNOME-examples-exception | |
 | GNU Compiler Exception | GNU-compiler-exception | |
 | GNU JavaMail exception | gnu-javamail-exception | |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | |

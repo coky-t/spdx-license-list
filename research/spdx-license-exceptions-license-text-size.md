@@ -9,6 +9,7 @@
 | Autoconf generic exception | Autoconf-exception-generic | 266 |
 | Autoconf generic exception for GPL-3.0 | Autoconf-exception-generic-3.0 | 387 |
 | Autoconf macro exception | Autoconf-exception-macro | 768 |
+| Bison exception 1.24 | Bison-exception-1.24 | 225 |
 | Bison exception 2.2 | Bison-exception-2.2 | 673 |
 | Bootloader Distribution Exception | Bootloader-exception | 523 |
 | Classpath exception 2.0 | Classpath-exception-2.0 | 919 |
@@ -18,12 +19,15 @@
 | eCos exception 2.0 | eCos-exception-2.0 | 575 |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | 1344 |
 | FLTK exception | FLTK-exception | 1470 |
+| fmt exception | fmt-exception | 336 |
 | Font exception 2.0 | Font-exception-2.0 | 582 |
 | FreeRTOS Exception 2.0 | freertos-exception-2.0 | 1687 |
 | GCC Runtime Library exception 2.0 | GCC-exception-2.0 | 482 |
 | GCC Runtime Library exception 2.0 - note variant | GCC-exception-2.0-note | 905 |
 | GCC Runtime Library exception 3.1 | GCC-exception-3.1 | 3390 |
+| Gmsh exception | Gmsh-exception | 970 |
 | GNAT exception | GNAT-exception | 379 |
+| GNOME examples exception | GNOME-examples-exception | 197 |
 | GNU Compiler Exception | GNU-compiler-exception | 346 |
 | GNU JavaMail exception | gnu-javamail-exception | 341 |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | 1618 |

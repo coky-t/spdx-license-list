@@ -7,6 +7,7 @@
 | Abstyles License | Abstyles | 731 |
 | AdaCore Doc License | AdaCore-doc | 236 |
 | Adobe Systems Incorporated Source Code License Agreement | Adobe-2006 | 1776 |
+| Adobe Display PostScript License | Adobe-Display-PostScript | 1883 |
 | Adobe Glyph List License | Adobe-Glyph | 1608 |
 | Adobe Utopia Font License | Adobe-Utopia | 481 |
 | Amazon Digital Services License | ADSL | 488 |
@@ -23,11 +24,12 @@
 | Aladdin Free Public License | Aladdin | 11604 |
 | AMD's plpa_map.c License | AMDPLPA | 5642 |
 | Apple MIT License | AML | 2358 |
+| AML glslang variant License | AML-glslang | 2373 |
 | Academy of Motion Picture Arts and Sciences BSD | AMPAS | 2192 |
 | ANTLR Software Rights Notice | ANTLR-PD | 987 |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | 1261 |
 | Apache License 1.0 | Apache-1.0 | 2507 |
-| Apache License 1.1 | Apache-1.1 | 2514 |
+| Apache License 1.1 | Apache-1.1 | 2474 |
 | Apache License 2.0 | Apache-2.0 | 10280 |
 | Adobe Postscript AFM License | APAFML | 617 |
 | Adaptive Public License 1.0 | APL-1.0 | 46103 |
@@ -46,6 +48,7 @@
 | Baekmuk License | Baekmuk | 479 |
 | Bahyph License | Bahyph | 1377 |
 | Barr License | Barr | 603 |
+| bcrypt Solar Designer License | bcrypt-Solar-Designer | 543 |
 | Beerware License | Beerware | 266 |
 | Bitstream Charter Font License | Bitstream-Charter | 572 |
 | Bitstream Vera Font License | Bitstream-Vera | 2318 |
@@ -55,12 +58,15 @@
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | 1552 |
 | Boehm-Demers-Weiser GC License | Boehm-GC | 506 |
 | Borceux license | Borceux | 647 |
+| Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | 655 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 1096 |
 | BSD 1-Clause License | BSD-1-Clause | 1086 |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | 1267 |
+| BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | 1593 |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 2569 |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | 1519 |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1460 |
+| BSD 3-Clause acpica variant | BSD-3-Clause-acpica | 1568 |
 | BSD with attribution | BSD-3-Clause-Attribution | 1646 |
 | BSD 3-Clause Clear License | BSD-3-Clause-Clear | 1676 |
 | BSD 3-Clause Flex variant | BSD-3-Clause-flex | 1855 |
@@ -82,8 +88,10 @@
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | 1679 |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | 2084 |
 | BSD Protection License | BSD-Protection | 6244 |
+| BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | 1284 |
 | BSD Source Code Attribution | BSD-Source-Code | 1301 |
 | Systemics BSD variant license | BSD-Systemics | 2225 |
+| Systemics W3Works BSD variant license | BSD-Systemics-W3Works | 3180 |
 | Boost Software License 1.0 | BSL-1.0 | 1338 |
 | Business Source License 1.1 | BUSL-1.1 | 3424 |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | 1739 |
@@ -91,6 +99,7 @@
 | Cryptographic Autonomy License 1.0 | CAL-1.0 | 16125 |
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | 16125 |
 | Caldera License | Caldera | 2577 |
+| Caldera License (without preamble) | Caldera-no-preamble | 1752 |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | 19046 |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | 11405 |
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | 12572 |
@@ -98,6 +107,7 @@
 | Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | 17126 |
 | Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | 18666 |
 | Creative Commons Attribution 3.0 Austria | CC-BY-3.0-AT | 19189 |
+| Creative Commons Attribution 3.0 Australia | CC-BY-3.0-AU | 15262 |
 | Creative Commons Attribution 3.0 Germany | CC-BY-3.0-DE | 19218 |
 | Creative Commons Attribution 3.0 IGO | CC-BY-3.0-IGO | 17572 |
 | Creative Commons Attribution 3.0 Netherlands | CC-BY-3.0-NL | 18371 |
@@ -167,6 +177,7 @@
 | Clarified Artistic License | ClArtistic | 6389 |
 | Clips License | Clips | 938 |
 | CMU Mach License | CMU-Mach | 938 |
+| CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | 499 |
 | CNRI Jython License | CNRI-Jython | 3923 |
 | CNRI Python License | CNRI-Python | 3381 |
 | CNRI Python Open Source GPL Compatible License Agreement | CNRI-Python-GPL-Compatible | 4004 |
@@ -186,12 +197,14 @@
 | Cube License | Cube | 1078 |
 | curl License | curl | 1043 |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | 15238 |
+| DEC 3-Clause License | DEC-3-Clause | 1530 |
 | diffmark license | diffmark | 88 |
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | 2518 |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | 1210 |
 | DOC License | DOC | 4472 |
 | Dotseqn License | Dotseqn | 261 |
 | Detection Rule License 1.0 | DRL-1.0 | 1512 |
+| Detection Rule License 1.1 | DRL-1.1 | 1883 |
 | DSDP License | DSDP | 2280 |
 | David M. Gay dtoa License | dtoa | 685 |
 | dvipdfm License | dvipdfm | 210 |
@@ -220,12 +233,14 @@
 | FreeBSD Documentation License | FreeBSD-DOC | 2781 |
 | FreeImage Public License v1.0 | FreeImage | 17656 |
 | FSF All Permissive License | FSFAP | 225 |
+| FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | 209 |
 | FSF Unlimited License | FSFUL | 198 |
 | FSF Unlimited License (with License Retention) | FSFULLR | 234 |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | 544 |
 | Freetype Project License | FTL | 5979 |
 | Furuseth License | Furuseth | 626 |
 | fwlw License | fwlw | 206 |
+| Gnome GCR Documentation License | GCR-docs | 1697 |
 | GD License | GD | 2983 |
 | GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | 17970 |
 | GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | 17970 |
@@ -259,7 +274,9 @@
 | GNU General Public License v3.0 or later | GPL-3.0-or-later | 34674 |
 | Graphics Gems License | Graphics-Gems | 707 |
 | gSOAP Public License v1.3b | gSOAP-1.3b | 20362 |
+| gtkbook License | gtkbook | 309 |
 | Haskell Language Report License | HaskellReport | 602 |
+| hdparm License | hdparm | 253 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 8422 |
 | Hewlett-Packard 1986 License | HP-1986 | 617 |
 | Hewlett-Packard 1989 License | HP-1989 | 947 |
@@ -269,8 +286,13 @@
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | 442 |
 | HPND with US Government export control warning | HPND-export-US | 944 |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | 1272 |
+| Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | 700 |
+| Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | 553 |
+| Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | 421 |
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | 179 |
+| Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | 950 |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | 406 |
+| Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | 748 |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | 353 |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 1102 |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 891 |
@@ -292,6 +314,7 @@
 | IPA Font License | IPA | 9093 |
 | IBM Public License v1.0 | IPL-1.0 | 11409 |
 | ISC License | ISC | 823 |
+| ISC Veillard variant | ISC-Veillard | 522 |
 | Jam License | Jam | 195 |
 | JasPer License | JasPer-2.0 | 2741 |
 | JPL Image Use Policy | JPL-image | 3158 |
@@ -326,6 +349,7 @@
 | Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | 808 |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | 939 |
 | Common Lisp LOOP License | LOOP | 2054 |
+| LPD Documentation License | LPD-document | 363 |
 | Lucent Public License Version 1.0 | LPL-1.0 | 11948 |
 | Lucent Public License v1.02 | LPL-1.02 | 11824 |
 | LaTeX Project Public License v1.0 | LPPL-1.0 | 8929 |
@@ -337,7 +361,10 @@
 | Lucida Bitmap Fonts License | Lucida-Bitmap-Fonts | 2868 |
 | LZMA SDK License (versions 9.11 to 9.20) | LZMA-SDK-9.11-to-9.20 | 240 |
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | 582 |
+| Mackerras 3-Clause License | Mackerras-3-Clause | 1240 |
+| Mackerras 3-Clause - acknowledgment variant | Mackerras-3-Clause-acknowledgment | 1144 |
 | magaz License | magaz | 216 |
+| mailprio License | mailprio | 415 |
 | MakeIndex License | MakeIndex | 1974 |
 | Martin Birgmeier License | Martin-Birgmeier | 407 |
 | McPhee Slideshow License | McPhee-slideshow | 323 |
@@ -439,6 +466,8 @@
 | Open Market License | OML | 1689 |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | 3962 |
 | OpenSSL License | OpenSSL | 5309 |
+| OpenSSL License - standalone | OpenSSL-standalone | 2502 |
+| OpenVision License | OpenVision | 1680 |
 | Open Public License v1.0 | OPL-1.0 | 20309 |
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | 4469 |
 | Open Publication License v1.0 | OPUBL-1.0 | 6148 |
@@ -454,6 +483,7 @@
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | 15485 |
 | PHP License v3.0 | PHP-3.0 | 2846 |
 | PHP License v3.01 | PHP-3.01 | 2855 |
+| Pixar License | Pixar | 10038 |
 | Plexus Classworlds License | Plexus | 1849 |
 | pnmstitch License | pnmstitch | 1105 |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | 4563 |
@@ -468,6 +498,7 @@
 | Qhull License | Qhull | 1304 |
 | Q Public License 1.0 | QPL-1.0 | 4364 |
 | Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | 4641 |
+| radvd License | radvd | 2188 |
 | Rdisc License | Rdisc | 1107 |
 | Red Hat eCos Public License v1.1 | RHeCos-1.1 | 21641 |
 | Reciprocal Public License 1.1 | RPL-1.1 | 33931 |
@@ -477,6 +508,7 @@
 | Ricoh Source Code Public License | RSCPL | 21050 |
 | Ruby License | Ruby | 2137 |
 | Sax Public Domain Notice | SAX-PD | 2315 |
+| Sax Public Domain Notice 2.0 | SAX-PD-2.0 | 338 |
 | Saxpath License | Saxpath | 2133 |
 | SCEA Shared Source License | SCEA | 6638 |
 | Scheme Language Report License | SchemeReport | 290 |
@@ -498,6 +530,7 @@
 | Secure Messaging Protocol Public License | SMPPL | 3177 |
 | SNIA Public License 1.1 | SNIA | 21717 |
 | snprintf License | snprintf | 209 |
+| softSurfer License | softSurfer | 484 |
 | Soundex License | Soundex | 404 |
 | Spencer License 86 | Spencer-86 | 628 |
 | Spencer License 94 | Spencer-94 | 935 |
@@ -506,8 +539,10 @@
 | ssh-keyscan License | ssh-keyscan | 252 |
 | SSH OpenSSH license | SSH-OpenSSH | 3399 |
 | SSH short notice | SSH-short | 326 |
+| SSLeay License - standalone | SSLeay-standalone | 3154 |
 | Server Side Public License, v 1 | SSPL-1.0 | 30609 |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 22087 |
+| Sun PPP License | Sun-PPP | 616 |
 | SunPro License | SunPro | 246 |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | 2129 |
 | swrule License | swrule | 248 |
@@ -516,6 +551,7 @@
 | TCL/TK License | TCL | 2251 |
 | TCP Wrappers License | TCP-wrappers | 648 |
 | TermReadKey License | TermReadKey | 103 |
+| Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | 10971 |
 | TMate Open Source License | TMate | 2537 |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 3998 |
 | Trusster Open Source License | TOSL | 2074 |
@@ -528,6 +564,8 @@
 | UCAR License | UCAR | 1948 |
 | Upstream Compatibility License v1.0 | UCL-1.0 | 10566 |
 | ulem License | ulem | 209 |
+| Michigan/Merit Networks License | UMich-Merit | 1164 |
+| Unicode License v3 | Unicode-3.0 | 1995 |
 | Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | 2873 |
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | 2858 |
 | Unicode Terms of Use | Unicode-TOU | 6261 |
@@ -553,6 +591,7 @@
 | Xfig License | Xfig | 510 |
 | XFree86 License 1.1 | XFree86-1.1 | 2398 |
 | xinetd License | xinetd | 2030 |
+| xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | 685 |
 | xlock License | xlock | 734 |
 | X.Net License | Xnet | 1250 |
 | XPP License | xpp | 2482 |
@@ -586,7 +625,7 @@
 | GNU General Public License v1.0 only | GPL-1.0 | 12235 |
 | GNU General Public License v1.0 or later | GPL-1.0+ | 12257 |
 | GNU General Public License v2.0 only | GPL-2.0 | 17337 |
-| GNU General Public License v2.0 or later | GPL-2.0+ | 17401 |
+| GNU General Public License v2.0 or later | GPL-2.0+ | 17402 |
 | GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | 1626 |
 | GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | 673 |
 | GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | 974 |

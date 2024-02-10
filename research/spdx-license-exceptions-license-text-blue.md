@@ -9,6 +9,7 @@
 | [Autoconf generic exception](https://spdx.org/licenses/Autoconf-exception-generic.html) | Autoconf-exception-generic | 3.20 | none | N/A | N/A |
 | [Autoconf generic exception for GPL-3.0](https://spdx.org/licenses/Autoconf-exception-generic-3.0.html) | Autoconf-exception-generic-3.0 | 3.22 | none | N/A | N/A |
 | [Autoconf macro exception](https://spdx.org/licenses/Autoconf-exception-macro.html) | Autoconf-exception-macro | 3.21 | none | N/A | N/A |
+| [Bison exception 1.24](https://spdx.org/licenses/Bison-exception-1.24.html) | Bison-exception-1.24 | 3.23 | none | N/A | N/A |
 | [Bison exception 2.2](https://spdx.org/licenses/Bison-exception-2.2.html) | Bison-exception-2.2 | 2.1 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Bison-exception-2.2.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Bison-exception-2.2.html)) | N/A |
 | [Bootloader Distribution Exception](https://spdx.org/licenses/Bootloader-exception.html) | Bootloader-exception | 3.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Bootloader-exception.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Bootloader-exception.html)) | N/A |
 | [Classpath exception 2.0](https://spdx.org/licenses/Classpath-exception-2.0.html) | Classpath-exception-2.0 | 2.1 | blue (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/Classpath-exception-2.0.html)), none (until [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/Classpath-exception-2.0.html)) | N/A | N/A |
@@ -18,13 +19,16 @@
 | [eCos exception 2.0](https://spdx.org/licenses/eCos-exception-2.0.html) | eCos-exception-2.0 | 2.1 | none | N/A | N/A |
 | [Fawkes Runtime Exception](https://spdx.org/licenses/Fawkes-Runtime-exception.html) | Fawkes-Runtime-exception | 2.2 | none | N/A | N/A |
 | [FLTK exception](https://spdx.org/licenses/FLTK-exception.html) | FLTK-exception | 2.1 | none | N/A | N/A |
+| [fmt exception](https://spdx.org/licenses/fmt-exception.html) | fmt-exception | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/main/html/fmt-exception.html)) | N/A |
 | [Font exception 2.0](https://spdx.org/licenses/Font-exception-2.0.html) | Font-exception-2.0 | 2.1 | none | N/A | N/A |
 | [FreeRTOS Exception 2.0](https://spdx.org/licenses/freertos-exception-2.0.html) | freertos-exception-2.0 | 2.1 | none | N/A | N/A |
 | [GCC Runtime Library exception 2.0](https://spdx.org/licenses/GCC-exception-2.0.html) | GCC-exception-2.0 | 2.1 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GCC-exception-2.0.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GCC-exception-2.0.html)) | N/A | N/A |
 | [GCC Runtime Library exception 2.0 - note variant](https://spdx.org/licenses/GCC-exception-2.0-note.html) | GCC-exception-2.0-note | 3.22 | none | N/A | N/A |
 | [GCC Runtime Library exception 3.1](https://spdx.org/licenses/GCC-exception-3.1.html) | GCC-exception-3.1 | 2.1 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GCC-exception-3.1.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GCC-exception-3.1.html)) | N/A |
+| [Gmsh exception](https://spdx.org/licenses/Gmsh-exception.html) | Gmsh-exception | 3.23 | none | N/A | N/A |
 | [GNAT exception](https://spdx.org/licenses/GNAT-exception.html) | GNAT-exception | 3.20 | none | N/A | N/A |
-| [GNU Compiler Exception](https://spdx.org/licenses/GNU-compiler-exception.html) | GNU-compiler-exception | 3.22 | none | N/A | N/A |
+| [GNU Compiler Exception](https://spdx.org/licenses/GNU-compiler-exception.html) | GNU-compiler-exception | 3.22 | red (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/GNU-compiler-exception.html)), none (until [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GNU-compiler-exception.html)) | N/A | N/A |
+| [GNOME examples exception](https://spdx.org/licenses/GNOME-examples-exception.html) | GNOME-examples-exception | 3.23 | none | N/A | N/A |
 | [GNU JavaMail exception](https://spdx.org/licenses/gnu-javamail-exception.html) | gnu-javamail-exception | 2.1 | none | N/A | N/A |
 | [GPL-3.0 Interface Exception](https://spdx.org/licenses/GPL-3.0-interface-exception.html) | GPL-3.0-interface-exception | 3.21 | none | N/A | N/A |
 | [GPL-3.0 Linking Exception](https://spdx.org/licenses/GPL-3.0-linking-exception.html) | GPL-3.0-linking-exception | 3.8 | blue (since [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/GPL-3.0-linking-exception.html)) | N/A | N/A |
