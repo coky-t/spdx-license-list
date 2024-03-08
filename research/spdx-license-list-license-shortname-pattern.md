@@ -661,7 +661,7 @@
 ### Version Prefix Pattern
 
 ```
-(?:v(?:er(?:sion|\.)|\.)|\.)?
+(?:v(?:er(?:sion|\.)?|\.)?)?
 ```
 
 ### Version Pattern - Escaping
