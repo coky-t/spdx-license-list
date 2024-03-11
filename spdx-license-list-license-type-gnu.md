@@ -64,7 +64,7 @@
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | | | | |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | | | | |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | | | | |
-| BSD 2-Clause with views sentence | BSD-2-Clause-Views | | | | |
+| BSD 2-Clause with views sentence | BSD-2-Clause-Views | Software | Free | GPL-Compatible | Lax, Permissive Non-copyleft |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Software | Free | GPL-Compatible | Lax, Permissive Non-copyleft |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | | | | |
 | BSD with attribution | BSD-3-Clause-Attribution | | | | |
@@ -311,7 +311,7 @@
 | Intel Open Source License | Intel | Software | Free | GPL-Compatible | |
 | Intel ACPI Software License Agreement | Intel-ACPI | | | | |
 | Interbase Public License v1.0 | Interbase-1.0 | | | | |
-| IPA Font License | IPA | Font | Free | GPL-Incmpatible | Copyleft |
+| IPA Font License | IPA | Font | Free | GPL-Incompatible | Copyleft |
 | IBM Public License v1.0 | IPL-1.0 | Software | Free | GPL-Incompatible | |
 | ISC License | ISC | Software | Free | GPL-Compatible | |
 | ISC Veillard variant | ISC-Veillard | | | | |

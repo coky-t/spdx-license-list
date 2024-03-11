@@ -64,7 +64,7 @@
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | | |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | | |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | | |
-| BSD 2-Clause with views sentence | BSD-2-Clause-Views | | |
+| BSD 2-Clause with views sentence | BSD-2-Clause-Views | https://www.gnu.org/licenses/license-list.en.html#FreeBSD | https://www.gnu.org/licenses/license-list.ja.html#FreeBSD |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | https://www.gnu.org/licenses/license-list.en.html#ModifiedBSD | https://www.gnu.org/licenses/license-list.ja.html#ModifiedBSD |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | | |
 | BSD with attribution | BSD-3-Clause-Attribution | | |
@@ -208,7 +208,7 @@
 | DSDP License | DSDP | | |
 | David M. Gay dtoa License | dtoa | | |
 | dvipdfm License | dvipdfm | | |
-| Educational Community License v1.0 | ECL-1.0 | | |
+| Educational Community License v1.0 | ECL-1.0 | https://www.gnu.org/licenses/license-list.en.html#ECL2.0 | https://www.gnu.org/licenses/license-list.ja.html#ECL2.0 |
 | Educational Community License v2.0 | ECL-2.0 | https://www.gnu.org/licenses/license-list.en.html#ECL2.0 | https://www.gnu.org/licenses/license-list.ja.html#ECL2.0 |
 | Eiffel Forum License v1.0 | EFL-1.0 | | |
 | Eiffel Forum License v2.0 | EFL-2.0 | https://www.gnu.org/licenses/license-list.en.html#Eiffel | https://www.gnu.org/licenses/license-list.ja.html#Eiffel |
