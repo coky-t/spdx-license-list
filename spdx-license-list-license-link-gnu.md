@@ -208,9 +208,9 @@
 | DSDP License | DSDP | | |
 | David M. Gay dtoa License | dtoa | | |
 | dvipdfm License | dvipdfm | | |
-| Educational Community License v1.0 | ECL-1.0 | https://www.gnu.org/licenses/license-list.en.html#ECL2.0 | https://www.gnu.org/licenses/license-list.ja.html#ECL2.0 |
+| Educational Community License v1.0 | ECL-1.0 | | |
 | Educational Community License v2.0 | ECL-2.0 | https://www.gnu.org/licenses/license-list.en.html#ECL2.0 | https://www.gnu.org/licenses/license-list.ja.html#ECL2.0 |
-| Eiffel Forum License v1.0 | EFL-1.0 | | |
+| Eiffel Forum License v1.0 | EFL-1.0 | https://www.gnu.org/licenses/license-list.en.html#Eiffel | https://www.gnu.org/licenses/license-list.ja.html#Eiffel |
 | Eiffel Forum License v2.0 | EFL-2.0 | https://www.gnu.org/licenses/license-list.en.html#Eiffel | https://www.gnu.org/licenses/license-list.ja.html#Eiffel |
 | eGenix.com Public License 1.1.0 | eGenix | | |
 | Elastic License 2.0 | Elastic-2.0 | | |
