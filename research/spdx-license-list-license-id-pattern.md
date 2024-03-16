@@ -548,7 +548,7 @@
 | swrule License | swrule | |
 | Symlinks License | Symlinks | |
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | |
-| TCL/TK License | TCL | `(?!\-)` |
+| TCL/TK License | TCL | |
 | TCP Wrappers License | TCP-wrappers | |
 | TermReadKey License | TermReadKey | |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | |
