@@ -90,7 +90,7 @@
 | BSD Protection License | BSD-Protection | |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | |
 | BSD Source Code Attribution | BSD-Source-Code | |
-| Systemics BSD variant license | BSD-Systemics | |
+| Systemics BSD variant license | BSD-Systemics | `(?!\-)` |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | |
 | Boost Software License 1.0 | BSL-1.0 | |
 | Business Source License 1.1 | BUSL-1.1 | |
