@@ -98,7 +98,7 @@
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
 | Cryptographic Autonomy License 1.0 | CAL-1.0 | `(?!\-)` |
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | |
-| Caldera License | Caldera | |
+| Caldera License | Caldera | `(?!\-)` |
 | Caldera License (without preamble) | Caldera-no-preamble | |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | |
