@@ -179,7 +179,7 @@
 | CMU Mach License | CMU-Mach | 3.20 |
 | CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | 3.23 |
 | CNRI Jython License | CNRI-Jython | 2.0 |
-| CNRI Python License | CNRI-Python | 1.14 |
+| CNRI Python License | CNRI-Python | (1.0 beta) 1.14 |
 | CNRI Python Open Source GPL Compatible License Agreement | CNRI-Python-GPL-Compatible | 1.14 |
 | Copyfree Open Innovation License | COIL-1.0 | 3.15 |
 | Community Specification License 1.0 | Community-Spec-1.0 | 3.15 |
@@ -489,7 +489,7 @@
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | 3.9 |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | 3.9 |
 | PostgreSQL License | PostgreSQL | 1.0 beta |
-| Python Software Foundation License 2.0 | PSF-2.0 | 3.8 |
+| Python Software Foundation License 2.0 | PSF-2.0 | (1.0 beta) 3.8 |
 | psfrag License | psfrag | 1.20 |
 | psutils License | psutils | 1.20 |
 | Python License 2.0 | Python-2.0 | 1.0 |
@@ -604,7 +604,7 @@
 | Zimbra Public License v1.3 | Zimbra-1.3 | 1.0 |
 | Zimbra Public License v1.4 | Zimbra-1.4 | 2.0rc2 |
 | zlib License | Zlib | 1.0 beta |
-| zlib/libpng License with Acknowledgement | zlib-acknowledgement | 1.20 |
+| zlib/libpng License with Acknowledgement | zlib-acknowledgement | (1.0 beta) 1.20 |
 | Zope Public License 1.1 | ZPL-1.1 | 1.0 |
 | Zope Public License 2.0 | ZPL-2.0 | 1.0 beta |
 | Zope Public License 2.1 | ZPL-2.1 | 1.0 |
