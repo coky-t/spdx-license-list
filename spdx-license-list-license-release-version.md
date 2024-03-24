@@ -222,7 +222,7 @@
 | Etalab Open License 2.0 | etalab-2.0 | 3.7 |
 | EU DataGrid Software License | EUDatagrid | 1.0 beta |
 | European Union Public License 1.0 | EUPL-1.0 | 1.0 |
-| European Union Public License 1.1 | EUPL-1.1 | 1.0 |
+| European Union Public License 1.1 | EUPL-1.1 | 1.0 beta |
 | European Union Public License 1.2 | EUPL-1.2 | 3.0 |
 | Eurosym License | Eurosym | 1.20 |
 | Fair License | Fair | 1.0 beta |
