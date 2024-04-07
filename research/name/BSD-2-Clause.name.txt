@@ -1,0 +1,6 @@
+2-Clause BSD
+BSD-2-Clause
+BSD 2-Clause "Simplified" License
+BSD Simplified
+Simplified BSD
+Standard 2-term BSD license

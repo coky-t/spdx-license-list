@@ -1,0 +1,2 @@
+BSD-Systemics
+Systemics BSD variant license

@@ -1,0 +1,9 @@
+4-Clause BSD
+BSD-4-Clause
+BSD 4-Clause "Original" or "Old" License
+BSD 4-Clause Old License
+BSD 4-Clause Original License
+BSD Old License
+BSD Original License
+Old BSD License
+Original BSD License

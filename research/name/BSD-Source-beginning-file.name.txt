@@ -1,0 +1,2 @@
+BSD-Source-beginning-file
+BSD Source Code Attribution - beginning of file variant

@@ -1,0 +1,2 @@
+BSD-1-Clause
+BSD 1-Clause License

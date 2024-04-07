@@ -1,0 +1,13 @@
+3-Clause BSD
+BSD-3-Clause
+BSD 3-Clause "New" or "Revised" License
+BSD 3-Clause Modified License
+BSD 3-Clause New License
+BSD 3-Clause Revised License
+BSD Modified License
+BSD New License
+BSD Revised License
+Modified BSD License
+New BSD License
+Revised BSD License
+Three clause BSD

@@ -1,0 +1,2 @@
+BSD-2-Clause-NetBSD
+BSD 2-Clause NetBSD License
