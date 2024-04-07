@@ -1,0 +1,4 @@
+PSF-2.0
+Python Software Foundation License 2.0
+PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
+Python Software Foundation License 2.1.1

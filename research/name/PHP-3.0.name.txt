@@ -1,0 +1,4 @@
+PHP-3.0
+PHP License 3.0
+PHP License v3.0
+PHP License, version 3.0

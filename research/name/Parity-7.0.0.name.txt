@@ -1,0 +1,2 @@
+Parity-7.0.0
+The Parity Public License 7.0.0
