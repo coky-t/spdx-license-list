@@ -1,0 +1,3 @@
+Interbase-1.0
+Interbase Public License v1.0
+INTERBASE PUBLIC LICENSE Version 1.0

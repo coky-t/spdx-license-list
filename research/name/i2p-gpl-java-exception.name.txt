@@ -1,0 +1,2 @@
+i2p-gpl-java-exception
+i2p GPL+Java Exception

@@ -1,0 +1,3 @@
+IPL-1.0
+IBM Public License v1.0
+IBM Public License Version 1.0

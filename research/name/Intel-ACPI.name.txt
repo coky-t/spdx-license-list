@@ -1,0 +1,3 @@
+Intel-ACPI
+Intel ACPI Software License Agreement
+ACPI - Software License Agreement
