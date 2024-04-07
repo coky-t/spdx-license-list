@@ -1,0 +1,3 @@
+NBPL-1.0
+Net Boolean Public License v1
+Net Boolean Public License Version 1

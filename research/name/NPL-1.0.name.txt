@@ -1,0 +1,3 @@
+NPL-1.0
+Netscape Public License v1.0
+NETSCAPE PUBLIC LICENSE Version 1.0
