@@ -1,0 +1,2 @@
+HPND-export-US-modify
+HPND with US Government export control warning and modification rqmt

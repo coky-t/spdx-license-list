@@ -1,0 +1,2 @@
+HPND-sell-MIT-disclaimer-xserver
+Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer
