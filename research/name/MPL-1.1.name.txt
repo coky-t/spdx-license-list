@@ -1,0 +1,4 @@
+MPL-1.1
+Mozilla Public License 1.1
+Mozilla Public License Version 1.1
+Mozilla Public License (MPL) 1.1

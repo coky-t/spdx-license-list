@@ -1,0 +1,3 @@
+MS-PL
+Microsoft Public License
+Microsoft Public License (Ms-PL)
