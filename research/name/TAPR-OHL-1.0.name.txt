@@ -1,0 +1,3 @@
+TAPR-OHL-1.0
+TAPR Open Hardware License v1.0
+TAPR Open Hardware License Version 1.0

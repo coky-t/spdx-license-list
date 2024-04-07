@@ -1,0 +1,3 @@
+TOSL
+Trusster Open Source License
+Trusster Open Source License version 1.0a
