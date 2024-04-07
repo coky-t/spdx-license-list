@@ -1,0 +1,4 @@
+FreeImage
+FreeImage Public License v1.0
+FreeImage Public License - Version 1.0
+FreeImage Public License Version 1.0
