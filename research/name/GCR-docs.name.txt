@@ -1,0 +1,2 @@
+GCR-docs
+Gnome GCR Documentation License

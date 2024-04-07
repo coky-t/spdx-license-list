@@ -1,0 +1,4 @@
+GFDL-1.1
+GNU Free Documentation License v1.1
+GNU Free Documentation License Version 1.1
+GNU Free Documentation License, Version 1.1

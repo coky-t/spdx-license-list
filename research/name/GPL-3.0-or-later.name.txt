@@ -1,0 +1,5 @@
+GPL-3.0+
+GPL-3.0-or-later
+GNU General Public License v3.0 or later
+GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version
+GPLv3 or higher
