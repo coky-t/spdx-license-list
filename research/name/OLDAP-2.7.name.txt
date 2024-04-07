@@ -1,0 +1,3 @@
+OLDAP-2.7
+Open LDAP Public License v2.7
+OpenLDAP Public License Version 2.7

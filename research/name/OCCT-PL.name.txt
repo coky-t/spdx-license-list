@@ -1,0 +1,3 @@
+OCCT-PL
+Open CASCADE Technology Public License
+Open CASCADE Technology Public License Version 6.6

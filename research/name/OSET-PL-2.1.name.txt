@@ -1,0 +1,3 @@
+OSET-PL-2.1
+OSET Public License version 2.1
+OSET Public License, v.2.1 ("OSET-PL-2.1")

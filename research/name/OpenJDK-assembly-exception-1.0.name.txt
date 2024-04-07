@@ -1,0 +1,2 @@
+OpenJDK-assembly-exception-1.0
+OpenJDK Assembly exception 1.0
