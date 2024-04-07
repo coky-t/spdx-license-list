@@ -1,0 +1,2 @@
+CMU-Mach-nodoc
+CMU Mach - no notices-in-documentation variant

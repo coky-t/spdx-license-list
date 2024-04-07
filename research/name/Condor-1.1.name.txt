@@ -1,0 +1,3 @@
+Condor-1.1
+Condor Public License v1.1
+Condor Public License Version 1.1

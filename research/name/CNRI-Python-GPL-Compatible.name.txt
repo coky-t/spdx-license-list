@@ -1,0 +1,3 @@
+CNRI-Python-GPL-Compatible
+CNRI Python Open Source GPL Compatible License Agreement
+CNRI OPEN SOURCE GPL-COMPATIBLE LICENSE AGREEMENT
