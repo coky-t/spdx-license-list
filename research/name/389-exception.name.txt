@@ -1,0 +1,2 @@
+389-exception
+389 Directory Server Exception
