@@ -1,0 +1,3 @@
+DigiRule-FOSS-exception
+DigiRule FOSS License Exception
+DigiRule Solutions's FOSS License Exception Terms and Conditions
