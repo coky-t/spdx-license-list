@@ -1,0 +1,3 @@
+CAL-1.0-Combined-Work-Exception
+Cryptographic Autonomy License 1.0 (Combined Work Exception)
+Cryptographic Autonomy License version 1.0, with Combined Work Exception
