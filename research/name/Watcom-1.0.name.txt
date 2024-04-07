@@ -1,0 +1,3 @@
+Watcom-1.0
+Sybase Open Watcom Public License 1.0
+Sybase Open Watcom Public License version 1.0
