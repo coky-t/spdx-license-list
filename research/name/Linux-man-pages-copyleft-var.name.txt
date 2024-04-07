@@ -1,0 +1,2 @@
+Linux-man-pages-copyleft-var
+Linux man-pages Copyleft Variant

@@ -1,0 +1,3 @@
+LPPL-1.3c"
+LaTeX Project Public License v1.3c
+LaTeX Project Public License LPPL Version 1.3c

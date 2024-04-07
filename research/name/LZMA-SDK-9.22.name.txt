@@ -1,0 +1,2 @@
+LZMA-SDK-9.22
+LZMA SDK License (versions 9.22 and beyond)

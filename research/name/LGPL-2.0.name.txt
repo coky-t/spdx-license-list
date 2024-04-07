@@ -1,0 +1,5 @@
+LGPL-2.0
+GNU Library General Public License v2
+GNU Library General Public License as published by the Free Software Foundation; version 2
+GNU LIBRARY GENERAL PUBLIC LICENSE Version 2
+GNU Library or “Lesser” General Public License (LGPL) 2.0
