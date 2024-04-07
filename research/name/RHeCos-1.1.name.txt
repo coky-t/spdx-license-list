@@ -1,0 +1,3 @@
+RHeCos-1.1
+Red Hat eCos Public License v1.1
+Red Hat eCos Public License Version 1.1

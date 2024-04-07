@@ -1,0 +1,3 @@
+RSCPL
+Ricoh Source Code Public License
+Ricoh Source Code Public License Version 1.0
