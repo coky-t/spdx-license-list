@@ -1,0 +1,4 @@
+ECL-2.0
+Educational Community License v2.0
+Educational Community License Version 2.0
+Educational Community License version 2.0 ("ECL")

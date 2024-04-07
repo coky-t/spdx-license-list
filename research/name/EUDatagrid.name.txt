@@ -1,0 +1,2 @@
+EUDatagrid
+EU DataGrid Software License

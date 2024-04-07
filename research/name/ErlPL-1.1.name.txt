@@ -1,0 +1,4 @@
+ErlPL-1.1
+Erlang Public License v1.1
+ERLANG PUBLIC LICENSE Version 1.1
+Erlang Public License, Version 1.1
