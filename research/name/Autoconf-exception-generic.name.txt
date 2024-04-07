@@ -1,0 +1,2 @@
+Autoconf-exception-generic
+Autoconf generic exception

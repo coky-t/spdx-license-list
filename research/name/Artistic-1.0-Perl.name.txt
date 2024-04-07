@@ -1,0 +1,4 @@
+Artistic-1.0-Perl
+Artistic License 1.0 (Perl)
+Perl Artistic License
+Artistic license From Perl 5.8.0

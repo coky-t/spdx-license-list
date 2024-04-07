@@ -1,0 +1,3 @@
+Autoconf-exception-3.0
+Autoconf exception 3.0
+AUTOCONF CONFIGURE SCRIPT EXCEPTION Version 3.0

@@ -1,0 +1,2 @@
+AdaCore-doc
+AdaCore Doc License

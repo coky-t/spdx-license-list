@@ -1,0 +1,2 @@
+Autoconf-exception-generic-3.0
+Autoconf generic exception for GPL-3.0

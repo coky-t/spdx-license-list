@@ -1,0 +1,6 @@
+Affero GPL v3
+AGPL-3.0
+GNU Affero General Public License v3.0
+GNU Affero General Public License as published by the Free Software Foundation, version 3
+GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+version 3 of the GNU Affero General Public License

@@ -1,0 +1,2 @@
+Autoconf-exception-macro
+Autoconf macro exception

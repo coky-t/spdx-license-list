@@ -1,0 +1,4 @@
+AFL-3.0
+Academic Free License v3.0
+Academic Free License ("AFL") v. 3.0
+Academic Free License version 3.0
