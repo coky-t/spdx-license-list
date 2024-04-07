@@ -1,0 +1,2 @@
+X11-distribute-modifications-variant
+X11 License Distribution Modification Variant
