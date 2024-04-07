@@ -1,0 +1,3 @@
+u-boot-exception-2.0
+U-Boot exception 2.0
+U-Boot License Exception 2.0

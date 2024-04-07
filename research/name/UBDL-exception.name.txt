@@ -1,0 +1,3 @@
+UBDL-exception
+Unmodified Binary Distribution exception
+UNMODIFIED BINARY DISTRIBUTION LICENCE

@@ -1,0 +1,2 @@
+Unicode-3.0
+Unicode License v3

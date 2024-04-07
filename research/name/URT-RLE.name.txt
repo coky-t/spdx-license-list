@@ -1,0 +1,2 @@
+URT-RLE
+Utah Raster Toolkit Run Length Encoded License
