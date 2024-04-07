@@ -1,0 +1,3 @@
+SHL-0.51
+SOLDERPAD HARDWARE LICENSE version 0.51
+Solderpad Hardware License, Version 0.51

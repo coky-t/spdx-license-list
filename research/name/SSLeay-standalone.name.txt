@@ -1,0 +1,3 @@
+SSLeay-standalone
+SSLeay License - standalone
+Original SSLeay License

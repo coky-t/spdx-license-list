@@ -1,0 +1,2 @@
+SWL
+Scheme Widget Library (SWL) Software License Agreement

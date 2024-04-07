@@ -1,0 +1,4 @@
+SMPPL
+Secure Messaging Protocol Public License
+Secure Messaging Protocol (SMP) Public License
+SMP Public License

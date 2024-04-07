@@ -1,0 +1,3 @@
+SHL-2.0
+Solderpad Hardware License v2.0
+Solderpad Hardware Licence Version 2.0

@@ -1,0 +1,3 @@
+SSPL-1.0
+Server Side Public License, v 1
+Server Side Public License, version 1
