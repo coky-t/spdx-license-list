@@ -1,0 +1,2 @@
+KiCad-libraries-exception
+KiCad Libraries Exception
