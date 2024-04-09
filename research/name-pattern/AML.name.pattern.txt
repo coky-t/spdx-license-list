@@ -1,0 +1,2 @@
+(?<!\w)AML(?!\w|\W*glslang)
+Apple\W*MIT\W*Licen[sc]e

@@ -1,0 +1,1 @@
+Adobe\W*Utopia(?:\W*Font)?(?:\W*Licen[sc]e)?

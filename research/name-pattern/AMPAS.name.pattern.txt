@@ -1,0 +1,2 @@
+(?<!\w)AMPAS(?:\W*BSD)?
+Academy\W*of\W*Motion\W*Picture\W*Arts\W*and\W*Sciences\W*BSD

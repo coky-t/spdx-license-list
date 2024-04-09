@@ -1,0 +1,1 @@
+(?<!\w)ANTLR\W*(?:PD\W*fallback|Software\W*Rights\W*Notice\W*with\W*licen[sc]e\W*fallback)

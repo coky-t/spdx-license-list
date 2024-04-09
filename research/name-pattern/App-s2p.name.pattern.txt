@@ -1,0 +1,1 @@
+App\W*s2p(?:\W*Licen[sc]e)?

@@ -1,0 +1,2 @@
+(?<!\w)APAFML(?!\w)
+Adobe\W*Postscript\W*AFM\W*Licen[sc]e

@@ -1,0 +1,2 @@
+AMDPLPA
+AMD\W*s\W*plpa_map\.c\W*Licen[sc]e

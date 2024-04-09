@@ -1,0 +1,1 @@
+Artistic\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*cl8|\W*w(?:ith)?\W*clause|\W*Perl)|(?!\.0(?:\W*cl8|\W*w(?:ith)?\W*clause|\W*Perl)))

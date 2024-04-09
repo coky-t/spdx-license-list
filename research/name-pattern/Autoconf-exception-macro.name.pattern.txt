@@ -1,0 +1,1 @@
+Autoconf(?:\W*exception\W*macro|\W*macro\W*exception)

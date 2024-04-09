@@ -1,0 +1,2 @@
+Arphic\W*1999
+Arphic\W*Public\W*Licen[sc]e

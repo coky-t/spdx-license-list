@@ -1,0 +1,2 @@
+(?:(?<!\w)A|Affero\W*)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e)?\W*only
+Affero\W*General\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*only

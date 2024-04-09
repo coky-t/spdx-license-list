@@ -1,0 +1,1 @@
+AML\W*glslang(?:\W*variant)?(?:Licen[sc]e)?

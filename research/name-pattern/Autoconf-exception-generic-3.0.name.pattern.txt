@@ -1,0 +1,1 @@
+Autoconf(?:\W*exception\W*generic|\W*generic\W*exception)\W*(for\W*)?(GPL\W*|GNU\W*(General\W*)Public\W*Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?

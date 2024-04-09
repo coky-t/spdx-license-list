@@ -1,0 +1,2 @@
+(?<!\w)ADSL(?!\w)
+Amazon\W*Digital\W*Services\W*Licen[sc]e

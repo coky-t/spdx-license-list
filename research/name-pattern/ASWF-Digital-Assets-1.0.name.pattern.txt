@@ -1,0 +1,1 @@
+ASWF\W*Digital\W*Assets\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))

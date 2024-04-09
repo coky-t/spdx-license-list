@@ -1,0 +1,1 @@
+Autoconf(?:\W*exception\W*generic|\W*generic\W*exception)(?!\W*for|\W*3\.0)

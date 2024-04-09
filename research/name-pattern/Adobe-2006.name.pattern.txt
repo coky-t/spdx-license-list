@@ -1,0 +1,2 @@
+Adobe\W*2006
+Adobe\W*Systems\W*Incorporated\W*(?:r\W*)?Source\W*Code\W*Licen[sc]e\W*Agreement

@@ -1,0 +1,1 @@
+AdaCore\W*Doc(?:\W*Licen[sc]e)?

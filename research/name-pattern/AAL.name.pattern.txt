@@ -1,0 +1,2 @@
+(?<!\w)AAL(?!\w)
+Attribution\W*Assurance\W*Licen[sc]e
