@@ -1,0 +1,1 @@
+Bison\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.24

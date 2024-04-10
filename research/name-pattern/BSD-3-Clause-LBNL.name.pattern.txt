@@ -1,0 +1,2 @@
+BSD\W*3\W*Clause\W*LBNL
+(?:Lawrence\W*Berkeley\W*National\W*Labs|LBNL)\W*BSD(?:\W*variant)?(?:\W*licen[sc]e)?

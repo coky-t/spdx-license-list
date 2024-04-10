@@ -1,0 +1,1 @@
+bzip2\W*(?:and\W*libbzip2\W*)?(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.6

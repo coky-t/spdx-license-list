@@ -1,0 +1,1 @@
+BSD\W*3\W*Clause\W*Flex(?:\W*variant)?

@@ -1,0 +1,1 @@
+BSD\W*Advertising\W*Acknowledge?ment(?:\W*Licen[sc]e)?

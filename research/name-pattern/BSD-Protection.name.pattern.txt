@@ -1,0 +1,1 @@
+BSD\W*Protection(?:\W*Licen[sc]e)?

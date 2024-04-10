@@ -1,0 +1,1 @@
+bcrypt\W*Solar\W*Designer(?:\W*Licen[sc]e)?

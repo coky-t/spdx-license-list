@@ -1,0 +1,1 @@
+BSD\W*4\W*Clause\W*(?:UC|University\W*of\W*California\W*Specific)

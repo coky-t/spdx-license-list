@@ -1,0 +1,1 @@
+Bitstream\W*Vera(?:\W*Font)?(?:\W*Licen[sc]e)?

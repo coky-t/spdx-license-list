@@ -1,0 +1,1 @@
+BSD\W*2\W*Clause\W*NetBSD(?:\W*Licen[sc]e)?

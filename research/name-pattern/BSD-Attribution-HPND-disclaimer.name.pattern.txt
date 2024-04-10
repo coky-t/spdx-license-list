@@ -1,0 +1,1 @@
+BSD\W*(?:with\W*)?Attribution\W*(?:and\W*)?HPND\W*disclaimer

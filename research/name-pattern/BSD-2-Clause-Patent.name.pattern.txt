@@ -1,0 +1,1 @@
+BSD\W*2\W*Clause(?:\W*Plus)?\W*Patent(?:\W*Licen[sc]e)?

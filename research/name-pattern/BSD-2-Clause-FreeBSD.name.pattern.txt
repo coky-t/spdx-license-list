@@ -1,0 +1,2 @@
+BSD\W*2\W*Clause\W*FreeBSD(?:\W*Licen[sc]e)?
+FreeBSD\W*Licen[sc]e

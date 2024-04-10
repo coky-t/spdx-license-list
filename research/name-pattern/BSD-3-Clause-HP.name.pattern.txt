@@ -1,0 +1,2 @@
+BSD\W*3\W*Clause\W*HP
+(?:Hewlett\W*Packard|HP)\W*BSD(?:\W*variant)?(?:\W*licen[sc]e)?

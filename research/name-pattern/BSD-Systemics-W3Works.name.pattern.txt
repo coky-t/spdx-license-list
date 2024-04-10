@@ -1,0 +1,2 @@
+BSD\W*Systemics\W*W3Works
+Systemics\W*W3Works\W*BSD(?:\W*variant)?(?:\W*licen[sc]e)?

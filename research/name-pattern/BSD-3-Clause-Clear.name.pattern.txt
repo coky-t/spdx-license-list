@@ -1,0 +1,3 @@
+BSD\W*3\W*Clause\W*Clear(?:\W*Licen[sc]e)?
+Clear\W*BSD(?:\W*Licen[sc]e)?
+BSD\W*Clear(?:\W*Licen[sc]e)?

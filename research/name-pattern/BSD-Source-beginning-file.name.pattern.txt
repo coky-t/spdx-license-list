@@ -1,0 +1,1 @@
+BSD\W*Source\W*(?:Code\W*Attribution\W*)?beginning\W*(?:of\W*)?file(?:\W*variant)?

@@ -1,0 +1,2 @@
+BSD\W*3\W*Clause\W*Attribution
+BSD\W*with\W*attribution

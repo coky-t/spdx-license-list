@@ -1,0 +1,1 @@
+BSD\W*2\W*Clause(?:\W*Ian)?\W*Darwin(?:\W*variant)?

@@ -1,0 +1,1 @@
+(?:(?<!\w)BUSL|Business\W*Source\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

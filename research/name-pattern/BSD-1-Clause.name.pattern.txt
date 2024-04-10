@@ -1,0 +1,2 @@
+(?<!\w)BSD\W*(?:1|One)(?:\W*Clause)?(?:\W*Licen[sc]e)?
+(?<!\w)(?:1|One)\W*(?:Clause\W*)?BSD(?:\W*Licen[sc]e)?
