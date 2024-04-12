@@ -72,3 +72,5 @@
 
 - [XML master files repo.](https://github.com/spdx/license-list-XML)
 - [Release Notes](https://github.com/spdx/license-list-XML/blob/main/RELEASE-NOTES.md)
+- [Release History](https://github.com/spdx/license-list-XML/blob/main/RELEASE-HISTORY.md)
+- [Historical Timeline](https://github.com/spdx/license-list-XML/blob/main/DOCS/history.md)
