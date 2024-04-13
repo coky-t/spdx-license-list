@@ -1,0 +1,2 @@
+(?<!\w)CDDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
+Common\W*Development\W*and\W*Distribution\W*Licen[sc]e\W*(?:CDDL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))

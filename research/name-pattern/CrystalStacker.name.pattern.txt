@@ -1,0 +1,1 @@
+CrystalStacker(?:\W*Licen[sc]e)?

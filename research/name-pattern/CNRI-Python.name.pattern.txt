@@ -1,0 +1,2 @@
+CNRI(?:\W*s)?\W*Python(?:\W*Licen[sc]e|(?!\W*GPL|\W*Open\W*Source\W*GPL))
+CNRI\W*(?:Open\W*Source\W*)?Licen[sc]e(?:\W*Agreement)?(?:\W*for\W*Python(?:\W*1\.6(?:b1|\.1)?)?)?

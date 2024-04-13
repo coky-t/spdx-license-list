@@ -1,0 +1,1 @@
+CNRI\W*Jython(?:\W*Licen[sc]e)?

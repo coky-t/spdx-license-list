@@ -1,0 +1,1 @@
+CFITSIO(?:\W*Licen[sc]e)?

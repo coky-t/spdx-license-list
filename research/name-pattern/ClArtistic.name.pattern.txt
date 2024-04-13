@@ -1,0 +1,2 @@
+ClArtistic
+Clarified\W*Artistic\W*Licen[sc]e

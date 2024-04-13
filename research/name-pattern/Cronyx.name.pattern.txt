@@ -1,0 +1,1 @@
+Cronyx(?:\W*Licen[sc]e)?

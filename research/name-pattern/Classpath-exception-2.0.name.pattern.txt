@@ -1,0 +1,1 @@
+class\W*path\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?

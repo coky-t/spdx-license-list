@@ -1,0 +1,2 @@
+(?<!\w)CECILL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+CeCILL\W*Free\W*Software\W*Licen[sc]e\W*Agreement\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

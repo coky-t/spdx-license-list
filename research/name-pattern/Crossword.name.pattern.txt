@@ -1,0 +1,1 @@
+Crossword(?:\W*Licen[sc]e)?

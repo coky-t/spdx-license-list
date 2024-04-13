@@ -1,0 +1,1 @@
+(?<!\w)Cube(\W*Licen[sc]e|(?!\w))

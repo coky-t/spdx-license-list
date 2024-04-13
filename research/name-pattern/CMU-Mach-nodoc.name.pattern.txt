@@ -1,0 +1,2 @@
+CMU\W*Mach\W*nodoc
+CMU\W*Mach\W*no\W*notices\W*in\W*documentation\W*variant

@@ -1,0 +1,2 @@
+CDLA\W*Sharing\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Community\W*Data\W*Licen[sc]e\W*Agreement\W*Sharing\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

@@ -1,0 +1,2 @@
+CERN\W*OHL\W*W\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+CERN\W*Open\W*Hardware\W*Licen[sc]e\W*(?:CERN\W*OHL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*Weakly\W*Reciprocal

@@ -1,0 +1,1 @@
+CNRI\W*(?:Python\W*)?(?:Open\W*Source\W*)?GPL\W*Compatible(?:\W*Licen[sc]e\W*Agreement)?
