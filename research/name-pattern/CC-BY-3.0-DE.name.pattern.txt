@@ -1,0 +1,3 @@
+(?<!\w)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*DE
+Creative\W*Commons\W*Attribution\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Germany
+Creative\W*Commons\W*Namensnennung\W*3(?:\.0)?\W*Deutschland

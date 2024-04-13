@@ -1,0 +1,2 @@
+(?<!\w)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.5(?!\W*AU)
+Creative\W*Commons\W*Attribution\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.5(?:\W*Generic|\W*Licen[sc]e|(?!\W*Australia))

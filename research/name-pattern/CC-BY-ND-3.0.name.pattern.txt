@@ -1,0 +1,2 @@
+(?<!\w)CC\W*BY\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*DE)|(?!\.0|\W*DE))
+Creative\W*Commons\W*Attribution\W*No\W*Deriv(?:ative)?s\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?:\W*Unported|(?!\W*Germany))|\W*Unported|(?!\.0|\W*Germany))

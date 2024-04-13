@@ -1,0 +1,2 @@
+(?<!\w)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO
+Creative\W*Commons\W*Attribution\W*Non\W*Commercial\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO

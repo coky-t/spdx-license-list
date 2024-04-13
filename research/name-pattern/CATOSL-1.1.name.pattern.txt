@@ -1,0 +1,1 @@
+(?:(?<!\w)CATOSL|Computer\W*Associates\W*Trusted\W*Open\W*Source\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

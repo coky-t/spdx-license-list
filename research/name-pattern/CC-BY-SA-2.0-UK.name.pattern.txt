@@ -1,0 +1,2 @@
+(?<!\w)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*UK
+Creative\W*Commons\W*Attribution\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*England\W*and\W*Wales

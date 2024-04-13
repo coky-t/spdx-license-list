@@ -1,0 +1,1 @@
+Caldera(?:\W*Licen[sc]e(?!\W*without)|(?!\W*Licen[sc]e|\W*no\W*preamble))

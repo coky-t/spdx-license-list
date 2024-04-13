@@ -1,0 +1,2 @@
+CC\W*PDDC
+Creative\W*Commons\W*Public\W*Domain\W*Dedication\W*and\W*Certification

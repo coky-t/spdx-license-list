@@ -1,0 +1,2 @@
+(?<!\w)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?4(?:\.0)?
+Creative\W*Commons\W*Attribution\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?4(?:\.0)?(?:\W*International)?

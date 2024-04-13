@@ -1,0 +1,3 @@
+(?<!\w)CC\W*BY\W*NC\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?4(?:\.0)?
+Creative\W*Commons\W*Attribution\W*Non\W*Commercial\W*No\W*Deriv(?:ative)?s\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?4(?:\.0)?(?:\W*International)?
+Creative\W*Commons\W*Attribution\W*No\W*Deriv(?:ative)?s\W*Non\W*Commercial\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?4(?:\.0)?(?:\W*International)?

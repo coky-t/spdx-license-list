@@ -1,0 +1,2 @@
+(?<!\w)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*AT
+Creative\W*Commons\W*Attribution\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Austria

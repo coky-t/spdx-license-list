@@ -1,0 +1,3 @@
+(?<!\w)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*NL
+Creative\W*Commons\W*Attribution\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Netherlands
+Creative\W*Commons\W*Naamsvermelding\W*3(?:\.0)?

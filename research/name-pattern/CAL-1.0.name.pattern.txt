@@ -1,0 +1,1 @@
+(?:(?<!\w)CAL|Cryptographic\W*Autonomy\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*Combined|\W*with)|(?!\.0(?:\W*Combined|\W*with)))

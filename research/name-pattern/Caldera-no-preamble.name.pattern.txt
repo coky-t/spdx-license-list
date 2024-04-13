@@ -1,0 +1,2 @@
+Caldera\W*no\W*preamble
+Caldera\W*Licen[sc]e\W*without\W*preamble

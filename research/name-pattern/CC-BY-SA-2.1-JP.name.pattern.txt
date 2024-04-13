@@ -1,0 +1,3 @@
+(?<!\w)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*JP
+Creative\W*Commons\W*Attribution\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*Japan
+アトリビューション\W*シェアアライク\W*2\.1(?:\W*帰属\W*同一条件許諾)?
