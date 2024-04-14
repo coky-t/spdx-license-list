@@ -1,0 +1,1 @@
+(?<!\w)DSDP(?:\W*Licen[sc]e|(?!\w))

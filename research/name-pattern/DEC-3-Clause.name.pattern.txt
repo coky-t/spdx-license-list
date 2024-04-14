@@ -1,0 +1,1 @@
+DEC\W*3\W*Clause(?:\W*Licen[sc]e)?

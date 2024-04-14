@@ -1,0 +1,1 @@
+diffmark(?:\W*licen[sc]e)?

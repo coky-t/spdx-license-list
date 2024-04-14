@@ -1,0 +1,3 @@
+D\W*FSL\W*1\.0
+Deutsche\W*Freie\W*Software\W*Lizenz
+German\W*Free\W*Software\W*Licen[sc]e

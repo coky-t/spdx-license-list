@@ -1,0 +1,1 @@
+DigiRule(?:\W*Solutions\W*s)?\W*FOSS(?:\W*licen[sc]e)?\W*exception

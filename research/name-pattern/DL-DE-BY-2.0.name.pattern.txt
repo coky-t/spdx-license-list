@@ -1,0 +1,3 @@
+DL\W*DE\W*BY\W*\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Data\W*licen[sc]e\W*Germany\W*attribution\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Datenlizenz\W*Deutschland\W*Namensnennung\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?

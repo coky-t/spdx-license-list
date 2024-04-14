@@ -1,0 +1,1 @@
+(?:David\W*M\W*Gay\W*|(?<!\w))dtoa(?:\W*Licen[sc]e|(?!\w))
