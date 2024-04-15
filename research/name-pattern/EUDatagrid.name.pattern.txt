@@ -1,0 +1,1 @@
+EU\W*DataGrid(?:(?:\W*Software)?\W*Licen[sc]e)?

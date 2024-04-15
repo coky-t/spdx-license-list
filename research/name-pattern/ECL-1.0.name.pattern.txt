@@ -1,0 +1,1 @@
+(?:(?<!\w)ECL|Educational\W*Community\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

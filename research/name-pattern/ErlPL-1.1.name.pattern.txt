@@ -1,0 +1,1 @@
+(?:(?<!\w)ErlPL|Erlang\W*Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

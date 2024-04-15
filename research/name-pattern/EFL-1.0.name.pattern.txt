@@ -1,0 +1,1 @@
+(?:(?<!\w)EFL|Eiffel\W*Forum\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
