@@ -1,1 +1,1 @@
-Bahyph(?:\W*License)?
+Bahyph(?:\W*Licen[sc]e)?
