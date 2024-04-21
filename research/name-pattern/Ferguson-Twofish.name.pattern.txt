@@ -1,0 +1,1 @@
+Ferguson\W*Twofish(?:\W*Licen[sc]e)?

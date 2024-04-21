@@ -1,0 +1,1 @@
+(?<!\w)FSF\W*(?:AP|All\W*Permissive)(?:\W*Licen[sc]e(?!\W*no\W*warranty|\W*without\W*warranty)|(?!\W*Licen[sc]e|\W*no\W*warranty|\W*without\W*warranty))

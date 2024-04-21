@@ -1,0 +1,2 @@
+(?<!\w)FSFULLR(?!WD|\w)
+FSF\W*Unlimited\W*Licen[sc]e\W*with\W*Licen[sc]e\W*Retention(?!\W*and\W*Warranty)

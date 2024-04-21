@@ -1,0 +1,1 @@
+(?:(?:Software\W*Licen[sc]e\W*for\W*The\W*)?Fraunhofer\W*)?FDK\W*AAC(?:\W*Codec\W*Library)?(?:\W*for\W*Android)?

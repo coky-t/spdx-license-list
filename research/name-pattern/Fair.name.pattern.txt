@@ -1,0 +1,1 @@
+(?<!\w)Fair(?:\W*Licen[sc]e|(?!\w))

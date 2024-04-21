@@ -1,0 +1,1 @@
+FreeBSD\W*Doc(?:umentation)?(?:\W*Licen[sc]e)?

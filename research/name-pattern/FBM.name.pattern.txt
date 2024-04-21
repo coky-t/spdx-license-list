@@ -1,0 +1,2 @@
+(?<!\w)FBM(?!\w)
+Fuzzy\W*Bitmap\W*Licen[sc]e

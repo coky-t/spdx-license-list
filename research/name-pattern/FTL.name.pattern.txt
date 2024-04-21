@@ -1,0 +1,2 @@
+(?<!\w)FTL(?!\w)
+Freetype\W*Project\W*Licen[sc]e

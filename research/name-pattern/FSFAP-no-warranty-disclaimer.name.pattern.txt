@@ -1,0 +1,2 @@
+FSFAP\W*no\W*warranty\W*disclaimer
+FSF\W*All\W*Permissive\W*Licen[sc]e\W*without\W*Warranty
