@@ -1,0 +1,1 @@
+(?:GPL|GNU\W*(?:General\W*)?Public\W*Licen[sc]e)\W*(?:CC|Cooperation\W*Commitment)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

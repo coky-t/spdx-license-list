@@ -1,0 +1,2 @@
+GLWTPL
+(?:GLWT\W*)?Good\W*Luck\W*With\W*That\W*Public\W*Licen[sc]e

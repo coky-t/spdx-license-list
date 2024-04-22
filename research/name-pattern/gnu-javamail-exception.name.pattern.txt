@@ -1,0 +1,1 @@
+gnu\W*javamail\W*exception

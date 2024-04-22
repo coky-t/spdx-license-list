@@ -1,0 +1,1 @@
+GCC\W*(?:Runtime\W*Library\W*)?exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.1

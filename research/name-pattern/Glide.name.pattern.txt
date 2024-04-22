@@ -1,0 +1,1 @@
+(?:3dfx\W*|(?<!\w))Glide(?:(?:\W*Source\W*Code\W*General\W*Public)?\W*Licen[sc]e|(?!\w))

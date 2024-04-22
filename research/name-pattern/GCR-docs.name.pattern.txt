@@ -1,0 +1,2 @@
+GCR\W*docs
+Gnome\W*GCR\W*Documentation\W*Licen[sc]e

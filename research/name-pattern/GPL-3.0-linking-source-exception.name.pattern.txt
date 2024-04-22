@@ -1,0 +1,1 @@
+(?:GPL|GNU\W*(?:General\W*)?Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*linking\W*(?:source\W*exception|exception\W*with\W*corresponding\W*source)

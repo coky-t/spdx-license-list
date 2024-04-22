@@ -1,0 +1,3 @@
+GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*invariants\W*or\W*later
+GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*or\W*later\W*invariants
+GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*or\W*any\W*later\W*version(?:\W*published\W*by\W*the\W*Free\W*Software\W*Foundation)?\W*with\W*the\W*Invariant\W*Sections

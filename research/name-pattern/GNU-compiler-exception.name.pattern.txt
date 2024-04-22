@@ -1,0 +1,1 @@
+GNU\W*compiler\W*exception
