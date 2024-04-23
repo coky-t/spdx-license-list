@@ -1,0 +1,2 @@
+HPND\W*sell\W*MIT\W*disclaimer\W*xserver
+Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*sell\W*xserver\W*variant\W*with\W*MIT\W*disclaimer

@@ -1,0 +1,2 @@
+HPND\W*DEC
+Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*DEC\W*variant

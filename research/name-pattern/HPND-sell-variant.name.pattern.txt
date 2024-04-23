@@ -1,0 +1,2 @@
+HPND\W*sell\W*variant(?!(?:\W*with)?\W*MIT)
+Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*sell\W*variant(?!(?:\W*with)?\W*MIT)

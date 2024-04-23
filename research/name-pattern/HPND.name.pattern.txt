@@ -1,0 +1,2 @@
+(?<!\w)HPND(?!\W*DEC|\W*doc|\W*export|\W*Fenneberg|\W*INRIA|\W*Kevlin|\W*Markus|\W*MIT|\W*Pbmplus|\W*sell|\W*UC|\W*with|\w)
+Historical\W*Permission\W*Notice\W*and\W*Disclaimer(?!\W*DEC|\W*doc|\W*export|\W*Fenneberg|\W*INRIA|\W*Kevlin|\W*Markus|\W*MIT|\W*Pbmplus|\W*sell|\W*University|\W*with|\w)

@@ -1,0 +1,2 @@
+HPND\W*doc\W*sell
+Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*documentation\W*sell\W*variant

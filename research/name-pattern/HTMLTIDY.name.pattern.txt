@@ -1,0 +1,1 @@
+HTML\W*Tidy(?:\W*Licen[sc]e)?

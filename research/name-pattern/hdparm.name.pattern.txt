@@ -1,0 +1,1 @@
+hdparm(?:\W*Licen[sc]e)?
