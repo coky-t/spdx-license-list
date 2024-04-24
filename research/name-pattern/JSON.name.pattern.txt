@@ -1,0 +1,1 @@
+(?<!\w)JSON(?:\W*Licen[sc]e|(?!\w))

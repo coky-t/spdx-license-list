@@ -1,0 +1,2 @@
+(?<!\w)JPNIC(?!\w)
+Japan\W*Network\W*Information\W*Center\W*Licen[sc]e
