@@ -1,0 +1,1 @@
+(?<!\w)ISC(?:\W*Licen[sc]e|(?!\W*Veillard|\w))

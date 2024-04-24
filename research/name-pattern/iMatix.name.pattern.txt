@@ -1,0 +1,2 @@
+iMatix(?:\W*Standard\W*Function\W*Library\W*Agreement)?
+SFL\W*Licen[sc]e\W*Agreement

@@ -1,0 +1,1 @@
+IEC\W*Code\W*Components\W*(?:EULA|End\W*user\W*licen[sc]e\W*agreement)

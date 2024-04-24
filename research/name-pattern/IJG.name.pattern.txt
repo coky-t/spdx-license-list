@@ -1,0 +1,2 @@
+(?<!\w)IJG(?!\W*short)
+Independent\W*JPEG\W*Group\W*Licen[sc]e(?!\W*short)

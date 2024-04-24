@@ -1,0 +1,2 @@
+(?:Intel\W*)?ACPI\W*Software\W*Licen[sc]e\W*Agreement
+Intel\W*ACPI

@@ -1,0 +1,1 @@
+Info\W*ZIP(?:\W*Licen[sc]e)?
