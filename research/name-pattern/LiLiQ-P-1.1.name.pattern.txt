@@ -1,0 +1,2 @@
+LiLiQ\W*P\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Licence\W*Libre\W*du\W*Québec\W*Permissive\W*(?:LiLiQ\W*P\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

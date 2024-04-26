@@ -1,0 +1,1 @@
+LPD\W*Document(?:ation)?(?:\W*Licen[sc]e)?

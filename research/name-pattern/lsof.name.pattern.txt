@@ -1,0 +1,1 @@
+(?<!\w)lsof(?:\W*Licen[sc]e|(?!\w))

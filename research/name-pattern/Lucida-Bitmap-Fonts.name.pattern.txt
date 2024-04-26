@@ -1,0 +1,1 @@
+Lucida\W*Bitmap\W*Fonts(?:\W*Licen[sc]e)?

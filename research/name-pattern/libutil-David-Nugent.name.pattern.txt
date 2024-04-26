@@ -1,0 +1,1 @@
+libutil\W*David\W*Nugent(?:\W*Licen[sc]e)?

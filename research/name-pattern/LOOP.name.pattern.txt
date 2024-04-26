@@ -1,0 +1,1 @@
+(?:Common\W*Lisp\W*|(?<!\w))LOOP(?:\W*Licen[sc]e|(?!\w))

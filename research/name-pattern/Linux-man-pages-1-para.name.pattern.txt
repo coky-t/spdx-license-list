@@ -1,0 +1,1 @@
+Linux\W*man\W*pages\W*1\W*para(?:graph)?

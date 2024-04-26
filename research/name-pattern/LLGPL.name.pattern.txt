@@ -1,0 +1,2 @@
+LLGPL(?:\W*Preamble)?
+Preamble\W*to\W*(?:the\W*)?(?:LGPL|GNU\W*(?:Library|Lesser)\W*(?:General\W*)?Public\W*Licen[sc]e)

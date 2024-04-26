@@ -1,0 +1,1 @@
+libpri\W*OpenH323\W*exception

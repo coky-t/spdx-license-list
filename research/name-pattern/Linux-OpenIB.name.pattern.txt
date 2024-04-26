@@ -1,0 +1,2 @@
+Linux\W*OpenIB
+Linux\W*Kernel\W*Variant\W*of\W*OpenIB\.org\W*licen[sc]e

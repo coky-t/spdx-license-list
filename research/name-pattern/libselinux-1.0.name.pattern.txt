@@ -1,0 +1,2 @@
+libselinux\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+libselinux\W*public\W*domain\W*notice

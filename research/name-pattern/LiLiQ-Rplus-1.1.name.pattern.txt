@@ -1,0 +1,2 @@
+Licen[sc]e\W*Libre\W*du\W*Québec\W*Réciprocité\W*forte\W*(?:LiLiQ\W*R\+\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+LiLiQ\W*R(?:\+|\W*plus)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

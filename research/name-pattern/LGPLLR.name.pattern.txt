@@ -1,0 +1,2 @@
+(?<!\w)LGPLLR(?!\w)
+Lesser\W*General\W*Public\W*Licen[sc]e\W*For\W*Linguistic\W*Resources

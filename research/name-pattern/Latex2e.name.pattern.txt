@@ -1,0 +1,1 @@
+(?<!\w)Latex2e(?:\W*Licen[sc]e|(?!\W*translated|\W*with))

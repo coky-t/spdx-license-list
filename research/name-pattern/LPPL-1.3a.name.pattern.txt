@@ -1,0 +1,3 @@
+LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3a
+LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:LPPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3a
+LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:Distributed\W*from\W*CTAN\W*archives\W*in\W*directory\W*macros\W*latex\W*base\W*lppl.txt\W*)?either\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3a
