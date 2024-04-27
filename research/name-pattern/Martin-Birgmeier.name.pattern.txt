@@ -1,0 +1,1 @@
+Martin\W*Birgmeier(?:\W*Licen[sc]e)?

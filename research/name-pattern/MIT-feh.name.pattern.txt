@@ -1,0 +1,2 @@
+MIT\W*feh
+feh\W*Licen[sc]e

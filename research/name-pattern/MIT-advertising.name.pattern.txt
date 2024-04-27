@@ -1,0 +1,2 @@
+MIT\W*advertising
+Enlightenment\W*Licen[sc]e\W*e16

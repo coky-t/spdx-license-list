@@ -1,0 +1,2 @@
+(?<!\w)MPL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception
+Mozilla\W*Public\W*Licen[sc]e\W*(?:MPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception

@@ -1,0 +1,1 @@
+Mackerras\W*3\W*Clause\W*acknowledge?ment(?:\W*variant)?

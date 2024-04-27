@@ -1,0 +1,2 @@
+(?<!\w)MS\W*LPL(?!\w)
+Microsoft\W*Limited\W*Public\W*Licen[sc]e(?:\W*Ms\W*LPL)?

@@ -1,0 +1,2 @@
+(?<!\w)MS\W*RL(?!\w)
+Microsoft\W*Reciprocal\W*Licen[sc]e(?:\W*Ms\W*RL)?

@@ -1,0 +1,1 @@
+MIT(?:\W*Licen[sc]e)?\W*Modern\W*Variant

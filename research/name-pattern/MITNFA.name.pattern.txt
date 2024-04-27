@@ -1,0 +1,2 @@
+(?<!\w)MITNFA(?!\w)
+MIT\W*no\W*false\W*attribs(?:\W*licen[sc]e)?

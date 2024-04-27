@@ -1,0 +1,1 @@
+Minpack(?:\W*Licen[sc]e)?

@@ -1,0 +1,1 @@
+MMIXware(?:\W*Licen[sc]e)?

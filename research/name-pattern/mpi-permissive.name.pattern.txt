@@ -1,0 +1,1 @@
+mpi\W*Permissive(?:\W*Licen[sc]e)?

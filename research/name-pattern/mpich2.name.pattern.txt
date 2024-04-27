@@ -1,0 +1,1 @@
+(?<!\w)mpich2(?:\W*Licen[sc]e|(?!\w))

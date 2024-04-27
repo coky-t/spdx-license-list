@@ -1,0 +1,1 @@
+(?<!\w)Multics(?:\W*Licen[sc]e)?

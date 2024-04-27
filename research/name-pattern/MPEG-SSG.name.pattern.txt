@@ -1,0 +1,2 @@
+(?<!\w)MPEG\W*SSG(?!\w)
+MPEG\W*Software\W*Simulation

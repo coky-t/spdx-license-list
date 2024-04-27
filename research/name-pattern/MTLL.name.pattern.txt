@@ -1,0 +1,3 @@
+(?<!\w)MTLL(?!\w)
+Matrix\W*Template\W*Library\W*Licen[sc]e
+Software\W*Licen[sc]e\W*for\W*MTL

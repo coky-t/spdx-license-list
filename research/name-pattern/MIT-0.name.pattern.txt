@@ -1,0 +1,1 @@
+(?<!\w)MIT\W*(?:0|Zero|No\W*Attribution)(?:\W*Licen[sc]e)?
