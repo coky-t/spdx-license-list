@@ -5,3 +5,4 @@ GNU General Public License as published by the Free Software Foundation's versio
 GNU General Public License by the Free Software Foundatio either version 2 of License
 GNU General Public License ("GPL") version 2
 GNU GPL License version 2
+version 2 of the GNU GPL
