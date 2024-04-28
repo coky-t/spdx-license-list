@@ -1,0 +1,2 @@
+(?<!\w)NASA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3(?!\w)
+NASA\W*Open\W*Source\W*Agreement\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3

@@ -1,0 +1,2 @@
+(?<!\w)NAIST\W*2003(?!\w)
+Nara\W*Institute\W*of\W*Science\W*and\W*Technology\W*Licen[sc]e\W*2003

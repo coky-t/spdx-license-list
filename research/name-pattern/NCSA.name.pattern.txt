@@ -1,0 +1,2 @@
+(?<!\w)NCSA(?!\w)
+University\W*of\W*Illinois(?:\W*NCSA)?\W*Open\W*Source\W*Licen[sc]e

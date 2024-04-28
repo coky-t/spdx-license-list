@@ -1,0 +1,1 @@
+NetCDF(?:\W*licen[sc]e)?

@@ -1,0 +1,2 @@
+(?<!\w)NOSL(?!\w)
+Netizen\W*Open\W*Source\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)?

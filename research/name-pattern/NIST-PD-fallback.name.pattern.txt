@@ -1,0 +1,2 @@
+NIST\W*PD\W*fallback
+NIST\W*Public\W*Domain\W*Notice\W*with\W*licen[sc]e\W*fallback

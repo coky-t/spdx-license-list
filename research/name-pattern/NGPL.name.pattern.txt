@@ -1,0 +1,2 @@
+(?<!\w)NGPL(?!\w)
+Nethack\W*General\W*Public\W*Licen[sc]e

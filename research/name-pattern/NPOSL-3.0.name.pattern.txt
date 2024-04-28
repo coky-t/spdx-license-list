@@ -1,0 +1,1 @@
+(?:Non\W*Profit|(?<!\w)NP)\W*(?:Open\W*Software\W*Licen[sc]e|OSL)(?:\W*Non\W*Profit\W*OSL)?\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?

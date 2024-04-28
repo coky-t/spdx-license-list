@@ -1,0 +1,1 @@
+(?<!\w)Nunit(?:\W*Licen[sc]e|(?!\w))

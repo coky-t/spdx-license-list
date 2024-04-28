@@ -1,0 +1,2 @@
+(?<!\w)NTP\W*0(?!\w)
+NTP\W*No\W*Attribution\W*(?:\W*NTP\W*0)?

@@ -1,0 +1,1 @@
+Net\W*SNMP(?:\W*Licen[sc]e)?

@@ -1,0 +1,1 @@
+Nokia\W*Qt\W*(?:LGPL\W*|GNU\W*(?:Library|Lesser)\W*(?:General\W*)?Public\W*Licen[sc]e\W*)?exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

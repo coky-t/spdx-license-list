@@ -1,0 +1,1 @@
+(?<!\w)NTP(?:\W*Licen[sc]e(?:\W*NTP)?|(?!\w|\W*0|\W*No))

@@ -1,0 +1,2 @@
+NCGL\W*UK\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Non\W*Commercial\W*Government\W*Licence
