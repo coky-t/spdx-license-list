@@ -1,0 +1,2 @@
+openvpn\W*openssl\W*exception
+Special\W*exception\W*for\W*linking\W*OpenVPN\W*with\W*OpenSSL

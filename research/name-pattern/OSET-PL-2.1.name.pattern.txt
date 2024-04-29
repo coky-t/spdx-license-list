@@ -1,0 +1,1 @@
+OSET\W*(?:Public\W*Licen[sc]e|PL)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1

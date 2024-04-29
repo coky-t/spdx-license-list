@@ -1,0 +1,1 @@
+(?:OCCT|Open\W*CASCADE(?:\W*Technology)?)\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

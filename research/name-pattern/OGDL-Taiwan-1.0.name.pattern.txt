@@ -1,0 +1,3 @@
+OGDL\W*Taiwan\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:.0)?
+(?:Taiwan\W*)?Open\W*Government\W*Data\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:.0)?
+政府資料開放授權條款\W*第1版

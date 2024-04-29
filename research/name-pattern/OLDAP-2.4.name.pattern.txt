@@ -1,0 +1,2 @@
+(?<!\w)OLDAP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4
+Open\W*LDAP\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4

@@ -1,0 +1,3 @@
+(?<!\w)OFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*no\W*RFN|\W*RFN)|(?!\.[0-9]|\W*no\W*RFN|\W*RFN))
+(?:SIL\W*)?Open\W*Font\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*with)|(?!\.[0-9]|\W*with))
+(?:v(?:er(?:sion|\.)?|\.)?\W*|(?<!1\.))1(?:.0)?\W*of\W*(?:the\W*)?(?:SIL\W*)?Open\W*Font\W*Licen[sc]e

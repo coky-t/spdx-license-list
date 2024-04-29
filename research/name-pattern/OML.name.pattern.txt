@@ -1,0 +1,2 @@
+(?<!\w)OML(?!\w)
+Open\W*Market\W*Licen[sc]e

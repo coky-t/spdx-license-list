@@ -1,0 +1,2 @@
+(?<!\w)OCCT\W*PL(?!\w)
+Open\W*CASCADE\W*Technology\W*Public\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?6\.6)?

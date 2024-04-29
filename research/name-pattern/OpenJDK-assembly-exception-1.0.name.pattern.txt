@@ -1,0 +1,1 @@
+OpenJDK\W*assembly\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

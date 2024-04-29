@@ -1,0 +1,3 @@
+(?<!\w)ODC\W*By\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\w))
+Open\W*Data\W*Commons\W*Attribution\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+ODC\W*Attribution\W*Licen[sc]e(?:\W*ODC\W*By)?

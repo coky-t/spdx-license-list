@@ -1,0 +1,2 @@
+(?<!\w)ODbL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\w))
+Open\W*Data\W*Commons\W*Open\W*Database\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

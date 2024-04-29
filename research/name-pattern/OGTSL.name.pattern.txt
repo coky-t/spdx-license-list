@@ -1,0 +1,2 @@
+(?<!\w)OGTSL(?!\w)
+Open\W*Group\W*Test\W*Suite\W*Licen[sc]e

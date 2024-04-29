@@ -1,0 +1,1 @@
+OCaml\W*(?:LGPL|GNU\W*(?:Library|Lesser)\W*(?:General\W*)?Public\W*Licen[sc]e)\W*linking\W*exception
