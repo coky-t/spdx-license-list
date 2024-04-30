@@ -1,0 +1,1 @@
+psfrag(?:\W*Licen[sc]e)?

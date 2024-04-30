@@ -1,0 +1,1 @@
+(?<!\w)Pixar(?:\W*Licen[sc]e|(?!\w))
