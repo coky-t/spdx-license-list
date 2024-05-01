@@ -533,7 +533,7 @@
 | [softSurfer License](https://spdx.org/licenses/softSurfer.html) | softSurfer | 3.23 | none | N/A | N/A |
 | [Soundex License](https://spdx.org/licenses/Soundex.html) | Soundex | 3.22 | none | N/A | N/A |
 | [Spencer License 86](https://spdx.org/licenses/Spencer-86.html) | Spencer-86 | 2.1 | none | N/A | N/A |
-| [Spencer License 94](https://spdx.org/licenses/Spencer-94.html) | Spencer-94 | 2.1 | none | N/A | N/A |
+| [Spencer License 94](https://spdx.org/licenses/Spencer-94.html) | Spencer-94 | 2.1 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/Spencer-94.html)), none (until [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/Spencer-94.html)) | N/A | N/A |
 | [Spencer License 99](https://spdx.org/licenses/Spencer-99.html) | Spencer-99 | 2.1 | none | N/A | N/A |
 | [Sun Public License v1.0](https://spdx.org/licenses/SPL-1.0.html) | SPL-1.0 | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SPL-1.0.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SPL-1.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/SPL-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/SPL-1.0.html)) | N/A |
 | [ssh-keyscan License](https://spdx.org/licenses/ssh-keyscan.html) | ssh-keyscan | 3.22 | none | N/A | N/A |
