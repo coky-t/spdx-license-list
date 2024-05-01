@@ -1,0 +1,1 @@
+(?:(?:QPL|Q\W*Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA|INRIA\W*(?:QPL|Q\W*Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)\W*2004\W*(?:variant\W*)?exception

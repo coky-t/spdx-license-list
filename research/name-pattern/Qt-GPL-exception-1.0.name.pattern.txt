@@ -1,0 +1,1 @@
+Qt\W*(?:Company\W*)?(?:GPL|GNU\W*(?:General\W*)?Public\W*Licen[sc]e)\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
