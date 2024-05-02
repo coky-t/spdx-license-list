@@ -1,0 +1,2 @@
+(?<!\w)RSCPL(?!\w)
+Ricoh\W*Source\W*Code\W*Public\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)?

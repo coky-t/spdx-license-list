@@ -1,0 +1,2 @@
+(?<!\w)RSA\W*MD(?!\w)
+RSA\W*Message\W*Digest\W*Licen[sc]e
