@@ -1,0 +1,2 @@
+(?<!\w)SMPPL(?!\w)
+(?:Secure\W*Messaging\W*Protocol\W*(?:SMP\W*)?|SMP\W*)Public\W*Licen[sc]e

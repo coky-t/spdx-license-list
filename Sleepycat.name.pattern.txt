@@ -1,0 +1,1 @@
+Sleepycat(?:\W*Licen[sc]e)?

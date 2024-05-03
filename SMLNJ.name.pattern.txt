@@ -1,0 +1,3 @@
+(?<!\w)SMLNJ(?!\w)
+StandardML\W*NJ
+Standard\W*ML\W*of\W*New\W*Jersey(?:\W*Licen[sc]e)?

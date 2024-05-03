@@ -1,0 +1,1 @@
+swrule(?:\W*Licen[sc]e)?

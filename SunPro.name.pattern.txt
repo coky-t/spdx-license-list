@@ -1,0 +1,1 @@
+(?<!\w)SunPro(?:\W*Licen[sc]e|(?!\w))

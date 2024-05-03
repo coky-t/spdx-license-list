@@ -1,0 +1,1 @@
+SGI\W*OpenGL(?:\W*Licen[sc]e)?
