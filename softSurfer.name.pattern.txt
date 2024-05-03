@@ -1,1 +1,0 @@
-softSurfer(?:\W*Licen[sc]e)?
