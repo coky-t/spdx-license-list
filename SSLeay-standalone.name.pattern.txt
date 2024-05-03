@@ -1,2 +1,0 @@
-SSLeay(?:\W*Licen[sc]e)?\W*standalone
-Original\W*SSLeay\W*Licen[sc]e
