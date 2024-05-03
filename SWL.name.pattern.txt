@@ -1,2 +1,0 @@
-(?<!\w)SWL(?!\w)
-Scheme\W*Widget\W*Library\W*(?:SWL\W*)?Software\W*Licen[sc]e\W*Agreement
