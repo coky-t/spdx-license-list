@@ -1,0 +1,1 @@
+(?<!\w)SGP4(?:\W*Permission\W*Notice|(?!\w))

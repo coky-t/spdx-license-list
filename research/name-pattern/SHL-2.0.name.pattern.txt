@@ -1,0 +1,1 @@
+(?:SHL(?:\W*Licen[sc]e)?|Solderpad\W*Hardware\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\.[1-9]))

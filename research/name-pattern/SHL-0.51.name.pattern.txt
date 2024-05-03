@@ -1,0 +1,2 @@
+(?<!\w)SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.51
+Solderpad\W*Hardware\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.51

@@ -1,0 +1,1 @@
+Sendmail\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?8\.23
