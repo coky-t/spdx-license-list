@@ -1,1 +1,0 @@
-Soundex(?:\W*Licen[sc]e)?
