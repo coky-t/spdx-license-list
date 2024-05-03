@@ -1,1 +1,0 @@
-ssh\W*keyscan(?:\W*Licen[sc]e)?
