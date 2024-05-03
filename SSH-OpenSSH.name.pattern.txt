@@ -1,1 +1,0 @@
-SSH\W*OpenSSH(?:\W*licen[sc]e)?
