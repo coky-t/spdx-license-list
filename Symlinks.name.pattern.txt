@@ -1,1 +1,0 @@
-Symlinks(?:\W*Licen[sc]e)?
