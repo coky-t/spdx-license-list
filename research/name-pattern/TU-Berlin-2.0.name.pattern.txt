@@ -1,0 +1,2 @@
+TU\W*Berlin\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Technische\W*Universitaet\W*Berlin\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?

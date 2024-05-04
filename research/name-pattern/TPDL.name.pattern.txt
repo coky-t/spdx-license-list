@@ -1,0 +1,2 @@
+(?<!\w)TPDL(?!\w)
+Time\W*ParseDate\W*Licen[sc]e

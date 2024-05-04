@@ -1,0 +1,1 @@
+TermReadKey(?:\W*Licen[sc]e)?

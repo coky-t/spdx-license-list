@@ -1,0 +1,2 @@
+(?<!\w)TTWL(?!\w)
+Text\W*Tabs\W*Wrap\W*Licen[sc]e
