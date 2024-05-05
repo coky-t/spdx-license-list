@@ -1,0 +1,1 @@
+(?<!\w)UCAR(?:\W*Licen[sc]e|(?!\w))

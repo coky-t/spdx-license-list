@@ -1,0 +1,1 @@
+(?:UBDL|Unmodified\W*Binary\W*Distribution\W*(?:exception|licen[sc]e))

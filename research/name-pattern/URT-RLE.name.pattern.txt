@@ -1,0 +1,2 @@
+(?<!\w)URT\W*RLE(?!\w)
+Utah\W*Raster\W*Toolkit\W*Run\W*Length\W*Encoded\W*Licen[sc]e

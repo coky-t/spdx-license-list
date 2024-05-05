@@ -1,0 +1,1 @@
+Universal\W*FOSS\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

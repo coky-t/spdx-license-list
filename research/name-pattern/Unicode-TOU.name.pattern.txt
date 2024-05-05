@@ -1,0 +1,1 @@
+Unicode\W*(?:Terms\W*of\W*Use|TOU)

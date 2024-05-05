@@ -1,0 +1,1 @@
+UnixCrypt(?:\W*Licen[sc]e)?
