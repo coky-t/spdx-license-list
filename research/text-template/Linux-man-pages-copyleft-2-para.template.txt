@@ -1,0 +1,4 @@
+Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies.
+
+Permission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying, provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one<<var;name="Linux-man-pages-copyleft(-var),Latex2e(-translated-notice)";original="Since the Linux kernel and libraries are constantly changing, ...|Permission is granted to copy and distribute translations of this manual into another language, ...";match="(?!\W*since\W*the\W*linux\W*kernel\W*(?:and|&)\W*libraries\W*are\W*constantly\W*changing|\W*permission\W*is\W*granted\W*to\W*copy\W*(?:and|&)\W*distribute\W*translations\W*of\W*this\W*manual\W*into\W*another\W*language)">>
+
