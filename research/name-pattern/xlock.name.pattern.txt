@@ -1,0 +1,1 @@
+(?<!\w)xlock(?:\W*Licen[sc]e|(?!\w))

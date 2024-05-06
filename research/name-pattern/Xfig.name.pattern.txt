@@ -1,0 +1,1 @@
+(?<!\w)Xfig(?:\W*Licen[sc]e|(?!\w))

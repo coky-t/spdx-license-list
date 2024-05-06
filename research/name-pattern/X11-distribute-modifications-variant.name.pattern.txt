@@ -1,0 +1,2 @@
+X11\W*distribute\W*modifications\W*variant
+X11\W*Licen[sc]e\W*Distribution\W*Modification\W*Variant
