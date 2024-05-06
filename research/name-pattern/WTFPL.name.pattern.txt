@@ -1,0 +1,2 @@
+(?<!\w)WTFPL(?!\w)
+Do\W*What\W*The\W*F[u\*]ck\W*You\W*Want\W*To\W*Public\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(\.0)?)?

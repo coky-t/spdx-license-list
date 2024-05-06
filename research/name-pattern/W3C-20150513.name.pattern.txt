@@ -1,0 +1,2 @@
+(?<!\w)W3C\W*2015\W*05\W*13
+W3C\W*Software\W*Notice\W*and\W*(?:Document\W*)?Licen[sc]e\W*2015\W*05\W*13

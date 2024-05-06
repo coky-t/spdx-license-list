@@ -1,0 +1,1 @@
+wxWindows(?:(?:\W*Library)?\W*Licen[sc]e|(?!\W*Library|\W*exception))
