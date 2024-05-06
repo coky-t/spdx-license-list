@@ -1,0 +1,1 @@
+(?<!\w)zlib\W*(?:(?:libpng\W*)?Licen[sc]e\W*(?:with\W*)?)?Acknowledgement

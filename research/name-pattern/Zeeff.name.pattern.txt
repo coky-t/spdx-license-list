@@ -1,0 +1,1 @@
+(?<!\w)Zeeff(?:\W*Licen[sc]e|(?!\w))
