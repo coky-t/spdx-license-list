@@ -1,0 +1,1 @@
+﻿licen[sc]e\W*hereby\W*granted\W*for\W*anyone\W*to\W*use\W*modify\W*or\W*redistribute\W*this\W*module\W*at\W*their\W*own\W*risk\W*please\W*feed\W*useful\W*changes\W*back\W*to\W*cpan\W*dave\W*sharnoff\W*org\W*
