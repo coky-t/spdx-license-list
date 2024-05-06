@@ -1,0 +1,1 @@
+﻿as\W*a\W*special\W*exception\W*to\W*the\W*gnu(?:\W*lesser)?\W*general\W*public\W*licen[sc]e\W*if\W*you\W*distribute\W*this\W*file\W*as\W*part\W*of\W*a\W*program(?:me)?\W*or\W*library\W*that\W*is\W*built\W*using\W*gnu\W*libtool\W*you\W*may\W*include\W*this\W*file\W*under\W*the\W*same\W*distribution\W*terms\W*that\W*you\W*use\W*for\W*the\W*rest\W*of\W*that\W*program(?:me)?\W*
