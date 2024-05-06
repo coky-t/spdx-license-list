@@ -1,0 +1,1 @@
+﻿as\W*a\W*special\W*exception\W*the\W*copyright\W*holders\W*give\W*you\W*permission\W*to\W*copy\W*modify\W*(?:and|&)\W*distribute\W*the\W*example\W*code\W*contained\W*in\W*this\W*document\W*under\W*the\W*terms\W*of\W*your\W*choosing\W*without\W*restriction\W*

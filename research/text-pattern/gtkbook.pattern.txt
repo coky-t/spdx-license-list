@@ -1,0 +1,1 @@
+﻿this\W*code\W*is\W*distributed\W*without\W*warranty\W*you\W*are\W*free\W*to\W*use\W*this\W*code\W*for\W*any\W*purpose\W*however\W*if\W*this\W*code\W*is\W*republished\W*or\W*redistributed\W*in\W*its\W*original\W*form\W*as\W*hardcopy\W*or\W*electronically\W*then\W*you\W*must\W*include\W*this\W*copyright\W*notice\W*along\W*with\W*the\W*code\W*

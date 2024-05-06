@@ -1,0 +1,1 @@
+﻿the\W*.{1,80}\W*project\W*hereby\W*grant\W*permission\W*for\W*non\W*gpl\W*compatible\W*gstreamer\W*plugins\W*to\W*be\W*used\W*(?:and|&)\W*distributed\W*together\W*with\W*gstreamer\W*(?:and|&)\W*.{1,80}\W*this\W*permission\W*(?:are|is)\W*above\W*(?:and|&)\W*beyond\W*the\W*permissions\W*granted\W*by\W*the\W*gpl\W*licen[sc]e\W*.{1,80}\W*is\W*covered\W*by\W*
