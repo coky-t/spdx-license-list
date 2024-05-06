@@ -1,0 +1,1 @@
+﻿this\W*document\W*may\W*be\W*copied\W*in\W*whole\W*or\W*in\W*part\W*in\W*any\W*form\W*or\W*by\W*any\W*means\W*as\W*is\W*or\W*with\W*alterations\W*provided\W*that\W*1\W*alterations\W*are\W*clearly\W*marked\W*as\W*alterations\W*(?:and|&)\W*2\W*this\W*copyright\W*notice\W*is\W*included\W*unmodified\W*in\W*any\W*copy\W*

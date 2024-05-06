@@ -1,0 +1,1 @@
+﻿copyright\W*(?:and|&)\W*licen[sc]e\W*this\W*program(?:me)?\W*is\W*free\W*(?:and|&)\W*open\W*software\W*you\W*may\W*use\W*modify\W*distribute\W*(?:and|&)\W*sell\W*this\W*program(?:me)?\W*(?:and|&)\W*any\W*modified\W*variants\W*in\W*any\W*way\W*you\W*wish\W*provided\W*you\W*do\W*not\W*restrict\W*others\W*from\W*doing\W*the\W*same\W*
