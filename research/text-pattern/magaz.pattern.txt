@@ -1,0 +1,1 @@
+﻿this\W*software\W*may\W*be\W*freely\W*used\W*transmitted\W*reproduced\W*or\W*modified\W*provided\W*that\W*the\W*copyright\W*notice\W*(?:and|&)\W*this\W*permission\W*is\W*retained\W*
