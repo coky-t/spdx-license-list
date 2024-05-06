@@ -1,0 +1,1 @@
+﻿terms\W*(?:and|&)\W*conditions\W*for\W*copying\W*distribution\W*modification\W*or\W*anything\W*else\W*.{0,20}\W*no\W*limit\W*to\W*do\W*anything\W*with\W*this\W*work\W*(?:and|&)\W*this\W*licen[sc]e\W*
