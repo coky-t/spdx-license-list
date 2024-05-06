@@ -1,0 +1,1 @@
+﻿the\W*style\W*package\W*is\W*copyrighted\W*but\W*may\W*be\W*used\W*(?:and|&)\W*extended\W*in\W*any\W*way\W*as\W*long\W*as\W*a\W*pointer\W*to\W*the\W*original\W*author\W*is\W*maintained\W*the\W*author\W*is\W*not\W*liable\W*for\W*any\W*problem\W*that\W*may\W*or\W*may\W*not\W*result\W*from\W*using\W*this\W*package\W*use\W*at\W*your\W*own\W*risk\W*

@@ -1,0 +1,1 @@
+﻿developed\W*at\W*(?:SunPro|SunSoft)\W*a\W*sun\W*microsystems\W*inc\W*business\W*permission\W*to\W*use\W*copy\W*modify\W*(?:and|&)\W*distribute\W*this\W*software\W*is\W*freely\W*granted\W*provided\W*that\W*this\W*notice\W*is\W*preserved\W*
