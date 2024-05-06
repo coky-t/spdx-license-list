@@ -1,0 +1,1 @@
+﻿a\W*modified\W*version\W*of\W*this\W*file\W*may\W*be\W*distributed\W*but\W*it\W*should\W*be\W*distributed\W*with\W*a\W*different\W*name\W*changed\W*files\W*must\W*be\W*distributed\W*together\W*with\W*a\W*complete\W*(?:and|&)\W*unchanged\W*distribution\W*of\W*these\W*files\W*
