@@ -1,0 +1,2 @@
+Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved<<var;name="FSFAP";original=". This file is offered as-is, ...";match="(?!\W*this\W*file\W*is\W*offered\W*as\W*is)">>
+

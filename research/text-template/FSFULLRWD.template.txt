@@ -1,0 +1,4 @@
+This <<var;name="file";original="Makefile.in";match="(?:Makefile\.in|file)">> is free software; <<var;name="author";original="the Free Software Foundation";match="(?:as\W*a\W*special\W*exception\W*the\W*author|the\W*Free\W*Software\W*Foundation)">> gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
+
+This <<var;name="file";original="program";match="(?:program|file)">> is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, to the extent permitted by law; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
