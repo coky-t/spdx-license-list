@@ -1,3 +1,3 @@
-LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
-LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:LPPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
-LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:Distributed\W*from\W*CTAN\W*archives\W*in\W*directory\W*macros\W*latex\W*base\W*lppl.txt\W*)?either\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
+LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:LPPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:Distributed\W*from\W*CTAN\W*archives\W*in\W*directory\W*macros\W*latex\W*base\W*lppl.txt\W*)?either\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
