@@ -1,1 +1,1 @@
-(?<!\w)Jam(?:\W*Licen[sc]e)?
+(?<!\w)Jam(?:\W*Licen[sc]e|(?!\w))
