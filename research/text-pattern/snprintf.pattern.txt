@@ -1,1 +1,1 @@
-﻿this\W*code\W*is\W*based\W*on\W*code\W*written\W*by\W*patrick\W*powell\W*papowell\W*astart\W*com\W*it\W*may\W*be\W*used\W*for\W*any\W*purpose\W*as\W*long\W*as\W*this\W*notice\W*remains\W*intact\W*on\W*all\W*source\W*code\W*distributions\W*
+this\W*code\W*is\W*based\W*on\W*code\W*written\W*by\W*patrick\W*powell\W*papowell\W*astart\W*com\W*it\W*may\W*be\W*used\W*for\W*any\W*purpose\W*as\W*long\W*as\W*this\W*notice\W*remains\W*intact\W*on\W*all\W*source\W*code\W*distributions\W*

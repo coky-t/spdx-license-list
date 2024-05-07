@@ -1,1 +1,1 @@
-﻿modification\W*(?:and|&)\W*redistribution\W*in\W*source\W*(?:and|&)\W*binary\W*forms\W*is\W*permitted\W*provided\W*that\W*due\W*credit\W*is\W*given\W*to\W*the\W*author\W*(?:and|&)\W*the\W*openbsd\W*project\W*by\W*leaving\W*this\W*copyright\W*notice\W*intact\W*
+modification\W*(?:and|&)\W*redistribution\W*in\W*source\W*(?:and|&)\W*binary\W*forms\W*is\W*permitted\W*provided\W*that\W*due\W*credit\W*is\W*given\W*to\W*the\W*author\W*(?:and|&)\W*the\W*openbsd\W*project\W*by\W*leaving\W*this\W*copyright\W*notice\W*intact\W*
