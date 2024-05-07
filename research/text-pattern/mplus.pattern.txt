@@ -1,1 +1,1 @@
-﻿these\W*fonts\W*are\W*free\W*softwares\W*unlimited\W*permission\W*is\W*granted\W*to\W*use\W*copy\W*(?:and|&)\W*distribute\W*it\W*with\W*or\W*without\W*modification\W*either\W*commercially\W*(?:and|&)\W*non\W*commercially\W*these\W*fonts\W*are\W*provided\W*as\W*is\W*without\W*warranty\W*
+these\W*fonts\W*are\W*free\W*softwares\W*unlimited\W*permission\W*is\W*granted\W*to\W*use\W*copy\W*(?:and|&)\W*distribute\W*it\W*with\W*or\W*without\W*modification\W*either\W*commercially\W*(?:and|&)\W*non\W*commercially\W*these\W*fonts\W*are\W*provided\W*as\W*is\W*without\W*warranty\W*
