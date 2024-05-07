@@ -1,1 +1,1 @@
-﻿permission\W*is\W*granted\W*to\W*copy\W*(?:and|&)\W*or\W*distribute\W*this\W*file\W*with\W*or\W*without\W*modifications\W*provided\W*this\W*notice\W*is\W*preserved\W*
+permission\W*is\W*granted\W*to\W*copy\W*(?:and|&)\W*or\W*distribute\W*this\W*file\W*with\W*or\W*without\W*modifications\W*provided\W*this\W*notice\W*is\W*preserved\W*
