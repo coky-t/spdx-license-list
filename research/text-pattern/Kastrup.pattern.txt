@@ -1,1 +1,1 @@
-﻿any\W*use\W*of\W*the\W*code\W*is\W*permitted\W*as\W*long\W*as\W*this\W*copyright\W*notice\W*is\W*preserved\W*in\W*the\W*code\W*
+any\W*use\W*of\W*the\W*code\W*is\W*permitted\W*as\W*long\W*as\W*this\W*copyright\W*notice\W*is\W*preserved\W*in\W*the\W*code\W*
