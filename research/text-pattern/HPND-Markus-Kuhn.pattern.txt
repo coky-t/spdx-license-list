@@ -1,1 +1,1 @@
-﻿permission\W*to\W*use\W*copy\W*modify\W*(?:and|&)\W*distribute\W*this\W*software\W*for\W*any\W*purpose\W*(?:and|&)\W*without\W*fee\W*is\W*hereby\W*granted\W*the\W*author\W*disclaims\W*all\W*warranties\W*with\W*regard\W*to\W*this\W*software\W*
+permission\W*to\W*use\W*copy\W*modify\W*(?:and|&)\W*distribute\W*this\W*software\W*for\W*any\W*purpose\W*(?:and|&)\W*without\W*fee\W*is\W*hereby\W*granted\W*the\W*author\W*disclaims\W*all\W*warranties\W*with\W*regard\W*to\W*this\W*software\W*

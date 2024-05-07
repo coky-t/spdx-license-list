@@ -1,1 +1,1 @@
-﻿you\W*may\W*freely\W*use\W*modify\W*(?:and|&)\W*redistribute\W*the\W*hdparm\W*program(?:me)?\W*as\W*either\W*binary\W*or\W*source\W*or\W*both\W*the\W*only\W*condition\W*is\W*that\W*my\W*name\W*(?:and|&)\W*copyright\W*notice\W*remain\W*in\W*the\W*source\W*code\W*as\W*is\W*
+you\W*may\W*freely\W*use\W*modify\W*(?:and|&)\W*redistribute\W*the\W*hdparm\W*program(?:me)?\W*as\W*either\W*binary\W*or\W*source\W*or\W*both\W*the\W*only\W*condition\W*is\W*that\W*my\W*name\W*(?:and|&)\W*copyright\W*notice\W*remain\W*in\W*the\W*source\W*code\W*as\W*is\W*
