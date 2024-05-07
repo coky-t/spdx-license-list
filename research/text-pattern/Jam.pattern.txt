@@ -1,1 +1,1 @@
-﻿licen[sc]e\W*is\W*hereby\W*granted\W*to\W*use\W*this\W*software\W*(?:and|&)\W*distribute\W*it\W*freely\W*as\W*long\W*as\W*this\W*copyright\W*notice\W*is\W*retained\W*(?:and|&)\W*modifications\W*are\W*clearly\W*marked\W*all\W*warranties\W*are\W*hereby\W*disclaimed\W*
+licen[sc]e\W*is\W*hereby\W*granted\W*to\W*use\W*this\W*software\W*(?:and|&)\W*distribute\W*it\W*freely\W*as\W*long\W*as\W*this\W*copyright\W*notice\W*is\W*retained\W*(?:and|&)\W*modifications\W*are\W*clearly\W*marked\W*all\W*warranties\W*are\W*hereby\W*disclaimed\W*
