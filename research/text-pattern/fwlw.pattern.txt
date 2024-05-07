@@ -1,1 +1,1 @@
-﻿this\W*software\W*package\W*may\W*be\W*freely\W*used\W*transmitted\W*reproduced\W*or\W*modified\W*provided\W*that\W*this\W*notice\W*is\W*left\W*intact\W*
+this\W*software\W*package\W*may\W*be\W*freely\W*used\W*transmitted\W*reproduced\W*or\W*modified\W*provided\W*that\W*this\W*notice\W*is\W*left\W*intact\W*
