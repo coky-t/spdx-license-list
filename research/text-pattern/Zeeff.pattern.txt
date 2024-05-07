@@ -1,1 +1,1 @@
-﻿you\W*can\W*use\W*this\W*code\W*in\W*any\W*manner\W*as\W*long\W*as\W*you\W*leave\W*my\W*name\W*on\W*it\W*(?:and|&)\W*don\W*t\W*hold\W*me\W*responsible\W*for\W*any\W*problems\W*with\W*it\W*
+you\W*can\W*use\W*this\W*code\W*in\W*any\W*manner\W*as\W*long\W*as\W*you\W*leave\W*my\W*name\W*on\W*it\W*(?:and|&)\W*don\W*t\W*hold\W*me\W*responsible\W*for\W*any\W*problems\W*with\W*it\W*
