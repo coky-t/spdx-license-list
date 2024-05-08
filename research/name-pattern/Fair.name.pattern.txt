@@ -1,1 +1,1 @@
-(?<!\w)Fair(?:\W*Licen[sc]e|(?!\w|\W*Use))
+(?<!\w)Fair(?:\W*Licen[sc]e|(?!\w|\W*Use|\W*Dealing|\W*Meaning))
