@@ -1,1 +1,1 @@
-Soundex(?:\W*Licen[sc]e)?
+Soundex(?:\W*Licen[sc]e|(?!\w))
