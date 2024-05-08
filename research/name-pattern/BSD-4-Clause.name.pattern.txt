@@ -1,4 +1,4 @@
 BSD\W*(?:4|Four)(?:(?:\W*Clause)?(?:\W*Original\W*or\W*Old|\W*Original|\W*Old)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*Shortened|\W*UC|\W*University))
-(?:4|Four)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
+(?:(?<!\w)4|Four)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
 BSD\W*(?:Original|Old)(?:\W*Licen[sc]e)?
 (?:Original|Old)\W*BSD(?:\W*Licen[sc]e)?
