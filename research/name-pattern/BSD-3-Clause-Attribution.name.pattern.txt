@@ -1,2 +1,2 @@
 BSD\W*3\W*Clause\W*Attribution
-BSD\W*with\W*attribution
+BSD\W*with\W*attribution(?!\W*and\W*HPND\W*disclaimer)
