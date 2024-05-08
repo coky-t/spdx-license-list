@@ -1,1 +1,1 @@
-mplus(?:(?:\W*Font)?\W*Licen[sc]e)?
+(?<!\w)mplus(?:(?:\W*Font)?\W*Licen[sc]e|(?!\w))
