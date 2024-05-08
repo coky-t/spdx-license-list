@@ -1,1 +1,1 @@
-OpenSSL(?:\W*Licen[sc]e(?!\W*standalone)|(?!\W*Licen[sc]e|\W*standalone))
+(?<!\w|OpenVPN\W*with\W*)OpenSSL(?:\W*Licen[sc]e(?!\W*standalone)|(?!\W*Licen[sc]e|\W*standalone|\W*exception))
