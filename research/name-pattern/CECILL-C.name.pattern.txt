@@ -1,1 +1,1 @@
-(?<!\w)CeCILL\W*C(?:\W*Free\W*Software\W*Licen[sc]e\W*Agreement)?
+(?<!\w)CeCILL\W*C(?:\W*Free\W*Software\W*Licen[sc]e\W*Agreement|(?!\w))
