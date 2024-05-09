@@ -2,3 +2,4 @@ EUPL-1.1
 EUPL V.1.1
 European Union Public License 1.1
 European Union Public Licence V. 1.1
+European Union Public Licence (EUPL) v. 1.1
