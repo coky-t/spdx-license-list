@@ -2,4 +2,3 @@ TPL-1.0
 THOR Public License 1.0
 THOR Public Licence (TPL)
 THOR Public License Version 1.0
-Technical Pursuit License ("TPL") Version 1.0
