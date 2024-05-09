@@ -1,2 +1,3 @@
 AGPL-3.0-only
 GNU Affero General Public License v3.0 only
+GNU Affero General Public License (AGPL) v. 3 only
