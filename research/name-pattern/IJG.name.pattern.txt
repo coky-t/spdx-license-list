@@ -1,2 +1,2 @@
-(?<!\w)IJG(?!\W*short)
+(?<!\w)IJG(?!\W*short|\W*author|\W*code|\W*distribution)
 Independent\W*JPEG\W*Group\W*Licen[sc]e(?!\W*short)
