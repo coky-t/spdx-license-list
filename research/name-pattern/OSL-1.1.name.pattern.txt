@@ -1,2 +1,2 @@
 (?<!\w)OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
-Open\W*Software\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Open\W*Software\W*Licen[sc]e\W*(?:OSL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
