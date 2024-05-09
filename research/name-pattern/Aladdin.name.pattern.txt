@@ -1,1 +1,1 @@
-Aladdin(?:\W*Free\W*Public)?(?:\W*Licen[sc]e)?
+Aladdin(?:(?:\W*Free\W*Public)?\W*Licen[sc]e|(?!\W*Enterprises|\W*Ghostscript))
