@@ -1,2 +1,2 @@
 (?:(?<!\w)A|Affero\W*)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))(?:\W*Licen[sc]e)?(?!\W*only|\W*or)
-Affero\W*General\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))
+Affero\W*General\W*Public\W*Licen[sc]e\W*(?:AGPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))
