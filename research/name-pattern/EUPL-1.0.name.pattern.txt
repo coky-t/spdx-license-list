@@ -1,1 +1,1 @@
-(?:(?<!\w)EUPL|European\W*Union\W*Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
+(?:(?<!\w)EUPL|European\W*Union\W*Public\W*Licen[sc]e(?:\W*EUPL)?)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
