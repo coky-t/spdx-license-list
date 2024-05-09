@@ -1,1 +1,1 @@
-OpenVision(?:\W*Licen[sc]e)?
+OpenVision(?:\W*Licen[sc]e|(?!\W*Technologies\W*Inc))
