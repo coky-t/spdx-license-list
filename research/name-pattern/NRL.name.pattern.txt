@@ -1,1 +1,1 @@
-(?<!\w)NRL(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)NRL(?:\W*Licen[sc]e|(?!\W*CCS|\w))
