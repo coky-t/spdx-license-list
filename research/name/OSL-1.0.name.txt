@@ -2,3 +2,4 @@ OSL-1.0
 Open Software License 1.0
 Open Software License v. 1.0
 Open Software License version 1.0
+Open Software License (OSL) v. 1.0

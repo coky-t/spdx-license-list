@@ -2,3 +2,4 @@ OSL-2.1
 Open Software License 2.1
 Open Software License v. 2.1
 Open Software License version 2.1
+Open Software License (OSL) v. 2.1
