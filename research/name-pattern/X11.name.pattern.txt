@@ -1,1 +1,1 @@
-(?<!\w)X11(?:\W*Licen[sc]e(?!\W*Distribution)|(?!\W*Licen[sc]e|\W*distribute|vnc|\w))
+(?<!\w)X11(?:\W*Licen[sc]e(?!\W*Distribution)|(?!\W*Licen[sc]e|\W*distribute|vnc|\W*Release\W*\d|R\d|\w))
