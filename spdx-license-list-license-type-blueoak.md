@@ -3,6 +3,7 @@
 | License Name | Identifier | Type in Blue Oak Council |
 | ------------ | ---------- | ------------------------ |
 | BSD Zero Clause License | 0BSD | Permissive - Bronze |
+| 3D Slicer License v1.0 | 3D-Slicer-1.0 | |
 | Attribution Assurance License | AAL | Permissive - Lead |
 | Abstyles License | Abstyles | |
 | AdaCore Doc License | AdaCore-doc | |
@@ -22,12 +23,14 @@
 | GNU Affero General Public License v3.0 only | AGPL-3.0-only | Network Copyleft |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | Network Copyleft |
 | Aladdin Free Public License | Aladdin | |
+| AMD newlib License | AMD-newlib | |
 | AMD's plpa_map.c License | AMDPLPA | Permissive - Bronze |
 | Apple MIT License | AML | Permissive - Bronze |
 | AML glslang variant License | AML-glslang | |
 | Academy of Motion Picture Arts and Sciences BSD | AMPAS | Permissive - Bronze |
 | ANTLR Software Rights Notice | ANTLR-PD | Permissive - Bronze |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | Permissive - Bronze |
+| Any OSI License | any-OSI | |
 | Apache License 1.0 | Apache-1.0 | Permissive - Bronze |
 | Apache License 1.1 | Apache-1.1 | Permissive - Bronze |
 | Apache License 2.0 | Apache-2.0 | Permissive - Silver |
@@ -63,6 +66,7 @@
 | BSD 1-Clause License | BSD-1-Clause | Permissive - Silver |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | Permissive - Silver |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | |
+| BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Permissive - Gold |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | Permissive - Silver |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Permissive - Bronze |
@@ -100,6 +104,7 @@
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | Maximal Copyleft |
 | Caldera License | Caldera | |
 | Caldera License (without preamble) | Caldera-no-preamble | |
+| Catharon License | Catharon | |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | |
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | |
@@ -196,6 +201,7 @@
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | |
 | Cube License | Cube | Permissive - Bronze |
 | curl License | curl | Permissive - Bronze |
+| Common Vulnerability Enumeration ToU License | cve-tou | |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | |
 | DEC 3-Clause License | DEC-3-Clause | |
 | diffmark license | diffmark | Permissive - Lead |
@@ -275,6 +281,7 @@
 | Graphics Gems License | Graphics-Gems | |
 | gSOAP Public License v1.3b | gSOAP-1.3b | |
 | gtkbook License | gtkbook | |
+| Gutmann License | Gutmann | |
 | Haskell Language Report License | HaskellReport | |
 | hdparm License | hdparm | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
@@ -285,18 +292,24 @@
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | |
 | HPND with US Government export control warning | HPND-export-US | |
+| HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | |
+| HPND with US Government export control and 2 disclaimers | HPND-export2-US | |
 | Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | |
 | Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | |
+| Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | |
 | Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | |
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | |
+| Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | |
+| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | |
+| Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | |
 | HTML Tidy License | HTMLTIDY | Permissive - Bronze |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | Permissive - Bronze |
 | ICU License | ICU | Permissive - Bronze |
@@ -378,6 +391,7 @@
 | enna License | MIT-enna | Permissive - Bronze |
 | feh License | MIT-feh | Permissive - Bronze |
 | MIT Festival Variant | MIT-Festival | |
+| MIT Khronos - old variant | MIT-Khronos-old | |
 | MIT License Modern Variant | MIT-Modern-Variant | Permissive - Silver |
 | MIT Open Group variant | MIT-open-group | Permissive - Bronze |
 | MIT testregex Variant | MIT-testregex | |
@@ -405,7 +419,9 @@
 | NASA Open Source Agreement 1.3 | NASA-1.3 | Permissive - Lead |
 | Naumen Public License | Naumen | Permissive - Bronze |
 | Net Boolean Public License v1 | NBPL-1.0 | Permissive - Lead |
+| NCBI Public Domain Notice | NCBI-PD | |
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
+| NCL Source Code License | NCL | |
 | University of Illinois/NCSA Open Source License | NCSA | Permissive - Bronze |
 | Net-SNMP License | Net-SNMP | Permissive - Bronze |
 | NetCDF license | NetCDF | Permissive - Bronze |
@@ -428,6 +444,7 @@
 | NTP License | NTP | Permissive - Bronze |
 | NTP No Attribution | NTP-0 | |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
+| OAR License | OAR | |
 | Open CASCADE Technology Public License | OCCT-PL | |
 | OCLC Research Public License 2.0 | OCLC-2.0 | |
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | |
@@ -484,11 +501,13 @@
 | PHP License v3.0 | PHP-3.0 | Permissive - Bronze |
 | PHP License v3.01 | PHP-3.01 | Permissive - Bronze |
 | Pixar License | Pixar | |
+| pkgconf License | pkgconf | |
 | Plexus Classworlds License | Plexus | Permissive - Bronze |
 | pnmstitch License | pnmstitch | |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | |
 | PostgreSQL License | PostgreSQL | Permissive - Silver |
+| Peer Production License | PPL | |
 | Python Software Foundation License 2.0 | PSF-2.0 | Permissive - Bronze |
 | psfrag License | psfrag | |
 | psutils License | psutils | Permissive - Lead |
@@ -543,6 +562,7 @@
 | Server Side Public License, v 1 | SSPL-1.0 | Network Copyleft |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | |
 | Sun PPP License | Sun-PPP | |
+| Sun PPP License (2000) | Sun-PPP-2000 | |
 | SunPro License | SunPro | |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | Permissive - Bronze |
 | swrule License | swrule | |
@@ -552,6 +572,7 @@
 | TCP Wrappers License | TCP-wrappers | Permissive - Bronze |
 | TermReadKey License | TermReadKey | |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | |
+| threeparttable License | threeparttable | |
 | TMate Open Source License | TMate | |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | |
 | Trusster Open Source License | TOSL | |
@@ -596,6 +617,7 @@
 | X.Net License | Xnet | Permissive - Bronze |
 | XPP License | xpp | Permissive - Bronze |
 | XSkat License | XSkat | |
+| xzoom License | xzoom | |
 | Yahoo! Public License v1.0 | YPL-1.0 | |
 | Yahoo! Public License v1.1 | YPL-1.1 | |
 | Zed License | Zed | Permissive - Lead |

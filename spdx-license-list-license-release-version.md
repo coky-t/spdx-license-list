@@ -3,6 +3,7 @@
 | License Name | Identifier | Release |
 | ------------ | ---------- | ------- |
 | BSD Zero Clause License | 0BSD | 2.2 |
+| 3D Slicer License v1.0 | 3D-Slicer-1.0 | 3.24.0 |
 | Attribution Assurance License | AAL | 1.0 beta |
 | Abstyles License | Abstyles | 1.20 |
 | AdaCore Doc License | AdaCore-doc | 3.20 |
@@ -22,12 +23,14 @@
 | GNU Affero General Public License v3.0 only | AGPL-3.0-only | 3.0 |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | 3.0 |
 | Aladdin Free Public License | Aladdin | 1.17 |
+| AMD newlib License | AMD-newlib | 3.24.0 |
 | AMD's plpa_map.c License | AMDPLPA | 1.20 |
 | Apple MIT License | AML | 1.20 |
 | AML glslang variant License | AML-glslang | 3.23 |
 | Academy of Motion Picture Arts and Sciences BSD | AMPAS | 1.20 |
 | ANTLR Software Rights Notice | ANTLR-PD | 1.0 |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | 3.11 |
+| Any OSI License | any-OSI | 3.24.0 |
 | Apache License 1.0 | Apache-1.0 | 1.0 |
 | Apache License 1.1 | Apache-1.1 | 1.0 |
 | Apache License 2.0 | Apache-2.0 | 1.0 beta |
@@ -63,6 +66,7 @@
 | BSD 1-Clause License | BSD-1-Clause | 3.0 |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | 1.0 beta |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | 3.23 |
+| BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | 3.24.0 |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 3.0 |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | 3.10 |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1.0 beta |
@@ -100,6 +104,7 @@
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | 3.9 |
 | Caldera License | Caldera | 1.20 |
 | Caldera License (without preamble) | Caldera-no-preamble | 3.23 |
+| Catharon License | Catharon | 3.24.0 |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | 1.0 beta |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | 1.0 beta |
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | 1.0 beta |
@@ -196,6 +201,7 @@
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | 1.0 |
 | Cube License | Cube | 1.20 |
 | curl License | curl | 2.3 |
+| Common Vulnerability Enumeration ToU License | cve-tou | 3.24.0 |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | 1.18 |
 | DEC 3-Clause License | DEC-3-Clause | 3.23 |
 | diffmark license | diffmark | 1.20 |
@@ -275,6 +281,7 @@
 | Graphics Gems License | Graphics-Gems | 3.20 |
 | gSOAP Public License v1.3b | gSOAP-1.3b | 1.0 |
 | gtkbook License | gtkbook | 3.23 |
+| Gutmann License | Gutmann | 3.24.0 |
 | Haskell Language Report License | HaskellReport | 1.20 |
 | hdparm License | hdparm | 3.23 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 3.9 |
@@ -285,18 +292,24 @@
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | 3.22 |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | 3.22 |
 | HPND with US Government export control warning | HPND-export-US | 3.20 |
+| HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | 3.24.0 |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | 3.22 |
+| HPND with US Government export control and 2 disclaimers | HPND-export2-US | 3.24.0 |
 | Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | 3.23 |
 | Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | 3.23 |
+| Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | 3.24.0 |
 | Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | 3.23 |
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | 3.20 |
+| Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | 3.24.0 |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | 3.23 |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | 3.22 |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | 3.23 |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | 3.22 |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 3.5 |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 3.20 |
+| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | 3.24.0 |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | 3.22 |
+| Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | 3.24.0 |
 | HTML Tidy License | HTMLTIDY | 3.11 |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | 1.19 |
 | ICU License | ICU | 2.0 |
@@ -378,6 +391,7 @@
 | enna License | MIT-enna | 1.20 |
 | feh License | MIT-feh | 1.20 |
 | MIT Festival Variant | MIT-Festival | 3.21 |
+| MIT Khronos - old variant | MIT-Khronos-old | 3.24.0 |
 | MIT License Modern Variant | MIT-Modern-Variant | 3.12 |
 | MIT Open Group variant | MIT-open-group | 3.11 |
 | MIT testregex Variant | MIT-testregex | 3.22 |
@@ -405,7 +419,9 @@
 | NASA Open Source Agreement 1.3 | NASA-1.3 | 1.0 beta |
 | Naumen Public License | Naumen | 1.0 beta |
 | Net Boolean Public License v1 | NBPL-1.0 | 1.17 |
+| NCBI Public Domain Notice | NCBI-PD | 3.24.0 |
 | Non-Commercial Government Licence | NCGL-UK-2.0 | 3.9 |
+| NCL Source Code License | NCL | 3.24.0 |
 | University of Illinois/NCSA Open Source License | NCSA | 1.0 beta |
 | Net-SNMP License | Net-SNMP | 2.6 |
 | NetCDF license | NetCDF | 1.20 |
@@ -428,6 +444,7 @@
 | NTP License | NTP | 1.0 beta |
 | NTP No Attribution | NTP-0 | 3.8 |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | 3.9 |
+| OAR License | OAR | 3.24.0 |
 | Open CASCADE Technology Public License | OCCT-PL | 2.3 |
 | OCLC Research Public License 2.0 | OCLC-2.0 | 1.0 beta |
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | 1.0 |
@@ -484,11 +501,13 @@
 | PHP License v3.0 | PHP-3.0 | 1.0 beta |
 | PHP License v3.01 | PHP-3.01 | 1.15 |
 | Pixar License | Pixar | 3.23 |
+| pkgconf License | pkgconf | 3.24.0 |
 | Plexus Classworlds License | Plexus | 1.20 |
 | pnmstitch License | pnmstitch | 3.22 |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | 3.9 |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | 3.9 |
 | PostgreSQL License | PostgreSQL | 1.0 beta |
+| Peer Production License | PPL | 3.24.0 |
 | Python Software Foundation License 2.0 | PSF-2.0 | (1.0 beta) 3.8 |
 | psfrag License | psfrag | 1.20 |
 | psutils License | psutils | 1.20 |
@@ -543,6 +562,7 @@
 | Server Side Public License, v 1 | SSPL-1.0 | 3.6 |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 1.0 |
 | Sun PPP License | Sun-PPP | 3.23 |
+| Sun PPP License (2000) | Sun-PPP-2000 | 3.24.0 |
 | SunPro License | SunPro | 3.20 |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | 1.20 |
 | swrule License | swrule | 3.22 |
@@ -552,6 +572,7 @@
 | TCP Wrappers License | TCP-wrappers | 2.6 |
 | TermReadKey License | TermReadKey | 3.21 |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | 3.23 |
+| threeparttable License | threeparttable | 3.24.0 |
 | TMate Open Source License | TMate | 1.20 |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 1.20 |
 | Trusster Open Source License | TOSL | 1.20 |
@@ -596,6 +617,7 @@
 | X.Net License | Xnet | 1.0 beta |
 | XPP License | xpp | 1.20 |
 | XSkat License | XSkat | 1.20 |
+| xzoom License | xzoom | 3.24.0 |
 | Yahoo! Public License v1.0 | YPL-1.0 | 1.15 |
 | Yahoo! Public License v1.1 | YPL-1.1 | 1.0 |
 | Zed License | Zed | 1.20 |

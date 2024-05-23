@@ -4,6 +4,7 @@
 | ------------ | ---------- | ------- |
 | 389 Directory Server Exception | 389-exception | 2.1 |
 | Asterisk exception | Asterisk-exception | 3.21 |
+| Asterisk linking protocols exception | Asterisk-linking-protocols-exception | 3.24.0 |
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | 2.1 |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | 2.1 |
 | Autoconf generic exception | Autoconf-exception-generic | 3.20 |
@@ -50,11 +51,13 @@
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | 2.3 |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | 3.1 |
 | OpenVPN OpenSSL Exception | openvpn-openssl-exception | 2.2 |
+| PCRE2 exception | PCRE2-exception | 3.24.0 |
 | PS/PDF font exception (2017-08-17) | PS-or-PDF-font-exception-20170817 | 3.2 |
 | INRIA QPL 1.0 2004 variant exception | QPL-1.0-INRIA-2004-exception | 3.20 |
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | 3.2 |
 | Qt LGPL exception 1.1 | Qt-LGPL-exception-1.1 | 3.2 |
 | Qwt exception 1.0 | Qwt-exception-1.0 | 2.1 |
+| RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | 3.24.0 |
 | SANE Exception | SANE-exception | 3.22 |
 | Solderpad Hardware License v2.0 | SHL-2.0 | 3.9 |
 | Solderpad Hardware License v2.1 | SHL-2.1 | 3.9 |
