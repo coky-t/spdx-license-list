@@ -4,6 +4,7 @@
 | ------------ | ---------- | ------------ |
 | 389 Directory Server Exception | 389-exception | 1931 |
 | Asterisk exception | Asterisk-exception | 332 |
+| Asterisk linking protocols exception | Asterisk-linking-protocols-exception | 873 |
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | 1573 |
 | Autoconf exception 3.0 | Autoconf-exception-3.0 | 1818 |
 | Autoconf generic exception | Autoconf-exception-generic | 266 |
@@ -50,14 +51,16 @@
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | 663 |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | 1447 |
 | OpenVPN OpenSSL Exception | openvpn-openssl-exception | 629 |
+| PCRE2 exception | PCRE2-exception | 413 |
 | PS/PDF font exception (2017-08-17) | PS-or-PDF-font-exception-20170817 | 439 |
 | INRIA QPL 1.0 2004 variant exception | QPL-1.0-INRIA-2004-exception | 334 |
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | 964 |
 | Qt LGPL exception 1.1 | Qt-LGPL-exception-1.1 | 1195 |
 | Qwt exception 1.0 | Qwt-exception-1.0 | 1199 |
+| RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | 2721 |
 | SANE Exception | SANE-exception | 1003 |
-| Solderpad Hardware License v2.0 | SHL-2.0 | 2776 |
-| Solderpad Hardware License v2.1 | SHL-2.1 | 4485 |
+| Solderpad Hardware License v2.0 | SHL-2.0 | 2750 |
+| Solderpad Hardware License v2.1 | SHL-2.1 | 4484 |
 | stunnel Exception | stunnel-exception | 1047 |
 | SWI exception | SWI-exception | 382 |
 | Swift Exception | Swift-exception | 355 |

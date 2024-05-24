@@ -3,6 +3,7 @@
 | License Name | Identifier | Size (Bytes) |
 | ------------ | ---------- | ------------ |
 | BSD Zero Clause License | 0BSD | 643 |
+| 3D Slicer License v1.0 | 3D-Slicer-1.0 | 10299 |
 | Attribution Assurance License | AAL | 2529 |
 | Abstyles License | Abstyles | 731 |
 | AdaCore Doc License | AdaCore-doc | 236 |
@@ -22,17 +23,19 @@
 | GNU Affero General Public License v3.0 only | AGPL-3.0-only | 34020 |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | 34020 |
 | Aladdin Free Public License | Aladdin | 11604 |
+| AMD newlib License | AMD-newlib | 545 |
 | AMD's plpa_map.c License | AMDPLPA | 5642 |
 | Apple MIT License | AML | 2358 |
 | AML glslang variant License | AML-glslang | 2373 |
 | Academy of Motion Picture Arts and Sciences BSD | AMPAS | 2192 |
 | ANTLR Software Rights Notice | ANTLR-PD | 987 |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | 1261 |
+| Any OSI License | any-OSI | 93 |
 | Apache License 1.0 | Apache-1.0 | 2507 |
 | Apache License 1.1 | Apache-1.1 | 2474 |
 | Apache License 2.0 | Apache-2.0 | 10280 |
 | Adobe Postscript AFM License | APAFML | 617 |
-| Adaptive Public License 1.0 | APL-1.0 | 46103 |
+| Adaptive Public License 1.0 | APL-1.0 | 46064 |
 | App::s2p License | App-s2p | 224 |
 | Apple Public Source License 1.0 | APSL-1.0 | 19644 |
 | Apple Public Source License 1.1 | APSL-1.1 | 20151 |
@@ -63,6 +66,7 @@
 | BSD 1-Clause License | BSD-1-Clause | 1086 |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | 1267 |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | 1593 |
+| BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | 1328 |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 2569 |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | 1519 |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1460 |
@@ -100,12 +104,13 @@
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | 16125 |
 | Caldera License | Caldera | 2577 |
 | Caldera License (without preamble) | Caldera-no-preamble | 1752 |
+| Catharon License | Catharon | 5178 |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | 19046 |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | 11405 |
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | 12572 |
 | Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | 12781 |
 | Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | 17126 |
-| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | 18666 |
+| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | 19467 |
 | Creative Commons Attribution 3.0 Austria | CC-BY-3.0-AT | 19189 |
 | Creative Commons Attribution 3.0 Australia | CC-BY-3.0-AU | 15262 |
 | Creative Commons Attribution 3.0 Germany | CC-BY-3.0-DE | 19218 |
@@ -116,13 +121,13 @@
 | Creative Commons Attribution Non Commercial 1.0 Generic | CC-BY-NC-1.0 | 11902 |
 | Creative Commons Attribution Non Commercial 2.0 Generic | CC-BY-NC-2.0 | 13585 |
 | Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | 13790 |
-| Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | 19607 |
+| Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | 20479 |
 | Creative Commons Attribution Non Commercial 3.0 Germany | CC-BY-NC-3.0-DE | 20434 |
 | Creative Commons Attribution Non Commercial 4.0 International | CC-BY-NC-4.0 | 17649 |
 | Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | 11032 |
 | Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | 12711 |
 | Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic | CC-BY-NC-ND-2.5 | 12936 |
-| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | 17860 |
+| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | 18650 |
 | Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany | CC-BY-NC-ND-3.0-DE | 18469 |
 | Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO | CC-BY-NC-ND-3.0-IGO | 17672 |
 | Creative Commons Attribution Non Commercial No Derivatives 4.0 International | CC-BY-NC-ND-4.0 | 17452 |
@@ -132,14 +137,14 @@
 | Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France | CC-BY-NC-SA-2.0-FR | 18798 |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales | CC-BY-NC-SA-2.0-UK | 11347 |
 | Creative Commons Attribution Non Commercial Share Alike 2.5 Generic | CC-BY-NC-SA-2.5 | 15386 |
-| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | 21351 |
+| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | 22305 |
 | Creative Commons Attribution Non Commercial Share Alike 3.0 Germany | CC-BY-NC-SA-3.0-DE | 22414 |
 | Creative Commons Attribution Non Commercial Share Alike 3.0 IGO | CC-BY-NC-SA-3.0-IGO | 20330 |
 | Creative Commons Attribution Non Commercial Share Alike 4.0 International | CC-BY-NC-SA-4.0 | 19018 |
 | Creative Commons Attribution No Derivatives 1.0 Generic | CC-BY-ND-1.0 | 10488 |
 | Creative Commons Attribution No Derivatives 2.0 Generic | CC-BY-ND-2.0 | 11696 |
 | Creative Commons Attribution No Derivatives 2.5 Generic | CC-BY-ND-2.5 | 11921 |
-| Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | 16930 |
+| Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | 17650 |
 | Creative Commons Attribution No Derivatives 3.0 Germany | CC-BY-ND-3.0-DE | 18246 |
 | Creative Commons Attribution No Derivatives 4.0 International | CC-BY-ND-4.0 | 16830 |
 | Creative Commons Attribution Share Alike 1.0 Generic | CC-BY-SA-1.0 | 12523 |
@@ -147,7 +152,7 @@
 | Creative Commons Attribution Share Alike 2.0 England and Wales | CC-BY-SA-2.0-UK | 10810 |
 | Creative Commons Attribution Share Alike 2.1 Japan | CC-BY-SA-2.1-JP | 16303 |
 | Creative Commons Attribution Share Alike 2.5 Generic | CC-BY-SA-2.5 | 14331 |
-| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | 21305 |
+| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | 22240 |
 | Creative Commons Attribution Share Alike 3.0 Austria | CC-BY-SA-3.0-AT | 22343 |
 | Creative Commons Attribution Share Alike 3.0 Germany | CC-BY-SA-3.0-DE | 22421 |
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | 20189 |
@@ -196,6 +201,7 @@
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | 23381 |
 | Cube License | Cube | 1078 |
 | curl License | curl | 1043 |
+| Common Vulnerability Enumeration ToU License | cve-tou | 943 |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | 15238 |
 | DEC 3-Clause License | DEC-3-Clause | 1530 |
 | diffmark license | diffmark | 88 |
@@ -275,6 +281,7 @@
 | Graphics Gems License | Graphics-Gems | 707 |
 | gSOAP Public License v1.3b | gSOAP-1.3b | 20362 |
 | gtkbook License | gtkbook | 309 |
+| Gutmann License | Gutmann | 96 |
 | Haskell Language Report License | HaskellReport | 602 |
 | hdparm License | hdparm | 253 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 8422 |
@@ -285,20 +292,26 @@
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | 443 |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | 442 |
 | HPND with US Government export control warning | HPND-export-US | 944 |
+| HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | 1184 |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | 1272 |
+| HPND with US Government export control and 2 disclaimers | HPND-export2-US | 1136 |
 | Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | 700 |
 | Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | 553 |
+| Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | 1419 |
 | Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | 421 |
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | 179 |
+| Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | 385 |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | 950 |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | 406 |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | 748 |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | 353 |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 1102 |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 891 |
+| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | 763 |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | 425 |
+| Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | 533 |
 | HTML Tidy License | HTMLTIDY | 1460 |
-| IBM PowerPC Initialization and Boot Software | IBM-pibs | 855 |
+| IBM PowerPC Initialization and Boot Software | IBM-pibs | 849 |
 | ICU License | ICU | 1597 |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | 2330 |
 | Independent JPEG Group License | IJG | 4244 |
@@ -328,11 +341,11 @@
 | Latex2e License | Latex2e | 704 |
 | Latex2e with translated notice permission | Latex2e-translated-notice | 981 |
 | Leptonica License | Leptonica | 734 |
-| GNU Library General Public License v2 only | LGPL-2.0-only | 24842 |
-| GNU Library General Public License v2 or later | LGPL-2.0-or-later | 24842 |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | 25967 |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | Long| 25967 |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | Long| 42098 |
+| GNU Library General Public License v2 only | LGPL-2.0-only | 24877 |
+| GNU Library General Public License v2 or later | LGPL-2.0-or-later | 24877 |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | 26001 |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | 26001 |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | 42098 |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | 42098 |
 | Lesser General Public License For Linguistic Resources | LGPLLR | 14556 |
 | libpng License | Libpng | 4218 |
@@ -378,6 +391,7 @@
 | enna License | MIT-enna | 1668 |
 | feh License | MIT-feh | 1105 |
 | MIT Festival Variant | MIT-Festival | 1228 |
+| MIT Khronos - old variant | MIT-Khronos-old | 1305 |
 | MIT License Modern Variant | MIT-Modern-Variant | 917 |
 | MIT Open Group variant | MIT-open-group | 1121 |
 | MIT testregex Variant | MIT-testregex | 1134 |
@@ -405,7 +419,9 @@
 | NASA Open Source Agreement 1.3 | NASA-1.3 | 13778 |
 | Naumen Public License | Naumen | 1953 |
 | Net Boolean Public License v1 | NBPL-1.0 | 5425 |
-| Non-Commercial Government Licence | NCGL-UK-2.0 | 5540 |
+| NCBI Public Domain Notice | NCBI-PD | 964 |
+| Non-Commercial Government Licence | NCGL-UK-2.0 | 5536 |
+| NCL Source Code License | NCL | 1508 |
 | University of Illinois/NCSA Open Source License | NCSA | 1700 |
 | Net-SNMP License | Net-SNMP | 14237 |
 | NetCDF license | NetCDF | 1881 |
@@ -422,13 +438,14 @@
 | Netizen Open Source License | NOSL | 24490 |
 | Noweb License | Noweb | 1126 |
 | Netscape Public License v1.0 | NPL-1.0 | 21054 |
-| Netscape Public License v1.1 | NPL-1.1 | 28018 |
+| Netscape Public License v1.1 | NPL-1.1 | 28009 |
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | 11800 |
 | NRL License | NRL | 3298 |
 | NTP License | NTP | 714 |
 | NTP No Attribution | NTP-0 | 528 |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | 3434 |
-| Open CASCADE Technology Public License | OCCT-PL | 14012 |
+| OAR License | OAR | 577 |
+| Open CASCADE Technology Public License | OCCT-PL | 14008 |
 | OCLC Research Public License 2.0 | OCLC-2.0 | 11124 |
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | 25289 |
 | Open Data Commons Attribution License v1.0 | ODC-By-1.0 | 19808 |
@@ -442,7 +459,7 @@
 | OGC Software License, Version 1.0 | OGC-1.0 | 2179 |
 | Taiwan Open Government Data License, version 1.0 | OGDL-Taiwan-1.0 | 11606 |
 | Open Government Licence - Canada | OGL-Canada-2.0 | 3679 |
-| Open Government Licence v1.0 | OGL-UK-1.0 | 6080 |
+| Open Government Licence v1.0 | OGL-UK-1.0 | 6059 |
 | Open Government Licence v2.0 | OGL-UK-2.0 | 5980 |
 | Open Government Licence v3.0 | OGL-UK-3.0 | 6220 |
 | Open Group Test Suite License | OGTSL | 5277 |
@@ -471,7 +488,7 @@
 | Open Public License v1.0 | OPL-1.0 | 20309 |
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | 4469 |
 | Open Publication License v1.0 | OPUBL-1.0 | 6148 |
-| OSET Public License version 2.1 | OSET-PL-2.1 | 19967 |
+| OSET Public License version 2.1 | OSET-PL-2.1 | 19962 |
 | Open Software License 1.0 | OSL-1.0 | 8921 |
 | Open Software License 1.1 | OSL-1.1 | 9663 |
 | Open Software License 2.0 | OSL-2.0 | 9880 |
@@ -484,11 +501,13 @@
 | PHP License v3.0 | PHP-3.0 | 2846 |
 | PHP License v3.01 | PHP-3.01 | 2855 |
 | Pixar License | Pixar | 10038 |
+| pkgconf License | pkgconf | 387 |
 | Plexus Classworlds License | Plexus | 1849 |
 | pnmstitch License | pnmstitch | 1105 |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | 4563 |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | 4389 |
 | PostgreSQL License | PostgreSQL | 1195 |
+| Peer Production License | PPL | 18880 |
 | Python Software Foundation License 2.0 | PSF-2.0 | 2427 |
 | psfrag License | psfrag | 480 |
 | psutils License | psutils | 1961 |
@@ -522,7 +541,7 @@
 | Solderpad Hardware License v0.5 | SHL-0.5 | 11386 |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | 11399 |
 | Simple Public License 2.0 | SimPL-2.0 | 2529 |
-| Sun Industry Standards Source License v1.1 | SISSL | 14496 |
+| Sun Industry Standards Source License v1.1 | SISSL | 14490 |
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | 12474 |
 | SL License | SL | 275 |
 | Sleepycat License | Sleepycat | 4995 |
@@ -543,6 +562,7 @@
 | Server Side Public License, v 1 | SSPL-1.0 | 30609 |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 22087 |
 | Sun PPP License | Sun-PPP | 616 |
+| Sun PPP License (2000) | Sun-PPP-2000 | 613 |
 | SunPro License | SunPro | 246 |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | 2129 |
 | swrule License | swrule | 248 |
@@ -552,6 +572,7 @@
 | TCP Wrappers License | TCP-wrappers | 648 |
 | TermReadKey License | TermReadKey | 103 |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | 10971 |
+| threeparttable License | threeparttable | 195 |
 | TMate Open Source License | TMate | 2537 |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 3998 |
 | Trusster Open Source License | TOSL | 2074 |
@@ -577,7 +598,7 @@
 | VOSTROM Public License for Open Source | VOSTROM | 3058 |
 | Vovida Software License v1.0 | VSL-1.0 | 2065 |
 | W3C Software Notice and License (2002-12-31) | W3C | 2701 |
-| W3C Software Notice and License (1998-07-20) | W3C-19980720 | 3116 |
+| W3C Software Notice and License (1998-07-20) | W3C-19980720 | 3115 |
 | W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | 1807 |
 | w3m License | w3m | 568 |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | 20972 |
@@ -596,6 +617,7 @@
 | X.Net License | Xnet | 1250 |
 | XPP License | xpp | 2482 |
 | XSkat License | XSkat | 535 |
+| xzoom License | xzoom | 538 |
 | Yahoo! Public License v1.0 | YPL-1.0 | 9010 |
 | Yahoo! Public License v1.1 | YPL-1.1 | 8988 |
 | Zed License | Zed | 259 |
@@ -635,10 +657,10 @@
 | GNU General Public License v3.0 or later | GPL-3.0+ | 34735 |
 | GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | 1873 |
 | GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | 3450 |
-| GNU Library General Public License v2 only | LGPL-2.0 | 24842 |
-| GNU Library General Public License v2 or later | LGPL-2.0+ | 24952 |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1 | 25967 |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 26086 |
+| GNU Library General Public License v2 only | LGPL-2.0 | 24877 |
+| GNU Library General Public License v2 or later | LGPL-2.0+ | 24988 |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1 | 26001 |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 26121 |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0 | 42098 |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 42266 |
 | Nunit License | Nunit | 1075 |
