@@ -1,0 +1,1 @@
+3D\W*Slicer\W*(?:(?:Contribution\W*and\W*Software\W*)?Licen[sc]e\W*(?:Agreement\W*)*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

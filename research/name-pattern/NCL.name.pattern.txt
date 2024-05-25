@@ -1,0 +1,1 @@
+(?<!\w)NCL(?:(?:\W*Source\W*Code)?\W*Licen[sc]e|(?!\w))

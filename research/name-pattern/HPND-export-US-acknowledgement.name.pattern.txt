@@ -1,0 +1,2 @@
+HPND\W*export\W*US\W*acknowledge?ment
+HPND\W*with\W*US\W*Government\W*export\W*control\W*warning\W*and\W*acknowledge?ment

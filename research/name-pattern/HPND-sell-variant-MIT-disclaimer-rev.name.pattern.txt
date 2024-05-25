@@ -1,0 +1,1 @@
+HPND\W*sell\W*variant\W*(?:with\W*)?MIT\W*disclaimer\W*rev(?:erse)?

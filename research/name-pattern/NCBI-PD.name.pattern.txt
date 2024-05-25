@@ -1,0 +1,2 @@
+NCBI\W*(?:PD|Public\W*Domain\W*Notice)
+PUBLIC\W*DOMAIN\W*NOTICE\W*National\W*Center\W*for\W*Biotechnology\W*Information

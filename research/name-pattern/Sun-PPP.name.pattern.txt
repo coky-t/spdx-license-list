@@ -1,1 +1,1 @@
-Sun\W*PPP(?:\W*Licen[sc]e)?
+Sun\W*PPP(?:\W*Licen[sc]e(?!\W*2000)|(?!\W*Licen[sc]e|\W*2000))

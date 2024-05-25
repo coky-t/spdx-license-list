@@ -1,0 +1,1 @@
+Sun\W*PPP\W*(?:Licen[sc]e\W*)?2000

@@ -1,0 +1,1 @@
+Any\W*OSI(?:\W*Licen[sc]e)?

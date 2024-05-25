@@ -1,0 +1,2 @@
+RRDtool\W*FLOSS\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+FLOSS\W*Licen[sc]e\W*Exception

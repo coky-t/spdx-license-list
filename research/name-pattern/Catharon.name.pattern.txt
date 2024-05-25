@@ -1,0 +1,1 @@
+Catharon(?:(?:\W*Open\W*Source)?\W*Licen[sc]e)?

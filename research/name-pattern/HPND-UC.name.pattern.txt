@@ -1,2 +1,2 @@
-HPND\W*UC
+HPND\W*UC(?!\W*export)
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*University\W*of\W*California\W*variant

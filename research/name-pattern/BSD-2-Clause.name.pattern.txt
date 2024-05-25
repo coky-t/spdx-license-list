@@ -1,4 +1,4 @@
-(?<!\w)BSD\W*(?:2|Two)(?:(?:\W*Clause)?\W*Simplified\W*Licen[sc]e|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*Darwin|\W*Ian|\W*FreeBSD|\W*NetBSD|\W*Patent|\W*Plus|\W*Views|\W*with))
+(?<!\w)BSD\W*(?:2|Two)(?:(?:\W*Clause)?\W*Simplified\W*Licen[sc]e|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*Darwin|\W*first\W*lines|\W*Ian|\W*FreeBSD|\W*NetBSD|\W*Patent|\W*Plus|\W*Views|\W*with))
 (?:2|Two)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
 BSD\W*Simplified(?:\W*Licen[sc]e)?
 Simplified\W*BSD(?:\W*Licen[sc]e)?
