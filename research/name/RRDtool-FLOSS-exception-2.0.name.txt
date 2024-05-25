@@ -1,0 +1,3 @@
+RRDtool-FLOSS-exception-2.0
+RRDtool FLOSS exception 2.0
+FLOSS License Exception

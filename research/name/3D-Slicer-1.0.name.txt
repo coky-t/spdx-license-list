@@ -1,0 +1,3 @@
+3D-Slicer-1.0
+3D Slicer License v1.0
+3D Slicer Contribution and Software License Agreement ("Agreement") Version 1.0

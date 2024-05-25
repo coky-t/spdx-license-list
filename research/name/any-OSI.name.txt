@@ -1,0 +1,2 @@
+any-OSI
+Any OSI License
