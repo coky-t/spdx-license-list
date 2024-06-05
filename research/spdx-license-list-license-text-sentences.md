@@ -5,7 +5,7 @@
 | BSD Zero Clause License | 0BSD | Permission to use, copy |
 | 3D Slicer License v1.0 | 3D-Slicer-1.0 | |
 | Attribution Assurance License | AAL | BSD [0x, 1x, 2x, 4, +, 5+] |
-| Abstyles License | Abstyles | Permission is granted |
+| Abstyles License | Abstyles | |
 | AdaCore Doc License | AdaCore-doc | |
 | Adobe Systems Incorporated Source Code License Agreement | Adobe-2006 | |
 | Adobe Display PostScript License | Adobe-Display-PostScript | Permission to use, copy |
@@ -16,7 +16,7 @@
 | Academic Free License v1.2 | AFL-1.2 | |
 | Academic Free License v2.0 | AFL-2.0 | |
 | Academic Free License v2.1 | AFL-2.1 | |
-| Academic Free License v3.0 | AFL-3.0 | Permission is granted |
+| Academic Free License v3.0 | AFL-3.0 | |
 | Afmparse License | Afmparse | |
 | Affero General Public License v1.0 only | AGPL-1.0-only | |
 | Affero General Public License v1.0 or later | AGPL-1.0-or-later | |
@@ -98,7 +98,7 @@
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | BSD [+, 0, 1-, 2, 3, 5, +] |
 | Boost Software License 1.0 | BSL-1.0 | MIT [0x, +, 2x] |
 | Business Source License 1.1 | BUSL-1.1 | |
-| bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | BSD [0, 1, +, +, 4, 5, (+)] |
+| bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | BSD [0, 1], Zlib [2, 3], BSD [4, 5, (+)] |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
 | Cryptographic Autonomy License 1.0 | CAL-1.0 | |
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | |
@@ -161,7 +161,7 @@
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | |
 | Common Development and Distribution License 1.1 | CDDL-1.1 | |
-| Common Documentation License 1.0 | CDL-1.0 | Permission is granted |
+| Common Documentation License 1.0 | CDL-1.0 | |
 | Community Data License Agreement Permissive 1.0 | CDLA-Permissive-1.0 | |
 | Community Data License Agreement Permissive 2.0 | CDLA-Permissive-2.0 | |
 | Community Data License Agreement Sharing 1.0 | CDLA-Sharing-1.0 | |
@@ -177,7 +177,7 @@
 | CERN Open Hardware Licence Version 2 - Strongly Reciprocal | CERN-OHL-S-2.0 | |
 | CERN Open Hardware Licence Version 2 - Weakly Reciprocal | CERN-OHL-W-2.0 | |
 | CFITSIO License | CFITSIO | |
-| check-cvs License | check-cvs | Permission is granted |
+| check-cvs License | check-cvs | |
 | Checkmk License | checkmk | |
 | Clarified Artistic License | ClArtistic | |
 | Clips License | Clips | MIT [0-, 2x] |
@@ -199,7 +199,7 @@
 | Crossword License | Crossword | |
 | CrystalStacker License | CrystalStacker | |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | |
-| Cube License | Cube | Permission is granted |
+| Cube License | Cube | Zlib [0, 1, 2, 3, 4, +] |
 | curl License | curl | Permission to use, copy |
 | Common Vulnerability Enumeration ToU License | cve-tou | |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | |
@@ -230,9 +230,9 @@
 | European Union Public License 1.0 | EUPL-1.0 | |
 | European Union Public License 1.1 | EUPL-1.1 | |
 | European Union Public License 1.2 | EUPL-1.2 | |
-| Eurosym License | Eurosym | Permission is granted |
+| Eurosym License | Eurosym | Zlib [0x, 1, 2+, 3, +, +, 4, +] |
 | Fair License | Fair | |
-| Fuzzy Bitmap License | FBM | Permission is granted |
+| Fuzzy Bitmap License | FBM | |
 | Fraunhofer FDK AAC Codec Library | FDK-AAC | |
 | Ferguson Twofish License | Ferguson-Twofish | |
 | Frameworx Open License 1.0 | Frameworx-1.0 | |
@@ -248,24 +248,24 @@
 | fwlw License | fwlw | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
-| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.1 only | GFDL-1.1-only | Permission is granted |
-| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | Permission is granted |
-| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.2 only | GFDL-1.2-only | Permission is granted |
-| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | Permission is granted |
-| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.3 only | GFDL-1.3-only | Permission is granted |
-| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | Permission is granted |
+| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | |
+| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | |
+| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | |
+| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | |
+| GNU Free Documentation License v1.1 only | GFDL-1.1-only | |
+| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | |
+| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | |
+| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | |
+| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | |
+| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | |
+| GNU Free Documentation License v1.2 only | GFDL-1.2-only | |
+| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | |
+| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | |
+| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | |
+| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | |
+| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | |
+| GNU Free Documentation License v1.3 only | GFDL-1.3-only | |
+| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | |
 | Giftware License | Giftware | |
 | GL2PS License | GL2PS | Permission to use, copy |
 | 3dfx Glide License | Glide | |
@@ -319,7 +319,7 @@
 | ImageMagick License | ImageMagick | |
 | iMatix Standard Function Library Agreement | iMatix | |
 | Imlib2 License | Imlib2 | MIT [0, 1x, +, 2] |
-| Info-ZIP License | Info-ZIP | Permission is granted |
+| Info-ZIP License | Info-ZIP | |
 | Inner Net License v2.0 | Inner-Net-2.0 | BSD [0x, +, 1x, 2x, +, 4, 5, +] |
 | Intel Open Source License | Intel | BSD [0, 1, 2, 4, 5, +] |
 | Intel ACPI Software License Agreement | Intel-ACPI | |
@@ -334,12 +334,12 @@
 | Japan Network Information Center License | JPNIC | BSD [+, 0x, 1x, 2x, 4x, 5x] |
 | JSON License | JSON | MIT [0, 1, +, 2] |
 | Kastrup License | Kastrup | |
-| Kazlib License | Kazlib | Permission is granted |
+| Kazlib License | Kazlib | |
 | Knuth CTAN License | Knuth-CTAN | |
 | Licence Art Libre 1.2 | LAL-1.2 | |
 | Licence Art Libre 1.3 | LAL-1.3 | |
-| Latex2e License | Latex2e | Permission is granted |
-| Latex2e with translated notice permission | Latex2e-translated-notice | Permission is granted |
+| Latex2e License | Latex2e | |
+| Latex2e with translated notice permission | Latex2e-translated-notice | |
 | Leptonica License | Leptonica | |
 | GNU Library General Public License v2 only | LGPL-2.0-only | |
 | GNU Library General Public License v2 or later | LGPL-2.0-or-later | |
@@ -349,20 +349,20 @@
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
 | libpng License | Libpng | |
-| PNG Reference Library version 2 | libpng-2.0 | MIT [2x, +, +, +, +] |
+| PNG Reference Library version 2 | libpng-2.0 | MIT [2x], Zlib [1x, 2, 3, 4+] |
 | libselinux public domain notice | libselinux-1.0 | |
 | libtiff License | libtiff | Permission to use, copy |
 | libutil David Nugent License | libutil-David-Nugent | BSD [0x, 1+, 2, +, +, +] |
 | Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | |
 | Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | |
 | Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | |
-| Linux man-pages - 1 paragraph | Linux-man-pages-1-para | Permission is granted |
-| Linux man-pages Copyleft | Linux-man-pages-copyleft | Permission is granted |
-| Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | Permission is granted |
-| Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | Permission is granted |
+| Linux man-pages - 1 paragraph | Linux-man-pages-1-para | |
+| Linux man-pages Copyleft | Linux-man-pages-copyleft | |
+| Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | |
+| Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | BSD [0, 1, 2, 5x] |
 | Common Lisp LOOP License | LOOP | Permission to use, copy |
-| LPD Documentation License | LPD-document | Permission is granted |
+| LPD Documentation License | LPD-document | |
 | Lucent Public License Version 1.0 | LPL-1.0 | |
 | Lucent Public License v1.02 | LPL-1.02 | |
 | LaTeX Project Public License v1.0 | LPPL-1.0 | |
@@ -370,7 +370,7 @@
 | LaTeX Project Public License v1.2 | LPPL-1.2 | |
 | LaTeX Project Public License v1.3a | LPPL-1.3a | |
 | LaTeX Project Public License v1.3c | LPPL-1.3c | |
-| lsof License | lsof | Permission is granted |
+| lsof License | lsof | Zlib [+, 1x, +, 2x, 3x, 4-] |
 | Lucida Bitmap Fonts License | Lucida-Bitmap-Fonts | |
 | LZMA SDK License (versions 9.11 to 9.20) | LZMA-SDK-9.11-to-9.20 | |
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | |
@@ -378,7 +378,7 @@
 | Mackerras 3-Clause - acknowledgment variant | Mackerras-3-Clause-acknowledgment | BSD [0, 1, 4x, +, 5x] |
 | magaz License | magaz | |
 | mailprio License | mailprio | |
-| MakeIndex License | MakeIndex | Permission is granted |
+| MakeIndex License | MakeIndex | |
 | Martin Birgmeier License | Martin-Birgmeier | |
 | McPhee Slideshow License | McPhee-slideshow | |
 | metamail License | metamail | Permission to use, copy |
@@ -425,7 +425,7 @@
 | University of Illinois/NCSA Open Source License | NCSA | MIT [0x], BSD [1x, 2x, 4], MIT [2x] |
 | Net-SNMP License | Net-SNMP | HPND AND BSD-3-Clause |
 | NetCDF license | NetCDF | |
-| Newsletr License | Newsletr | Permission is granted |
+| Newsletr License | Newsletr | Zlib [1x, +, 3-] |
 | Nethack General Public License | NGPL | |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | BSD [0x, 1x, 2x, 4, 5x, 5x, +] |
 | NIST Public Domain Notice | NIST-PD | |
@@ -439,7 +439,7 @@
 | Noweb License | Noweb | |
 | Netscape Public License v1.0 | NPL-1.0 | |
 | Netscape Public License v1.1 | NPL-1.1 | |
-| Non-Profit Open Software License 3.0 | NPOSL-3.0 | Permission is granted |
+| Non-Profit Open Software License 3.0 | NPOSL-3.0 | |
 | NRL License | NRL | BSD [+, +, +, 0x, +, 1, 2, 3x, 4, 5x] |
 | NTP License | NTP | Permission to use, copy |
 | NTP No Attribution | NTP-0 | Permission to use, copy |
@@ -493,7 +493,7 @@
 | Open Software License 1.1 | OSL-1.1 | |
 | Open Software License 2.0 | OSL-2.0 | |
 | Open Software License 2.1 | OSL-2.1 | |
-| Open Software License 3.0 | OSL-3.0 | Permission is granted |
+| Open Software License 3.0 | OSL-3.0 | |
 | PADL License | PADL | BSD [0x, 5x] |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | |
@@ -551,8 +551,8 @@
 | snprintf License | snprintf | |
 | softSurfer License | softSurfer | |
 | Soundex License | Soundex | |
-| Spencer License 86 | Spencer-86 | Permission is granted |
-| Spencer License 94 | Spencer-94 | Permission is granted |
+| Spencer License 86 | Spencer-86 | Zlib [1x, +, 2x, 3x] |
+| Spencer License 94 | Spencer-94 | Zlib [+, 1x, +, 2x, 3x, 4-] |
 | Spencer License 99 | Spencer-99 | BSD [+, 0x, +, 5-] |
 | Sun Public License v1.0 | SPL-1.0 | |
 | ssh-keyscan License | ssh-keyscan | |
@@ -612,7 +612,7 @@
 | Xfig License | Xfig | |
 | XFree86 License 1.1 | XFree86-1.1 | MIT [0], BSD [1, 2+, +, +, 5x] |
 | xinetd License | xinetd | |
-| xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | Permission is granted |
+| xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | |
 | xlock License | xlock | Permission to use, copy |
 | X.Net License | Xnet | MIT [0, 1, 2, +] |
 | XPP License | xpp | BSD [0, 1x, 2x, 3x, 4x, +, +] |
@@ -625,8 +625,8 @@
 | Zend License v2.0 | Zend-2.0 | BSD [0x, 1, 2, 4x, +, +, +, 5x] |
 | Zimbra Public License v1.3 | Zimbra-1.3 | |
 | Zimbra Public License v1.4 | Zimbra-1.4 | |
-| zlib License | Zlib | Permission is granted |
-| zlib/libpng License with Acknowledgement | zlib-acknowledgement | Permission is granted |
+| zlib License | Zlib | Zlib [0, 1, 2, 3, 4] |
+| zlib/libpng License with Acknowledgement | zlib-acknowledgement | Zlib [0, 1, 2x, 3, 4] |
 | Zope Public License 1.1 | ZPL-1.1 | BSD [0, 1x, 2, 3x, 4x, +, +, 5x, (+)] |
 | Zope Public License 2.0 | ZPL-2.0 | BSD [0, 1x, 2, 4x, +, +, 5x, (+)] |
 | Zope Public License 2.1 | ZPL-2.1 | BSD [0, 1x, 2x, 4x, +, +, 5x] |
@@ -635,37 +635,37 @@
 
 | License Name | Identifier | Sentences |
 | ------------ | ---------- | --------- |
-| Affero General Public License v1.0 | AGPL-1.0 | |
-| GNU Affero General Public License v3.0 | AGPL-3.0 | |
-| BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | BSD [0, 1, 2, 5, +] |
-| BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | BSD [+, 0, 1, 2, 5] |
-| bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | BSD [+, 0, 1, +, +, 4, 5] |
-| eCos license version 2.0 | eCos-2.0 | |
-| GNU Free Documentation License v1.1 | GFDL-1.1 | Permission is granted |
-| GNU Free Documentation License v1.2 | GFDL-1.2 | Permission is granted |
-| GNU Free Documentation License v1.3 | GFDL-1.3 | Permission is granted |
-| GNU General Public License v1.0 only | GPL-1.0 | |
-| GNU General Public License v1.0 or later | GPL-1.0+ | |
-| GNU General Public License v2.0 only | GPL-2.0 | |
-| GNU General Public License v2.0 or later | GPL-2.0+ | |
-| GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | |
-| GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | |
-| GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | |
-| GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | |
-| GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | |
-| GNU General Public License v3.0 only | GPL-3.0 | |
-| GNU General Public License v3.0 or later | GPL-3.0+ | |
-| GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | |
-| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | |
-| GNU Library General Public License v2 only | LGPL-2.0 | |
-| GNU Library General Public License v2 or later | LGPL-2.0+ | |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1 | |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0 | |
-| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | |
-| Nunit License | Nunit | Permission is granted |
-| Standard ML of New Jersey License | StandardML-NJ | Permission to use, copy |
-| wxWindows Library License | wxWindows | |
+| Affero General Public License v1.0 | AGPL-1.0 | AGPL-1.0-only, AGPL-1.0-or-later |
+| GNU Affero General Public License v3.0 | AGPL-3.0 | AGPL-3.0-only, AGPL-3.0-or-later |
+| BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | BSD-2-Clause-Views |
+| BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | BSD-2-Clause |
+| bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | bzip2-1.0.6 |
+| eCos license version 2.0 | eCos-2.0 | GPL-2.0-or-later WITH eCos-exception-2.0 |
+| GNU Free Documentation License v1.1 | GFDL-1.1 | GFDL-1.1-only etc. |
+| GNU Free Documentation License v1.2 | GFDL-1.2 | GFDL-1.2-only etc. |
+| GNU Free Documentation License v1.3 | GFDL-1.3 | GFDL-1.3-only etc. |
+| GNU General Public License v1.0 only | GPL-1.0 | GPL-1.0-only |
+| GNU General Public License v1.0 or later | GPL-1.0+ | GPL-1.0-or-later |
+| GNU General Public License v2.0 only | GPL-2.0 | GPL-2.0-only |
+| GNU General Public License v2.0 or later | GPL-2.0+ | GPL-2.0-or-later |
+| GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | Autoconf-exception-2.0 |
+| GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | Bison-exception-2.2 |
+| GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | Classpath-exception-2.0 |
+| GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | Font-exception-2.0 |
+| GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | GCC-exception-2.0 |
+| GNU General Public License v3.0 only | GPL-3.0 | GPL-3.0-only |
+| GNU General Public License v3.0 or later | GPL-3.0+ | GPL-3.0-or-later |
+| GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | Autoconf-exception-3.0 |
+| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | GCC-exception-3.1 |
+| GNU Library General Public License v2 only | LGPL-2.0 | LGPL-2.0-only |
+| GNU Library General Public License v2 or later | LGPL-2.0+ | LGPL-2.0-or-later |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1 | LGPL-2.1-only |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | LGPL-2.1-or-later |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0 | LGPL-3.0-only |
+| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | LGPL-3.0-or-later |
+| Nunit License | Nunit | zlib-acknowledgement |
+| Standard ML of New Jersey License | StandardML-NJ | SMLNJ |
+| wxWindows Library License | wxWindows | WxWindows-exception-3.1 |
 
 ## Sentences
 
@@ -687,3 +687,13 @@
 | 0 | Permission is hereby granted, free of charge, to any person obtaining a copy of (this software and associated documentation files) the "Software", to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: |
 | 1 | The above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software. |
 | 2 | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL (THE AUTHORS OR COPYRIGHT HOLDERS) BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. |
+
+### Zlib
+
+| No. | Sentence(s) |
+| --- | ----------- |
+| 0 | This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software. |
+| 1 | Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions: |
+| 2 | The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required. |
+| 3 | Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software. |
+| 4 | This notice may not be removed or altered from any source distribution. |
