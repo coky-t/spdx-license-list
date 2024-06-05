@@ -9,13 +9,13 @@
 | AdaCore Doc License | AdaCore-doc | |
 | Adobe Systems Incorporated Source Code License Agreement | Adobe-2006 | |
 | Adobe Display PostScript License | Adobe-Display-PostScript | Permission to use, copy |
-| Adobe Glyph List License | Adobe-Glyph | Permission is hereby granted |
+| Adobe Glyph List License | Adobe-Glyph | MIT [0x, +, 1x, +, +] |
 | Adobe Utopia Font License | Adobe-Utopia | |
 | Amazon Digital Services License | ADSL | |
-| Academic Free License v1.1 | AFL-1.1 | Permission is hereby granted |
-| Academic Free License v1.2 | AFL-1.2 | Permission is hereby granted |
-| Academic Free License v2.0 | AFL-2.0 | Permission is hereby granted |
-| Academic Free License v2.1 | AFL-2.1 | Permission is hereby granted |
+| Academic Free License v1.1 | AFL-1.1 | |
+| Academic Free License v1.2 | AFL-1.2 | |
+| Academic Free License v2.0 | AFL-2.0 | |
+| Academic Free License v2.1 | AFL-2.1 | |
 | Academic Free License v3.0 | AFL-3.0 | Permission is granted |
 | Afmparse License | Afmparse | |
 | Affero General Public License v1.0 only | AGPL-1.0-only | |
@@ -54,12 +54,12 @@
 | bcrypt Solar Designer License | bcrypt-Solar-Designer | |
 | Beerware License | Beerware | |
 | Bitstream Charter Font License | Bitstream-Charter | |
-| Bitstream Vera Font License | Bitstream-Vera | Permission is hereby granted |
+| Bitstream Vera Font License | Bitstream-Vera | MIT [0x, 1x, +, +, +, 2x, +] |
 | BitTorrent Open Source License v1.0 | BitTorrent-1.0 | |
 | BitTorrent Open Source License v1.1 | BitTorrent-1.1 | |
 | SQLite Blessing | blessing | |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | |
-| Boehm-Demers-Weiser GC License | Boehm-GC | Permission is hereby granted |
+| Boehm-Demers-Weiser GC License | Boehm-GC | |
 | Borceux license | Borceux | |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | BSD [0x, 1x, 2x, 5x] |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | BSD [0x, 1x, 2x, 4x, +, 5x]|
@@ -96,7 +96,7 @@
 | BSD Source Code Attribution | BSD-Source-Code | BSD [0+, 1, 4+, 5] |
 | Systemics BSD variant license | BSD-Systemics | BSD [+, 0, 1-, 2, 3, 5, +] |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | BSD [+, 0, 1-, 2, 3, 5, +] |
-| Boost Software License 1.0 | BSL-1.0 | Permission is hereby granted |
+| Boost Software License 1.0 | BSL-1.0 | MIT [0x, +, 2x] |
 | Business Source License 1.1 | BUSL-1.1 | |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | BSD [0, 1, +, +, 4, 5, (+)] |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
@@ -180,7 +180,7 @@
 | check-cvs License | check-cvs | Permission is granted |
 | Checkmk License | checkmk | |
 | Clarified Artistic License | ClArtistic | |
-| Clips License | Clips | Permission is hereby granted |
+| Clips License | Clips | MIT [0-, 2x] |
 | CMU Mach License | CMU-Mach | Permission to use, copy |
 | CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | Permission to use, copy |
 | CNRI Jython License | CNRI-Jython | |
@@ -209,15 +209,15 @@
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | |
 | DOC License | DOC | |
 | Dotseqn License | Dotseqn | |
-| Detection Rule License 1.0 | DRL-1.0 | Permission is hereby granted |
-| Detection Rule License 1.1 | DRL-1.1 | Permission is hereby granted |
+| Detection Rule License 1.0 | DRL-1.0 | MIT [0x, +, +, +, +, 2x] |
+| Detection Rule License 1.1 | DRL-1.1 | MIT [0x, +, +, +, +, +, 2x] |
 | DSDP License | DSDP | |
 | David M. Gay dtoa License | dtoa | Permission to use, copy |
 | dvipdfm License | dvipdfm | |
-| Educational Community License v1.0 | ECL-1.0 | Permission to use, copy |
+| Educational Community License v1.0 | ECL-1.0 | Permission to use, copy MIT [+, +, +, +, +, +, 2, +] |
 | Educational Community License v2.0 | ECL-2.0 | |
-| Eiffel Forum License v1.0 | EFL-1.0 | Permission is hereby granted |
-| Eiffel Forum License v2.0 | EFL-2.0 | Permission is hereby granted |
+| Eiffel Forum License v1.0 | EFL-1.0 | |
+| Eiffel Forum License v2.0 | EFL-2.0 | |
 | eGenix.com Public License 1.1.0 | eGenix | |
 | Elastic License 2.0 | Elastic-2.0 | |
 | Entessa Public License v1.0 | Entessa | BSD [0, 1, 2, +, 4x, +, 5x, +] |
@@ -301,24 +301,24 @@
 | Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | Permission to use, copy |
-| Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | Permission to use, copy |
+| Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | Permission to use, copy MIT [+, 2] |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | Permission to use, copy |
-| HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | Permission to use, copy |
-| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | Permission to use, copy |
+| HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | Permission to use, copy MIT [+, 2] |
+| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | Permission to use, copy MIT [2, +] |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | Permission to use, copy |
-| HTML Tidy License | HTMLTIDY | Permission is hereby granted |
+| HTML Tidy License | HTMLTIDY | |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | |
-| ICU License | ICU | Permission is hereby granted |
+| ICU License | ICU | MIT [0x, 1x, 2x, +] |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
-| Independent JPEG Group License | IJG | Permission is hereby granted |
-| Independent JPEG Group License - short | IJG-short | Permission is hereby granted |
+| Independent JPEG Group License | IJG | |
+| Independent JPEG Group License - short | IJG-short | |
 | ImageMagick License | ImageMagick | |
 | iMatix Standard Function Library Agreement | iMatix | |
-| Imlib2 License | Imlib2 | Permission is hereby granted |
+| Imlib2 License | Imlib2 | MIT [0, 1x, +, 2] |
 | Info-ZIP License | Info-ZIP | Permission is granted |
 | Inner Net License v2.0 | Inner-Net-2.0 | BSD [0x, +, 1x, 2x, +, 4, 5, +] |
 | Intel Open Source License | Intel | BSD [0, 1, 2, 4, 5, +] |
@@ -329,10 +329,10 @@
 | ISC License | ISC | Permission to use, copy |
 | ISC Veillard variant | ISC-Veillard | Permission to use, copy |
 | Jam License | Jam | |
-| JasPer License | JasPer-2.0 | Permission is hereby granted |
+| JasPer License | JasPer-2.0 | MIT [0x, 1x, +, 2x] |
 | JPL Image Use Policy | JPL-image | |
 | Japan Network Information Center License | JPNIC | BSD [+, 0x, 1x, 2x, 4x, 5x] |
-| JSON License | JSON | Permission is hereby granted |
+| JSON License | JSON | MIT [0, 1, +, 2] |
 | Kastrup License | Kastrup | |
 | Kazlib License | Kazlib | Permission is granted |
 | Knuth CTAN License | Knuth-CTAN | |
@@ -348,8 +348,8 @@
 | GNU Lesser General Public License v3.0 only | LGPL-3.0-only | |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
-| libpng License | Libpng | Permission is hereby granted |
-| PNG Reference Library version 2 | libpng-2.0 | Permission is hereby granted |
+| libpng License | Libpng | |
+| PNG Reference Library version 2 | libpng-2.0 | MIT [2x, +, +, +, +] |
 | libselinux public domain notice | libselinux-1.0 | |
 | libtiff License | libtiff | Permission to use, copy |
 | libutil David Nugent License | libutil-David-Nugent | BSD [0x, 1+, 2, +, +, +] |
@@ -378,30 +378,30 @@
 | Mackerras 3-Clause - acknowledgment variant | Mackerras-3-Clause-acknowledgment | BSD [0, 1, 4x, +, 5x] |
 | magaz License | magaz | |
 | mailprio License | mailprio | |
-| MakeIndex License | MakeIndex | Permission is hereby granted / Permission is granted |
+| MakeIndex License | MakeIndex | Permission is granted |
 | Martin Birgmeier License | Martin-Birgmeier | |
 | McPhee Slideshow License | McPhee-slideshow | |
 | metamail License | metamail | Permission to use, copy |
 | Minpack License | Minpack | BSD [0, 1, 2, 3x, 5x, 5x] |
 | The MirOS Licence | MirOS | |
-| MIT License | MIT | Permission is hereby granted |
-| MIT No Attribution | MIT-0 | Permission is hereby granted |
-| Enlightenment License (e16) | MIT-advertising | Permission is hereby granted |
+| MIT License | MIT | MIT [0, 1, 2] |
+| MIT No Attribution | MIT-0 | MIT [0-, 2] |
+| Enlightenment License (e16) | MIT-advertising | MIT [0, 1x, 2] |
 | CMU License | MIT-CMU | Permission to use, copy |
-| enna License | MIT-enna | Permission is hereby granted |
-| feh License | MIT-feh | Permission is hereby granted |
-| MIT Festival Variant | MIT-Festival | Permission is hereby granted |
-| MIT Khronos - old variant | MIT-Khronos-old | Permission is hereby granted |
-| MIT License Modern Variant | MIT-Modern-Variant | Permission is hereby granted |
-| MIT Open Group variant | MIT-open-group | Permission to use, copy |
-| MIT testregex Variant | MIT-testregex | Permission is hereby granted BSD [+, 5] |
-| MIT Tom Wu Variant | MIT-Wu | Permission is hereby granted |
-| MIT +no-false-attribs license | MITNFA | Permission is hereby granted |
+| enna License | MIT-enna | MIT [0, 1x, +, 2] |
+| feh License | MIT-feh | MIT [0, 1x, 2] |
+| MIT Festival Variant | MIT-Festival | |
+| MIT Khronos - old variant | MIT-Khronos-old | MIT [0x, 1x, +, 2x] |
+| MIT License Modern Variant | MIT-Modern-Variant | |
+| MIT Open Group variant | MIT-open-group | MIT [0x, 1, 2, +] |
+| MIT testregex Variant | MIT-testregex | MIT [0x], BSD [5] |
+| MIT Tom Wu Variant | MIT-Wu | MIT [0, 1, 2x, +, +] |
+| MIT +no-false-attribs license | MITNFA | MIT [0, 1, +, 2] |
 | MMIXware License | MMIXware | |
 | Motosoto License | Motosoto | |
 | MPEG Software Simulation | MPEG-SSG | |
-| mpi Permissive License | mpi-permissive | Permission is hereby granted |
-| mpich2 License | mpich2 | Permission is hereby granted |
+| mpi Permissive License | mpi-permissive | |
+| mpich2 License | mpich2 | |
 | Mozilla Public License 1.0 | MPL-1.0 | |
 | Mozilla Public License 1.1 | MPL-1.1 | |
 | Mozilla Public License 2.0 | MPL-2.0 | |
@@ -422,7 +422,7 @@
 | NCBI Public Domain Notice | NCBI-PD | |
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
 | NCL Source Code License | NCL | BSD [0x, +, 1x, 2x, 5x] |
-| University of Illinois/NCSA Open Source License | NCSA | Permission is hereby granted BSD [+, 1x, 2x, 4, 5x] |
+| University of Illinois/NCSA Open Source License | NCSA | MIT [0x], BSD [1x, 2x, 4], MIT [2x] |
 | Net-SNMP License | Net-SNMP | HPND AND BSD-3-Clause |
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | Permission is granted |
@@ -450,12 +450,12 @@
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | |
 | Open Data Commons Attribution License v1.0 | ODC-By-1.0 | |
 | OFFIS License | OFFIS | |
-| SIL Open Font License 1.0 | OFL-1.0 | Permission is hereby granted |
-| SIL Open Font License 1.0 with no Reserved Font Name | OFL-1.0-no-RFN | Permission is hereby granted |
-| SIL Open Font License 1.0 with Reserved Font Name | OFL-1.0-RFN | Permission is hereby granted |
-| SIL Open Font License 1.1 | OFL-1.1 | Permission is hereby granted |
-| SIL Open Font License 1.1 with no Reserved Font Name | OFL-1.1-no-RFN | Permission is hereby granted |
-| SIL Open Font License 1.1 with Reserved Font Name | OFL-1.1-RFN | Permission is hereby granted |
+| SIL Open Font License 1.0 | OFL-1.0 | |
+| SIL Open Font License 1.0 with no Reserved Font Name | OFL-1.0-no-RFN | |
+| SIL Open Font License 1.0 with Reserved Font Name | OFL-1.0-RFN | |
+| SIL Open Font License 1.1 | OFL-1.1 | |
+| SIL Open Font License 1.1 with no Reserved Font Name | OFL-1.1-no-RFN | |
+| SIL Open Font License 1.1 with Reserved Font Name | OFL-1.1-RFN | |
 | OGC Software License, Version 1.0 | OGC-1.0 | Permission to use, copy |
 | Taiwan Open Government Data License, version 1.0 | OGDL-Taiwan-1.0 | |
 | Open Government Licence - Canada | OGL-Canada-2.0 | |
@@ -489,10 +489,10 @@
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | |
 | Open Publication License v1.0 | OPUBL-1.0 | |
 | OSET Public License version 2.1 | OSET-PL-2.1 | |
-| Open Software License 1.0 | OSL-1.0 | Permission is hereby granted |
-| Open Software License 1.1 | OSL-1.1 | Permission is hereby granted |
-| Open Software License 2.0 | OSL-2.0 | Permission is hereby granted |
-| Open Software License 2.1 | OSL-2.1 | Permission is hereby granted |
+| Open Software License 1.0 | OSL-1.0 | |
+| Open Software License 1.1 | OSL-1.1 | |
+| Open Software License 2.0 | OSL-2.0 | |
+| Open Software License 2.1 | OSL-2.1 | |
 | Open Software License 3.0 | OSL-3.0 | Permission is granted |
 | PADL License | PADL | BSD [0x, 5x] |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | |
@@ -535,7 +535,7 @@
 | Sendmail License 8.23 | Sendmail-8.23 | BSD [++, 0, 1, 2, 4, 5x] |
 | SGI Free Software License B v1.0 | SGI-B-1.0 | |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | |
-| SGI Free Software License B v2.0 | SGI-B-2.0 | Permission is hereby granted |
+| SGI Free Software License B v2.0 | SGI-B-2.0 | MIT [0, 1x, 2, +] |
 | SGI OpenGL License | SGI-OpenGL | Permission to use, copy |
 | SGP4 Permission Notice | SGP4 | |
 | Solderpad Hardware License v0.5 | SHL-0.5 | |
@@ -579,20 +579,20 @@
 | Time::ParseDate License | TPDL | |
 | THOR Public License 1.0 | TPL-1.0 | |
 | Text-Tabs+Wrap License | TTWL | |
-| TTYP0 License | TTYP0 | Permission is hereby granted |
+| TTYP0 License | TTYP0 | MIT [0x, 1x, +, 2] |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | Permission to use, copy |
 | UCAR License | UCAR | BSD [+, 0, 1, 2, 4, +, 5x] |
 | Upstream Compatibility License v1.0 | UCL-1.0 | |
 | ulem License | ulem | |
 | Michigan/Merit Networks License | UMich-Merit | Permission to use, copy |
-| Unicode License v3 | Unicode-3.0 | Permission is hereby granted |
-| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | Permission is hereby granted |
-| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | Permission is hereby granted |
+| Unicode License v3 | Unicode-3.0 | MIT [+, 0x, 1x, 2x, +] |
+| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | MIT [+, +, 0x, +, +, +, 2x, +] |
+| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | MIT [+, +, 0x, 1x, +, 2x, +] |
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | Permission to use, copy |
-| The Unlicense | Unlicense | |
-| Universal Permissive License v1.0 | UPL-1.0 | |
+| The Unlicense | Unlicense | MIT [+, +, +, 2, (+)] |
+| Universal Permissive License v1.0 | UPL-1.0 | MIT [+, +, +, +, 1x, 2] |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
 | Vim License | Vim | |
 | VOSTROM Public License for Open Source | VOSTROM | |
@@ -605,16 +605,16 @@
 | Widget Workshop License | Widget-Workshop | Permission to use, copy |
 | Wsuipa License | Wsuipa | |
 | Do What The F*ck You Want To Public License | WTFPL | |
-| X11 License | X11 | Permission is hereby granted |
-| X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permission is hereby granted |
+| X11 License | X11 | MIT [0, 1, 2, +, (+)] |
+| X11 License Distribution Modification Variant | X11-distribute-modifications-variant | MIT [0+, 1, 2, +] |
 | Xdebug License v 1.03 | Xdebug-1.03 | BSD [0x, 1, 2, 4x, +, +, +, 5x, +] |
 | Xerox License | Xerox | |
 | Xfig License | Xfig | |
-| XFree86 License 1.1 | XFree86-1.1 | Permission is hereby granted BSD [+, 1, 2+, +, +, 5x] |
+| XFree86 License 1.1 | XFree86-1.1 | MIT [0], BSD [1, 2+, +, +, 5x] |
 | xinetd License | xinetd | |
 | xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | Permission is granted |
 | xlock License | xlock | Permission to use, copy |
-| X.Net License | Xnet | Permission is hereby granted |
+| X.Net License | Xnet | MIT [0, 1, 2, +] |
 | XPP License | xpp | BSD [0, 1x, 2x, 3x, 4x, +, +] |
 | XSkat License | XSkat | |
 | xzoom License | xzoom | |
@@ -679,3 +679,11 @@
 | 3 | All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by (the organization.) |
 | 4 | (Neither the name of the copyright holder nor the names the copyright holder nor the names of its contributors may) be used to endorse or promote products derived from this software without specific prior written permission. |
 | 5 | THIS SOFTWARE IS PROVIDED BY (COPYRIGHT HOLDER) "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL (COPYRIGHT HOLDER) BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. |
+
+### MIT
+
+| No. | Sentence(s) |
+| --- | ----------- |
+| 0 | Permission is hereby granted, free of charge, to any person obtaining a copy of (this software and associated documentation files) the "Software", to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: |
+| 1 | The above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software. |
+| 2 | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL (THE AUTHORS OR COPYRIGHT HOLDERS) BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. |
