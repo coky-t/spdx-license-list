@@ -1,4 +1,4 @@
-   <<var;name="bullet";original="1.";match=".{0,20}">> You may make and give away verbatim copies of the source form of the software without restriction, provided that you duplicate all of the original copyright notices and associated disclaimers.
+You may make and give away verbatim copies of the source form of the software without restriction, provided that you duplicate all of the original copyright notices and associated disclaimers.
 
    <<var;name="bullet";original="2.";match=".{0,20}">> You may modify your copy of the software in any way, provided that you do at least ONE of the following:
 

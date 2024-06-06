@@ -1,6 +1,4 @@
-<<beginOptional>>DL-DE->BY-2.0<<endOptional>><<beginOptional>> Datenlizenz Deutschland – Namensnennung – Version 2.0<<endOptional>>
-
-   <<var;name="bullet";original="(1)";match=".{0,20}">> Jede Nutzung ist unter den Bedingungen dieser „Datenlizenz Deutschland – Namensnennung – Version 2.0" zulässig.
+Jede Nutzung ist unter den Bedingungen dieser „Datenlizenz Deutschland – Namensnennung – Version 2.0" zulässig.
 
    Die bereitgestellten Daten und Metadaten dürfen für die kommerzielle und nicht kommerzielle Nutzung insbesondere
 

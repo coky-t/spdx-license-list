@@ -1,4 +1,4 @@
-   <<var;name="bullet";original="1.";match=".{0,20}">> Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
+Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
 
       <<var;name="bullet";original="-";match=".{0,20}">> copyright notices are retained unchanged,
 

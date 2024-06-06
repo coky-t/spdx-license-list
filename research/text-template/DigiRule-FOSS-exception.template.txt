@@ -1,4 +1,4 @@
-   <<var;name="bullet";original="1.";match=".{0,20}">> Definitions.
+Definitions.
 
    "Derivative Work" means a derivative work, as defined under applicable copyright law, formed entirely from the Program and one or more FOSS Applications.
 
