@@ -54,7 +54,7 @@
 | bcrypt Solar Designer License | bcrypt-Solar-Designer | |
 | Beerware License | Beerware | |
 | Bitstream Charter Font License | Bitstream-Charter | |
-| Bitstream Vera Font License | Bitstream-Vera | MIT [0x, 1x, +, +, +, 2x, +] |
+| Bitstream Vera Font License | Bitstream-Vera | MIT [0x, 1x, +, +, +, 2x], X11 [3x] |
 | BitTorrent Open Source License v1.0 | BitTorrent-1.0 | |
 | BitTorrent Open Source License v1.1 | BitTorrent-1.1 | |
 | SQLite Blessing | blessing | |
@@ -200,7 +200,7 @@
 | CrystalStacker License | CrystalStacker | |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | |
 | Cube License | Cube | Zlib [0, 1, 2, 3, 4, +] |
-| curl License | curl | Permission to use, copy |
+| curl License | curl | Permission to use, copy MIT [+, 2+], X11 [3x] |
 | Common Vulnerability Enumeration ToU License | cve-tou | |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | |
 | DEC 3-Clause License | DEC-3-Clause | |
@@ -312,7 +312,7 @@
 | Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | Permission to use, copy |
 | HTML Tidy License | HTMLTIDY | |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | |
-| ICU License | ICU | MIT [0x, 1x, 2x, +] |
+| ICU License | ICU | MIT [0x, 1x, 2x], X11 [3x] |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
 | Independent JPEG Group License | IJG | |
 | Independent JPEG Group License - short | IJG-short | |
@@ -393,7 +393,7 @@
 | MIT Festival Variant | MIT-Festival | |
 | MIT Khronos - old variant | MIT-Khronos-old | MIT [0x, 1x, +, 2x] |
 | MIT License Modern Variant | MIT-Modern-Variant | |
-| MIT Open Group variant | MIT-open-group | MIT [0x, 1, 2, +] |
+| MIT Open Group variant | MIT-open-group | MIT [0x, 1, 2], X11 [3] |
 | MIT testregex Variant | MIT-testregex | MIT [0x], BSD [5] |
 | MIT Tom Wu Variant | MIT-Wu | MIT [0, 1, 2x, +, +] |
 | MIT +no-false-attribs license | MITNFA | MIT [0, 1, +, 2] |
@@ -535,7 +535,7 @@
 | Sendmail License 8.23 | Sendmail-8.23 | BSD [++, 0, 1, 2, 4, 5x] |
 | SGI Free Software License B v1.0 | SGI-B-1.0 | |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | |
-| SGI Free Software License B v2.0 | SGI-B-2.0 | MIT [0, 1x, 2, +] |
+| SGI Free Software License B v2.0 | SGI-B-2.0 | MIT [0, 1x, 2], X11 [3] |
 | SGI OpenGL License | SGI-OpenGL | Permission to use, copy |
 | SGP4 Permission Notice | SGP4 | |
 | Solderpad Hardware License v0.5 | SHL-0.5 | |
@@ -586,9 +586,9 @@
 | Upstream Compatibility License v1.0 | UCL-1.0 | |
 | ulem License | ulem | |
 | Michigan/Merit Networks License | UMich-Merit | Permission to use, copy |
-| Unicode License v3 | Unicode-3.0 | MIT [+, 0x, 1x, 2x, +] |
-| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | MIT [+, +, 0x, +, +, +, 2x, +] |
-| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | MIT [+, +, 0x, 1x, +, 2x, +] |
+| Unicode License v3 | Unicode-3.0 | MIT [+, 0x, 1x, 2x], X11 [3x] |
+| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | MIT [+, +, 0x, +, +, +, 2x], X11 [3x] |
+| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | MIT [+, +, 0x, 1x, +, 2x], X11 [3x] |
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | Permission to use, copy |
 | The Unlicense | Unlicense | MIT [+, +, +, 2, (+)] |
@@ -605,12 +605,12 @@
 | Widget Workshop License | Widget-Workshop | Permission to use, copy |
 | Wsuipa License | Wsuipa | |
 | Do What The F*ck You Want To Public License | WTFPL | |
-| X11 License | X11 | MIT [0, 1, 2, +, (+)] |
-| X11 License Distribution Modification Variant | X11-distribute-modifications-variant | MIT [0+, 1, 2, +] |
+| X11 License | X11 | MIT [0, 1, 2], X11 [3] |
+| X11 License Distribution Modification Variant | X11-distribute-modifications-variant | MIT [0+, 1, 2], X11 [3x] |
 | Xdebug License v 1.03 | Xdebug-1.03 | BSD [0x, 1, 2, 4x, +, +, +, 5x, +] |
 | Xerox License | Xerox | |
 | Xfig License | Xfig | |
-| XFree86 License 1.1 | XFree86-1.1 | MIT [0], BSD [1, 2+, +, +, 5x] |
+| XFree86 License 1.1 | XFree86-1.1 | MIT [0], BSD [1, 2+, +], X11 [3], BSD [5x] |
 | xinetd License | xinetd | |
 | xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | |
 | xlock License | xlock | Permission to use, copy |
@@ -680,13 +680,14 @@
 | 4 | (Neither the name of the copyright holder nor the names the copyright holder nor the names of its contributors may) be used to endorse or promote products derived from this software without specific prior written permission. |
 | 5 | THIS SOFTWARE IS PROVIDED BY (COPYRIGHT HOLDER) "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL (COPYRIGHT HOLDER) BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. |
 
-### MIT
+### MIT / X11
 
 | No. | Sentence(s) |
 | --- | ----------- |
 | 0 | Permission is hereby granted, free of charge, to any person obtaining a copy of (this software and associated documentation files) the "Software", to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: |
 | 1 | The above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software. |
 | 2 | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL (THE AUTHORS OR COPYRIGHT HOLDERS) BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. |
+| 3 | Except as contained in this notice, the name of (the X Consortium) shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from (the X Consortium.) |
 
 ### Zlib
 
