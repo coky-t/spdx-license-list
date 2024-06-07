@@ -291,10 +291,10 @@
 | Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | Permission to use, copy |
-| HPND with US Government export control warning | HPND-export-US | |
+| HPND with US Government export control warning | HPND-export-US | permission to use, copy |
 | HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | |
-| HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | |
-| HPND with US Government export control and 2 disclaimers | HPND-export2-US | |
+| HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | permission to use, copy |
+| HPND with US Government export control and 2 disclaimers | HPND-export2-US | permission to use, copy |
 | Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | |
