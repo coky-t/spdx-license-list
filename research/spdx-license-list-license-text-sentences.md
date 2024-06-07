@@ -2,13 +2,13 @@
 
 | License Name | Identifier | Sentences |
 | ------------ | ---------- | --------- |
-| BSD Zero Clause License | 0BSD | Permission to use, copy |
+| BSD Zero Clause License | 0BSD | HPND [0x, 3] |
 | 3D Slicer License v1.0 | 3D-Slicer-1.0 | |
 | Attribution Assurance License | AAL | BSD [0x, 1x, 2x, 4, +, 5+] |
 | Abstyles License | Abstyles | |
 | AdaCore Doc License | AdaCore-doc | |
 | Adobe Systems Incorporated Source Code License Agreement | Adobe-2006 | |
-| Adobe Display PostScript License | Adobe-Display-PostScript | Permission to use, copy |
+| Adobe Display PostScript License | Adobe-Display-PostScript | HPND [0x, +, 1x, 2, 3x, +] |
 | Adobe Glyph List License | Adobe-Glyph | MIT [0x, +, 1x, +, +] |
 | Adobe Utopia Font License | Adobe-Utopia | |
 | Amazon Digital Services License | ADSL | |
@@ -48,7 +48,7 @@
 | Artistic License 2.0 | Artistic-2.0 | |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | BSD [0x, 2x, +, 4x, +, 5x] |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | BSD [0x, 2x, +, 4x, +, 5x] |
-| Baekmuk License | Baekmuk | Permission to use, copy |
+| Baekmuk License | Baekmuk | HPND [0x, +] |
 | Bahyph License | Bahyph | |
 | Barr License | Barr | |
 | bcrypt Solar Designer License | bcrypt-Solar-Designer | |
@@ -86,10 +86,10 @@
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | BSD [0, 1, 2, 3, 4, 5] |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | BSD [0-, 1x, 2x, 3-, 4, 5-] |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | BSD [0, 1, 2, 3, 4, 5] |
-| BSD 4.3 RENO License | BSD-4.3RENO | BSD [0x, 4x, 5x] |
+| BSD 4.3 RENO License | BSD-4.3RENO | BSD [0x, 4x, 5x], HPND [2] |
 | BSD 4.3 TAHOE License | BSD-4.3TAHOE | BSD [0x, 4, 5x] |
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | BSD [0, 1, 2, 3, +, 5x] |
-| BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | BSD [0, 1, 2, 4x, +, 5x] |
+| BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | BSD [0, 1, 2, 4x, +], HPND [3] |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | BSD [0, 1x, 3, 4, 5, +] |
 | BSD Protection License | BSD-Protection | |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | BSD [0, 1+, 4, 5] |
@@ -181,8 +181,8 @@
 | Checkmk License | checkmk | |
 | Clarified Artistic License | ClArtistic | |
 | Clips License | Clips | MIT [0-, 2x] |
-| CMU Mach License | CMU-Mach | Permission to use, copy |
-| CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | Permission to use, copy |
+| CMU Mach License | CMU-Mach | HPND [0x, +, (+)] |
+| CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | HPND [0x, +] |
 | CNRI Jython License | CNRI-Jython | |
 | CNRI Python License | CNRI-Python | |
 | CNRI Python Open Source GPL Compatible License Agreement | CNRI-Python-GPL-Compatible | |
@@ -191,7 +191,7 @@
 | Condor Public License v1.1 | Condor-1.1 | |
 | copyleft-next 0.3.0 | copyleft-next-0.3.0 | |
 | copyleft-next 0.3.1 | copyleft-next-0.3.1 | |
-| Cornell Lossless JPEG License | Cornell-Lossless-JPEG | Permission to use, copy |
+| Cornell Lossless JPEG License | Cornell-Lossless-JPEG | HPND [0x, +, +] |
 | Common Public Attribution License 1.0 | CPAL-1.0 | |
 | Common Public License 1.0 | CPL-1.0 | |
 | Code Project Open License 1.02 | CPOL-1.02 | |
@@ -200,7 +200,7 @@
 | CrystalStacker License | CrystalStacker | |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | |
 | Cube License | Cube | Zlib [0, 1, 2, 3, 4, +] |
-| curl License | curl | Permission to use, copy MIT [+, 2+], X11 [3x] |
+| curl License | curl | HPND [0x], MIT [2+], X11 [3x] |
 | Common Vulnerability Enumeration ToU License | cve-tou | |
 | Deutsche Freie Software Lizenz | D-FSL-1.0 | |
 | DEC 3-Clause License | DEC-3-Clause | |
@@ -212,9 +212,9 @@
 | Detection Rule License 1.0 | DRL-1.0 | MIT [0x, +, +, +, +, 2x] |
 | Detection Rule License 1.1 | DRL-1.1 | MIT [0x, +, +, +, +, +, 2x] |
 | DSDP License | DSDP | |
-| David M. Gay dtoa License | dtoa | Permission to use, copy |
+| David M. Gay dtoa License | dtoa | HPND [0x, 2x, +] |
 | dvipdfm License | dvipdfm | |
-| Educational Community License v1.0 | ECL-1.0 | Permission to use, copy MIT [+, +, +, +, +, +, 2, +] |
+| Educational Community License v1.0 | ECL-1.0 | HPND [+, 0x], MIT [+, +, +, +, 2, +] |
 | Educational Community License v2.0 | ECL-2.0 | |
 | Eiffel Forum License v1.0 | EFL-1.0 | |
 | Eiffel Forum License v2.0 | EFL-2.0 | |
@@ -244,7 +244,7 @@
 | FSF Unlimited License (with License Retention) | FSFULLR | |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | |
 | Freetype Project License | FTL | |
-| Furuseth License | Furuseth | BSD [0x, 4x, 5x] |
+| Furuseth License | Furuseth | BSD [0x, 4x, 5x], HPND [2] |
 | fwlw License | fwlw | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
@@ -267,11 +267,11 @@
 | GNU Free Documentation License v1.3 only | GFDL-1.3-only | |
 | GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | |
 | Giftware License | Giftware | |
-| GL2PS License | GL2PS | Permission to use, copy |
+| GL2PS License | GL2PS | HPND [0x, +, +, +, 2] |
 | 3dfx Glide License | Glide | |
 | Glulxe License | Glulxe | |
 | Good Luck With That Public License | GLWTPL | |
-| gnuplot License | gnuplot | Permission to use, copy |
+| gnuplot License | gnuplot | HPND [0x, +, +, +, +, +, +, 2+] |
 | GNU General Public License v1.0 only | GPL-1.0-only | |
 | GNU General Public License v1.0 or later | GPL-1.0-or-later | |
 | GNU General Public License v2.0 only | GPL-2.0-only | |
@@ -285,31 +285,31 @@
 | Haskell Language Report License | HaskellReport | |
 | hdparm License | hdparm | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
-| Hewlett-Packard 1986 License | HP-1986 | |
+| Hewlett-Packard 1986 License | HP-1986 | HPND [+, 0x, 1] |
 | Hewlett-Packard 1989 License | HP-1989 | |
-| Historical Permission Notice and Disclaimer | HPND | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | Permission to use, copy |
-| HPND with US Government export control warning | HPND-export-US | |
+| Historical Permission Notice and Disclaimer | HPND | HPND [0, 1, 2, 3] |
+| Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | HPND [+, +, 0] |
+| Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | HPND [0x, 1-, 2x] |
+| Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | HPND [0x, 1-, 2x] |
+| HPND with US Government export control warning | HPND-export-US | HPND [+, 0+, 1, 2] |
 | HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | |
-| HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | |
-| HPND with US Government export control and 2 disclaimers | HPND-export2-US | |
-| Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | |
-| Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | Permission to use, copy |
-| Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | Permission to use, copy MIT [+, 2] |
-| Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | Permission to use, copy |
-| HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | Permission to use, copy MIT [+, 2] |
-| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | Permission to use, copy MIT [2, +] |
-| Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | Permission to use, copy |
-| Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | Permission to use, copy |
+| HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | HPND [+, 0+, +, 1x, 2] |
+| HPND with US Government export control and 2 disclaimers | HPND-export2-US | HPND [+, 0+, 1, 2, +] |
+| Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | HPND [0x, 1, 2] |
+| Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | HPND [+, 0x, +] |
+| Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | HPND [0x, +, +] |
+| Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | HPND [0x, 2, +] |
+| Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | HPND [0-, 3-] |
+| Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | HPND [0x, +] |
+| Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | HPND [0x], MIT [2] |
+| Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | HPND [0-, 2] |
+| Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | HPND[0x, 3x] |
+| Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | HPND [0x, 2] |
+| Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | HPND [0x, 1, 2, 3] |
+| HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | HPND [0x], MIT [2] |
+| HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | MIT [2], HPND [0x] |
+| Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | HPND [0-, 1, 2] |
+| Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | HPND [0-, 1, 2, +] |
 | HTML Tidy License | HTMLTIDY | |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | |
 | ICU License | ICU | MIT [0x, 1x, 2x], X11 [3x] |
@@ -326,8 +326,8 @@
 | Interbase Public License v1.0 | Interbase-1.0 | |
 | IPA Font License | IPA | |
 | IBM Public License v1.0 | IPL-1.0 | |
-| ISC License | ISC | Permission to use, copy |
-| ISC Veillard variant | ISC-Veillard | Permission to use, copy |
+| ISC License | ISC | HPND [0x, 3x] |
+| ISC Veillard variant | ISC-Veillard | HPND [0x, 3x] |
 | Jam License | Jam | |
 | JasPer License | JasPer-2.0 | MIT [0x, 1x, +, 2x] |
 | JPL Image Use Policy | JPL-image | |
@@ -351,7 +351,7 @@
 | libpng License | Libpng | |
 | PNG Reference Library version 2 | libpng-2.0 | MIT [2x], Zlib [1x, 2, 3, 4+] |
 | libselinux public domain notice | libselinux-1.0 | |
-| libtiff License | libtiff | Permission to use, copy |
+| libtiff License | libtiff | HPND [0x, 2x, 3x] |
 | libutil David Nugent License | libutil-David-Nugent | BSD [0x, 1+, 2, +, +, +] |
 | Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | |
 | Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | |
@@ -361,7 +361,7 @@
 | Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | |
 | Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | BSD [0, 1, 2, 5x] |
-| Common Lisp LOOP License | LOOP | Permission to use, copy |
+| Common Lisp LOOP License | LOOP | HPND [0x, +, 1, 2], HPND [0x, +, 1, 2] |
 | LPD Documentation License | LPD-document | |
 | Lucent Public License Version 1.0 | LPL-1.0 | |
 | Lucent Public License v1.02 | LPL-1.02 | |
@@ -374,23 +374,23 @@
 | Lucida Bitmap Fonts License | Lucida-Bitmap-Fonts | |
 | LZMA SDK License (versions 9.11 to 9.20) | LZMA-SDK-9.11-to-9.20 | |
 | LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | |
-| Mackerras 3-Clause License | Mackerras-3-Clause | BSD [0, 1, 2, 4x, 5x] |
-| Mackerras 3-Clause - acknowledgment variant | Mackerras-3-Clause-acknowledgment | BSD [0, 1, 4x, +, 5x] |
+| Mackerras 3-Clause License | Mackerras-3-Clause | BSD [0, 1, 2, 4x], HPND [3] |
+| Mackerras 3-Clause - acknowledgment variant | Mackerras-3-Clause-acknowledgment | BSD [0, 1, 4x, +], HPND [3] |
 | magaz License | magaz | |
 | mailprio License | mailprio | |
 | MakeIndex License | MakeIndex | |
 | Martin Birgmeier License | Martin-Birgmeier | |
 | McPhee Slideshow License | McPhee-slideshow | |
-| metamail License | metamail | Permission to use, copy |
+| metamail License | metamail | HPND [0x, 1x, 2x] |
 | Minpack License | Minpack | BSD [0, 1, 2, 3x, 5x, 5x] |
 | The MirOS Licence | MirOS | |
 | MIT License | MIT | MIT [0, 1, 2] |
 | MIT No Attribution | MIT-0 | MIT [0-, 2] |
 | Enlightenment License (e16) | MIT-advertising | MIT [0, 1x, 2] |
-| CMU License | MIT-CMU | Permission to use, copy |
+| CMU License | MIT-CMU | HPND [+, 0x, 3x] |
 | enna License | MIT-enna | MIT [0, 1x, +, 2] |
 | feh License | MIT-feh | MIT [0, 1x, 2] |
-| MIT Festival Variant | MIT-Festival | |
+| MIT Festival Variant | MIT-Festival | MIT [0x, +, +, +, +], HPND [3] |
 | MIT Khronos - old variant | MIT-Khronos-old | MIT [0x, 1x, +, 2x] |
 | MIT License Modern Variant | MIT-Modern-Variant | |
 | MIT Open Group variant | MIT-open-group | MIT [0x, 1, 2], X11 [3] |
@@ -413,7 +413,7 @@
 | Matrix Template Library License | MTLL | BSD [+, 0, 1x, 2x, 3x, 4x, +, +, +] |
 | Mulan Permissive Software License, Version 1 | MulanPSL-1.0 | |
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | |
-| Multics License | Multics | Permission to use, copy |
+| Multics License | Multics | HPND [(+), 0x] |
 | Mup License | Mup | BSD [0, 1, 2, +, 5x] |
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | |
 | NASA Open Source Agreement 1.3 | NASA-1.3 | |
@@ -441,10 +441,10 @@
 | Netscape Public License v1.1 | NPL-1.1 | |
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | |
 | NRL License | NRL | BSD [+, +, +, 0x, +, 1, 2, 3x, 4, 5x] |
-| NTP License | NTP | Permission to use, copy |
-| NTP No Attribution | NTP-0 | Permission to use, copy |
+| NTP License | NTP | [0x, 1, 2] |
+| NTP No Attribution | NTP-0 | HPND [0x, 1, 2] |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
-| OAR License | OAR | Permission to use, copy |
+| OAR License | OAR | HPND [0x, 2, +] |
 | Open CASCADE Technology Public License | OCCT-PL | |
 | OCLC Research Public License 2.0 | OCLC-2.0 | |
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | |
@@ -456,7 +456,7 @@
 | SIL Open Font License 1.1 | OFL-1.1 | |
 | SIL Open Font License 1.1 with no Reserved Font Name | OFL-1.1-no-RFN | |
 | SIL Open Font License 1.1 with Reserved Font Name | OFL-1.1-RFN | |
-| OGC Software License, Version 1.0 | OGC-1.0 | Permission to use, copy |
+| OGC Software License, Version 1.0 | OGC-1.0 | |
 | Taiwan Open Government Data License, version 1.0 | OGDL-Taiwan-1.0 | |
 | Open Government Licence - Canada | OGL-Canada-2.0 | |
 | Open Government Licence v1.0 | OGL-UK-1.0 | |
@@ -494,25 +494,25 @@
 | Open Software License 2.0 | OSL-2.0 | |
 | Open Software License 2.1 | OSL-2.1 | |
 | Open Software License 3.0 | OSL-3.0 | |
-| PADL License | PADL | BSD [0x, 5x] |
+| PADL License | PADL | BSD [0x], HPND [2] |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | |
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | |
 | PHP License v3.0 | PHP-3.0 | BSD [0x, 1, 2, 4x, +, +, +, 5x, +] |
 | PHP License v3.01 | PHP-3.01 | BSD [0x, 1, 2, 4x, +, +, +, 5x, +] |
 | Pixar License | Pixar | |
-| pkgconf License | pkgconf | Permission to use, copy |
+| pkgconf License | pkgconf | HPND [0x, 2, +] |
 | Plexus Classworlds License | Plexus | BSD [0x, 1x, 2, 4x, +, +, 5x] |
 | pnmstitch License | pnmstitch | BSD [0x, 1, 5x, +] |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | |
-| PostgreSQL License | PostgreSQL | Permission to use, copy |
+| PostgreSQL License | PostgreSQL | HPND [0x, +, +] |
 | Peer Production License | PPL | |
 | Python Software Foundation License 2.0 | PSF-2.0 | |
 | psfrag License | psfrag | |
 | psutils License | psutils | |
-| Python License 2.0 | Python-2.0 | (CWI) Permission to use, copy |
-| Python License 2.0.1 | Python-2.0.1 | (CWI) Permission to use, copy |
+| Python License 2.0 | Python-2.0 | PSF-2.0 AND (BeOpen Python) AND CNRI-Python AND (CWI) HPND [0, 3] |
+| Python License 2.0.1 | Python-2.0.1 | PSF-2.0 AND (BeOpen Python) AND CNRI-Python-GPL-Compatible AND (CWI) HPND [0, 3] |
 | Python ldap License | python-ldap | |
 | Qhull License | Qhull | |
 | Q Public License 1.0 | QPL-1.0 | |
@@ -536,7 +536,7 @@
 | SGI Free Software License B v1.0 | SGI-B-1.0 | |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | MIT [0, 1x, 2], X11 [3] |
-| SGI OpenGL License | SGI-OpenGL | Permission to use, copy |
+| SGI OpenGL License | SGI-OpenGL | HPND [0, 3x, +] |
 | SGP4 Permission Notice | SGP4 | |
 | Solderpad Hardware License v0.5 | SHL-0.5 | |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | |
@@ -545,7 +545,7 @@
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | |
 | SL License | SL | |
 | Sleepycat License | Sleepycat | BSD-3-Clause |
-| Standard ML of New Jersey License | SMLNJ | Permission to use, copy |
+| Standard ML of New Jersey License | SMLNJ | HPND [0x, 3] |
 | Secure Messaging Protocol Public License | SMPPL | |
 | SNIA Public License 1.1 | SNIA | |
 | snprintf License | snprintf | |
@@ -562,8 +562,8 @@
 | Server Side Public License, v 1 | SSPL-1.0 | |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | |
 | Sun PPP License | Sun-PPP | |
-| Sun PPP License (2000) | Sun-PPP-2000 | Permission to use, copy |
-| SunPro License | SunPro | Permission to use, copy |
+| Sun PPP License (2000) | Sun-PPP-2000 | HPND [0-, +] |
+| SunPro License | SunPro | HPND [0x] |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | |
 | swrule License | swrule | |
 | Symlinks License | Symlinks | |
@@ -581,16 +581,16 @@
 | Text-Tabs+Wrap License | TTWL | |
 | TTYP0 License | TTYP0 | MIT [0x, 1x, +, 2] |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | |
-| Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | Permission to use, copy |
+| Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | |
 | UCAR License | UCAR | BSD [+, 0, 1, 2, 4, +, 5x] |
 | Upstream Compatibility License v1.0 | UCL-1.0 | |
 | ulem License | ulem | |
-| Michigan/Merit Networks License | UMich-Merit | Permission to use, copy |
+| Michigan/Merit Networks License | UMich-Merit | HPND [0+, 3x] |
 | Unicode License v3 | Unicode-3.0 | MIT [+, 0x, 1x, 2x], X11 [3x] |
 | Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | MIT [+, +, 0x, +, +, +, 2x], X11 [3x] |
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | MIT [+, +, 0x, 1x, +, 2x], X11 [3x] |
 | Unicode Terms of Use | Unicode-TOU | |
-| UnixCrypt License | UnixCrypt | Permission to use, copy |
+| UnixCrypt License | UnixCrypt | HPND [0x] |
 | The Unlicense | Unlicense | MIT [+, +, +, 2, (+)] |
 | Universal Permissive License v1.0 | UPL-1.0 | MIT [+, +, +, +, 1x, 2] |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
@@ -598,11 +598,11 @@
 | VOSTROM Public License for Open Source | VOSTROM | |
 | Vovida Software License v1.0 | VSL-1.0 | BSD [0, 1, 2, 4x, +, 5x] |
 | W3C Software Notice and License (2002-12-31) | W3C | |
-| W3C Software Notice and License (1998-07-20) | W3C-19980720 | Permission to use, copy |
+| W3C Software Notice and License (1998-07-20) | W3C-19980720 | |
 | W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | |
 | w3m License | w3m | |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | |
-| Widget Workshop License | Widget-Workshop | Permission to use, copy |
+| Widget Workshop License | Widget-Workshop | |
 | Wsuipa License | Wsuipa | |
 | Do What The F*ck You Want To Public License | WTFPL | |
 | X11 License | X11 | MIT [0, 1, 2], X11 [3] |
@@ -613,7 +613,7 @@
 | XFree86 License 1.1 | XFree86-1.1 | MIT [0], BSD [1, 2+, +], X11 [3], BSD [5x] |
 | xinetd License | xinetd | |
 | xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | |
-| xlock License | xlock | Permission to use, copy |
+| xlock License | xlock | HPND [0-, +] |
 | X.Net License | Xnet | MIT [0, 1, 2, +] |
 | XPP License | xpp | BSD [0, 1x, 2x, 3x, 4x, +, +] |
 | XSkat License | XSkat | |
@@ -679,6 +679,15 @@
 | 3 | All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by (the organization.) |
 | 4 | (Neither the name of the copyright holder nor the names the copyright holder nor the names of its contributors may) be used to endorse or promote products derived from this software without specific prior written permission. |
 | 5 | THIS SOFTWARE IS PROVIDED BY (COPYRIGHT HOLDER) "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL (COPYRIGHT HOLDER) BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. |
+
+### HPND
+
+| No. | Sentence(s) |
+| --- | ----------- |
+| 0 | Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies, and that both that copyright notice and this permission notice appear in supporting documentation (and that the name of (copyright holder (or related entities)) not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.) |
+| 1 | (copyright holder) makes no representations about the suitability of this software for any purpose. |
+| 2 | It is provided "as is" without express or implied warranty. |
+{ 3 | (copyright holder) DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS . IN NO EVENT SHALL (copyright holder) BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. |
 
 ### MIT / X11
 
