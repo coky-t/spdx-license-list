@@ -1,2 +1,2 @@
-(?<!\w|INRIA\W*)QPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*INRIA|\W*2004)|(?!\.0|\w|\W*INRIA|\W*2004))
+(?<!\w|INRIA\W)QPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*INRIA|\W*2004)|(?!\.0|\w|\W*INRIA|\W*2004))
 Q\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*INRIA|\W*2004)|(?!\.0|w|\W*INRIA|\W*2004))

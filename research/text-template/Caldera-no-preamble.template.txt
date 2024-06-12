@@ -1,4 +1,4 @@
-<<var;name="Caldera";original="... The following copyright notice applies to the source code files for which this license is granted.";match="(?<!the\W*following\W*copyright\W*notice\W*applies\W*to\W*the\W*source\W*code\W*files\W*for\W*which\W*this\W*licen[sc]e\W*is\W*granted\W*.{1,100}\W*)">>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 Redistributions of source code and documentation must retain the above copyright notice, this list of conditions and the following disclaimer.
 

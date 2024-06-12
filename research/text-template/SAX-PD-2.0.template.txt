@@ -1,2 +1,2 @@
-<<var;name="SAX-PD";original="... SAX 2.0";match="(?<!SAX\W*2\.0\W*)">>I hereby abandon any property rights to SAX 2.0 (the Simple API for XML), and release all of the SAX 2.0 source code, compiled code, and documentation contained in this distribution into the Public Domain. SAX comes with NO WARRANTY or guarantee of fitness for any purpose.
+<<var;name="SAX-PD";original="... SAX 2.0";match="(?<!SAX\W2\.0\W\W)">>I hereby abandon any property rights to SAX 2.0 (the Simple API for XML), and release all of the SAX 2.0 source code, compiled code, and documentation contained in this distribution into the Public Domain. SAX comes with NO WARRANTY or guarantee of fitness for any purpose.
 
