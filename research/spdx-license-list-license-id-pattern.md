@@ -672,7 +672,7 @@
 ### Prefix Pattern
 
 ```
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|License\W*)
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)
 ```
 
 ### Escaping - Base Pattern
