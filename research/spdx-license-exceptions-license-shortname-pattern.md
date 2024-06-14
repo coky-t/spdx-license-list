@@ -83,7 +83,7 @@
 ### Prefix Pattern
 
 ```
-(?:WITH\W*|SPDX\-Exception\-IdentifierW*)
+(?:WITH\W*|SPDX\-Exception\-Identifier\W*)
 ```
 
 ### Short Base Pattern - Escaping
