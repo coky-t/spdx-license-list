@@ -1,2 +1,4 @@
 psutils
 psutils License
+License: psutils
+SPDX-License-Identifier: psutils

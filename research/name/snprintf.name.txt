@@ -1,2 +1,4 @@
 snprintf
 snprintf License
+License: snprintf
+SPDX-License-Identifier: snprintf

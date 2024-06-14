@@ -1,2 +1,6 @@
+Unicode3
 Unicode-3.0
 Unicode License v3
+Unicode v3 License
+License: Unicode v3
+SPDX-License-Identifier: Unicode-3.0

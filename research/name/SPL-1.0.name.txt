@@ -1,3 +1,8 @@
+SPL1
 SPL-1.0
 Sun Public License v1.0
 Sun Public License Version 1.0
+SPL License v1
+SPL v1 License
+License: SPLv1
+SPDX-License-Identifier: SPL-1.0

@@ -1,2 +1,4 @@
 ISC
 ISC License
+License: ISC
+SPDX-License-Identifier: ISC

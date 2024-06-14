@@ -1,3 +1,6 @@
 IPA
 IPA Font License
 IPA Font License Agreement v1.0
+IPA License
+License: IPA
+SPDX-License-Identifier: IPA

@@ -1,2 +1,4 @@
 Aladdin
 Aladdin Free Public License
+Aladdin License
+SPDX-License-Identifier: Aladdin

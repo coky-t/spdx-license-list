@@ -1,2 +1,7 @@
+Parity7
 Parity-7.0.0
 The Parity Public License 7.0.0
+Parity 7 License
+Parity License v7
+License: Parity7
+SPDX-License-Identifier: Parity-7.0.0

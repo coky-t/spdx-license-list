@@ -1,2 +1,4 @@
 JSON
 JSON License
+License: JSON
+SPDX-License-Identifier: JSON

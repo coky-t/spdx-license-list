@@ -1,2 +1,5 @@
 OML
 Open Market License
+OML License
+License: OML
+SPDX-License-Identifier: OML

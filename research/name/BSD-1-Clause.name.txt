@@ -1,2 +1,7 @@
+1BSD
+BSD1
 BSD-1-Clause
 BSD 1-Clause License
+BSD 1 License
+License: BSD-1
+SPDX-License-Identifier: BSD-1-Clause

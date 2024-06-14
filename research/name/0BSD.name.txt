@@ -8,3 +8,7 @@ BSD 0-Clause
 BSD 0 Clause License
 BSD Zero Clause
 BSD Zero Clause License
+0BSD License
+BSD0 License
+License: BSD0
+SPDX-License-Identifier: 0BSD

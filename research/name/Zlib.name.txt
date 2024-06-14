@@ -1,2 +1,4 @@
 Zlib
 zlib License
+License: zlib
+SPDX-License-Identifier: Zlib

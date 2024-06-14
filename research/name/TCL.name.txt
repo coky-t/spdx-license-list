@@ -1,2 +1,5 @@
 TCL
 TCL/TK License
+TCL License
+License: TCL
+SPDX-License-Identifier: TCL

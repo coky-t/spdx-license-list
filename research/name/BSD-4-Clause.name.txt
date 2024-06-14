@@ -1,3 +1,5 @@
+4BSD
+BSD4
 4-Clause BSD
 BSD-4-Clause
 BSD 4-Clause "Original" or "Old" License
@@ -7,3 +9,5 @@ BSD Old License
 BSD Original License
 Old BSD License
 Original BSD License
+License: BSD-4
+SPDX-License-Identifier: BSD-4-Clause

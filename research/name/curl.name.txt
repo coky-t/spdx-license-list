@@ -1,2 +1,4 @@
 curl
 curl License
+License: curl
+SPDX-License-Identifier: curl

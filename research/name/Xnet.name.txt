@@ -1,3 +1,5 @@
 Xnet
 X.Net License
 X.Net, Inc. License
+License: Xnet
+SPDX-License-Identifier: Xnet

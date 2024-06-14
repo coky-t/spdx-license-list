@@ -2,3 +2,6 @@ Nokia
 Nokia Open Source License
 Nokia Open Source License (NOKOS License) Version 1.0a
 NOKOS License Version 1.0
+Nokia License
+License: Nokia
+SPDX-License-Identifier: Nokia

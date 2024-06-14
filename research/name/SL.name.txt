@@ -1,2 +1,4 @@
 SL
 SL License
+License: SL
+SPDX-License-Identifier: SL

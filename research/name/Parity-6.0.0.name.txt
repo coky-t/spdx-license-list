@@ -1,2 +1,7 @@
+Parity6
 Parity-6.0.0
 The Parity Public License 6.0.0
+Parity 6 License
+Parity License v6
+License: Parity6
+SPDX-License-Identifier: Parity-6.0.0

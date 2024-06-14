@@ -1,2 +1,4 @@
 AAL
 Attribution Assurance License
+AAL License
+SPDX-License-Identifier: AAL

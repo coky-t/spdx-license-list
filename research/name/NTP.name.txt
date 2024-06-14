@@ -1,3 +1,5 @@
 NTP
 NTP License
 NTP License (NTP)
+License: NTP
+SPDX-License-Identifier: NTP

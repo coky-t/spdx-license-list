@@ -1,2 +1,4 @@
 GD
 GD License
+License: GD
+SPDX-License-Identifier: GD

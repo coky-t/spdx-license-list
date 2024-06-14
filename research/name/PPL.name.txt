@@ -1,2 +1,5 @@
 PPL
 Peer Production License
+PPL License
+License: PPL
+SPDX-License-Identifier: PPL

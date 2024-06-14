@@ -1,2 +1,5 @@
 LOOP
 Common Lisp LOOP License
+LOOP License
+License: LOOP
+SPDX-License-Identifier: LOOP

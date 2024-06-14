@@ -1,2 +1,4 @@
 Symlinks
 Symlinks License
+License: Symlinks
+SPDX-License-Identifier: Symlinks

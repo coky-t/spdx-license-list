@@ -1,2 +1,4 @@
 Multics
 Multics License
+License: Multics
+SPDX-License-Identifier: Multics

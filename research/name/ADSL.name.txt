@@ -1,2 +1,4 @@
 ADSL
 Amazon Digital Services License
+ADSL License
+SPDX-License-Identifier: ADSL

@@ -1,2 +1,4 @@
 ICU
 ICU License
+License: ICU
+SPDX-License-Identifier: ICU

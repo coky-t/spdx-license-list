@@ -1,2 +1,4 @@
 Fair
 Fair License
+License: Fair
+SPDX-License-Identifier: Fair

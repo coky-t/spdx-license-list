@@ -1,2 +1,4 @@
 Vim
 Vim License
+License: Vim
+SPDX-License-Identifier: Vim

@@ -1,2 +1,4 @@
 Cube
 Cube License
+License: Cube
+SPDX-License-Identifier: Cube

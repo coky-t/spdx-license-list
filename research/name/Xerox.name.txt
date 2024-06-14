@@ -1,2 +1,4 @@
 Xerox
 Xerox License
+License: Xerox
+SPDX-License-Identifier: Xerox

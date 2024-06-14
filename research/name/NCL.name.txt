@@ -1,2 +1,5 @@
 NCL
 NCL Source Code License
+NCL License
+License: NCL
+SPDX-License-Identifier: NCL

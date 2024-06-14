@@ -1,5 +1,10 @@
+OFL1
 OFL-1.0
 Open Font License (OFL)
 SIL Open Font License 1.0
 SIL OPEN FONT LICENSE Version 1.0
 version 1.0 of the SIL Open Font License
+OFL1 License
+OFL License v1
+License: OFL1
+SPDX-License-Identifier: OFL-1.0

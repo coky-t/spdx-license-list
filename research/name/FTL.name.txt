@@ -1,2 +1,5 @@
 FTL
 Freetype Project License
+FTL License
+License: FTL
+SPDX-License-Identifier: FTL
