@@ -1,1 +1,2 @@
-Sendmail(?:\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?8\.23)|(?!\W*Licen[sc]e|\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?8\.23|\W*Inc|\W*distribution))
+Sendmail\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?8\.23)
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Sendmail(?:\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?8\.23)|(?!\W*Licen[sc]e|\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?8\.23|\W*Inc|\W*distribution))

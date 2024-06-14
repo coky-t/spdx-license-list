@@ -1,1 +1,2 @@
-(?<!\w)Cube(\W*Licen[sc]e|(?!\w))
+(?<!\w)Cube\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Cube(\W*Licen[sc]e|(?!\w))

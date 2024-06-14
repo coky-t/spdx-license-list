@@ -1,1 +1,5 @@
-(?:SHL(?:\W*Licen[sc]e)?|Solderpad\W*Hardware\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\.[1-9]))
+SHL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\.[1-9]))
+SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0(?:\W*Licen[sc]e)?
+SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\.[1-9]))\W*Licen[sc]e
+(?:WITH\W*|SPDX\-Exception\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)SHL(?:\W*Licen[sc]e)?\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\.[1-9]))(?:\W*Licen[sc]e)?
+Solderpad\W*Hardware\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\.[1-9]))

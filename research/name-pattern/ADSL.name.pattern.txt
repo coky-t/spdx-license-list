@@ -1,2 +1,3 @@
-(?<!\w)ADSL(?!\w)
+(?<!\w)ADSL\W*Licen[sc]e
 Amazon\W*Digital\W*Services\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)ADSL(?:\W*Licen[sc]e|(?!\w))

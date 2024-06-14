@@ -1,1 +1,2 @@
-(?<!\w)X11(?:\W*Licen[sc]e(?!\W*Distribution)|(?!\W*Licen[sc]e|\W*distribute|vnc|\W*Release\W*\d|R\d|\w))
+(?<!\w)X11\W*Licen[sc]e(?!\W*Distribution)
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)X11(?:\W*Licen[sc]e(?!\W*Distribution)|(?!\W*Licen[sc]e|\W*distribute|vnc|\W*Release\W*\d|R\d|\w))

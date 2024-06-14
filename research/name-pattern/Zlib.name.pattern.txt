@@ -1,1 +1,2 @@
-(?<!\w)zlib(?:\W*Licen[sc]e|(?!\W*libpng|\W*acknowledge?ment))
+(?<!\w)zlib\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)zlib(?:\W*Licen[sc]e|(?!\W*libpng|\W*acknowledge?ment))

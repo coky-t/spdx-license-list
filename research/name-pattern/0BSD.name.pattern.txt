@@ -1,2 +1,6 @@
-(?:0|Zero)\W*(?:Clause\W*)?BSD(?:\W*Licen[sc]e)?
-BSD\W*(?:0|Zero)(?:\W*Clause)?(?:\W*Licen[sc]e)?
+(?:0|Zero)\W*Clause\W*BSD(?:\W*Licen[sc]e)?
+BSD\W*(?:0|Zero)\W*Clause(?:\W*Licen[sc]e)?
+(?:0|Zero)\W*BSD\W*Licen[sc]e
+BSD\W*(?:0|Zero)\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:0|Zero)\W*(?:Clause\W*)?BSD(?:\W*Licen[sc]e)?
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*(?:0|Zero)(?:\W*Clause)?(?:\W*Licen[sc]e)?

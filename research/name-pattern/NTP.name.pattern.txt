@@ -1,1 +1,2 @@
-(?<!\w)NTP(?:\W*Licen[sc]e(?:\W*NTP)?|(?!\w|\W*0|\W*No))
+(?<!\w)NTP\W*Licen[sc]e(?:\W*NTP)?
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)NTP(?:\W*Licen[sc]e(?:\W*NTP)?|(?!\w|\W*0|\W*No))
