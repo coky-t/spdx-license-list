@@ -1,1 +1,1 @@
-(?<!\w|OpenVPN\Wwith\W)OpenSSL(?:\W*Licen[sc]e(?!\W*standalone)|(?!\W*Licen[sc]e|\W*standalone|\W*exception))
+(?<!\w)(?<!OpenVPN\Wwith\W)OpenSSL(?:\W*Licen[sc]e(?!\W*standalone)|(?!\W*Licen[sc]e|\W*standalone|\W*exception))

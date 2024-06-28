@@ -1,1 +1,1 @@
-(?<!AdaCore\W|FreeBSD\W|HPND\W|\w)DOC(?:\W*Licen[sc]e|(?!\w))
+(?<!AdaCore\W)(?<!FreeBSD\W)(?<!HPND\W)(?<!\w)DOC(?:\W*Licen[sc]e|(?!\w))
