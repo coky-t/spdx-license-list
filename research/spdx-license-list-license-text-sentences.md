@@ -423,7 +423,7 @@
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
 | NCL Source Code License | NCL | BSD [0x, +, 1x, 2x, 5x] |
 | University of Illinois/NCSA Open Source License | NCSA | MIT [0x], BSD [1x, 2x, 4], MIT [2x] |
-| Net-SNMP License | Net-SNMP | HPND AND BSD-3-Clause |
+| Net-SNMP License | Net-SNMP | HPND AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause |
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | Zlib [1x, +, 3-] |
 | Nethack General Public License | NGPL | |
@@ -544,7 +544,7 @@
 | Sun Industry Standards Source License v1.1 | SISSL | |
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | |
 | SL License | SL | |
-| Sleepycat License | Sleepycat | BSD-3-Clause |
+| Sleepycat License | Sleepycat | BSD [0, 1, 2, x, 5+] AND BSD-3-Clause AND BSD-3-Clause |
 | Standard ML of New Jersey License | SMLNJ | HPND [0x, 3] |
 | Secure Messaging Protocol Public License | SMPPL | |
 | SNIA Public License 1.1 | SNIA | |
