@@ -423,7 +423,7 @@
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
 | NCL Source Code License | NCL | BSD [0x, +, 1x, 2x, 5x] |
 | University of Illinois/NCSA Open Source License | NCSA | MIT [0x], BSD [1x, 2x, 4], MIT [2x] |
-| Net-SNMP License | Net-SNMP | HPND AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause |
+| Net-SNMP License | Net-SNMP | HPND [0, 3x] AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause |
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | Zlib [1x, +, 3-] |
 | Nethack General Public License | NGPL | |
