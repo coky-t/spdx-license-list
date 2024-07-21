@@ -1,0 +1,1 @@
+(?:Open\W*Data\W*Commons\W*)?Open\W*Database\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1)

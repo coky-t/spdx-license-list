@@ -1,0 +1,1 @@
+Open\W*Data\W*Commons\W*Public\W*Domain\W*Dedication\W*(?:and|&)\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1)

@@ -1,0 +1,3 @@
+CONTRAT\W*DE\W*LICEN[SC]E\W*DE\W*LOGICIEL\W*LIBRE\W*CeCILL
+FREE\W*SOFTWARE\W*LICEN[SC]ING\W*AGREEMENT\W*CeCILL
+CeCILL\W*Free\W*Software\W*Licen[sc]e\W*Agreement(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?[12])

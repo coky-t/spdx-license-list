@@ -1,0 +1,1 @@
+Licence\W*Art\W*Libre(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1)
