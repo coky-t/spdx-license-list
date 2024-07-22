@@ -1,0 +1,1 @@
+BSD\W*Style(?:\W*Open\W*Source)?\W*Licen[sc]e
