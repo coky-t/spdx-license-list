@@ -1,3 +1,2 @@
 QPL-1.0-INRIA-2004
 Q Public License 1.0 - INRIA 2004 variant
-Q PUBLIC LICENSE version 1.0
