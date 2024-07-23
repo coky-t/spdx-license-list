@@ -1,1 +1,2 @@
-(?<!\w)NRL(?:\W*Licen[sc]e|(?!\W*CCS|\w))
+(?<!\w)NRL\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)NRL(?!\W*CCS|\w)

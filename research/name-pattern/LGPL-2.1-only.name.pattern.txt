@@ -1,3 +1,3 @@
 (?:GNU\W*)?(?:(?<!\w)LGPL|(?:Library|Lesser)\W*GPL)\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*only
 GNU\W*(?:Library|Lesser|Library\W*or\W*Lesser)\W*General\W*Public\W*Licen[sc]e\W*(?:LGPL\W*)?(?:as\W*published\W*)?(?:by\W*the\W*Free\W*Software\W*Foundation\W*(?:s\W*)?)?(?:either\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*only
-(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*only\W*of\W*(?:the\W*)?(?:LGPL|(?:Library|Lesser)\W*GPL|GNU\W*(?:Library|Lesser|Library\W*or\W*Lesser)\W*General\W*Public\W*Licen[sc]e)
+v(?:er(?:sion|\.)?|\.)?\W*2\.1\W*only\W*of\W*(?:the\W*)?(?:LGPL|(?:Library|Lesser)\W*GPL|GNU\W*(?:Library|Lesser|Library\W*or\W*Lesser)\W*General\W*Public\W*Licen[sc]e)

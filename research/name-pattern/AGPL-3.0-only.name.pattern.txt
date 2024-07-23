@@ -1,3 +1,3 @@
 (?:(?<!\w)A|Affero\W*)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?(?:\W*Licen[sc]e)?\W*only
 (?:GNU\W*)?Affero\W*(?:GPL(?:\W*Licen[sc]e)?|General\W*Public\W*Licen[sc]e)\W*(?:AGPL\W*)?(?:as\W*published\W*by\W*the\W*Free\W*Software\W*Foundation\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*only
-(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*only\W*of\W*(?:the\W*)?(?:GNU\W*)?Affero\W*(?:GPL(?:\W*Licen[sc]e)?|General\W*Public\W*Licen[sc]e)
+v(?:er(?:sion|\.)?|\.)?\W*3(?:\.0)?\W*only\W*of\W*(?:the\W*)?(?:GNU\W*)?Affero\W*(?:GPL(?:\W*Licen[sc]e)?|General\W*Public\W*Licen[sc]e)

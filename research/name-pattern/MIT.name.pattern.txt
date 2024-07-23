@@ -1,1 +1,2 @@
-(?:Licen[sc]e\W*|(?<!Apple\W)(?<!HPND\W)(?<!with\W)(?<!\w))MIT(?:\W*Licen[sc]e(?!\W*Modern)|(?!\W*Licen[sc]e|\W*0|\W*No|\W*Zero|\W*advertising|\W*CMU|\W*disclaimer|\W*enna|\W*feh|\W*Festival|\W*Khronos|\W*Modern|\W*open|\W*testregex|\W*Tom|\W*Wu|\W*NFA|\w))
+(?:Licen[sc]e\W*|(?<!Apple\W)(?<!HPND\W)(?<!with\W)(?<!\w))MIT\W*Licen[sc]e(?!\W*Modern)
+(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MIT(?!\W*Licen[sc]e|\W*0|\W*No|\W*Zero|\W*advertising|\W*CMU|\W*disclaimer|\W*enna|\W*feh|\W*Festival|\W*Khronos|\W*Modern|\W*open|\W*testregex|\W*Tom|\W*Wu|\W*NFA|\w)
