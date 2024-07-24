@@ -1,2 +1,2 @@
 (?<!\w)(?<!HPND\W)(?<!Disclaimer\W\W\W)Intel(?:\W*Open\W*Source)?\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Intel(?!\W*ACPI|\W*Corp|\W*Code|\w)
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Intel(?!\W*ACPI|\W*Corp|\W*Code|\w)
