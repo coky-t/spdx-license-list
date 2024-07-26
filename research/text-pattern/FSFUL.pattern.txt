@@ -1,1 +1,1 @@
-this\W*.{1,80}\W*script\W*is\W*free\W*software\W*the\W*free\W*software\W*foundation\W*gives\W*unlimited\W*permission\W*to\W*copy\W*distribute\W*(?:and|&)\W*modify\W*it\W*
+this\W*[\w\W]{1,80}\W*script\W*is\W*free\W*software\W*the\W*free\W*software\W*foundation\W*gives\W*unlimited\W*permission\W*to\W*copy\W*distribute\W*(?:and|&)\W*modify\W*it\W*
