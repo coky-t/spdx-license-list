@@ -20,6 +20,6 @@ A. No, you cannot license or relicense the source code written by NCBI since you
 
 Q. What if these copyright guidelines are not clear enough or are not applicable to my particular case?
 
-A. Contact us. Send your questions to '< <<var;name="email";original="email address";match=".{1,80}">> >'.
+A. Contact us. Send your questions to '< <<var;name="email";original="email address";match="[\w\W]{1,80}">> >'.
 
 <<endOptional>>
