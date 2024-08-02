@@ -1,1 +1,2 @@
-TMate(?:(?:\W*Open\W*Source)?\W*Licen[sc]e)?
+(?<!\w)TMate(?:\W*Open\W*Source)?\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)TMate(?:(?:\W*Open\W*Source)?\W*Licen[sc]e)?

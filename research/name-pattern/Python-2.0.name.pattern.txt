@@ -1,4 +1,4 @@
 Python\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\.1)|(?!\.0))
 Python\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0(?!\.1)(?:\W*Licen[sc]e)?
 Python\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\.1))?\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Python\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\.1)|(?!\.0))(?:\W*Licen[sc]e)?
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Python\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\.1)|(?!\.0))(?:\W*Licen[sc]e)?

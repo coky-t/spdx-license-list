@@ -1,2 +1,4 @@
 dtoa
+dtoa License
+SPDX-License-Identifier: dtoa
 David M. Gay dtoa License

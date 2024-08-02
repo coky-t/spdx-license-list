@@ -1,4 +1,6 @@
 CAL-1.0
+CAL-1.0 License
+SPDX-License-Identifier: CAL-1.0
 Cryptographic Autonomy License 1.0
 Cryptographic Autonomy License, v. 1.0
 Cryptographic Autonomy License version 1.0

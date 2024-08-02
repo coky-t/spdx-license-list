@@ -1,2 +1,4 @@
 TMate
+TMate License
+SPDX-License-Identifier: TMate
 TMate Open Source License

@@ -1,2 +1,3 @@
 Nunit
 Nunit License
+SPDX-License-Identifier: Nunit

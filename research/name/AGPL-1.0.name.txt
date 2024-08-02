@@ -1,4 +1,6 @@
 AGPL-1.0
+AGPL-1.0 License
+SPDX-License-Identifier: AGPL-1.0
 Affero General Public License v1.0
 AFFERO GENERAL PUBLIC LICENSE Version 1
 Affero General Public License (AGPL) v. 1
