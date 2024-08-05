@@ -1,2 +1,3 @@
 Mup
 Mup License
+SPDX-License-Identifier: Mup

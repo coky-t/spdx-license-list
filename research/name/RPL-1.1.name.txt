@@ -1,4 +1,6 @@
 RPL-1.1
+RPL-1.1 License
+SPDX-License-Identifier: RPL-1.1
 Reciprocal Public License 1.1
 Reciprocal Public License, version 1.1
 Reciprocal Public License ("RPL") Version 1.1, or subsequent versions

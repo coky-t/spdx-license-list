@@ -1,2 +1,3 @@
 Zed
 Zed License
+SPDX-License-Identifier: Zed

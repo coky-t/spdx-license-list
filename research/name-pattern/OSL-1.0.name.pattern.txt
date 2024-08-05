@@ -1,2 +1,3 @@
-(?<!\w)OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[0-9]|\w))
+(?<!\w)OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[0-9]|\w))\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[0-9]|\w))
 Open\W*Software\W*Licen[sc]e\W*(?:OSL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[0-9]|\w))

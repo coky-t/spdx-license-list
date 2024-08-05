@@ -1,2 +1,3 @@
-(?<!\w)RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5
+(?<!\w)RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5
 Reciprocal\W*Public\W*Licen[sc]e\W*(?:RPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5

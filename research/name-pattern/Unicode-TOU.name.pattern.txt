@@ -1,1 +1,3 @@
-Unicode\W*(?:Terms\W*of\W*Use|TOU)
+Unicode\W*TOU\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Unicode\W*TOU
+Unicode\W*Terms\W*of\W*Use

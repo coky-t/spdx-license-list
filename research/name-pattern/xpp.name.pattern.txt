@@ -1,1 +1,2 @@
-(?<!\w)XPP(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)XPP\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)XPP(?:\W*Licen[sc]e|(?!\w))

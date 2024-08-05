@@ -1,2 +1,3 @@
 Info-ZIP
 Info-ZIP License
+SPDX-License-Identifier: Info-ZIP

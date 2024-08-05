@@ -1,4 +1,6 @@
 OSL-2.0
+OSL-2.0 License
+SPDX-License-Identifier: OSL-2.0
 Open Software License 2.0
 Open Software License v. 2.0
 Open Software License version 2.0

@@ -1,4 +1,6 @@
 EPL-1.0
+EPL-1.0 License
+SPDX-License-Identifier: EPL-1.0
 Eclipse Public License 1.0
 Eclipse Public License - v 1.0
 Eclipse Public License (EPL) v. 1.0

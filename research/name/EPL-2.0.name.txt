@@ -1,4 +1,6 @@
 EPL-2.0
+EPL-2.0 License
+SPDX-License-Identifier: EPL-2.0
 Eclipse Public License 2.0
 Eclipse Public License - v 2.0
 Eclipse Public License, v. 2.0

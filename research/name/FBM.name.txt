@@ -1,2 +1,4 @@
 FBM
+FBM License
+SPDX-License-Identifier: FBM
 Fuzzy Bitmap License

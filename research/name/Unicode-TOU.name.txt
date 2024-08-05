@@ -1,2 +1,4 @@
 Unicode-TOU
+Unicode-TOU License
+SPDX-License-Identifier: Unicode-TOU
 Unicode Terms of Use

@@ -1,2 +1,4 @@
 IJG
+IJG License
+SPDX-License-Identifier: IJG
 Independent JPEG Group License

@@ -1,2 +1,3 @@
-(?<!\w)ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1
+(?<!\w)ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1
 Zope\W*Public\W*Licen[sc]e\W*(?:ZPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1

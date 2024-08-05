@@ -1,1 +1,2 @@
-Info\W*ZIP(?:\W*Licen[sc]e)?
+Info\W*ZIP\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Info\W*ZIP(?:\W*Licen[sc]e)?

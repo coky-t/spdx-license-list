@@ -1,2 +1,3 @@
-(?<!\w)IJG(?!\W*short|\W*author|\W*code|\W*distribution)
+(?<!\w)IJG\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)IJG(?!\W*short|\W*author|\W*code|\W*distribution)
 Independent\W*JPEG\W*Group\W*Licen[sc]e(?!\W*short)

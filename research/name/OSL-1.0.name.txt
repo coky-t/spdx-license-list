@@ -1,4 +1,6 @@
 OSL-1.0
+OSL-1.0 License
+SPDX-License-Identifier: OSL-1.0
 Open Software License 1.0
 Open Software License v. 1.0
 Open Software License version 1.0

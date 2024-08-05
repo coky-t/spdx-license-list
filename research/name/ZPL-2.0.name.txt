@@ -1,3 +1,5 @@
 ZPL-2.0
+ZPL-2.0 License
+SPDX-License-Identifier: ZPL-2.0
 Zope Public License 2.0
 Zope Public License (ZPL) Version 2.0

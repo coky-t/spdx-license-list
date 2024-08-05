@@ -1,1 +1,2 @@
-(?<!\w)OAR(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)OAR\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)OAR(?:\W*Licen[sc]e|(?!\w))
