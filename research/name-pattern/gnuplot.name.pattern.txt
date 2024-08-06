@@ -1,1 +1,2 @@
-gnuplot(?:\W*Licen[sc]e)?
+gnuplot\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)gnuplot(?:\W*Licen[sc]e)?

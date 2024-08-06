@@ -1,2 +1,4 @@
 blessing
+blessing License
+SPDX-License-Identifier: blessing
 SQLite Blessing

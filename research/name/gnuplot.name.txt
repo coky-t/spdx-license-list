@@ -1,2 +1,3 @@
 gnuplot
 gnuplot License
+SPDX-License-Identifier: gnuplot
