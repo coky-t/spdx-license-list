@@ -1,1 +1,2 @@
-dvipdfm(?:\W*Licen[sc]e)?
+dvipdfm\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)dvipdfm(?:\W*Licen[sc]e)?

@@ -1,1 +1,2 @@
-Caldera(?:\W*Licen[sc]e(?!\W*without)|(?!\W*Licen[sc]e|\W*no\W*preamble|\W*International\W*Inc))
+Caldera\W*Licen[sc]e(?!\W*without)
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Caldera(?:\W*Licen[sc]e(?!\W*without)|(?!\W*Licen[sc]e|\W*no\W*preamble|\W*International\W*Inc))

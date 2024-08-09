@@ -1,2 +1,3 @@
 xlock
 xlock License
+SPDX-License-Identifier: xlock

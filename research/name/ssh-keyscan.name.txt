@@ -1,2 +1,3 @@
 ssh-keyscan
 ssh-keyscan License
+SPDX-License-Identifier: ssh-keyscan

@@ -1,1 +1,2 @@
-Bitstream\W*Vera(?:\W*Font)?(?:\W*Licen[sc]e)?
+Bitstream\W*Vera(?:\W*Font)?\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Bitstream\W*Vera(?:\W*Font)?(?:\W*Licen[sc]e)?

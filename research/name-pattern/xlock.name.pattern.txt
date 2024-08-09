@@ -1,1 +1,2 @@
-(?<!\w)xlock(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)xlock\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)xlock(?:\W*Licen[sc]e|(?!\w))

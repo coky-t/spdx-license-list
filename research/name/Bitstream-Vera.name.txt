@@ -1,2 +1,4 @@
 Bitstream-Vera
+Bitstream-Vera License
+SPDX-License-Identifier: Bitstream-Vera
 Bitstream Vera Font License

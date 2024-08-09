@@ -1,2 +1,2 @@
 MakeIndex\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MakeIndex(?:\W*Licen[sc]e)?
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MakeIndex(?:\W*Licen[sc]e)?

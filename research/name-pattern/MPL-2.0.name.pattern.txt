@@ -1,2 +1,4 @@
-(?<!\w)MPL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\W*no\W*copyleft)|(?!\.0|\W*no\W*copyleft))
+(?<!\w)MPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\W*no\W*copyleft)|(?!\.0|\W*no\W*copyleft))
+(?<!\w)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\W*no\W*copyleft)|(?!\.0|\W*no\W*copyleft))\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MPL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\W*no\W*copyleft)|(?!\.0|\W*no\W*copyleft))
 Mozilla\W*Public\W*Licen[sc]e\W*(?:MPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\W*no\W*copyleft)|(?!\.0|\W*no\W*copyleft))

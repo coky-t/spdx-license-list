@@ -1,2 +1,3 @@
 MMIXware
 MMIXware License
+SPDX-License-Identifier: MMIXware

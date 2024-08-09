@@ -1,4 +1,4 @@
 (?<!\w)PSF\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\w))
 (?<!\w)PSF\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?:\W*Licen[sc]e)?|\W*Licen[sc]e)
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)PSF\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?:\W*Licen[sc]e)?|\W*Licen[sc]e|(?!\w))
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)PSF\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?:\W*Licen[sc]e)?|\W*Licen[sc]e|(?!\w))
 Python\W*Software\W*Foundation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?

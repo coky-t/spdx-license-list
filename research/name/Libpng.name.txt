@@ -1,2 +1,3 @@
 Libpng
 libpng License
+SPDX-License-Identifier: Libpng

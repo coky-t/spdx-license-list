@@ -1,2 +1,3 @@
 PostgreSQL
 PostgreSQL License
+SPDX-License-Identifier: PostgreSQL

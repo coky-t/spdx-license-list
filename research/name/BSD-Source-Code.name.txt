@@ -1,2 +1,4 @@
 BSD-Source-Code
+BSD-Source-Code License
+SPDX-License-Identifier: BSD-Source-Code
 BSD Source Code Attribution

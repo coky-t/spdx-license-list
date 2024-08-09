@@ -1,2 +1,4 @@
-(?<!\w)MPL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+(?<!\w)MPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+(?<!\w)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MPL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
 Mozilla\W*Public\W*Licen[sc]e\W*(?:MPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1

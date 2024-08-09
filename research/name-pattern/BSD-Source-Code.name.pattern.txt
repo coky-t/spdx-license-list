@@ -1,1 +1,3 @@
-BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))
+BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))
+BSD\W*Source\W*Code\W*Attribution(?!\W*beginning)

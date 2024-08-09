@@ -1,2 +1,2 @@
 (?<!\w)UCAR\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)UCAR(?!\W*Unidata|\w)
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)UCAR(?!\W*Unidata|\w)

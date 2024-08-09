@@ -1,7 +1,7 @@
 (?<!\w)BSD\W*(?:3|Three)(?:(?:\W*Clause)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun))
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*(?:3|Three)(?:(?:\W*Clause)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)|(?!\W*Clause))
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*(?:3|Three)(?:(?:\W*Clause)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)|(?!\W*Clause))
 (?:3|Three)\W*(?:Clause\W*|Term\W*)BSD(?:\W*Licen[sc]e)?
 (?:3|Three)\W*(?:Clause\W*|Term\W*)?BSD\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:3|Three)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:3|Three)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
 BSD\W*(?:New|Revised|Modified)(?:\W*Licen[sc]e)?
 (?:New|Revised|Modified)\W*BSD(?:\W*Licen[sc]e)?

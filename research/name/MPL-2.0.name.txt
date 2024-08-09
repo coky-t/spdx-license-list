@@ -1,4 +1,6 @@
 MPL-2.0
+MPL-2.0 License
+SPDX-License-Identifier: MPL-2.0
 Mozilla Public License 2.0
 Mozilla Public License Version 2.0
 Mozilla Public License, v. 2.0

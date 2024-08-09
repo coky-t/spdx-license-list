@@ -1,2 +1,3 @@
 Latex2e
 Latex2e License
+SPDX-License-Identifier: Latex2e

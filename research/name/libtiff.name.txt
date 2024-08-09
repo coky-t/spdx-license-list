@@ -1,2 +1,3 @@
 libtiff
 libtiff License
+SPDX-License-Identifier: libtiff

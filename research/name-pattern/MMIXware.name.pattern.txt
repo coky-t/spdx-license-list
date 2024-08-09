@@ -1,1 +1,2 @@
-MMIXware(?:\W*Licen[sc]e)?
+MMIXware\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MMIXware(?:\W*Licen[sc]e)?

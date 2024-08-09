@@ -1,1 +1,2 @@
-(?<!\w)libtiff(?:\W*Licen[sc]e)?
+(?<!\w)libtiff\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)libtiff(?:\W*Licen[sc]e)?

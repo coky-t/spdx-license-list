@@ -1,1 +1,2 @@
-TCP\W*Wrappers(?:\W*Licen[sc]e)?
+TCP\W*Wrappers\W*Licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)TCP\W*Wrappers(?:\W*Licen[sc]e)?

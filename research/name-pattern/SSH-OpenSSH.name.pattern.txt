@@ -1,1 +1,2 @@
-SSH\W*OpenSSH(?:\W*licen[sc]e)?
+SSH\W*OpenSSH\W*licen[sc]e
+(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)SSH\W*OpenSSH(?:\W*licen[sc]e)?
