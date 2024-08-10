@@ -83,14 +83,14 @@
 ### Prefix Pattern
 
 ```
-(?:WITH\W*|SPDX\-Exception\-Identifier\W*)
+SPDX-License-Identifier\W*[A-Za-z0-9\-\.]+\W*(?:(?:AND\W*|OR\W*)[A-Za-z0-9\-\.]+\W*)*WITH\W*
+SPDX-Exception-Identifier\W*
 ```
 
 ### Escaping - Base Pattern
 
 ```
 \+
-\-
 \.
 ```
 
@@ -102,18 +102,10 @@
 
 ## Reference
 
-### WITH
+### SPDX-License-Identifier: ... WITH
 
 - [SPDX: Handling License Info](https://spdx.dev/learn/handling-license-info/)
-
-```
-WITH
-```
 
 ### SPDX-Exception-Identifier:
 
 - [Linux kernel licensing rules](https://www.kernel.org/doc/html/latest/process/license-rules.html)
-
-```
-SPDX-Exception-Identifier:
-```
