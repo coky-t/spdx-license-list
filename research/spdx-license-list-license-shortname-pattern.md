@@ -672,7 +672,8 @@
 ### Prefix Pattern
 
 ```
-(?:SPDX\-License\-Identifier\W*|OR\W*|AND\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)
+MODULE_LICENSE\W*
+Licen[sc]e\W*
 (?<!\w)
 ```
 
@@ -701,30 +702,11 @@
 
 ## Reference
 
-### SPDX-License-Identifier:
-
-- [SPDX: Handling License Info](https://spdx.dev/learn/handling-license-info/)
-
-```
-SPDX-License-Identifier:
-OR
-AND
-```
-
 ### MODULE_LICENSE()
 
 - [Linux kernel licensing rules](https://www.kernel.org/doc/html/latest/process/license-rules.html)
-
-```
-SPDX-License-Identifier:
-MODULE_LICENSE()
-```
 
 ### License:
 
 - [debian: copyright](https://www.debian.org/doc/manuals/maint-guide/dreq.ja.html#copyright)
 - [debian/copyright file - License](https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/#license-field)
-
-```
-License:
-```
