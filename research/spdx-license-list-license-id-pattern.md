@@ -693,3 +693,4 @@ SPDX-License-Identifier\W*(?:[A-Za-z0-9\-\.]+\W*(?:AND\W*|OR\W*))*
 ### SPDX-License-Identifier:
 
 - [SPDX: Handling License Info](https://spdx.dev/learn/handling-license-info/)
+- [Linux kernel licensing rules](https://www.kernel.org/doc/html/latest/process/license-rules.html)
