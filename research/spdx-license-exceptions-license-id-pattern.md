@@ -80,7 +80,11 @@
 
 ## Common Pattern
 
-### Prefix Pattern
+### Identifier-Pattern
+
+Identifier-Pattern ::= Prefix-Pattern Idenifier Postfix-Pattern
+
+### Prefix-Pattern
 
 ```
 SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*
@@ -94,7 +98,7 @@ SPDX-Exception-Identifier\W*
 \.
 ```
 
-### Postfix Pattern
+### Postfix-Pattern
 
 ```
 (?![\+\-\.\w])

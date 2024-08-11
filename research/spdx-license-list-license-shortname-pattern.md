@@ -667,15 +667,112 @@
 | Standard ML of New Jersey License | StandardML-NJ | StandardML-NJ | | |
 | wxWindows Library License | wxWindows | wxWindows | | |
 
-## Common Pattern
+## Short Name Pattern
 
-### Prefix Pattern
+### Short-Name-Pattern
+
+Short-Name-Pattern ::= Short-Name-Prefix-Pattern Short-Name-Core Short-Name-Postfix-Pattern
+
+### Short-Name-Prefix-Pattern
 
 ```
 MODULE_LICENSE\W*
+```
+
+### Short-Name-Core
+
+#### without Version / Clause
+
+Short-Name-Core ::= Short-Base Variant
+
+#### with Version
+
+Short-Name-Core ::= Short-Base Version-Prefix Version Variant
+
+#### with Clause
+
+Short-Name-Core ::= Short-Base Clause-Number Variant
+
+Short-Name-Core ::= Short-Base Clause-Number "Clause" Variant
+
+Short-Name-Core ::= Short-Base Clause-Numeric-Word Variant
+
+Short-Name-Core ::= Short-Base Clause-Numeric-Word "Clause" Variant
+
+Short-Name-Core ::= Clause-Number Short-Base Variant
+
+Short-Name-Core ::= Clause-Number "Clause" Short-Base Variant
+
+Short-Name-Core ::= Clause-Numeric-Word Short-Base Variant
+
+Short-Name-Core ::= Clause-Numeric-Word "Clause" Short-Base Variant
+
+## Medium Name Pattern
+
+### Medium-Name-Pattern
+
+Medium-Name-Pattern ::= Medium-Name-Prefix-Pattern Short-Name-Core Medium-Name-Postfix-Pattern
+
+Medium-Name-Pattern ::= Medium-Name-Prefix-Pattern Medium-Name-Core Medium-Name-Postfix-Pattern
+
+### Medium-Name-Prefix-Pattern
+
+```
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)
 (?<!\w)
 ```
+
+### Medium-Name-Core
+
+#### without Version / Clause
+
+Medium-Name-Core ::= Short-Base "License" Variant
+
+Medium-Name-Core ::= Short-Base Variant "License"
+
+#### with Version
+
+Medium-Name-Core ::= Short-Base "License" Version-Prefix Version Variant
+
+Medium-Name-Core ::= Short-Base Version-Prefix Version "License" Variant
+
+Medium-Name-Core ::= Short-Base Version-Prefix Version Variant "License"
+
+#### with Clause
+
+Medium-Name-Core ::= Short-Base Clause-Number "License" Variant
+
+Medium-Name-Core ::= Short-Base Clause-Number Variant "License"
+
+Medium-Name-Core ::= Short-Base Clause-Number "Clause" "License" Variant
+
+Medium-Name-Core ::= Short-Base Clause-Number "Clause" Variant "License"
+
+Medium-Name-Core ::= Short-Base Clause-Numeric-Word "License" Variant
+
+Medium-Name-Core ::= Short-Base Clause-Numeric-Word Variant "License"
+
+Medium-Name-Core ::= Short-Base Clause-Numeric-Word "Clause" "License" Variant
+
+Medium-Name-Core ::= Short-Base Clause-Numeric-Word "Clause" Variant "License"
+
+Medium-Name-Core ::= Clause-Number Short-Base "License" Variant
+
+Medium-Name-Core ::= Clause-Number Short-Base Variant "License"
+
+Medium-Name-Core ::= Clause-Number "Clause" Short-Base "License" Variant
+
+Medium-Name-Core ::= Clause-Number "Clause" Short-Base Variant "License"
+
+Medium-Name-Core ::= Clause-Numeric-Word Short-Base "License" Variant
+
+Medium-Name-Core ::= Clause-Numeric-Word Short-Base Variant "License"
+
+Medium-Name-Core ::= Clause-Numeric-Word "Clause" Short-Base "License" Variant
+
+Medium-Name-Core ::= Clause-Numeric-Word "Clause" Short-Base Variant "License"
+
+## Common Pattern
 
 ### Short Base Pattern - Escaping
 
