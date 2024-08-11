@@ -1,1 +1,1 @@
-this\W*file\W*is\W*free\W*software\W*the\W*free\W*software\W*foundation\W*gives\W*unlimited\W*permission\W*to\W*copy\W*(?:and|&)\W*or\W*distribute\W*it\W*with\W*or\W*without\W*modifications\W*as\W*long\W*as\W*this\W*notice\W*is\W*preserved\W*
+this\W*file\W*is\W*free\W*software\W*the\W*free\W*software\W*foundation\W*gives\W*unlimited\W*permission\W*to\W*copy\W*(?:and|&)\W*or\W*distribute\W*it\W*with\W*or\W*without\W*modifications\W*as\W*long\W*as\W*this\W*notice\W*is\W*preserved(?!\W*this\W*(?:program|file)\W*is\W*distributed\W*in\W*the\W*hope)\W*

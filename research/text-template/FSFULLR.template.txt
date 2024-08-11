@@ -1,2 +1,2 @@
-This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
+This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved<<var;name="FSFULLRWD";original=". This program is distributed in the hope that it will be useful, ...";match="(?!\W*this\W*(?:program|file)\W*is\W*distributed\W*in\W*the\W*hope)">>
 
