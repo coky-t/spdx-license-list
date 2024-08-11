@@ -32,6 +32,7 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 - [Blue Oak Council](spdx-license-list-license-type-blueoak.md)
 - [GNU](spdx-license-list-license-type-gnu.md)
 - [tl;drLegal](spdx-license-list-license-type-tldrlegal.md)
+- [ScanCode](spdx-license-list-license-type-scancode.md)
 
 ### SPDX License Exceptions - Version
 
@@ -40,6 +41,10 @@ This is an unofficial summary of the [SPDX License List](https://spdx.org/licens
 ### SPDX License Exceptions - License
 
 - [Release Version](spdx-license-exceptions-license-release-version.md)
+
+#### License Type
+
+- [ScanCode](spdx-license-exceptions-license-type-scancode.md)
 
 ## Tools
 
