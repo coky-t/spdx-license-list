@@ -83,7 +83,7 @@
 ### Prefix Pattern
 
 ```
-SPDX-License-Identifier\W*[A-Za-z0-9\-\.]+\W*(?:(?:AND\W*|OR\W*)[A-Za-z0-9\-\.]+\W*)*WITH\W*
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*
 SPDX-Exception-Identifier\W*
 ```
 
