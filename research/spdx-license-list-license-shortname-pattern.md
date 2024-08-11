@@ -673,7 +673,7 @@
 
 ```
 MODULE_LICENSE\W*
-Licen[sc]e\W*
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)
 (?<!\w)
 ```
 
