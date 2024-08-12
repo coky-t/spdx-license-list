@@ -695,17 +695,9 @@ Short-Name-Core ::= Short-Base Clause-Number Variant
 
 Short-Name-Core ::= Short-Base Clause-Number "Clause" Variant
 
-Short-Name-Core ::= Short-Base Clause-Numeric-Word Variant
-
-Short-Name-Core ::= Short-Base Clause-Numeric-Word "Clause" Variant
-
 Short-Name-Core ::= Clause-Number Short-Base Variant
 
 Short-Name-Core ::= Clause-Number "Clause" Short-Base Variant
-
-Short-Name-Core ::= Clause-Numeric-Word Short-Base Variant
-
-Short-Name-Core ::= Clause-Numeric-Word "Clause" Short-Base Variant
 
 ## Medium Name Pattern
 
@@ -737,6 +729,10 @@ Medium-Name-Core ::= Short-Base "License" Version-Prefix Version Variant
 Medium-Name-Core ::= Short-Base Version-Prefix Version "License" Variant
 
 Medium-Name-Core ::= Short-Base Version-Prefix Version Variant "License"
+
+Medium-Name-Core ::= Version-Prefix Version "of the " Short-Base "License" Variant
+
+Medium-Name-Core ::= Version-Prefix Version "of the " Short-Base Variant "License"
 
 #### with Clause
 
