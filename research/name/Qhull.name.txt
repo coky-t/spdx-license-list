@@ -1,2 +1,4 @@
-Qhull
+SPDX-License-Identifier: Qhull
+MODULE_LICENSE(Qhull)
+License: Qhull
 Qhull License

@@ -1,3 +1,4 @@
-Qwt-exception-1.0
+SPDX-License-Identifier: LGPL-2.1 WITH Qwt-exception-1.0
+SPDX-Exception-Identifier: Qwt-exception-1.0
 Qwt exception 1.0
 Qwt License Version 1.0

@@ -1,2 +1,8 @@
-QPL-1.0-INRIA-2004
+SPDX-License-Identifier: QPL-1.0-INRIA-2004
+MODULE_LICENSE(QPL-1.0-INRIA-2004)
+License: QPL-1.0-INRIA-2004
+QPL-1.0-INRIA-2004 License
+QPL License v1.0 INRIA 2004
+v1.0 of the QPL License INRIA 2004
 Q Public License 1.0 - INRIA 2004 variant
+v1.0 of the Q Public License - INRIA 2004 variant

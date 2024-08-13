@@ -1,3 +1,4 @@
-Qt-GPL-exception-1.0
+SPDX-License-Identifier: GPL-3.0 WITH Qt-GPL-exception-1.0
+SPDX-Exception-Identifier: Qt-GPL-exception-1.0
 Qt GPL exception 1.0
 Qt Company GPL Exception 1.0

@@ -1,2 +1,3 @@
-QPL-1.0-INRIA-2004-exception
+SPDX-License-Identifier: QPL-1.0-INRIA-2004 WITH QPL-1.0-INRIA-2004-exception
+SPDX-Exception-Identifier: QPL-1.0-INRIA-2004-exception
 INRIA QPL 1.0 2004 variant exception

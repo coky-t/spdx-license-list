@@ -1,3 +1,4 @@
-Qt-LGPL-exception-1.1
+SPDX-License-Identifier: LGPL-2.1-only WITH Qt-LGPL-exception-1.1
+SPDX-Exception-Identifier: Qt-LGPL-exception-1.1
 Qt LGPL exception 1.1
 Qt Company Qt LGPL Exception version 1.1
