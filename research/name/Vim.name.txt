@@ -1,4 +1,4 @@
-Vim
-Vim License
-License: Vim
 SPDX-License-Identifier: Vim
+MODULE_LICENSE(Vim)
+License: Vim
+Vim License

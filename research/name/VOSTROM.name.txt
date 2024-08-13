@@ -1,2 +1,5 @@
-VOSTROM
+SPDX-License-Identifier: VOSTROM
+MODULE_LICENSE(VOSTROM)
+License: VOSTROM
+VOSTROM License
 VOSTROM Public License for Open Source

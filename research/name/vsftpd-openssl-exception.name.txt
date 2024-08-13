@@ -1,2 +1,3 @@
-vsftpd-openssl-exception
+SPDX-License-Identifier: GPL-2.0 WITH vsftpd-openssl-exception
+SPDX-Exception-Identifier: vsftpd-openssl-exception
 vsftpd OpenSSL exception

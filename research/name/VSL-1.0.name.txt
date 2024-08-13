@@ -1,6 +1,10 @@
-VSL-1.0
-VSL-1.0 License
 SPDX-License-Identifier: VSL-1.0
+MODULE_LICENSE(VSL-1.0)
+License: VSL-1.0
+VSL-1.0 License
+VSL License v1.0
+v1.0 of the VSL License
 Vovida Software License v1.0
 Vovida Software License v. 1.0
 Vovida Software License, Version 1.0
+v1.0 of the Vovida Software License
