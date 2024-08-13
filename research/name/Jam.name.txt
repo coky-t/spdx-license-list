@@ -1,4 +1,4 @@
-Jam
-Jam License
-License: Jam
 SPDX-License-Identifier: Jam
+MODULE_LICENSE(Jam)
+License: Jam
+Jam License

@@ -1,2 +1,5 @@
-JPNIC
+SPDX-License-Identifier: JPNIC
+MODULE_LICENSE(JPNIC)
+License: JPNIC
+JPNIC License
 Japan Network Information Center License

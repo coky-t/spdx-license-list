@@ -1,4 +1,4 @@
-JSON
-JSON License
-License: JSON
 SPDX-License-Identifier: JSON
+MODULE_LICENSE(JSON)
+License: JSON
+JSON License

@@ -1,2 +1,5 @@
-JPL-image
+SPDX-License-Identifier: JPL-image
+MODULE_LICENSE(JPL-image)
+License: JPL-image
+JPL-image License
 JPL Image Use Policy

@@ -1,3 +1,6 @@
-JasPer-2.0
-JasPer License
+SPDX-License-Identifier: JasPer-2.0
+MODULE_LICENSE(JasPer-2.0)
+License: JasPer-2.0
+JasPer-2.0 License
 JasPer License Version 2.0
+Version 2.0 of the JasPer License
