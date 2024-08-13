@@ -1,2 +1,5 @@
-BSD-2-Clause-NetBSD
+SPDX-License-Identifier: BSD-2-Clause-NetBSD
+MODULE_LICENSE(BSD-2-Clause-NetBSD)
+License: BSD-2-Clause-NetBSD
+BSD-2-Clause-NetBSD License
 BSD 2-Clause NetBSD License

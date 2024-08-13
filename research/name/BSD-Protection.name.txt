@@ -1,2 +1,5 @@
-BSD-Protection
+SPDX-License-Identifier: BSD-Protection
+MODULE_LICENSE(BSD-Protection)
+License: BSD-Protection
+BSD-Protection License
 BSD Protection License

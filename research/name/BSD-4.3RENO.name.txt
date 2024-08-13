@@ -1,3 +1,5 @@
-BSD-4.3RENO
-BSD 4.3 RENO License
 SPDX-License-Identifier: BSD-4.3RENO
+MODULE_LICENSE(BSD-4.3RENO)
+License: BSD-4.3RENO
+BSD-4.3RENO License
+BSD 4.3 RENO License

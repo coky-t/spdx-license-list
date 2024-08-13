@@ -1,7 +1,17 @@
-1BSD
-BSD1
-BSD-1-Clause
-BSD 1-Clause License
-BSD 1 License
-License: BSD-1
 SPDX-License-Identifier: BSD-1-Clause
+MODULE_LICENSE(1BSD)
+MODULE_LICENSE(1-Clause BSD)
+MODULE_LICENSE(BSD1)
+MODULE_LICENSE(BSD 1-Clause)
+License: 1BSD
+License: 1-Clause BSD
+License: BSD1
+License: BSD 1-Clause
+License: One Clause BSD
+License: BSD One Clause
+1BSD License
+1 Clause BSD License
+BSD1 License
+BSD 1 Clause License
+One Clause BSD License
+BSD One Clause License

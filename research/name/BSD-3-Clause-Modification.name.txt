@@ -1,2 +1,5 @@
-BSD-3-Clause-Modification
+SPDX-License-Identifier: BSD-3-Clause-Modification
+MODULE_LICENSE(BSD-3-Clause-Modification)
+License: BSD-3-Clause-Modification
+BSD-3-Clause-Modification License
 BSD 3-Clause Modification

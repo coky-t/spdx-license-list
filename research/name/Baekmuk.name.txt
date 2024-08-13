@@ -1,2 +1,4 @@
-Baekmuk
+SPDX-License-Identifier: Baekmuk
+MODULE_LICENSE(Baekmuk)
+License: Baekmuk
 Baekmuk License

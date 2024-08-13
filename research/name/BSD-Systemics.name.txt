@@ -1,2 +1,5 @@
-BSD-Systemics
+SPDX-License-Identifier: BSD-Systemics
+MODULE_LICENSE(BSD-Systemics)
+License: BSD-Systemics
+BSD-Systemics License
 Systemics BSD variant license

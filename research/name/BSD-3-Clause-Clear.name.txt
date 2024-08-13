@@ -1,3 +1,6 @@
-BSD-3-Clause-Clear
+SPDX-License-Identifier: BSD-3-Clause-Clear
+MODULE_LICENSE(BSD-3-Clause-Clear)
+License: BSD-3-Clause-Clear
+BSD-3-Clause-Clear License
 BSD 3-Clause Clear License
 Clear BSD License

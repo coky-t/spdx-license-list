@@ -1,2 +1,5 @@
-BSD-3-Clause-No-Nuclear-Warranty
+SPDX-License-Identifier: BSD-3-Clause-No-Nuclear-Warranty
+MODULE_LICENSE(BSD-3-Clause-No-Nuclear-Warranty)
+License: BSD-3-Clause-No-Nuclear-Warranty
+BSD-3-Clause-No-Nuclear-Warranty License
 BSD 3-Clause No Nuclear Warranty

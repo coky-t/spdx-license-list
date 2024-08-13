@@ -1,10 +1,23 @@
-2BSD
-BSD2
-2-Clause BSD
-BSD-2-Clause
-BSD 2-Clause "Simplified" License
-BSD Simplified
-Simplified BSD
-Standard 2-term BSD license
-License: BSD-2
 SPDX-License-Identifier: BSD-2-Clause
+MODULE_LICENSE(2BSD)
+MODULE_LICENSE(2-Clause BSD)
+MODULE_LICENSE(BSD2)
+MODULE_LICENSE(BSD 2-Clause)
+License: 2BSD
+License: 2-Clause BSD
+License: BSD2
+License: BSD 2-Clause
+License: Two Clause BSD
+License: BSD Two Clause
+License: Simplified BSD
+License: BSD Simplified
+2BSD License
+2 Clause BSD License
+BSD2 License
+BSD 2 Clause License
+Two Clause BSD License
+BSD Two Clause License
+BSD Simplified License
+Simplified BSD License
+BSD 2-Clause "Simplified" License
+Standard 2-term BSD license

@@ -1,2 +1,5 @@
+SPDX-License-Identifier: BSD-3-Clause-No-Military-License
+MODULE_LICENSE(BSD-3-Clause-No-Military-License)
+License: BSD-3-Clause-No-Military-License
 BSD-3-Clause-No-Military-License
 BSD 3-Clause No Military License

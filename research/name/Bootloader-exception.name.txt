@@ -1,2 +1,3 @@
-Bootloader-exception
+SPDX-License-Identifier: GPL-2.0-only WITH Bootloader-exception
+SPDX-Exception-Identifier: Bootloader-exception
 Bootloader Distribution Exception

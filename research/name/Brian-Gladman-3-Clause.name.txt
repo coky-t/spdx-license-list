@@ -1,2 +1,5 @@
-Brian-Gladman-3-Clause
+SPDX-License-Identifier: Brian-Gladman-3-Clause
+MODULE_LICENSE(Brian-Gladman-3-Clause)
+License: Brian-Gladman-3-Clause
+Brian-Gladman-3-Clause License
 Brian Gladman 3-Clause License

@@ -1,2 +1,5 @@
-BSD-3-Clause-Sun
+SPDX-License-Identifier: BSD-3-Clause-Sun
+MODULE_LICENSE(BSD-3-Clause-Sun)
+License: BSD-3-Clause-Sun
+BSD-3-Clause-Sun License
 BSD 3-Clause Sun Microsystems

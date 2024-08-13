@@ -1,2 +1,5 @@
-bcrypt-Solar-Designer
+SPDX-License-Identifier: bcrypt-Solar-Designer
+MODULE_LICENSE(bcrypt-Solar-Designer)
+License: bcrypt-Solar-Designer
+bcrypt-Solar-Designer License
 bcrypt Solar Designer License

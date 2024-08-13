@@ -1,2 +1,3 @@
-Bison-exception-2.2
+SPDX-License-Identifier: GPL-2.0-only WITH Bison-exception-2.2
+SPDX-Exception-Identifier: Bison-exception-2.2
 Bison exception 2.2

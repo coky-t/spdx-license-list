@@ -1,2 +1,5 @@
-BSD-Systemics-W3Works
+SPDX-License-Identifier: BSD-Systemics-W3Works
+MODULE_LICENSE(BSD-Systemics-W3Works)
+License: BSD-Systemics-W3Works
+BSD-Systemics-W3Works License
 Systemics W3Works BSD variant license

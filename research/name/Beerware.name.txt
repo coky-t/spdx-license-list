@@ -1,3 +1,5 @@
-Beerware
+SPDX-License-Identifier: Beerware
+MODULE_LICENSE(Beerware)
+License: Beerware
 Beerware License
 BEER-WARE LICENSE

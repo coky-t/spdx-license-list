@@ -1,2 +1,5 @@
-BSD-Source-beginning-file
+SPDX-License-Identifier: BSD-Source-beginning-file
+MODULE_LICENSE(BSD-Source-beginning-file)
+License: BSD-Source-beginning-file
+BSD-Source-beginning-file License
 BSD Source Code Attribution - beginning of file variant

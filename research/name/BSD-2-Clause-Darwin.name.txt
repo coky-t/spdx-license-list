@@ -1,2 +1,5 @@
-BSD-2-Clause-Darwin
+SPDX-License-Identifier: BSD-2-Clause-Darwin
+MODULE_LICENSE(BSD-2-Clause-Darwin)
+License: BSD-2-Clause-Darwin
+BSD-2-Clause-Darwin License
 BSD 2-Clause - Ian Darwin variant

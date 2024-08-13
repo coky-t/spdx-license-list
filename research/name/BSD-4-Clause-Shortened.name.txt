@@ -1,2 +1,5 @@
-BSD-4-Clause-Shortened
+SPDX-License-Identifier: BSD-4-Clause-Shortened
+MODULE_LICENSE(BSD-4-Clause-Shortened)
+License: BSD-4-Clause-Shortened
+BSD-4-Clause-Shortened License
 BSD 4 Clause Shortened

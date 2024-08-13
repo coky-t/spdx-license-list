@@ -1,2 +1,5 @@
-BSD-3-Clause-Open-MPI
+SPDX-License-Identifier: BSD-3-Clause-Open-MPI
+MODULE_LICENSE(BSD-3-Clause-Open-MPI)
+License: BSD-3-Clause-Open-MPI
+BSD-3-Clause-Open-MPI License
 BSD 3-Clause Open MPI variant

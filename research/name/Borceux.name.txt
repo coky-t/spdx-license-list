@@ -1,2 +1,5 @@
-Borceux
+SPDX-License-Identifier: Borceux
+MODULE_LICENSE(Borceux)
+License: Borceux
+Borceux License
 Borceux license

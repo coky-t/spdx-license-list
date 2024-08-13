@@ -1,2 +1,5 @@
-BSD-3-Clause-Attribution
+SPDX-License-Identifier: BSD-3-Clause-Attribution
+MODULE_LICENSE(BSD-3-Clause-Attribution)
+License: BSD-3-Clause-Attribution
+BSD-3-Clause-Attribution License
 BSD with attribution

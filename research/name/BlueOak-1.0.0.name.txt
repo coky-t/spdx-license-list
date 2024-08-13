@@ -1,3 +1,9 @@
-BlueOak-1.0.0
+SPDX-License-Identifier: BlueOak-1.0.0
+MODULE_LICENSE(BlueOak-1.0.0)
+License: BlueOak-1.0.0
+BlueOak-1.0.0 License
+BlueOak License v1.0.0
+v1.0.0 of the BlueOak License
 Blue Oak Model License 1.0.0
 Blue Oak Model License Version 1.0.0
+v1.0.0 of the Blue Oak Model License

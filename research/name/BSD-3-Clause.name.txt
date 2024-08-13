@@ -1,17 +1,33 @@
-3BSD
-BSD3
-3-Clause BSD
-BSD-3-Clause
+SPDX-License-Identifier: BSD-3-Clause
+MODULE_LICENSE(3BSD)
+MODULE_LICENSE(3-Clause BSD)
+MODULE_LICENSE(BSD3)
+MODULE_LICENSE(BSD 3-Clause)
+License: 3BSD
+License: 3-Clause BSD
+License: BSD3
+License: BSD 3-Clause
+License: Three Clause BSD
+License: BSD Three Clause
+License: Modified BSD
+License: BSD Modified
+License: New BSD
+License: BSD New
+License: Revised BSD
+License: BSD Revised
+3BSD License
+3 Clause BSD License
+BSD3 License
+BSD 3 Clause License
+Three Clause BSD License
+BSD Three Clause License
+BSD Modified License
+Modified BSD License
+BSD New License
+New BSD License
+BSD Revised License
+Revised BSD License
 BSD 3-Clause "New" or "Revised" License
 BSD 3-Clause Modified License
 BSD 3-Clause New License
 BSD 3-Clause Revised License
-BSD Modified License
-BSD New License
-BSD Revised License
-Modified BSD License
-New BSD License
-Revised BSD License
-Three clause BSD
-License: BSD-3
-SPDX-License-Identifier: BSD-3-Clause

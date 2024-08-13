@@ -1,2 +1,5 @@
-Boehm-GC
+SPDX-License-Identifier: Boehm-GC
+MODULE_LICENSE(Boehm-GC)
+License: Boehm-GC
+Boehm-GC License
 Boehm-Demers-Weiser GC License

@@ -1,2 +1,5 @@
-BSD-3-Clause-acpica
+SPDX-License-Identifier: BSD-3-Clause-acpica
+MODULE_LICENSE(BSD-3-Clause-acpica)
+License: BSD-3-Clause-acpica
+BSD-3-Clause-acpica License
 BSD 3-Clause acpica variant

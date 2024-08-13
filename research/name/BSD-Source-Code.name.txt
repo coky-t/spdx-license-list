@@ -1,4 +1,5 @@
-BSD-Source-Code
-BSD-Source-Code License
 SPDX-License-Identifier: BSD-Source-Code
+MODULE_LICENSE(BSD-Source-Code)
+License: BSD-Source-Code
+BSD-Source-Code License
 BSD Source Code Attribution

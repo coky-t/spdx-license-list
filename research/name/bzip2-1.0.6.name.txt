@@ -1,2 +1,8 @@
-bzip2-1.0.6
+SPDX-License-Identifier: bzip2-1.0.6
+MODULE_LICENSE(bzip2-1.0.6)
+License: bzip2-1.0.6
+bzip2-1.0.6 License
+bzip2 License v1.0.6
+v1.0.6 of the bzip2 License
 bzip2 and libbzip2 License v1.0.6
+v1.0.6 of the bzip2 and libbzip2 License

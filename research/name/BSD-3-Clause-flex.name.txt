@@ -1,2 +1,5 @@
-BSD-3-Clause-flex
+SPDX-License-Identifier: BSD-3-Clause-flex
+MODULE_LICENSE(BSD-3-Clause-flex)
+License: BSD-3-Clause-flex
+BSD-3-Clause-flex License
 BSD 3-Clause Flex variant

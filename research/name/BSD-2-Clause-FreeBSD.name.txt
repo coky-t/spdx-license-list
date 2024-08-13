@@ -1,3 +1,6 @@
-BSD-2-Clause-FreeBSD
+SPDX-License-Identifier: BSD-2-Clause-FreeBSD
+MODULE_LICENSE(BSD-2-Clause-FreeBSD)
+License: BSD-2-Clause-FreeBSD
+BSD-2-Clause-FreeBSD License
 BSD 2-Clause FreeBSD License
 FreeBSD License

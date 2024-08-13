@@ -1,2 +1,4 @@
-Bahyph
+SPDX-License-Identifier: Bahyph
+MODULE_LICENSE(Bahyph)
+License: Bahyph
 Bahyph License

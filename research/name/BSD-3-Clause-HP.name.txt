@@ -1,2 +1,5 @@
-BSD-3-Clause-HP
+SPDX-License-Identifier: BSD-3-Clause-HP
+MODULE_LICENSE(BSD-3-Clause-HP)
+License: BSD-3-Clause-HP
+BSD-3-Clause-HP License
 Hewlett-Packard BSD variant license

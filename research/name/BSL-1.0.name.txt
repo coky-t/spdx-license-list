@@ -1,3 +1,9 @@
-BSL-1.0
+SPDX-License-Identifier: BSL-1.0
+MODULE_LICENSE(BSL-1.0)
+License: BSL-1.0
+BSL-1.0 License
+BSL License v1.0
+v1.0 of the BSL License
 Boost Software License 1.0
 Boost Software License - Version 1.0
+v1.0 of the Boost Software License

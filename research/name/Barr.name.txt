@@ -1,3 +1,4 @@
-Barr
-Barr License
 SPDX-License-Identifier: Barr
+MODULE_LICENSE(Barr)
+License: Barr
+Barr License

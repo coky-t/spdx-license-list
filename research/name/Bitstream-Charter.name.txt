@@ -1,2 +1,5 @@
-Bitstream-Charter
+SPDX-License-Identifier: Bitstream-Charter
+MODULE_LICENSE(Bitstream-Charter)
+License: Bitstream-Charter
+Bitstream-Charter License
 Bitstream Charter Font License

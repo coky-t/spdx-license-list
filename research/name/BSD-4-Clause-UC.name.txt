@@ -1,2 +1,5 @@
-BSD-4-Clause-UC
+SPDX-License-Identifier: BSD-4-Clause-UC
+MODULE_LICENSE(BSD-4-Clause-UC)
+License: BSD-4-Clause-UC
+BSD-4-Clause-UC License
 BSD-4-Clause (University of California-Specific)

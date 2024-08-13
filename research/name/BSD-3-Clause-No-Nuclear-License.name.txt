@@ -1,2 +1,5 @@
+SPDX-License-Identifier: BSD-3-Clause-No-Nuclear-License
+MODULE_LICENSE(BSD-3-Clause-No-Nuclear-License)
+License: BSD-3-Clause-No-Nuclear-License
 BSD-3-Clause-No-Nuclear-License
 BSD 3-Clause No Nuclear License

@@ -1,2 +1,5 @@
-BSD-2-Clause-first-lines
+SPDX-License-Identifier: BSD-2-Clause-first-lines
+MODULE_LICENSE(BSD-2-Clause-first-lines)
+License: BSD-2-Clause-first-lines
+BSD-2-Clause-first-lines License
 BSD 2-Clause - first lines requirement

@@ -1,2 +1,5 @@
-BSD-Advertising-Acknowledgement
+SPDX-License-Identifier: BSD-Advertising-Acknowledgement
+MODULE_LICENSE(BSD-Advertising-Acknowledgement)
+License: BSD-Advertising-Acknowledgement
+BSD-Advertising-Acknowledgement License
 BSD Advertising Acknowledgement License

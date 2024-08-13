@@ -1,4 +1,5 @@
-Bitstream-Vera
-Bitstream-Vera License
 SPDX-License-Identifier: Bitstream-Vera
+MODULE_LICENSE(Bitstream-Vera)
+License: Bitstream-Vera
+Bitstream-Vera License
 Bitstream Vera Font License

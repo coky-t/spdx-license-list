@@ -1,2 +1,5 @@
-BSD-2-Clause-Patent
+SPDX-License-Identifier: BSD-2-Clause-Patent
+MODULE_LICENSE(BSD-2-Clause-Patent)
+License: BSD-2-Clause-Patent
+BSD-2-Clause-Patent License
 BSD-2-Clause Plus Patent License

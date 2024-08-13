@@ -1,3 +1,9 @@
-BitTorrent-1.1
+SPDX-License-Identifier: BitTorrent-1.1
+MODULE_LICENSE(BitTorrent-1.1)
+License: BitTorrent-1.1
+BitTorrent-1.1 License
+BitTorrent License v1.1
+v1.1 of the BitTorrent License
 BitTorrent Open Source License v1.1
 BitTorrent Open Source License Version 1.1
+v1.1 of the BitTorrent Open Source License

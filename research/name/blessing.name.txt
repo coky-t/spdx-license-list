@@ -1,4 +1,5 @@
-blessing
-blessing License
 SPDX-License-Identifier: blessing
+MODULE_LICENSE(blessing)
+License: blessing
+blessing License
 SQLite Blessing

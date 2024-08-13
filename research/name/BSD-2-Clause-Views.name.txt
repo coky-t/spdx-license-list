@@ -1,2 +1,5 @@
-BSD-2-Clause-Views
+SPDX-License-Identifier: BSD-2-Clause-Views
+MODULE_LICENSE(BSD-2-Clause-Views)
+License: BSD-2-Clause-Views
+BSD-2-Clause-Views License
 BSD 2-Clause with views sentence

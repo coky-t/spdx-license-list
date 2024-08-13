@@ -1,2 +1,5 @@
-BSD-Attribution-HPND-disclaimer
+SPDX-License-Identifier: BSD-Attribution-HPND-disclaimer
+MODULE_LICENSE(BSD-Attribution-HPND-disclaimer)
+License: BSD-Attribution-HPND-disclaimer
+BSD-Attribution-HPND-disclaimer License
 BSD with Attribution and HPND disclaimer
