@@ -1,2 +1,3 @@
-OCaml-LGPL-linking-exception
+SPDX-License-Identifier: GPL-2.0-only WITH OCaml-LGPL-linking-exception
+SPDX-Exception-Identifier: OCaml-LGPL-linking-exception
 OCaml LGPL Linking Exception

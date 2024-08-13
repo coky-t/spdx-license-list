@@ -1,3 +1,8 @@
-OGL-Canada-2.0
+SPDX-License-Identifier: OGL-Canada-2.0
+MODULE_LICENSE(OGL-Canada-2.0)
+License: OGL-Canada-2.0
+OGL-Canada-2.0 License
+OGL-Canada License v2.0
+v2.0 of the OGL-Canada License
 Open Government Licence - Canada
 version 2.0 of the Open Government Licence – Canada

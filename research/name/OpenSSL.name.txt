@@ -1,2 +1,4 @@
-OpenSSL
+SPDX-License-Identifier: OpenSSL
+MODULE_LICENSE(OpenSSL)
+License: OpenSSL
 OpenSSL License

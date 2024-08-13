@@ -1,2 +1,4 @@
-OFFIS
+SPDX-License-Identifier: OFFIS
+MODULE_LICENSE(OFFIS)
+License: OFFIS
 OFFIS License

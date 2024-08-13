@@ -1,3 +1,9 @@
-O-UDA-1.0
+SPDX-License-Identifier: O-UDA-1.0
+MODULE_LICENSE(O-UDA-1.0)
+License: O-UDA-1.0
+O-UDA-1.0 License
+O-UDA License v1.0
+v1.0 of the O-UDA License
 Open Use of Data Agreement v1.0
 Open Use of Data Agreement, Version 1.0
+v1.0 of the Open Use of Data Agreement

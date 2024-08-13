@@ -1,2 +1,8 @@
-ODbL-1.0
+SPDX-License-Identifier: ODbL-1.0
+MODULE_LICENSE(ODbL-1.0)
+License: ODbL-1.0
+ODbL-1.0 License
+ODbL License v1.0
+v1.0 of the ODbL License
 Open Data Commons Open Database License v1.0
+v1.0 of the Open Data Commons Open Database License

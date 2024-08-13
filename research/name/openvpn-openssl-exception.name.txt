@@ -1,3 +1,4 @@
-openvpn-openssl-exception
+SPDX-License-Identifier: GPL-2.0 WITH openvpn-openssl-exception
+SPDX-Exception-Identifier: openvpn-openssl-exception
 OpenVPN OpenSSL Exception
 Special exception for linking OpenVPN with OpenSSL

@@ -1,3 +1,9 @@
-ODC-By-1.0
+SPDX-License-Identifier: ODC-By-1.0
+MODULE_LICENSE(ODC-By-1.0)
+License: ODC-By-1.0
+ODC-By-1.0 License
+ODC-By License v1.0
+v1.0 of the ODC-By License
 Open Data Commons Attribution License v1.0
+v1.0 of the Open Data Commons Attribution License
 ODC Attribution License (ODC-By)

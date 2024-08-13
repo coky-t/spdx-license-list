@@ -1,2 +1,5 @@
-OpenSSL-standalone
+SPDX-License-Identifier: OpenSSL-standalone
+MODULE_LICENSE(OpenSSL-standalone)
+License: OpenSSL-standalone
+OpenSSL-standalone License
 OpenSSL License - standalone

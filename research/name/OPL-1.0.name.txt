@@ -1,3 +1,9 @@
-OPL-1.0
+SPDX-License-Identifier: OPL-1.0
+MODULE_LICENSE(OPL-1.0)
+License: OPL-1.0
+OPL-1.0 License
+OPL License v1.0
+v1.0 of the OPL License
 Open Public License v1.0
 OPEN PUBLIC LICENSE Version 1.0
+v1.0 of the Open Public License

@@ -1,2 +1,3 @@
-OpenJDK-assembly-exception-1.0
+SPDX-License-Identifier: GPL-2.0 WITH OpenJDK-assembly-exception-1.0
+SPDX-Exception-Identifier: OpenJDK-assembly-exception-1.0
 OpenJDK Assembly exception 1.0

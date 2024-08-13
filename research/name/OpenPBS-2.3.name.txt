@@ -1,3 +1,8 @@
-OpenPBS-2.3
+SPDX-License-Identifier: OpenPBS-2.3
+MODULE_LICENSE(OpenPBS-2.3)
+License: OpenPBS-2.3
+OpenPBS-2.3 License
+OpenPBS License v2.3
+v2.3 of the OpenPBS License
 OpenPBS v2.3 Software License
 OpenPBS (Portable Batch System) v2.3 Software License

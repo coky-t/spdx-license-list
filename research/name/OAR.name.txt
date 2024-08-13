@@ -1,3 +1,4 @@
-OAR
-OAR License
 SPDX-License-Identifier: OAR
+MODULE_LICENSE(OAR)
+License: OAR
+OAR License

@@ -1,7 +1,11 @@
-OSL-2.0
-OSL-2.0 License
 SPDX-License-Identifier: OSL-2.0
+MODULE_LICENSE(OSL-2.0)
+License: OSL-2.0
+OSL-2.0 License
+OSL License v2.0
+v2.0 of the OSL License
 Open Software License 2.0
 Open Software License v. 2.0
 Open Software License version 2.0
 Open Software License (OSL) v. 2.0
+v2.0 of the Open Software License

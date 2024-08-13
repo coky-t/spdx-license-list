@@ -1,2 +1,8 @@
-OCLC-2.0
+SPDX-License-Identifier: OCLC-2.0
+MODULE_LICENSE(OCLC-2.0)
+License: OCLC-2.0
+OCLC-2.0 License
+OCLC License v2.0
+v2.0 of the OCLC License
 OCLC Research Public License 2.0
+v2.0 of the OCLC Research Public License

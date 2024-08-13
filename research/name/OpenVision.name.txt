@@ -1,2 +1,4 @@
-OpenVision
+SPDX-License-Identifier: OpenVision
+MODULE_LICENSE(OpenVision)
+License: OpenVision
 OpenVision License

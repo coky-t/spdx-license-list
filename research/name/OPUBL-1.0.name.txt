@@ -1,2 +1,8 @@
-OPUBL-1.0
+SPDX-License-Identifier: OPUBL-1.0
+MODULE_LICENSE(OPUBL-1.0)
+License: OPUBL-1.0
+OPUBL-1.0 License
+OPUBL License v1.0
+v1.0 of the OPUBL License
 Open Publication License v1.0
+v1.0 of the Open Publication License

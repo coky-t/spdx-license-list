@@ -1,3 +1,6 @@
-OCCT-PL
+SPDX-License-Identifier: OCCT-PL
+MODULE_LICENSE(OCCT-PL)
+License: OCCT-PL
+OCCT-PL License
 Open CASCADE Technology Public License
 Open CASCADE Technology Public License Version 6.6

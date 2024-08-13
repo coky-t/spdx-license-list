@@ -1,3 +1,9 @@
-OLDAP-2.7
+SPDX-License-Identifier: OLDAP-2.7
+MODULE_LICENSE(OLDAP-2.7)
+License: OLDAP-2.7
+OLDAP-2.7 License
+OLDAP License v2.7
+v2.7 of the OLDAP License
 Open LDAP Public License v2.7
 OpenLDAP Public License Version 2.7
+v2.7 of the Open LDAP Public License

@@ -1,2 +1,8 @@
-OFL-1.0-no-RFN
+SPDX-License-Identifier: OFL-1.0-no-RFN
+MODULE_LICENSE(OFL-1.0-no-RFN)
+License: OFL-1.0-no-RFN
+OFL-1.0-no-RFN License
+OFL License v1.0 no RFN
+v1.0 of the OFL License no RFN
 SIL Open Font License 1.0 with no Reserved Font Name
+v1.0 of the SIL Open Font License with no Reserved Font Name

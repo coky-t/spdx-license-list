@@ -1,4 +1,10 @@
-OGDL-Taiwan-1.0
+SPDX-License-Identifier: OGDL-Taiwan-1.0
+MODULE_LICENSE(OGDL-Taiwan-1.0)
+License: OGDL-Taiwan-1.0
+OGDL-Taiwan-1.0 License
+OGDL-Taiwan License v1.0
+v1.0 of the OGDL-Taiwan License
 Open Government Data License, version 1.0
 Taiwan Open Government Data License, version 1.0
+version 1.0 of the Taiwan Open Government Data License
 政府資料開放授權條款－第1版

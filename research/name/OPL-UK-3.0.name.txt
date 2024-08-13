@@ -1,3 +1,8 @@
-OPL-UK-3.0
+SPDX-License-Identifier: OPL-UK-3.0
+MODULE_LICENSE(OPL-UK-3.0)
+License: OPL-UK-3.0
+OPL-UK-3.0 License
+OPL-UK License v3.0
+v3.0 of the OPL-UK License
 United Kingdom Open Parliament Licence v3.0
 version 3.0 of the Open Parliament Licence

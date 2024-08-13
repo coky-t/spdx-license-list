@@ -1,2 +1,5 @@
-OGTSL
+SPDX-License-Identifier: OGTSL
+MODULE_LICENSE(OGTSL)
+License: OGTSL
+OGTSL License
 Open Group Test Suite License
