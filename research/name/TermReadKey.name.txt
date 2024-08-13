@@ -1,2 +1,4 @@
-TermReadKey
+SPDX-License-Identifier: TermReadKey
+MODULE_LICENSE(TermReadKey)
+License: TermReadKey
 TermReadKey License

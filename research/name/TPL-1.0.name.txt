@@ -1,4 +1,10 @@
-TPL-1.0
+SPDX-License-Identifier: TPL-1.0
+MODULE_LICENSE(TPL-1.0)
+License: TPL-1.0
+TPL-1.0 License
+TPL License v1.0
+v1.0 of the TPL License
 THOR Public License 1.0
 THOR Public Licence (TPL)
 THOR Public License Version 1.0
+v1.0 of the THOR Public License

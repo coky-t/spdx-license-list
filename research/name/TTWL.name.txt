@@ -1,2 +1,5 @@
-TTWL
+SPDX-License-Identifier: TTWL
+MODULE_LICENSE(TTWL)
+License: TTWL
+TTWL License
 Text-Tabs+Wrap License

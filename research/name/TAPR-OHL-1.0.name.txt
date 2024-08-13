@@ -1,3 +1,9 @@
-TAPR-OHL-1.0
+SPDX-License-Identifier: TAPR-OHL-1.0
+MODULE_LICENSE(TAPR-OHL-1.0)
+License: TAPR-OHL-1.0
+TAPR-OHL-1.0 License
+TAPR-OHL License v1.0
+v1.0 of the TAPR-OHL License
 TAPR Open Hardware License v1.0
 TAPR Open Hardware License Version 1.0
+v1.0 of the TAPR Open Hardware License

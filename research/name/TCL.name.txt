@@ -1,5 +1,5 @@
-TCL
-TCL/TK License
-TCL License
-License: TCL
 SPDX-License-Identifier: TCL
+MODULE_LICENSE(TCL)
+License: TCL
+TCL License
+TCL/TK License

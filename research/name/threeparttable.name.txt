@@ -1,2 +1,4 @@
-threeparttable
+SPDX-License-Identifier: threeparttable
+MODULE_LICENSE(threeparttable)
+License: threeparttable
 threeparttable License

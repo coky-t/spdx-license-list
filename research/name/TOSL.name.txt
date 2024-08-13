@@ -1,3 +1,6 @@
-TOSL
+SPDX-License-Identifier: TOSL
+MODULE_LICENSE(TOSL)
+License: TOSL
+TOSL License
 Trusster Open Source License
 Trusster Open Source License version 1.0a

@@ -1,2 +1,5 @@
-TPDL
+SPDX-License-Identifier: TPDL
+MODULE_LICENSE(TPDL)
+License: TPDL
+TPDL License
 Time::ParseDate License

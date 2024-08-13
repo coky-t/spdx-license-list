@@ -1,4 +1,10 @@
-TGPPL-1.0
+SPDX-License-Identifier: TGPPL-1.0
+MODULE_LICENSE(TGPPL-1.0)
+License: TGPPL-1.0
+TGPPL-1.0 License
+TGPPL License v1.0
+v1.0 of the TGPPL License
 Transitive Grace Period Public Licence 1.0
 Transitive Grace Period Public Licence ("TGPPL") v. 1.0
 Transitive Grace Period Public Licence version 1.0
+v1.0 of the Transitive Grace Period Public Licence

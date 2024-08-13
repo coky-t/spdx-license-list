@@ -1,3 +1,5 @@
-TCP-wrappers
-TCP Wrappers License
 SPDX-License-Identifier: TCP-wrappers
+MODULE_LICENSE(TCP-wrappers)
+License: TCP-wrappers
+TCP-wrappers License
+TCP Wrappers License

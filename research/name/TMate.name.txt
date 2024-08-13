@@ -1,4 +1,5 @@
-TMate
-TMate License
 SPDX-License-Identifier: TMate
+MODULE_LICENSE(TMate)
+License: TMate
+TMate License
 TMate Open Source License

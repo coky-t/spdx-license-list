@@ -1,2 +1,7 @@
-TORQUE-1.1
+SPDX-License-Identifier: TORQUE-1.1
+MODULE_LICENSE(TORQUE-1.1)
+License: TORQUE-1.1
+TORQUE-1.1 License
+TORQUE License v1.1
+v1.1 of the TORQUE License
 TORQUE v2.5+ Software License v1.1

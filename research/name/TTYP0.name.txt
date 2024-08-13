@@ -1,2 +1,4 @@
-TTYP0
+SPDX-License-Identifier: TTYP0
+MODULE_LICENSE(TTYP0)
+License: TTYP0
 TTYP0 License

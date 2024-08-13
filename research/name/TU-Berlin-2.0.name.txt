@@ -1,2 +1,8 @@
-TU-Berlin-2.0
+SPDX-License-Identifier: TU-Berlin-2.0
+MODULE_LICENSE(TU-Berlin-2.0)
+License: TU-Berlin-2.0
+TU-Berlin-2.0 License
+TU-Berlin License v2.0
+v2.0 of the TU-Berlin License
 Technische Universitaet Berlin License 2.0
+v2.0 of the Technische Universitaet Berlin License
