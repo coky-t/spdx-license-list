@@ -1,3 +1,9 @@
-RHeCos-1.1
+SPDX-License-Identifier: RHeCos-1.1
+MODULE_LICENSE(RHeCos-1.1)
+License: RHeCos-1.1
+RHeCos-1.1 License
+RHeCos License v1.1
+v1.1 of the RHeCos License
 Red Hat eCos Public License v1.1
 Red Hat eCos Public License Version 1.1
+v1.1 of the Red Hat eCos Public License

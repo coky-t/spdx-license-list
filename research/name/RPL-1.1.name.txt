@@ -1,6 +1,10 @@
-RPL-1.1
-RPL-1.1 License
 SPDX-License-Identifier: RPL-1.1
+MODULE_LICENSE(RPL-1.1)
+License: RPL-1.1
+RPL-1.1 License
+RPL License v1.1
+v1.1 of the RPL License
 Reciprocal Public License 1.1
 Reciprocal Public License, version 1.1
 Reciprocal Public License ("RPL") Version 1.1, or subsequent versions
+v1.1 of the Reciprocal Public License

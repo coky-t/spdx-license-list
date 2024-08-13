@@ -1,2 +1,4 @@
-Rdisc
+SPDX-License-Identifier: Rdisc
+MODULE_LICENSE(Rdisc)
+License: Rdisc
 Rdisc License

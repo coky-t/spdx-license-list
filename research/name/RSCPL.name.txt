@@ -1,3 +1,6 @@
-RSCPL
+SPDX-License-Identifier: RSCPL
+MODULE_LICENSE(RSCPL)
+License: RSCPL
+RSCPL License
 Ricoh Source Code Public License
 Ricoh Source Code Public License Version 1.0

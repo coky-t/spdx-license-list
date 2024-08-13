@@ -1,3 +1,4 @@
-RRDtool-FLOSS-exception-2.0
+SPDX-License-Identifier: GPL-2.0 WITH RRDtool-FLOSS-exception-2.0
+SPDX-Exception-Identifier: RRDtool-FLOSS-exception-2.0
 RRDtool FLOSS exception 2.0
 FLOSS License Exception

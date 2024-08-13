@@ -1,3 +1,4 @@
-Ruby
-Ruby License
 SPDX-License-Identifier: Ruby
+MODULE_LICENSE(Ruby)
+License: Ruby
+Ruby License

@@ -1,2 +1,5 @@
-RSA-MD
+SPDX-License-Identifier: RSA-MD
+MODULE_LICENSE(RSA-MD)
+License: RSA-MD
+RSA-MD License
 RSA Message-Digest License

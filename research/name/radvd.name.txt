@@ -1,2 +1,4 @@
-radvd
+SPDX-License-Identifier: radvd
+MODULE_LICENSE(radvd)
+License: radvd
 radvd License

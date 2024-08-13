@@ -1,3 +1,9 @@
-RPSL-1.0
+SPDX-License-Identifier: RPSL-1.0
+MODULE_LICENSE(RPSL-1.0)
+License: RPSL-1.0
+RPSL-1.0 License
+RPSL License v1.0
+v1.0 of the RPSL License
 RealNetworks Public Source License v1.0
 RealNetworks Public Source License Version 1.0
+v1.0 of the RealNetworks Public Source License
