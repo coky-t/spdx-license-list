@@ -1,2 +1,3 @@
-389-exception
+SPDX-License-Identifier: GPL-2.0-only WITH 389-exception
+SPDX-Exception-Identifier: 389-exception
 389 Directory Server Exception

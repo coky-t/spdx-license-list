@@ -1,14 +1,17 @@
-0BSD
-0-Clause BSD
-0 Clause BSD License
-Zero Clause BSD
-Zero Clause BSD License
-BSD0
-BSD 0-Clause
-BSD 0 Clause License
-BSD Zero Clause
-BSD Zero Clause License
-0BSD License
-BSD0 License
-License: BSD0
 SPDX-License-Identifier: 0BSD
+MODULE_LICENSE(0BSD)
+MODULE_LICENSE(0-Clause BSD)
+MODULE_LICENSE(BSD0)
+MODULE_LICENSE(BSD 0-Clause)
+License: 0BSD
+License: 0-Clause BSD
+License: BSD0
+License: BSD 0-Clause
+License: Zero Clause BSD
+License: BSD Zero Clause
+0BSD License
+0 Clause BSD License
+BSD0 License
+BSD 0 Clause License
+Zero Clause BSD License
+BSD Zero Clause License

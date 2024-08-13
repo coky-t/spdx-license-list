@@ -1,3 +1,7 @@
-3D-Slicer-1.0
+SPDX-License-Identifier: 3D-Slicer-1.0
+MODULE_LICENSE(3D-Slicer-1.0)
+License: 3D-Slicer-1.0
 3D Slicer License v1.0
+3D Slicer v1.0 License
+v1.0 of the 3D Slicer License
 3D Slicer Contribution and Software License Agreement ("Agreement") Version 1.0
