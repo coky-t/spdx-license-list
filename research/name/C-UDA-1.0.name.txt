@@ -1,3 +1,9 @@
-C-UDA-1.0
+SPDX-License-Identifier: C-UDA-1.0
+MODULE_LICENSE(C-UDA-1.0)
+License: C-UDA-1.0
+C-UDA-1.0 License
+C-UDA License v1.0
+v1.0 of the C-UDA License
 Computational Use of Data Agreement v1.0
 Computational Use of Data Agreement, Version 1.0 (the “C-UDA”)
+v1.0 of the Computational Use of Data Agreement

@@ -1,4 +1,7 @@
-CNRI-Python
+SPDX-License-Identifier: CNRI-Python
+MODULE_LICENSE(CNRI-Python)
+License: CNRI-Python
+CNRI-Python License
 CNRI Python License
 CNRI OPEN SOURCE LICENSE AGREEMENT
 CNRI OPEN SOURCE LICENSE AGREEMENT (for Python 1.6b1)

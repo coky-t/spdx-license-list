@@ -1,4 +1,4 @@
-Cube
-Cube License
-License: Cube
 SPDX-License-Identifier: Cube
+MODULE_LICENSE(Cube)
+License: Cube
+Cube License

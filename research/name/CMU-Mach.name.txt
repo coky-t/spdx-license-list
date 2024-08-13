@@ -1,2 +1,5 @@
-CMU-Mach
+SPDX-License-Identifier: CMU-Mach
+MODULE_LICENSE(CMU-Mach)
+License: CMU-Mach
+CMU-Mach License
 CMU Mach License

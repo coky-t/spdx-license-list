@@ -1,2 +1,5 @@
-checkmk
+SPDX-License-Identifier: checkmk
+MODULE_LICENSE(checkmk)
+License: checkmk
+checkmk License
 Checkmk License

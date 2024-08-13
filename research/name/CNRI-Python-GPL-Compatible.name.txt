@@ -1,3 +1,6 @@
-CNRI-Python-GPL-Compatible
+SPDX-License-Identifier: CNRI-Python-GPL-Compatible
+MODULE_LICENSE(CNRI-Python-GPL-Compatible)
+License: CNRI-Python-GPL-Compatible
+CNRI-Python-GPL-Compatible License
 CNRI Python Open Source GPL Compatible License Agreement
 CNRI OPEN SOURCE GPL-COMPATIBLE LICENSE AGREEMENT

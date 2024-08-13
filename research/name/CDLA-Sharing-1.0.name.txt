@@ -1,4 +1,10 @@
-CDLA-Sharing-1.0
+SPDX-License-Identifier: CDLA-Sharing-1.0
+MODULE_LICENSE(CDLA-Sharing-1.0)
+License: CDLA-Sharing-1.0
+CDLA-Sharing-1.0 License
+CDLA-Sharing License v1.0
+v1.0 of the CDLA-Sharing License
 Community Data License Agreement Sharing 1.0
 Community Data License Agreement - Sharing - Version 1.0
 Community Data License Agreement - Sharing, Version 1.0
+v1.0 of the Community Data License Agreement Sharing

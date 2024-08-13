@@ -1,2 +1,7 @@
-copyleft-next-0.3.1
+SPDX-License-Identifier: copyleft-next-0.3.1
+MODULE_LICENSE(copyleft-next-0.3.1)
+License: copyleft-next-0.3.1
+copyleft-next-0.3.1 License
+copyleft-next License v0.3.1
+v0.3.1 of the copyleft-next License
 copyleft-next 0.3.1

@@ -1,2 +1,4 @@
-check-cvs
+SPDX-License-Identifier: check-cvs
+MODULE_LICENSE(check-cvs)
+License: check-cvs
 check-cvs License

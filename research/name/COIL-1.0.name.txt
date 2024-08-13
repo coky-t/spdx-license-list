@@ -1,3 +1,8 @@
-COIL-1.0
+SPDX-License-Identifier: COIL-1.0
+MODULE_LICENSE(COIL-1.0)
+License: COIL-1.0
+COIL-1.0 License
+COIL License v1.0
+v1.0 of the COIL License
 Copyfree Open Innovation License
 version 1.0 of the Copyfree Open Innovation License

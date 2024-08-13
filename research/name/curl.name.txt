@@ -1,4 +1,4 @@
-curl
-curl License
-License: curl
 SPDX-License-Identifier: curl
+MODULE_LICENSE(curl)
+License: curl
+curl License

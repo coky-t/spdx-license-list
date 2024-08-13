@@ -1,4 +1,11 @@
-CPAL-1.0
+SPDX-License-Identifier: CPAL-1.0
+MODULE_LICENSE(CPAL-1.0)
+License: CPAL-1.0
+CPAL-1.0 License
+CPAL License v1.0
+v1.0 of the CPAL License
 Common Public Attribution License 1.0
 Common Public Attribution License Version 1.0 (CPAL)
+Common Public Attribution License ("CPAL") Version 1.0
 Common Public Attribution License Version 1.0
+v1.0 of the Common Public Attribution License

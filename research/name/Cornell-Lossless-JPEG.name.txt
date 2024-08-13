@@ -1,2 +1,5 @@
-Cornell-Lossless-JPEG
+SPDX-License-Identifier: Cornell-Lossless-JPEG
+MODULE_LICENSE(Cornell-Lossless-JPEG)
+License: Cornell-Lossless-JPEG
+Cornell-Lossless-JPEG License
 Cornell Lossless JPEG License

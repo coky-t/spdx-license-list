@@ -1,2 +1,5 @@
-CERN-OHL-S-2.0
+SPDX-License-Identifier: CERN-OHL-S-2.0
+MODULE_LICENSE(CERN-OHL-S-2.0)
+License: CERN-OHL-S-2.0
+CERN-OHL-S-2.0 License
 CERN Open Hardware Licence Version 2 - Strongly Reciprocal

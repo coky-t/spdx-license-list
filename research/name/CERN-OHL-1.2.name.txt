@@ -1,4 +1,9 @@
-CERN-OHL-1.2
-CERN OHL v1.2
+SPDX-License-Identifier: CERN-OHL-1.2
+MODULE_LICENSE(CERN-OHL-1.2)
+License: CERN-OHL-1.2
+CERN-OHL-1.2 License
+CERN-OHL License v1.2
+v1.2 of the CERN-OHL License
 CERN Open Hardware Licence v1.2
 CERN Open Hardware Licence ("CERN OHL") version 1.2
+v1.2 of the CERN Open Hardware Licence

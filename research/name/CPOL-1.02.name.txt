@@ -1,3 +1,9 @@
-CPOL-1.02
+SPDX-License-Identifier: CPOL-1.02
+MODULE_LICENSE(CPOL-1.02)
+License: CPOL-1.02
+CPOL-1.02 License
+CPOL License v1.02
+v1.02 of the CPOL License
 Code Project Open License 1.02
 Code Project Open License (CPOL) 1.02
+v1.02 of the Code Project Open License

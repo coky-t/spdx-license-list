@@ -1,2 +1,5 @@
-CECILL-B
+SPDX-License-Identifier: CECILL-B
+MODULE_LICENSE(CECILL-B)
+License: CECILL-B
+CECILL-B License
 CeCILL-B Free Software License Agreement

@@ -1,4 +1,10 @@
-CDDL-1.0
+SPDX-License-Identifier: CDDL-1.0
+MODULE_LICENSE(CDDL-1.0)
+License: CDDL-1.0
+CDDL-1.0 License
+CDDL License v1.0
+v1.0 of the CDDL License
 Common Development and Distribution License 1.0
 Common Development and Distribution License (CDDL) 1.0
 COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+v1.0 of the Common Development and Distribution License

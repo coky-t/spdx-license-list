@@ -1,2 +1,3 @@
-Classpath-exception-2.0
+SPDX-License-Identifier: GPL-2.0-only WITH Classpath-exception-2.0
+SPDX-Exception-Identifier: Classpath-exception-2.0
 Classpath exception 2.0

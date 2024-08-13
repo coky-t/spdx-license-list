@@ -1,2 +1,5 @@
-CMU-Mach-nodoc
+SPDX-License-Identifier: CMU-Mach-nodoc
+MODULE_LICENSE(CMU-Mach-nodoc)
+License: CMU-Mach-nodoc
+CMU-Mach-nodoc License
 CMU Mach - no notices-in-documentation variant

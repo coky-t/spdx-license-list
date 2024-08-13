@@ -1,2 +1,4 @@
-Cronyx
+SPDX-License-Identifier: Cronyx
+MODULE_LICENSE(Cronyx)
+License: Cronyx
 Cronyx License

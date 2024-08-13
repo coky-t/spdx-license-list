@@ -1,2 +1,4 @@
-CrystalStacker
+SPDX-License-Identifier: CrystalStacker
+MODULE_LICENSE(CrystalStacker)
+License: CrystalStacker
 CrystalStacker License

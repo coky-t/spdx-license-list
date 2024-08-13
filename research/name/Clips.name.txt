@@ -1,2 +1,4 @@
-Clips
+SPDX-License-Identifier: Clips
+MODULE_LICENSE(Clips)
+License: Clips
 Clips License

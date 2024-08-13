@@ -1,5 +1,10 @@
-CPL-1.0
-CPL-1.0 License
 SPDX-License-Identifier: CPL-1.0
+MODULE_LICENSE(CPL-1.0)
+License: CPL-1.0
+CPL-1.0 License
+CPL License v1.0
+v1.0 of the CPL License
 Common Public License 1.0
 Common Public License Version 1.0
+Common Public License ("CPL") Version 1.0
+Version 1.0 of the Common Public License

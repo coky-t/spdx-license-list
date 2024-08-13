@@ -1,4 +1,10 @@
-CDLA-Permissive-1.0
+SPDX-License-Identifier: CDLA-Permissive-1.0
+MODULE_LICENSE(CDLA-Permissive-1.0)
+License: CDLA-Permissive-1.0
+CDLA-Permissive-1.0 License
+CDLA-Permissive License v1.0
+v1.0 of the CDLA-Permissive License
 Community Data License Agreement Permissive 1.0
 Community Data License Agreement - Permissive - Version 1.0
 Community Data License Agreement - Permissive, Version 1.0
+v1.0 of the Community Data License Agreement Permissive

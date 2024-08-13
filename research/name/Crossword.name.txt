@@ -1,2 +1,4 @@
-Crossword
+SPDX-License-Identifier: Crossword
+MODULE_LICENSE(Crossword)
+License: Crossword
 Crossword License

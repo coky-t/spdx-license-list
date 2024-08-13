@@ -1,9 +1,11 @@
-CDL1
-CDL-1.0
+SPDX-License-Identifier: CDL-1.0
+MODULE_LICENSE(CDL-1.0)
+License: CDL-1.0
+CDL-1.0 License
+CDL License v1.0
+v1.0 of the CDL License
 Common Documentation License 1.0
 Common Documentation License Version 1.0
 Common Documentation License, v.1.0
-CDL1 License
-CDL License v1
-License: CDL1
-SPDX-License-Identifier: CDL-1.0
+Common Documentation License ("CDL") v1.0
+v1.0 of the Common Documentation License

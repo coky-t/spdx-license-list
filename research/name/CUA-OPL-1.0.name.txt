@@ -1,3 +1,9 @@
-CUA-OPL-1.0
+SPDX-License-Identifier: CUA-OPL-1.0
+MODULE_LICENSE(CUA-OPL-1.0)
+License: CUA-OPL-1.0
+CUA-OPL-1.0 License
+CUA-OPL License v1.0
+v1.0 of the CUA-OPL License
 CUA Office Public License v1.0
 CUA Office Public License Version 1.0
+v1.0 of the CUA Office Public License

@@ -1,2 +1,5 @@
-CNRI-Jython
+SPDX-License-Identifier: CNRI-Jython
+MODULE_LICENSE(CNRI-Jython)
+License: CNRI-Jython
+CNRI-Jython License
 CNRI Jython License

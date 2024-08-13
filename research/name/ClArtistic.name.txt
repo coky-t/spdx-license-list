@@ -1,2 +1,5 @@
-ClArtistic
+SPDX-License-Identifier: ClArtistic
+MODULE_LICENSE(ClArtistic)
+License: ClArtistic
+ClArtistic License
 Clarified Artistic License

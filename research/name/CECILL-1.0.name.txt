@@ -1,2 +1,8 @@
-CECILL-1.0
+SPDX-License-Identifier: CECILL-1.0
+MODULE_LICENSE(CECILL-1.0)
+License: CECILL-1.0
+CECILL-1.0 License
+CECILL License v1.0
+v1.0 of the CECILL License
 CeCILL Free Software License Agreement v1.0
+v1.0 of the CeCILL Free Software License Agreement
