@@ -1,2 +1,5 @@
-NGPL
+SPDX-License-Identifier: NGPL
+MODULE_LICENSE(NGPL)
+License: NGPL
+NGPL License
 Nethack General Public License

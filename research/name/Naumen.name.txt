@@ -1,2 +1,5 @@
-Naumen
+SPDX-License-Identifier: Naumen
+MODULE_LICENSE(Naumen)
+License: Naumen
+Naumen License
 Naumen Public License

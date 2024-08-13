@@ -1,3 +1,6 @@
-NTP-0
+SPDX-License-Identifier: NTP-0
+MODULE_LICENSE(NTP-0)
+License: NTP-0
+NTP-0 License
 NTP No Attribution
 NTP No Attribution (NTP-0)

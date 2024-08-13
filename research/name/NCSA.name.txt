@@ -1,3 +1,6 @@
-NCSA
+SPDX-License-Identifier: NCSA
+MODULE_LICENSE(NCSA)
+License: NCSA
+NCSA License
 University of Illinois/NCSA Open Source License
 University of Illinois Open Source License

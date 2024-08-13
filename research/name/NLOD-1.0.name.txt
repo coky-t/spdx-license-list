@@ -1,2 +1,8 @@
-NLOD-1.0
+SPDX-License-Identifier: NLOD-1.0
+MODULE_LICENSE(NLOD-1.0)
+License: NLOD-1.0
+NLOD-1.0 License
+NLOD License v1.0
+v1.0 of the NLOD License
 Norwegian Licence for Open Government Data (NLOD) 1.0
+v1.0 of the Norwegian Licence for Open Government Data

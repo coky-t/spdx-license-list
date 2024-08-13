@@ -1,5 +1,5 @@
-NCL
-NCL Source Code License
-NCL License
-License: NCL
 SPDX-License-Identifier: NCL
+MODULE_LICENSE(NCL)
+License: NCL
+NCL License
+NCL Source Code License

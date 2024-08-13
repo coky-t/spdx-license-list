@@ -1,2 +1,5 @@
-NetCDF
+SPDX-License-Identifier: NetCDF
+MODULE_LICENSE(NetCDF)
+License: NetCDF
+NetCDF License
 NetCDF license

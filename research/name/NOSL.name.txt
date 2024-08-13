@@ -1,3 +1,6 @@
-NOSL
+SPDX-License-Identifier: NOSL
+MODULE_LICENSE(NOSL)
+License: NOSL
+NOSL License
 Netizen Open Source License
 NETIZEN OPEN SOURCE LICENSE Version 1.0

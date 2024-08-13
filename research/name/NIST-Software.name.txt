@@ -1,2 +1,5 @@
-NIST-Software
+SPDX-License-Identifier: NIST-Software
+MODULE_LICENSE(NIST-Software)
+License: NIST-Software
+NIST-Software License
 NIST Software License

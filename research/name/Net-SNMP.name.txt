@@ -1,2 +1,4 @@
-Net-SNMP
+SPDX-License-Identifier: Net-SNMP
+MODULE_LICENSE(Net-SNMP)
+License: Net-SNMP
 Net-SNMP License

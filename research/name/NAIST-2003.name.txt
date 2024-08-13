@@ -1,2 +1,5 @@
-NAIST-2003
+SPDX-License-Identifier: NAIST-2003
+MODULE_LICENSE(NAIST-2003)
+License: NAIST-2003
+NAIST-2003 License
 Nara Institute of Science and Technology License (2003)

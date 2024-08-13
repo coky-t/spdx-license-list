@@ -1,2 +1,5 @@
-NIST-PD
+SPDX-License-Identifier: NIST-PD
+MODULE_LICENSE(NIST-PD)
+License: NIST-PD
+NIST-PD License
 NIST Public Domain Notice

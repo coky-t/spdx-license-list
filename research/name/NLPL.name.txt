@@ -1,3 +1,6 @@
-NLPL
+SPDX-License-Identifier: NLPL
+MODULE_LICENSE(NLPL)
+License: NLPL
+NLPL License
 No Limit Public License
 NO LIMIT PUBLIC LICENSE Version 0

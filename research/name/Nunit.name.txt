@@ -1,3 +1,4 @@
-Nunit
-Nunit License
 SPDX-License-Identifier: Nunit
+MODULE_LICENSE(Nunit)
+License: Nunit
+Nunit License

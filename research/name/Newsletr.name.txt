@@ -1,2 +1,4 @@
-Newsletr
+SPDX-License-Identifier: Newsletr
+MODULE_LICENSE(Newsletr)
+License: Newsletr
 Newsletr License

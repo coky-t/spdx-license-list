@@ -1,2 +1,4 @@
-Noweb
+SPDX-License-Identifier: Noweb
+MODULE_LICENSE(Noweb)
+License: Noweb
 Noweb License

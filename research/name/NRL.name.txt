@@ -1,2 +1,4 @@
-NRL
+SPDX-License-Identifier: NRL
+MODULE_LICENSE(NRL)
+License: NRL
 NRL License

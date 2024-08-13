@@ -1,3 +1,9 @@
-NPL-1.1
+SPDX-License-Identifier: NPL-1.1
+MODULE_LICENSE(NPL-1.1)
+License: NPL-1.1
+NPL-1.1 License
+NPL License v1.1
+v1.1 of the NPL License
 Netscape Public License v1.1
-Netscape Public LIcense version 1.1
+NETSCAPE PUBLIC LICENSE version 1.1
+v1.1 of the Netscape Public License

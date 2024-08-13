@@ -1,2 +1,5 @@
-NIST-PD-fallback
+SPDX-License-Identifier: NIST-PD-fallback
+MODULE_LICENSE(NIST-PD-fallback)
+License: NIST-PD-fallback
+NIST-PD-fallback License
 NIST Public Domain Notice with license fallback

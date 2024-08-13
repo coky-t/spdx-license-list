@@ -1,2 +1,7 @@
-NCGL-UK-2.0
+SPDX-License-Identifier: NCGL-UK-2.0
+MODULE_LICENSE(NCGL-UK-2.0)
+License: NCGL-UK-2.0
+NCGL-UK-2.0 License
+NCGL-UK License v2.0
+v2.0 of the NCGL-UK License
 Non-Commercial Government Licence

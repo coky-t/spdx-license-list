@@ -1,2 +1,8 @@
-NICTA-1.0
+SPDX-License-Identifier: NICTA-1.0
+MODULE_LICENSE(NICTA-1.0)
+License: NICTA-1.0
+NICTA-1.0 License
+NICTA License v1.0
+v1.0 of the NICTA License
 NICTA Public Software License, Version 1.0
+Version 1.0 of the NICTA Public Software License

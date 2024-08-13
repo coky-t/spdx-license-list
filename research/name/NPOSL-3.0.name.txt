@@ -1,5 +1,11 @@
-NPOSL-3.0
+SPDX-License-Identifier: NPOSL-3.0
+MODULE_LICENSE(NPOSL-3.0)
+License: NPOSL-3.0
+NPOSL-3.0 License
+NPOSL License v3.0
+v3.0 of the NPOSL License
 Non-Profit Open Software License 3.0
 Non-Profit Open Software License ("Non-Profit OSL") version 3.0
 Non-Profit Open Software License version 3.0
+v3.0 of the Non-Profit Open Software License
 Non-Profit OSL 3.0

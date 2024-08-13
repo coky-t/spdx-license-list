@@ -1,3 +1,6 @@
-NCBI-PD
+SPDX-License-Identifier: NCBI-PD
+MODULE_LICENSE(NCBI-PD)
+License: NCBI-PD
+NCBI-PD License
 NCBI Public Domain Notice
 PUBLIC DOMAIN NOTICE National Center for Biotechnology Information

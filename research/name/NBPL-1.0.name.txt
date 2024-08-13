@@ -1,3 +1,9 @@
-NBPL-1.0
+SPDX-License-Identifier: NBPL-1.0
+MODULE_LICENSE(NBPL-1.0)
+License: NBPL-1.0
+NBPL-1.0 License
+NBPL License v1.0
+v1.0 of the NBPL License
 Net Boolean Public License v1
 Net Boolean Public License Version 1
+v1 of the Net Boolean Public License
