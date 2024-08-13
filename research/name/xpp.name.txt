@@ -1,3 +1,5 @@
-xpp
-XPP License
 SPDX-License-Identifier: xpp
+MODULE_LICENSE(xpp)
+License: xpp
+xpp License
+XPP License

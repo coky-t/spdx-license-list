@@ -1,2 +1,5 @@
-xkeyboard-config-Zinoviev
+SPDX-License-Identifier: xkeyboard-config-Zinoviev
+MODULE_LICENSE(xkeyboard-config-Zinoviev)
+License: xkeyboard-config-Zinoviev
+xkeyboard-config-Zinoviev License
 xkeyboard-config Zinoviev License

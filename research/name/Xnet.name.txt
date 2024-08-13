@@ -1,5 +1,6 @@
-Xnet
+SPDX-License-Identifier: Xnet
+MODULE_LICENSE(Xnet)
+License: Xnet
+Xnet License
 X.Net License
 X.Net, Inc. License
-License: Xnet
-SPDX-License-Identifier: Xnet

@@ -1,3 +1,4 @@
-xlock
-xlock License
 SPDX-License-Identifier: xlock
+MODULE_LICENSE(xlock)
+License: xlock
+xlock License

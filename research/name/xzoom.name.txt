@@ -1,2 +1,4 @@
-xzoom
+SPDX-License-Identifier: xzoom
+MODULE_LICENSE(xzoom)
+License: xzoom
 xzoom License

@@ -1,2 +1,4 @@
-XSkat
+SPDX-License-Identifier: XSkat
+MODULE_LICENSE(XSkat)
+License: XSkat
 XSkat License

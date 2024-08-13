@@ -1,3 +1,7 @@
-Xdebug-1.03
+SPDX-License-Identifier: Xdebug-1.03
+MODULE_LICENSE(Xdebug-1.03)
+License: Xdebug-1.03
+Xdebug-1.03 License
 Xdebug License v 1.03
 Xdebug License, version 1.03
+v1.03 of the Xdebug License

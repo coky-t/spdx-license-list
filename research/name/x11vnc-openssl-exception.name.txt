@@ -1,2 +1,3 @@
-x11vnc-openssl-exception
+SPDX-License-Identifier: GPL-2.0-only WITH x11vnc-openssl-exception
+SPDX-Exception-Identifier: x11vnc-openssl-exception
 x11vnc OpenSSL Exception

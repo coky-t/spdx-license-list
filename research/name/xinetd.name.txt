@@ -1,2 +1,4 @@
-xinetd
+SPDX-License-Identifier: xinetd
+MODULE_LICENSE(xinetd)
+License: xinetd
 xinetd License

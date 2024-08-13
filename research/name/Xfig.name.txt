@@ -1,2 +1,4 @@
-Xfig
+SPDX-License-Identifier: Xfig
+MODULE_LICENSE(Xfig)
+License: Xfig
 Xfig License

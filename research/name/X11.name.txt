@@ -1,4 +1,4 @@
-X11
-X11 License
-License: X11
 SPDX-License-Identifier: X11
+MODULE_LICENSE(X11)
+License: X11
+X11 License
