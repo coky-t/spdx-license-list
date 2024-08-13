@@ -1,3 +1,9 @@
-Watcom-1.0
+SPDX-License-Identifier: Watcom-1.0
+MODULE_LICENSE(Watcom-1.0)
+License: Watcom-1.0
+Watcom-1.0 License
+Watcom License v1.0
+v1.0 of the Watcom License
 Sybase Open Watcom Public License 1.0
 Sybase Open Watcom Public License version 1.0
+v1.0 of the Sybase Open Watcom Public License

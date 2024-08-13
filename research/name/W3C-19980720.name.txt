@@ -1,2 +1,6 @@
-W3C-19980720
+SPDX-License-Identifier: W3C-19980720
+MODULE_LICENSE(W3C-19980720)
+License: W3C-19980720
+W3C-19980720 License
+W3C License 19980720
 W3C Software Notice and License (1998-07-20)

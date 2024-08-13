@@ -1,3 +1,4 @@
-w3m
-w3m License
 SPDX-License-Identifier: w3m
+MODULE_LICENSE(w3m)
+License: w3m
+w3m License

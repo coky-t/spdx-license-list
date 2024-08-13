@@ -1,3 +1,6 @@
-WTFPL
+SPDX-License-Identifier: WTFPL
+MODULE_LICENSE(WTFPL)
+License: WTFPL
+WTFPL License
 Do What The F*ck You Want To Public License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE Version 2

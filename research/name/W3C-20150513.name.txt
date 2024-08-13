@@ -1,2 +1,6 @@
-W3C-20150513
+SPDX-License-Identifier: W3C-20150513
+MODULE_LICENSE(W3C-20150513)
+License: W3C-20150513
+W3C-20150513 License
+W3C License 20150513
 W3C Software Notice and Document License (2015-05-13)

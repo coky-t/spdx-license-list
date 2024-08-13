@@ -1,2 +1,5 @@
-Widget-Workshop
+SPDX-License-Identifier: Widget-Workshop
+MODULE_LICENSE(Widget-Workshop)
+License: Widget-Workshop
+Widget-Workshop License
 Widget Workshop License

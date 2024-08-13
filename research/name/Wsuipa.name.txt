@@ -1,2 +1,4 @@
-Wsuipa
+SPDX-License-Identifier: Wsuipa
+MODULE_LICENSE(Wsuipa)
+License: Wsuipa
 Wsuipa License

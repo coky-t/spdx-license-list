@@ -1,2 +1,5 @@
-wxWindows
+SPDX-License-Identifier: wxWindows
+MODULE_LICENSE(wxWindows)
+License: wxWindows
+wxWindows License
 wxWindows Library License
