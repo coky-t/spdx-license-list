@@ -1,3 +1,6 @@
-Glide
+SPDX-License-Identifier: Glide
+MODULE_LICENSE(Glide)
+License: Glide
+Glide License
 3dfx Glide License
 3DFX GLIDE Source Code General Public License

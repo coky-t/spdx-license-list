@@ -1,4 +1,4 @@
-GD
-GD License
-License: GD
 SPDX-License-Identifier: GD
+MODULE_LICENSE(GD)
+License: GD
+GD License

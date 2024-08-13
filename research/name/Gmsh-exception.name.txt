@@ -1,2 +1,3 @@
-Gmsh-exception
+SPDX-License-Identifier: GPL-2.0 WITH Gmsh-exception
+SPDX-Exception-Identifier: Gmsh-exception
 Gmsh exception

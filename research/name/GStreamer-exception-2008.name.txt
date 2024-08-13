@@ -1,2 +1,3 @@
-GStreamer-exception-2008
+SPDX-License-Identifier: XXX WITH GStreamer-exception-2008
+SPDX-Exception-Identifier: GStreamer-exception-2008
 GStreamer Exception (2008)

@@ -1,2 +1,3 @@
-GNOME-examples-exception
+SPDX-License-Identifier: CC-BY-SA-3.0 WITH GNOME-examples-exception
+SPDX-Exception-Identifier: GNOME-examples-exception
 GNOME examples exception

@@ -1,3 +1,5 @@
-GL2PS
+SPDX-License-Identifier: GL2PS
+MODULE_LICENSE(GL2PS)
+License: GL2PS
 GL2PS License
 GL2PS LICENSE Version 2

@@ -1,2 +1,3 @@
-GCC-exception-2.0
+SPDX-License-Identifier: GPL-2.0-or-later WITH GCC-exception-2.0
+SPDX-Exception-Identifier: GCC-exception-2.0
 GCC Runtime Library exception 2.0

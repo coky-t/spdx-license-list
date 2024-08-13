@@ -1,10 +1,15 @@
-GPL-2.0
-GPL-2.0 License
 SPDX-License-Identifier: GPL-2.0
+MODULE_LICENSE(GPL-2.0)
+License: GPL-2.0
+GPL-2.0 License
+GPL License v2.0
+v2.0 of the GPL License
+v2.0 of the GNU GPL License
 GNU General Public License v2.0
 GNU General Public License as published by the Free Software Foundation; version 2
 GNU General Public License as published by the Free Software Foundation's version 2 of the License
 GNU General Public License by the Free Software Foundatio either version 2 of License
 GNU General Public License ("GPL") version 2
+v2.0 of the GNU General Public License
 GNU GPL License version 2
 version 2 of the GNU GPL

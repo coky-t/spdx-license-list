@@ -1,3 +1,4 @@
-gnuplot
-gnuplot License
 SPDX-License-Identifier: gnuplot
+MODULE_LICENSE(gnuplot)
+License: gnuplot
+gnuplot License

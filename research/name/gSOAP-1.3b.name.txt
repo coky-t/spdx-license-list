@@ -1,3 +1,9 @@
-gSOAP-1.3b
+SPDX-License-Identifier: gSOAP-1.3b
+MODULE_LICENSE(gSOAP-1.3b)
+License: gSOAP-1.3b
+gSOAP-1.3b License
+gSOAP License v1.3b
+v1.3b of the gSOAP License
 gSOAP Public License v1.3b
 gSOAP Public License Version 1.3b
+v1.3b of the gSOAP Public License

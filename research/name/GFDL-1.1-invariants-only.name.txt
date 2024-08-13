@@ -1,2 +1,5 @@
-GFDL-1.1-invariants-only
+SPDX-License-Identifier: GFDL-1.1-invariants-only
+MODULE_LICENSE(GFDL-1.1-invariants-only)
+License: GFDL-1.1-invariants-only
+GFDL-1.1-invariants-only License
 GNU Free Documentation License v1.1 only - invariants

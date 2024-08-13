@@ -1,2 +1,5 @@
-GFDL-1.2-only
+SPDX-License-Identifier: GFDL-1.2-only
+MODULE_LICENSE(GFDL-1.2-only)
+License: GFDL-1.2-only
+GFDL-1.2-only License
 GNU Free Documentation License v1.2 only

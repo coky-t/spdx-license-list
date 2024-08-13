@@ -1,2 +1,9 @@
-GPL-2.0-only
+SPDX-License-Identifier: GPL-2.0-only
+MODULE_LICENSE(GPL-2.0-only)
+License: GPL-2.0-only
+GPL-2.0-only License
+GPL License v2.0 only
+v2.0 only of the GPL License
+v2.0 only of the GNU GPL License
 GNU General Public License v2.0 only
+v2.0 only of the GNU General Public License

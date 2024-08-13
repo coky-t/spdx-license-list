@@ -1,3 +1,6 @@
-GFDL-1.1-invariants-or-later
+SPDX-License-Identifier: GFDL-1.1-invariants-or-later
+MODULE_LICENSE(GFDL-1.1-invariants-or-later)
+License: GFDL-1.1-invariants-or-later
+GFDL-1.1-invariants-or-later License
 GNU Free Documentation License v1.1 or later - invariants
 GNU Free Documentation License, Version 1.1 or any later version published by the Free Software Foundation; with the Invariant Sections

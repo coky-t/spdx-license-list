@@ -1,3 +1,6 @@
-GLWTPL
+SPDX-License-Identifier: GLWTPL
+MODULE_LICENSE(GLWTPL)
+License: GLWTPL
+GLWTPL License
 Good Luck With That Public License
 GLWT(Good Luck With That) Public License

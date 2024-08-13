@@ -1,2 +1,5 @@
-GCR-docs
+SPDX-License-Identifier: GCR-docs
+MODULE_LICENSE(GCR-docs)
+License: GCR-docs
+GCR-docs License
 Gnome GCR Documentation License

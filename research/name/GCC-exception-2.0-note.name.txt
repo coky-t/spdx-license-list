@@ -1,2 +1,3 @@
-GCC-exception-2.0-note
+SPDX-License-Identifier: LGPL-2.0-only WITH GCC-exception-2.0-note
+SPDX-Exception-Identifier: GCC-exception-2.0-note
 GCC Runtime Library exception 2.0 - note variant

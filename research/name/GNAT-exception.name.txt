@@ -1,2 +1,3 @@
-GNAT-exception
+SPDX-License-Identifier: GPL-2.0 WITH GNAT-exception
+SPDX-Exception-Identifier: GNAT-exception
 GNAT exception

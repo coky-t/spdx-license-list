@@ -1,2 +1,4 @@
-Giftware
+SPDX-License-Identifier: Giftware
+MODULE_LICENSE(Giftware)
+License: Giftware
 Giftware License

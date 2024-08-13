@@ -1,2 +1,4 @@
-gtkbook
+SPDX-License-Identifier: gtkbook
+MODULE_LICENSE(gtkbook)
+License: gtkbook
 gtkbook License

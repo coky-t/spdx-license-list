@@ -1,2 +1,3 @@
-GPL-3.0-linking-source-exception
+SPDX-License-Identifier: GPL-3.0 WITH GPL-3.0-linking-source-exception
+SPDX-Exception-Identifier: GPL-3.0-linking-source-exception
 GPL-3.0 Linking Exception (with Corresponding Source)

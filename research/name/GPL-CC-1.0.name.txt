@@ -1,3 +1,4 @@
-GPL-CC-1.0
+SPDX-License-Identifier: XXX WITH GPL-CC-1.0
+SPDX-Exception-Identifier: GPL-CC-1.0
 GPL Cooperation Commitment 1.0
 GPL Cooperation Commitment Version 1.0

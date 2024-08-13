@@ -1,2 +1,4 @@
-Glulxe
+SPDX-License-Identifier: Glulxe
+MODULE_LICENSE(Glulxe)
+License: Glulxe
 Glulxe License

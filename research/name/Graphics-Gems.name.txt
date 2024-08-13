@@ -1,2 +1,5 @@
-Graphics-Gems
+SPDX-License-Identifier: Graphics-Gems
+MODULE_LICENSE(Graphics-Gems)
+License: Graphics-Gems
+Graphics-Gems License
 Graphics Gems License

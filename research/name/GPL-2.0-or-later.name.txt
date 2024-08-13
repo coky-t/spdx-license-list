@@ -1,7 +1,17 @@
-GPL-2+
-GPL-2.0+
-GPL-2.0-or-later
+SPDX-License-Identifier: GPL-2+
+SPDX-License-Identifier: GPL-2.0+
+SPDX-License-Identifier: GPL-2.0-or-later
+MODULE_LICENSE(GPL-2.0+)
+MODULE_LICENSE(GPL-2.0-or-later)
+License: GPL-2.0+
+License: GPL-2.0-or-later
+GPL-2.0+ License
+GPL-2.0-or-later License
+GPL License v2.0 or later
+v2.0 or later of the GPL License
+v2.0 or later of the GNU GPL License
 GNU General Public License v2.0 or later
+v2.0 or later of the GNU General Public License
 GNU General Public License, version 2, or at your option, any later version
 GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version
 GPL v2 and any later version

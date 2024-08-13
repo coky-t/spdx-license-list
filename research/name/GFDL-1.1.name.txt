@@ -1,4 +1,11 @@
-GFDL-1.1
+SPDX-License-Identifier: GFDL-1.1
+MODULE_LICENSE(GFDL-1.1)
+License: GFDL-1.1
+GFDL-1.1 License
+GFDL License v1.1
+v1.1 of the GFDL License
 GNU Free Documentation License v1.1
+GNU Free Documentation License ("GFDL") v1.1
 GNU Free Documentation License Version 1.1
 GNU Free Documentation License, Version 1.1
+v1.1 of the GNU Free Documentation License

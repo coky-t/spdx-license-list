@@ -1,5 +1,15 @@
-GPL-3.0+
-GPL-3.0-or-later
+SPDX-License-Identifier: GPL-3.0+
+SPDX-License-Identifier: GPL-3.0-or-later
+MODULE_LICENSE(GPL-3.0+)
+MODULE_LICENSE(GPL-3.0-or-later)
+License: GPL-3.0+
+License: GPL-3.0-or-later
+GPL-3.0+ License
+GPL-3.0-or-later License
+GPL License v3.0 or later
+v3.0 or later of the GPL License
+v3.0 or later of the GNU GPL License
 GNU General Public License v3.0 or later
+v3.0 or later of the GNU General Public License
 GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version
 GPLv3 or higher

@@ -1,2 +1,4 @@
-Gutmann
+SPDX-License-Identifier: Gutmann
+MODULE_LICENSE(Gutmann)
+License: Gutmann
 Gutmann License

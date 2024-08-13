@@ -1,2 +1,3 @@
-GPL-3.0-interface-exception
+SPDX-License-Identifier: GPL-3.0 WITH GPL-3.0-interface-exception
+SPDX-Exception-Identifier: GPL-3.0-interface-exception
 GPL-3.0 Interface Exception

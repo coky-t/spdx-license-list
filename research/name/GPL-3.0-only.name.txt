@@ -1,2 +1,9 @@
-GPL-3.0-only
+SPDX-License-Identifier: GPL-3.0-only
+MODULE_LICENSE(GPL-3.0-only)
+License: GPL-3.0-only
+GPL-3.0-only License
+GPL License v3.0 only
+v3.0 only of the GPL License
+v3.0 only of the GNU GPL License
 GNU General Public License v3.0 only
+v3.0 only of the GNU General Public License
