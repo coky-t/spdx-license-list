@@ -1,3 +1,4 @@
-ssh-keyscan
-ssh-keyscan License
 SPDX-License-Identifier: ssh-keyscan
+MODULE_LICENSE(ssh-keyscan)
+License: ssh-keyscan
+ssh-keyscan License

@@ -1,8 +1,9 @@
-SPL1
-SPL-1.0
+SPDX-License-Identifier: SPL-1.0
+MODULE_LICENSE(SPL-1.0)
+License: SPL-1.0
+SPL-1.0 License
+SPL License v1.0
+v1.0 of the SPL License
 Sun Public License v1.0
 Sun Public License Version 1.0
-SPL License v1
-SPL v1 License
-License: SPLv1
-SPDX-License-Identifier: SPL-1.0
+v1.0 of the Sun Public License

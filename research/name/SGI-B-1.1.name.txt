@@ -1,4 +1,12 @@
-SGI-B-1.1
+SPDX-License-Identifier: SGI-B-1.1
+MODULE_LICENSE(SGI-B-1.1)
+License: SGI-B-1.1
+SGI-B-1.1 License
+SGI-B License v1.1
+SGI License B v1.1
+v1.1 of SGI-B License
+v1.1 of SGI License B
 SGI Free Software License B v1.1
 SGI FREE SOFTWARE LICENSE B Version 1.1
 SGI Free Software License B, Version 1.1
+v1.1 of the SGI Free Software License B

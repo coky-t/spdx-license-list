@@ -1,2 +1,5 @@
-Spencer-94
+SPDX-License-Identifier: Spencer-94
+MODULE_LICENSE(Spencer-94)
+License: Spencer-94
+Spencer-94 License
 Spencer License 94

@@ -1,4 +1,11 @@
-SISSL
+SPDX-License-Identifier: SISSL
+MODULE_LICENSE(SISSL)
+License: SISSL
+SISSL License
+SISSL v1.1 License
+SISSL License v1.1
+v1.1 of the SISSL License
 Sun Industry Standards Source License v1.1
 Sun Industry Standards Source License - Version 1.1
+v1.1 of the Sun Industry Standards Source License
 Sun Standards License Version 1.1

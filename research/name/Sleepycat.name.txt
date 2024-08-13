@@ -1,2 +1,4 @@
-Sleepycat
+SPDX-License-Identifier: Sleepycat
+MODULE_LICENSE(Sleepycat)
+License: Sleepycat
 Sleepycat License

@@ -1,3 +1,4 @@
-SunPro
-SunPro License
 SPDX-License-Identifier: SunPro
+MODULE_LICENSE(SunPro)
+License: SunPro
+SunPro License

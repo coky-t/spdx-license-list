@@ -1,9 +1,7 @@
-SHL2
-SHL-2.0
+SPDX-License-Identifier: Apache-2.0 WITH SHL-2.0
+SPDX-Exception-Identifier: SHL-2.0
 Solderpad Hardware License v2.0
 Solderpad Hardware Licence Version 2.0
 SHL License v2
 SHL v2 License
 License: SHL v2
-SPDX-License-Identifier: Apache-2.0 WITH SHL-2.0
-SPDX-Exception-Identifier: SHL-2.0

@@ -1,3 +1,9 @@
-SimPL-2.0
+SPDX-License-Identifier: SimPL-2.0
+MODULE_LICENSE(SimPL-2.0)
+License: SimPL-2.0
+SimPL-2.0 License
+SimPL License v2.0
+v2.0 of the SimPL License
 Simple Public License 2.0
 Simple Public License (SimPL) 2.0
+v2.0 of the Simple Public License

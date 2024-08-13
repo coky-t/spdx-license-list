@@ -1,2 +1,5 @@
-Sun-PPP-2000
+SPDX-License-Identifier: Sun-PPP-2000
+MODULE_LICENSE(Sun-PPP-2000)
+License: Sun-PPP-2000
+Sun-PPP-2000 License
 Sun PPP License (2000)

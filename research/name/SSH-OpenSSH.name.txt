@@ -1,3 +1,5 @@
-SSH-OpenSSH
-SSH OpenSSH license
 SPDX-License-Identifier: SSH-OpenSSH
+MODULE_LICENSE(SSH-OpenSSH)
+License: SSH-OpenSSH
+SSH-OpenSSH License
+SSH OpenSSH license

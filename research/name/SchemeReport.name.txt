@@ -1,2 +1,5 @@
-SchemeReport
+SPDX-License-Identifier: SchemeReport
+MODULE_LICENSE(SchemeReport)
+License: SchemeReport
+SchemeReport License
 Scheme Language Report License

@@ -1,2 +1,5 @@
-Sendmail-8.23
-Sendmail License 8.23
+SPDX-License-Identifier: Sendmail-8.23
+MODULE_LICENSE(Sendmail-8.23)
+License: Sendmail-8.23
+Sendmail-8.23 License
+v8.23 of the Sendmail License

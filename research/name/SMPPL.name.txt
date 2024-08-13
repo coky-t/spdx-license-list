@@ -1,4 +1,7 @@
-SMPPL
+SPDX-License-Identifier: SMPPL
+MODULE_LICENSE(SMPPL)
+License: SMPPL
+SMPPL License
+SMP Public License
 Secure Messaging Protocol Public License
 Secure Messaging Protocol (SMP) Public License
-SMP Public License

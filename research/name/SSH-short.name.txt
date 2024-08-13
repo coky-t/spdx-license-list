@@ -1,2 +1,5 @@
-SSH-short
+SPDX-License-Identifier: SSH-short
+MODULE_LICENSE(SSH-short)
+License: SSH-short
+SSH-short License
 SSH short notice

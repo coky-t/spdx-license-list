@@ -1,2 +1,4 @@
-softSurfer
+SPDX-License-Identifier: softSurfer
+MODULE_LICENSE(softSurfer)
+License: softSurfer
 softSurfer License

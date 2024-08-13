@@ -1,3 +1,9 @@
-SSPL-1.0
+SPDX-License-Identifier: SSPL-1.0
+MODULE_LICENSE(SSPL-1.0)
+License: SSPL-1.0
+SSPL-1.0 License
+SSPL License v1.0
+v1.0 of the SSPL License
 Server Side Public License, v 1
 Server Side Public License, version 1
+v1 of the Server Side Public License

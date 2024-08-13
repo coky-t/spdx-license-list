@@ -1,2 +1,3 @@
-SANE-exception
+SPDX-License-Identifier: GPL-2.0-only WITH SANE-exception
+SPDX-Exception-Identifier: SANE-exception
 SANE Exception

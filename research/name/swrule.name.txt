@@ -1,2 +1,4 @@
-swrule
+SPDX-License-Identifier: swrule
+MODULE_LICENSE(swrule)
+License: swrule
 swrule License

@@ -1,9 +1,9 @@
-SCEA
-SCEA Shared Source License
-SCEA Shared Source License 1.0
-SCEA Shared Source License, Version 1.0
+SPDX-License-Identifier: SCEA
+MODULE_LICENSE(SCEA)
+License: SCEA
 SCEA License
 SCEA License v1
 SCEA v1 License
-License: SCEA
-SPDX-License-Identifier: SCEA
+SCEA Shared Source License
+SCEA Shared Source License 1.0
+SCEA Shared Source License, Version 1.0

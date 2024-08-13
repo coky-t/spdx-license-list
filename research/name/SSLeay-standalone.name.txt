@@ -1,3 +1,6 @@
-SSLeay-standalone
+SPDX-License-Identifier: SSLeay-standalone
+MODULE_LICENSE(SSLeay-standalone)
+License: SSLeay-standalone
+SSLeay-standalone License
 SSLeay License - standalone
 Original SSLeay License

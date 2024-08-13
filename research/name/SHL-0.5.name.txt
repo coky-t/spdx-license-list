@@ -1,4 +1,10 @@
-SHL-0.5
+SPDX-License-Identifier: SHL-0.5
+MODULE_LICENSE(SHL-0.5)
+License: SHL-0.5
+SHL-0.5 License
+SHL License v0.5
+v0.5 of the SHL License
 Solderpad Hardware License v0.5
 SOLDERPAD HARDWARE LICENSE version 0.5
 Solderpad Hardware License, Version 0.5
+v0.5 of the Solderpad Hardware License

@@ -1,4 +1,10 @@
-SMLNJ
-StandardML-NJ
+SPDX-License-Identifier: SMLNJ
+SPDX-License-Identifier: StandardML-NJ
+MODULE_LICENSE(SMLNJ)
+MODULE_LICENSE(StandardML-NJ)
+License: SMLNJ
+License: StandardML-NJ
+SMLNJ License
+StandardML-NJ License
 Standard ML of New Jersey License
 STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER

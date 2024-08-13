@@ -1,2 +1,3 @@
-SWI-exception
+SPDX-License-Identifier: GPL-2.0-only WITH SWI-exception
+SPDX-Exception-Identifier: SWI-exception
 SWI exception

@@ -1,2 +1,5 @@
-SGP4
+SPDX-License-Identifier: SGP4
+MODULE_LICENSE(SGP4)
+License: SGP4
+SGP4 License
 SGP4 Permission Notice

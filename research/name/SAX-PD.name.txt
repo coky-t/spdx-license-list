@@ -1,2 +1,5 @@
-SAX-PD
+SPDX-License-Identifier: SAX-PD
+MODULE_LICENSE(SAX-PD)
+License: SAX-PD
+SAX-PD License
 Sax Public Domain Notice

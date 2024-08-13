@@ -1,2 +1,4 @@
-Saxpath
+SPDX-License-Identifier: Saxpath
+MODULE_LICENSE(Saxpath)
+License: Saxpath
 Saxpath License

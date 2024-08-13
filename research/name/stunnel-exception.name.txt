@@ -1,2 +1,3 @@
-stunnel-exception
+SPDX-License-Identifier: GPL-2.0-only WITH stunnel-exception
+SPDX-Exception-Identifier: stunnel-exception
 stunnel Exception

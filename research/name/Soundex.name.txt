@@ -1,2 +1,4 @@
-Soundex
+SPDX-License-Identifier: Soundex
+MODULE_LICENSE(Soundex)
+License: Soundex
 Soundex License

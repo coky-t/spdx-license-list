@@ -1,4 +1,4 @@
-Sendmail
-Sendmail License
-License: Sendmail
 SPDX-License-Identifier: Sendmail
+MODULE_LICENSE(Sendmail)
+License: Sendmail
+Sendmail License

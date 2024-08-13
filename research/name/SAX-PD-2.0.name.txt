@@ -1,4 +1,12 @@
-SAX-PD-2.0
+SPDX-License-Identifier: SAX-PD-2.0
+MODULE_LICENSE(SAX-PD-2.0)
+MODULE_LICENSE(SAX-2.0)
+License: SAX-PD-2.0
+License: SAX-2.0
+SAX-PD-2.0 License
+SAX-2.0 License
+SAX-PD License v2.0
+SAX License v2.0
+v2.0 of the SAX-PD License
+v2.0 of the SAX License
 Sax Public Domain Notice 2.0
-SAX 2.0
-SAX2

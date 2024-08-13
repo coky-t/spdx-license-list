@@ -1,4 +1,4 @@
-SL
-SL License
-License: SL
 SPDX-License-Identifier: SL
+MODULE_LICENSE(SL)
+License: SL
+SL License

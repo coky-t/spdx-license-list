@@ -1,4 +1,5 @@
-SWL
-SWL License
 SPDX-License-Identifier: SWL
+MODULE_LICENSE(SWL)
+License: SWL
+SWL License
 Scheme Widget Library (SWL) Software License Agreement

@@ -1,2 +1,5 @@
-SGI-OpenGL
+SPDX-License-Identifier: SGI-OpenGL
+MODULE_LICENSE(SGI-OpenGL)
+License: SGI-OpenGL
+SGI-OpenGL License
 SGI OpenGL License

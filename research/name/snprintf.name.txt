@@ -1,4 +1,4 @@
-snprintf
-snprintf License
-License: snprintf
 SPDX-License-Identifier: snprintf
+MODULE_LICENSE(snprintf)
+License: snprintf
+snprintf License
