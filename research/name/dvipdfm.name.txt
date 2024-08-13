@@ -1,3 +1,4 @@
-dvipdfm
-dvipdfm License
 SPDX-License-Identifier: dvipdfm
+MODULE_LICENSE(dvipdfm)
+License: dvipdfm
+dvipdfm License

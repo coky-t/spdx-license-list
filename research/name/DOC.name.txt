@@ -1,2 +1,4 @@
-DOC
+SPDX-License-Identifier: DOC
+MODULE_LICENSE(DOC)
+License: DOC
 DOC License

@@ -1,3 +1,9 @@
-DRL-1.0
+SPDX-License-Identifier: DRL-1.0
+MODULE_LICENSE(DRL-1.0)
+License: DRL-1.0
+DRL-1.0 License
+DRL License v1.0
+v1.0 of the DRL License
 Detection Rule License 1.0
 Detection Rule License (DRL) 1.0
+v1.0 of the Detection Rule License

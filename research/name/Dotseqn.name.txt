@@ -1,2 +1,4 @@
-Dotseqn
+SPDX-License-Identifier: Dotseqn
+MODULE_LICENSE(Dotseqn)
+License: Dotseqn
 Dotseqn License

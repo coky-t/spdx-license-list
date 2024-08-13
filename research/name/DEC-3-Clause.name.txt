@@ -1,2 +1,5 @@
-DEC-3-Clause
+SPDX-License-Identifier: DEC-3-Clause
+MODULE_LICENSE(DEC-3-Clause)
+License: DEC-3-Clause
+DEC-3-Clause License
 DEC 3-Clause License

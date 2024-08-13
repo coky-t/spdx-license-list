@@ -1,2 +1,5 @@
-diffmark
+SPDX-License-Identifier: diffmark
+MODULE_LICENSE(diffmark)
+License: diffmark
+diffmark License
 diffmark license

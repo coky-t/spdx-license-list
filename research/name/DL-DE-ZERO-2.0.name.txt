@@ -1,4 +1,10 @@
-DL-DE-ZERO-2.0
-DL-DE->Zero-2.0
+SPDX-License-Identifier: DL-DE-ZERO-2.0
+MODULE_LICENSE(DL-DE-ZERO-2.0)
+License: DL-DE-ZERO-2.0
+DL-DE-ZERO-2.0 License
+DL-DE->Zero-2.0 License
+DL-DE-ZERO License v2.0
+v2.0 of the DL-DE-ZERO License
 Data licence Germany – zero – version 2.0
+version 2.0 of the Data licence Germany – zero
 Datenlizenz Deutschland – Zero – Version 2.0

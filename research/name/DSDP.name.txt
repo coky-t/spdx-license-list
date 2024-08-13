@@ -1,2 +1,4 @@
-DSDP
+SPDX-License-Identifier: DSDP
+MODULE_LICENSE(DSDP)
+License: DSDP
 DSDP License

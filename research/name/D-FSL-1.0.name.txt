@@ -1,3 +1,8 @@
-D-FSL-1.0
+SPDX-License-Identifier: D-FSL-1.0
+MODULE_LICENSE(D-FSL-1.0)
+License: D-FSL-1.0
+D-FSL-1.0 License
+D-FSL License v1.0
+v1.0 of the D-FSL License
 Deutsche Freie Software Lizenz
 German Free Software License

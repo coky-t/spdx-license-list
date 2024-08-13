@@ -1,4 +1,5 @@
-dtoa
-dtoa License
 SPDX-License-Identifier: dtoa
+MODULE_LICENSE(dtoa)
+License: dtoa
+dtoa License
 David M. Gay dtoa License

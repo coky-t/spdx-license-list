@@ -1,3 +1,4 @@
-DigiRule-FOSS-exception
+SPDX-License-Identifier: GPL-2.0-only WITH DigiRule-FOSS-exception
+SPDX-Exception-Identifier: DigiRule-FOSS-exception
 DigiRule FOSS License Exception
 DigiRule Solutions's FOSS License Exception Terms and Conditions
