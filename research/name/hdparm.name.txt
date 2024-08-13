@@ -1,2 +1,4 @@
-hdparm
+SPDX-License-Identifier: hdparm
+MODULE_LICENSE(hdparm)
+License: hdparm
 hdparm License

@@ -1,2 +1,5 @@
-HPND-export2-US
+SPDX-License-Identifier: HPND-export2-US
+MODULE_LICENSE(HPND-export2-US)
+License: HPND-export2-US
+HPND-export2-US License
 HPND with US Government export control and 2 disclaimers

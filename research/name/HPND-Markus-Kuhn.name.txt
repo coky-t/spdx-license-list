@@ -1,2 +1,5 @@
-HPND-Markus-Kuhn
+SPDX-License-Identifier: HPND-Markus-Kuhn
+MODULE_LICENSE(HPND-Markus-Kuhn)
+License: HPND-Markus-Kuhn
+HPND-Markus-Kuhn License
 Historical Permission Notice and Disclaimer - Markus Kuhn variant

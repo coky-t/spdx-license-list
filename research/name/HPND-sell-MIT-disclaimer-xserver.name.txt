@@ -1,2 +1,5 @@
-HPND-sell-MIT-disclaimer-xserver
+SPDX-License-Identifier: HPND-sell-MIT-disclaimer-xserver
+MODULE_LICENSE(HPND-sell-MIT-disclaimer-xserver)
+License: HPND-sell-MIT-disclaimer-xserver
+HPND-sell-MIT-disclaimer-xserver License
 Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer

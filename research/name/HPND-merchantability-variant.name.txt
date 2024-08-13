@@ -1,2 +1,5 @@
-HPND-merchantability-variant
+SPDX-License-Identifier: HPND-merchantability-variant
+MODULE_LICENSE(HPND-merchantability-variant)
+License: HPND-merchantability-variant
+HPND-merchantability-variant License
 Historical Permission Notice and Disclaimer - merchantability variant

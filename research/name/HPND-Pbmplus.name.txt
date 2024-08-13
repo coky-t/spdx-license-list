@@ -1,2 +1,5 @@
-HPND-Pbmplus
+SPDX-License-Identifier: HPND-Pbmplus
+MODULE_LICENSE(HPND-Pbmplus)
+License: HPND-Pbmplus
+HPND-Pbmplus License
 Historical Permission Notice and Disclaimer - Pbmplus variant

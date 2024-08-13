@@ -1,2 +1,5 @@
-HPND-sell-regexpr
+SPDX-License-Identifier: HPND-sell-regexpr
+MODULE_LICENSE(HPND-sell-regexpr)
+License: HPND-sell-regexpr
+HPND-sell-regexpr License
 Historical Permission Notice and Disclaimer - sell regexpr variant

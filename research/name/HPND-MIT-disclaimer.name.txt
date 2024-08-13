@@ -1,2 +1,5 @@
-HPND-MIT-disclaimer
+SPDX-License-Identifier: HPND-MIT-disclaimer
+MODULE_LICENSE(HPND-MIT-disclaimer)
+License: HPND-MIT-disclaimer
+HPND-MIT-disclaimer License
 Historical Permission Notice and Disclaimer with MIT disclaimer

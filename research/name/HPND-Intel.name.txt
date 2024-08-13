@@ -1,2 +1,5 @@
-HPND-Intel
+SPDX-License-Identifier: HPND-Intel
+MODULE_LICENSE(HPND-Intel)
+License: HPND-Intel
+HPND-Intel License
 Historical Permission Notice and Disclaimer - Intel variant

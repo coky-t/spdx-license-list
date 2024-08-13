@@ -1,2 +1,5 @@
-HPND-Fenneberg-Livingston
+SPDX-License-Identifier: HPND-Fenneberg-Livingston
+MODULE_LICENSE(HPND-Fenneberg-Livingston)
+License: HPND-Fenneberg-Livingston
+HPND-Fenneberg-Livingston License
 Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant

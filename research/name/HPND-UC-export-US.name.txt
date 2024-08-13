@@ -1,2 +1,5 @@
-HPND-UC-export-US
+SPDX-License-Identifier: HPND-UC-export-US
+MODULE_LICENSE(HPND-UC-export-US)
+License: HPND-UC-export-US
+HPND-UC-export-US License
 Historical Permission Notice and Disclaimer - University of California, US export warning

@@ -1,2 +1,5 @@
-HaskellReport
+SPDX-License-Identifier: HaskellReport
+MODULE_LICENSE(HaskellReport)
+License: HaskellReport
+HaskellReport License
 Haskell Language Report License

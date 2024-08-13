@@ -1,2 +1,5 @@
-HPND-doc
+SPDX-License-Identifier: HPND-doc
+MODULE_LICENSE(HPND-doc)
+License: HPND-doc
+HPND-doc License
 Historical Permission Notice and Disclaimer - documentation variant

@@ -1,2 +1,5 @@
-HTMLTIDY
+SPDX-License-Identifier: HTMLTIDY
+MODULE_LICENSE(HTMLTIDY)
+License: HTMLTIDY
+HTMLTIDY License
 HTML Tidy License

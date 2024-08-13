@@ -1,2 +1,5 @@
-HPND-Kevlin-Henney
+SPDX-License-Identifier: HPND-Kevlin-Henney
+MODULE_LICENSE(HPND-Kevlin-Henney)
+License: HPND-Kevlin-Henney
+HPND-Kevlin-Henney License
 Historical Permission Notice and Disclaimer - Kevlin Henney variant

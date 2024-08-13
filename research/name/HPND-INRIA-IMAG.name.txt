@@ -1,2 +1,5 @@
-HPND-INRIA-IMAG
+SPDX-License-Identifier: HPND-INRIA-IMAG
+MODULE_LICENSE(HPND-INRIA-IMAG)
+License: HPND-INRIA-IMAG
+HPND-INRIA-IMAG License
 Historical Permission Notice and Disclaimer - INRIA-IMAG variant

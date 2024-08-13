@@ -1,2 +1,5 @@
-HPND-export-US-acknowledgement
+SPDX-License-Identifier: HPND-export-US-acknowledgement
+MODULE_LICENSE(HPND-export-US-acknowledgement)
+License: HPND-export-US-acknowledgement
+HPND-export-US-acknowledgement License
 HPND with US Government export control warning and acknowledgment

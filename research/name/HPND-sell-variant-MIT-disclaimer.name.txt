@@ -1,2 +1,5 @@
-HPND-sell-variant-MIT-disclaimer
+SPDX-License-Identifier: HPND-sell-variant-MIT-disclaimer
+MODULE_LICENSE(HPND-sell-variant-MIT-disclaimer)
+License: HPND-sell-variant-MIT-disclaimer
+HPND-sell-variant-MIT-disclaimer License
 HPND sell variant with MIT disclaimer

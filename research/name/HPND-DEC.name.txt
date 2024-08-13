@@ -1,2 +1,5 @@
-HPND-DEC
+SPDX-License-Identifier: HPND-DEC
+MODULE_LICENSE(HPND-DEC)
+License: HPND-DEC
+HPND-DEC License
 Historical Permission Notice and Disclaimer - DEC variant

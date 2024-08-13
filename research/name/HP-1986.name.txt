@@ -1,2 +1,5 @@
-HP-1986
+SPDX-License-Identifier: HP-1986
+MODULE_LICENSE(HP-1986)
+License: HP-1986
+HP-1986 License
 Hewlett-Packard 1986 License

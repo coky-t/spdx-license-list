@@ -1,2 +1,5 @@
-HPND-UC
+SPDX-License-Identifier: HPND-UC
+MODULE_LICENSE(HPND-UC)
+License: HPND-UC
+HPND-UC License
 Historical Permission Notice and Disclaimer - University of California variant

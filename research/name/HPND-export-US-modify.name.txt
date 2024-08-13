@@ -1,2 +1,5 @@
-HPND-export-US-modify
+SPDX-License-Identifier: HPND-export-US-modify
+MODULE_LICENSE(HPND-export-US-modify)
+License: HPND-export-US-modify
+HPND-export-US-modify License
 HPND with US Government export control warning and modification rqmt

@@ -1,2 +1,5 @@
-HP-1989
+SPDX-License-Identifier: HP-1989
+MODULE_LICENSE(HP-1989)
+License: HP-1989
+HP-1989 License
 Hewlett-Packard 1989 License

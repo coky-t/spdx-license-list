@@ -1,2 +1,5 @@
-HPND-sell-variant
+SPDX-License-Identifier: HPND-sell-variant
+MODULE_LICENSE(HPND-sell-variant)
+License: HPND-sell-variant
+HPND-sell-variant License
 Historical Permission Notice and Disclaimer - sell variant
