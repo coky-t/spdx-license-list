@@ -1,3 +1,9 @@
-YPL-1.0
+SPDX-License-Identifier: YPL-1.0
+MODULE_LICENSE(YPL-1.0)
+License: YPL-1.0
+YPL-1.0 License
+YPL License v1.0
+v1.0 of the YPL License
 Yahoo! Public License v1.0
 Yahoo! Public License, Version 1.0 (YPL)
+v1.0 of the Yahoo! Public License
