@@ -1,2 +1,5 @@
-Knuth-CTAN
+SPDX-License-Identifier: Knuth-CTAN
+MODULE_LICENSE(Knuth-CTAN)
+License: Knuth-CTAN
+Knuth-CTAN License
 Knuth CTAN License

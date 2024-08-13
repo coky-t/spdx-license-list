@@ -1,2 +1,3 @@
-KiCad-libraries-exception
+SPDX-License-Identifier: CC-BY-SA-4.0 WITH KiCad-libraries-exception
+SPDX-Exception-Identifier: KiCad-libraries-exception
 KiCad Libraries Exception

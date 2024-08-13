@@ -1,2 +1,4 @@
-Kazlib
+SPDX-License-Identifier: Kazlib
+MODULE_LICENSE(Kazlib)
+License: Kazlib
 Kazlib License

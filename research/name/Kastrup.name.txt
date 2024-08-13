@@ -1,2 +1,4 @@
-Kastrup
+SPDX-License-Identifier: Kastrup
+MODULE_LICENSE(Kastrup)
+License: Kastrup
 Kastrup License
