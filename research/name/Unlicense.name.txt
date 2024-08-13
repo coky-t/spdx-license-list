@@ -1,2 +1,4 @@
-Unlicense
+SPDX-License-Identifier: Unlicense
+MODULE_LICENSE(Unlicense)
+License: Unlicense
 The Unlicense

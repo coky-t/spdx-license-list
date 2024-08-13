@@ -1,2 +1,3 @@
-Universal-FOSS-exception-1.0
+SPDX-License-Identifier: XXX WITH Universal-FOSS-exception-1.0
+SPDX-Exception-Identifier: Universal-FOSS-exception-1.0
 Universal FOSS Exception, Version 1.0

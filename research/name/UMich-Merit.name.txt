@@ -1,2 +1,5 @@
-UMich-Merit
+SPDX-License-Identifier: UMich-Merit
+MODULE_LICENSE(UMich-Merit)
+License: UMich-Merit
+UMich-Merit License
 Michigan/Merit Networks License

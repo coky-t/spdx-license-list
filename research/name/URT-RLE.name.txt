@@ -1,2 +1,5 @@
-URT-RLE
+SPDX-License-Identifier: URT-RLE
+MODULE_LICENSE(URT-RLE)
+License: URT-RLE
+URT-RLE License
 Utah Raster Toolkit Run Length Encoded License

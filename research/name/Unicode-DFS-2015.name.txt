@@ -1,2 +1,6 @@
-Unicode-DFS-2015
+SPDX-License-Identifier: Unicode-DFS-2015
+MODULE_LICENSE(Unicode-DFS-2015)
+License: Unicode-DFS-2015
+Unicode-DFS-2015 License
+Unicode License DFS 2015
 Unicode License Agreement - Data Files and Software (2015)

@@ -1,3 +1,4 @@
-ulem
-ulem License
 SPDX-License-Identifier: ulem
+MODULE_LICENSE(ulem)
+License: ulem
+ulem License

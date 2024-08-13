@@ -1,6 +1,6 @@
-Unicode3
-Unicode-3.0
-Unicode License v3
-Unicode v3 License
-License: Unicode v3
 SPDX-License-Identifier: Unicode-3.0
+MODULE_LICENSE(Unicode-3.0)
+License: Unicode-3.0
+Unicode-3.0 License
+Unicode License v3.0
+v3.0 of the Unicode License

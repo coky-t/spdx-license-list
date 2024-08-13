@@ -1,4 +1,10 @@
-UCL-1.0
+SPDX-License-Identifier: UCL-1.0
+MODULE_LICENSE(UCL-1.0)
+License: UCL-1.0
+UCL-1.0 License
+UCL License v1.0
+v1.0 of the UCL License
 Upstream Compatibility License 1.0
 Upstream Compatibility License v1.0
 Upstream Compatibility License v. 1.0 (UCL-1.0)
+v1.0 of the Upstream Compatibility License

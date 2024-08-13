@@ -1,2 +1,4 @@
-UnixCrypt
+SPDX-License-Identifier: UnixCrypt
+MODULE_LICENSE(UnixCrypt)
+License: UnixCrypt
 UnixCrypt License

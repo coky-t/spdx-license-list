@@ -1,3 +1,9 @@
-UPL-1.0
+SPDX-License-Identifier: UPL-1.0
+MODULE_LICENSE(UPL-1.0)
+License: UPL-1.0
+UPL-1.0 License
+UPL License v1.0
+v1.0 of the UPL License
 Universal Permissive License v1.0
 Universal Permissive License (UPL), Version 1.0
+v1.0 of the Universal Permissive License

@@ -1,2 +1,4 @@
-UCAR
+SPDX-License-Identifier: UCAR
+MODULE_LICENSE(UCAR)
+License: UCAR
 UCAR License

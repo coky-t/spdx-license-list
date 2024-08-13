@@ -1,4 +1,5 @@
-Unicode-TOU
-Unicode-TOU License
 SPDX-License-Identifier: Unicode-TOU
+MODULE_LICENSE(Unicode-TOU)
+License: Unicode-TOU
+Unicode-TOU License
 Unicode Terms of Use

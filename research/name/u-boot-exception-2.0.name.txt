@@ -1,3 +1,4 @@
-u-boot-exception-2.0
+SPDX-License-Identifier: GPL-2.0-only WITH u-boot-exception-2.0
+SPDX-Exception-Identifier: u-boot-exception-2.0
 U-Boot exception 2.0
 U-Boot License Exception 2.0
