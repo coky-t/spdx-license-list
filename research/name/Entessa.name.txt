@@ -1,3 +1,7 @@
-Entessa
+SPDX-License-Identifier: Entessa
+MODULE_LICENSE(Entessa)
+License: Entessa
+Entessa License
 Entessa Public License v1.0
 Entessa Public License Version. 1.0
+v1.0 of the Entessa Public License

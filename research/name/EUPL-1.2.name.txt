@@ -1,5 +1,11 @@
-EUPL-1.2
-EUPL v. 1.2
+SPDX-License-Identifier: EUPL-1.2
+MODULE_LICENSE(EUPL-1.2)
+License: EUPL-1.2
+EUPL-1.2 License
+EUPL V.1.2 License
+EUPL License v1.2
+v1.2 of the EUPL License
 European Union Public License 1.2
-European Union Public Licence v. 1.2
+European Union Public Licence V.1.2
 European Union Public Licence (EUPL) v. 1.2
+v1.2 of the European Union Public License

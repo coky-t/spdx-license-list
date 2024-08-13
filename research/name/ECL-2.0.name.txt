@@ -1,4 +1,11 @@
-ECL-2.0
+SPDX-License-Identifier: ECL-2.0
+MODULE_LICENSE(ECL-2.0)
+License: ECL-2.0
+ECL-2.0 License
+ECL License v2.0
+v2.0 of the ECL License
 Educational Community License v2.0
+Educational Community License ("ECL") v2.0
 Educational Community License Version 2.0
 Educational Community License version 2.0 ("ECL")
+v2.0 of the Educational Community License

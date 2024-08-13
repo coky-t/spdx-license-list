@@ -1,2 +1,4 @@
-Eurosym
+SPDX-License-Identifier: Eurosym
+MODULE_LICENSE(Eurosym)
+License: Eurosym
 Eurosym License

@@ -1,2 +1,7 @@
-Elastic-2.0
+SPDX-License-Identifier: Elastic-2.0
+MODULE_LICENSE(Elastic-2.0)
+License: Elastic-2.0
+Elastic-2.0 License
+Elastic License v2.0
+v2.0 of the Elastic License
 Elastic License 2.0

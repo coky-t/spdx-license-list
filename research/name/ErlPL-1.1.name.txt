@@ -1,4 +1,11 @@
-ErlPL-1.1
+SPDX-License-Identifier: ErlPL-1.1
+MODULE_LICENSE(ErlPL-1.1)
+License: ErlPL-1.1
+ErlPL-1.1 License
+ErlPL License v1.1
+v1.1 of the ErlPL License
 Erlang Public License v1.1
+Erlang Public License ("EPL") v1.1
 ERLANG PUBLIC LICENSE Version 1.1
 Erlang Public License, Version 1.1
+v1.1 of the Erlang Public License

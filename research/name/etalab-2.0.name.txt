@@ -1,4 +1,10 @@
-etalab-2.0
+SPDX-License-Identifier: etalab-2.0
+MODULE_LICENSE(etalab-2.0)
+License: etalab-2.0
+etalab-2.0 License
+etalab License v2.0
+v2.0 of the etalab License
 Etalab Open License 2.0
+v2.0 of the Etalab Open License
 LICENCE OUVERTE / OPEN LICENCE Version 2.0
 version 2.0 de la Licence Ouverte

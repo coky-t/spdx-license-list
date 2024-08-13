@@ -1,3 +1,11 @@
+SPDX-License-Identifier: EFL-2.0
+MODULE_LICENSE(EFL-2.0)
+License: EFL-2.0
+EFL-2.0 License
+EFL License v2.0
+v2.0 of the EFL License
 EFL-2.0
 Eiffel Forum License v2.0
+Eiffel Forum License ("EFL") v2.0
 Eiffel Forum License, version 2
+v2.0 of the Eiffel Forum License

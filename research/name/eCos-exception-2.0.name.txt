@@ -1,2 +1,3 @@
-eCos-exception-2.0
+SPDX-License-Identifier: GPL-2.0-only WITH eCos-exception-2.0
+SPDX-Exception-Identifier: eCos-exception-2.0
 eCos exception 2.0

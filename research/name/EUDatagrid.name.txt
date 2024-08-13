@@ -1,2 +1,5 @@
-EUDatagrid
+SPDX-License-Identifier: EUDatagrid
+MODULE_LICENSE(EUDatagrid)
+License: EUDatagrid
+EUDatagrid License
 EU DataGrid Software License

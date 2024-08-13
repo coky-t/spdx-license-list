@@ -1,6 +1,10 @@
-EPL-1.0
-EPL-1.0 License
 SPDX-License-Identifier: EPL-1.0
+MODULE_LICENSE(EPL-1.0)
+License: EPL-1.0
+EPL-1.0 License
+EPL License v1.0
+v1.0 of the EPL License
 Eclipse Public License 1.0
 Eclipse Public License - v 1.0
 Eclipse Public License (EPL) v. 1.0
+v1.0 of the Eclipse Public License

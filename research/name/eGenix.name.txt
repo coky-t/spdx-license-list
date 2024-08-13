@@ -1,5 +1,7 @@
-eGenix
-eGenix License
 SPDX-License-Identifier: eGenix
+MODULE_LICENSE(eGenix)
+License: eGenix
+eGenix License
 eGenix.com Public License 1.1.0
 EGENIX.COM PUBLIC LICENSE AGREEMENT Version 1.1.0
+v1.1.0 of the eGenix.com Public License

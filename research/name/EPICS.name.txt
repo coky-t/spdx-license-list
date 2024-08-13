@@ -1,2 +1,5 @@
-EPICS
+SPDX-License-Identifier: EPICS
+MODULE_LICENSE(EPICS)
+License: EPICS
+EPICS License
 EPICS Open License

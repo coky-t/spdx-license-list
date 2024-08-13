@@ -1,7 +1,11 @@
-EPL-2.0
-EPL-2.0 License
 SPDX-License-Identifier: EPL-2.0
+MODULE_LICENSE(EPL-2.0)
+License: EPL-2.0
+EPL-2.0 License
+EPL License v2.0
+v2.0 of the EPL License
 Eclipse Public License 2.0
 Eclipse Public License - v 2.0
 Eclipse Public License, v. 2.0
 Eclipse Public License (EPL) v. 2.0
+v 2.0 of the Eclipse Public License
