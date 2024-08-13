@@ -1,2 +1,6 @@
-Python-2.0.1
+SPDX-License-Identifier: Python-2.0.1
+MODULE_LICENSE(Python-2.0.1)
+License: Python-2.0.1
+Python-2.0.1 License
 Python License 2.0.1
+v2.0.1 of the Python License

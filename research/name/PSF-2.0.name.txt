@@ -1,9 +1,10 @@
-PSF2
-PSF-2.0
+SPDX-License-Identifier: PSF-2.0
+MODULE_LICENSE(PSF-2.0)
+License: PSF-2.0
+PSF-2.0 License
+PSF License v2.0
+v2.0 of the PSF License
 Python Software Foundation License 2.0
 PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
+v2.0 of the Python Software Foundation License
 Python Software Foundation License 2.1.1
-PSF License v2
-PSF v2 License
-License: PSFv2
-SPDX-License-Identifier: PSF-2.0

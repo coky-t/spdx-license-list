@@ -1,3 +1,5 @@
-Pixar
+SPDX-License-Identifier: Pixar
+MODULE_LICENSE(Pixar)
+License: Pixar
 Pixar License
 Modified Apache 2.0 License

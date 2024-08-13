@@ -1,2 +1,4 @@
-PADL
+SPDX-License-Identifier: PADL
+MODULE_LICENSE(PADL)
+License: PADL
 PADL License

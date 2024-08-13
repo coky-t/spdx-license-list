@@ -1,2 +1,4 @@
-pkgconf
+SPDX-License-Identifier: pkgconf
+MODULE_LICENSE(pkgconf)
+License: pkgconf
 pkgconf License

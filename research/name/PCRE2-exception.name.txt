@@ -1,2 +1,3 @@
-PCRE2-exception
+SPDX-License-Identifier: BSD-3-Clause WITH PCRE2-exception
+SPDX-Exception-Identifier: PCRE2-exception
 PCRE2 exception

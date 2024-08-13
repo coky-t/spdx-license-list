@@ -1,8 +1,7 @@
-PHP3
-PHP-3.0
-PHP License 3.0
+SPDX-License-Identifier: PHP-3.0
+MODULE_LICENSE(PHP-3.0)
+License: PHP-3.0
+PHP-3.0 License
 PHP License v3.0
 PHP License, version 3.0
-PHP v3 License
-License: PHPv3
-SPDX-License-Identifier: PHP-3.0
+v3.0 of the PHP License

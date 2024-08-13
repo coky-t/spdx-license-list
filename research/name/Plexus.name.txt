@@ -1,2 +1,5 @@
-Plexus
+SPDX-License-Identifier: Plexus
+MODULE_LICENSE(Plexus)
+License: Plexus
+Plexus License
 Plexus Classworlds License

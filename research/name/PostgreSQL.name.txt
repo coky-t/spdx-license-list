@@ -1,3 +1,4 @@
-PostgreSQL
-PostgreSQL License
 SPDX-License-Identifier: PostgreSQL
+MODULE_LICENSE(PostgreSQL)
+License: PostgreSQL
+PostgreSQL License

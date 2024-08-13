@@ -1,2 +1,6 @@
-PolyForm-Noncommercial-1.0.0
+SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+MODULE_LICENSE(PolyForm-Noncommercial-1.0.0)
+License: PolyForm-Noncommercial-1.0.0
+PolyForm-Noncommercial-1.0.0 License
 PolyForm Noncommercial License 1.0.0
+v1.0.0 of the PolyForm Noncommercial License

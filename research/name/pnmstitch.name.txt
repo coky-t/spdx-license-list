@@ -1,2 +1,4 @@
-pnmstitch
+SPDX-License-Identifier: pnmstitch
+MODULE_LICENSE(pnmstitch)
+License: pnmstitch
 pnmstitch License

@@ -1,4 +1,4 @@
-psutils
-psutils License
-License: psutils
 SPDX-License-Identifier: psutils
+MODULE_LICENSE(psutils)
+License: psutils
+psutils License

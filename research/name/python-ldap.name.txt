@@ -1,2 +1,5 @@
-python-ldap
+SPDX-License-Identifier: python-ldap
+MODULE_LICENSE(python-ldap)
+License: python-ldap
+python-ldap License
 Python ldap License

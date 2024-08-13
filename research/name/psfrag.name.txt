@@ -1,2 +1,4 @@
-psfrag
+SPDX-License-Identifier: psfrag
+MODULE_LICENSE(psfrag)
+License: psfrag
 psfrag License

@@ -1,6 +1,6 @@
-Python2
-Python-2.0
-Python License 2.0
-Python v2 License
-License: Python v2
 SPDX-License-Identifier: Python-2.0
+MODULE_LICENSE(Python-2.0)
+License: Python-2.0
+Python-2.0 License
+Python License 2.0
+v2.0 of Python License

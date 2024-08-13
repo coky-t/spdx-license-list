@@ -1,4 +1,7 @@
-PHP-3.01
+SPDX-License-Identifier: PHP-3.01
+MODULE_LICENSE(PHP-3.01)
+License: PHP-3.01
+PHP-3.01 License
 PHP License 3.01
 PHP License v3.01
 PHP License, version 3.01
