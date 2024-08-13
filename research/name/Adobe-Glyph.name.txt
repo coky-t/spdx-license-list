@@ -1,2 +1,5 @@
-Adobe-Glyph
+SPDX-License-Identifier: Adobe-Glyph
+MODULE_LICENSE(Adobe-Glyph)
+License: Adobe-Glyph
+Adobe-Glyph License
 Adobe Glyph List License

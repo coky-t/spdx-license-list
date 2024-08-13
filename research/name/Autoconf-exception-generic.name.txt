@@ -1,2 +1,3 @@
-Autoconf-exception-generic
+SPDX-License-Identifier: GPL-2.0-only WITH Autoconf-exception-generic
+SPDX-Exception-Identifier: Autoconf-exception-generic
 Autoconf generic exception

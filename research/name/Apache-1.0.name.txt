@@ -1,3 +1,12 @@
-Apache-1.0
+SPDX-License-Identifier: Apache-1.0
+MODULE_LICENSE(Apache-1.0)
+MODULE_LICENSE(ASL-1.0)
+License: Apache-1.0
+License: ASL-1.0
+Apache-1.0 License
+ASL-1.0 License
 Apache License 1.0
+ASL License 1.0
+v1.0 of the Apache License
+v1.0 of the ASL License
 Apache Software License 1.0

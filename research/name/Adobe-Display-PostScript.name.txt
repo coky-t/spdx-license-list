@@ -1,2 +1,5 @@
-Adobe-Display-PostScript
+SPDX-License-Identifier: Adobe-Display-PostScript
+MODULE_LICENSE(Adobe-Display-PostScript)
+License: Adobe-Display-PostScript
+Adobe-Display-PostScript License
 Adobe Display PostScript License

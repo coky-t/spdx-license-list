@@ -1,2 +1,3 @@
-Asterisk-linking-protocols-exception
+SPDX-License-Identifier: XXX WITH Asterisk-linking-protocols-exception
+SPDX-Exception-Identifier: Asterisk-linking-protocols-exception
 Asterisk linking protocols exception

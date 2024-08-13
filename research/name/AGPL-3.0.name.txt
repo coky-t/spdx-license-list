@@ -1,7 +1,14 @@
-Affero GPL v3
-AGPL-3.0
-AGPL-3.0 License
 SPDX-License-Identifier: AGPL-3.0
+MODULE_LICENSE(AGPL-3.0)
+MODULE_LICENSE(Affero GPL v3)
+License: AGPL-3.0
+License: Affero GPL v3
+AGPL-3.0 License
+Affero GPL v3 License
+AGPL License v3.0
+Affero GPL License v3
+v3.0 of the AGPL License
+v3 of the Affero GPL License
 GNU Affero General Public License v3.0
 GNU Affero General Public License as published by the Free Software Foundation, version 3
 GNU AFFERO GENERAL PUBLIC LICENSE Version 3

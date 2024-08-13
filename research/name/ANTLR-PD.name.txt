@@ -1,2 +1,5 @@
-ANTLR-PD
+SPDX-License-Identifier: ANTLR-PD
+MODULE_LICENSE(ANTLR-PD)
+License: ANTLR-PD
+ANTLR-PD License
 ANTLR Software Rights Notice

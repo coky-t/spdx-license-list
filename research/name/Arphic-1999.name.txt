@@ -1,2 +1,5 @@
-Arphic-1999
+SPDX-License-Identifier: Arphic-1999
+MODULE_LICENSE(Arphic-1999)
+License: Arphic-1999
+Arphic-1999 License
 Arphic Public License

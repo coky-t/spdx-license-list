@@ -1,2 +1,5 @@
-App-s2p
+SPDX-License-Identifier: App-s2p
+MODULE_LICENSE(App-s2p)
+License: App-s2p
+App-s2p License
 App::s2p License

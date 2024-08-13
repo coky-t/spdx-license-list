@@ -1,3 +1,4 @@
-Autoconf-exception-3.0
+SPDX-License-Identifier: GPL-3.0-only WITH Autoconf-exception-3.0
+SPDX-Exception-Identifier: Autoconf-exception-3.0
 Autoconf exception 3.0
 AUTOCONF CONFIGURE SCRIPT EXCEPTION Version 3.0

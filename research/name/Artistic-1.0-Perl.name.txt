@@ -1,4 +1,8 @@
-Artistic-1.0-Perl
+SPDX-License-Identifier: Artistic-1.0-Perl
+MODULE_LICENSE(Artistic-1.0-Perl)
+License: Artistic-1.0-Perl
+Artistic-1.0-Perl License
 Artistic License 1.0 (Perl)
+v1.0 of the Artistic License (Perl)
 Perl Artistic License
 Artistic license From Perl 5.8.0

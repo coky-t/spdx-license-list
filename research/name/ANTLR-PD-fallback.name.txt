@@ -1,2 +1,5 @@
-ANTLR-PD-fallback
+SPDX-License-Identifier: ANTLR-PD-fallback
+MODULE_LICENSE(ANTLR-PD-fallback)
+License: ANTLR-PD-fallback
+ANTLR-PD-fallback License
 ANTLR Software Rights Notice with license fallback

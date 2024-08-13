@@ -1,3 +1,10 @@
-APSL-1.0
+SPDX-License-Identifier: APSL-1.0
+MODULE_LICENSE(APSL-1.0)
+License: APSL-1.0
+APSL-1.0 License
+APSL License v1.0
+v1.0 of the APSL License
 Apple Public Source License 1.0
 APPLE PUBLIC SOURCE LICENSE Version 1.0
+Apple Public Source License ("APSL") Version 1.0
+v1.0 of the Apple Public Source License

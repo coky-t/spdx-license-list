@@ -1,4 +1,5 @@
-AML
-AML License
 SPDX-License-Identifier: AML
+MODULE_LICENSE(AML)
+License: AML
+AML License
 Apple MIT License

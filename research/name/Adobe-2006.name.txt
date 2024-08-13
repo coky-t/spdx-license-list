@@ -1,3 +1,6 @@
-Adobe-2006
+SPDX-License-Identifier: Adobe-2006
+MODULE_LICENSE(Adobe-2006)
+License: Adobe-2006
+Adobe-2006 License
 Adobe Systems Incorporated Source Code License Agreement
 Adobe Systems Incorporated(r) Source Code License Agreement

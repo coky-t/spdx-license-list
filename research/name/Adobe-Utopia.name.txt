@@ -1,2 +1,5 @@
-Adobe-Utopia
+SPDX-License-Identifier: Adobe-Utopia
+MODULE_LICENSE(Adobe-Utopia)
+License: Adobe-Utopia
+Adobe-Utopia License
 Adobe Utopia Font License

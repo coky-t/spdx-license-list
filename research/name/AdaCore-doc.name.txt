@@ -1,2 +1,5 @@
-AdaCore-doc
+SPDX-License-Identifier: AdaCore-doc
+MODULE_LICENSE(AdaCore-doc)
+License: AdaCore-doc
+AdaCore-doc License
 AdaCore Doc License

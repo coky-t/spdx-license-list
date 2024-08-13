@@ -1,2 +1,3 @@
-Asterisk-exception
+SPDX-License-Identifier: XXX WITH Asterisk-exception
+SPDX-Exception-Identifier: Asterisk-exception
 Asterisk exception

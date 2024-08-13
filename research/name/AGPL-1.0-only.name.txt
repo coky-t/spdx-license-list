@@ -1,3 +1,10 @@
-AGPL-1.0-only
+SPDX-License-Identifier: AGPL-1.0-only
+MODULE_LICENSE(AGPL-1.0-only)
+License: AGPL-1.0-only
+AGPL-1.0-only License
+AGPL License v1.0 only
+AGPL v1.0 only License
+v1.0 only of the AGPL License
 Affero General Public License v1.0 only
 Affero General Public License (AGPL) v. 1 only
+v1.0 only of the Affero General Public License

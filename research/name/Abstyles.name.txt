@@ -1,2 +1,4 @@
-Abstyles
+SPDX-License-Identifier: Abstyles
+MODULE_LICENSE(Abstyles)
+License: Abstyles
 Abstyles License

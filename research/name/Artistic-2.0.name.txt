@@ -1,2 +1,6 @@
-Artistic-2.0
+SPDX-License-Identifier: Artistic-2.0
+MODULE_LICENSE(Artistic-2.0)
+License: Artistic-2.0
+Artistic-2.0 License
 Artistic License 2.0
+v2.0 of the Artistic License

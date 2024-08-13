@@ -1,3 +1,14 @@
-AGPL-3.0-only
+SPDX-License-Identifier: AGPL-3.0-only
+MODULE_LICENSE(AGPL-3.0-only)
+MODULE_LICENSE(Affero GPL v3 only)
+License: AGPL-3.0-only
+License: Affero GPL v3 only
+AGPL-3.0-only License
+Affero GPL v3 only License
+AGPL License v3.0 only
+Affero GPL License v3 only
+v3.0 only of the AGPL License
+v3 only of the Affero GPL License
 GNU Affero General Public License v3.0 only
 GNU Affero General Public License (AGPL) v. 3 only
+version 3 only of the GNU Affero General Public License

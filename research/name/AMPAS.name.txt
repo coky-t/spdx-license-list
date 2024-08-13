@@ -1,3 +1,8 @@
-AMPAS
-AMPASBSD
+SPDX-License-Identifier: AMPAS
+MODULE_LICENSE(AMPAS)
+MODULE_LICENSE(AMPASBSD)
+License: AMPAS
+License: AMPASBSD
+AMPAS License
+AMPASBSD License
 Academy of Motion Picture Arts and Sciences BSD

@@ -1,2 +1,3 @@
-Autoconf-exception-macro
+SPDX-License-Identifier: GPL-2.0-only WITH Autoconf-exception-macro
+SPDX-Exception-Identifier: Autoconf-exception-macro
 Autoconf macro exception

@@ -1,2 +1,5 @@
-any-OSI
+SPDX-License-Identifier: any-OSI
+MODULE_LICENSE(any-OSI)
+License: any-OSI
+any-OSI License
 Any OSI License

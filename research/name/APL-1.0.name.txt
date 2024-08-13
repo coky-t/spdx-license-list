@@ -1,3 +1,9 @@
-APL-1.0
+SPDX-License-Identifier: APL-1.0
+MODULE_LICENSE(APL-1.0)
+License: APL-1.0
+APL-1.0 License
+APL License v1.0
+v1.0 of the APL License
 Adaptive Public License 1.0
 ADAPTIVE PUBLIC LICENSE Version 1.0
+Adaptive Public License ("APL") Version 1.0

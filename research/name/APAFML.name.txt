@@ -1,2 +1,5 @@
-APAFML
+SPDX-License-Identifier: APAFML
+MODULE_LICENSE(APAFML)
+License: APAFML
+APAFML License
 Adobe Postscript AFM License

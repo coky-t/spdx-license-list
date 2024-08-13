@@ -1,4 +1,11 @@
-AFL-2.1
+SPDX-License-Identifier: AFL-2.1
+MODULE_LICENSE(AFL-2.1)
+License: AFL-2.1
+AFL-2.1 License
+AFL v2.1 License
+AFL License v2.1
+v2.1 of the AFL License
 Academic Free License v2.1
-Academic Free License v.2.1
+Academic Free License ("AFL") v.2.1
 Academic Free License version 2.1
+v2.1 of the Academic Free License

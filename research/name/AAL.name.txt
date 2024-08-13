@@ -1,4 +1,5 @@
-AAL
-Attribution Assurance License
-AAL License
 SPDX-License-Identifier: AAL
+MODULE_LICENSE(AAL)
+License: AAL
+AAL License
+Attribution Assurance License

@@ -1,4 +1,5 @@
-Aladdin
-Aladdin Free Public License
-Aladdin License
 SPDX-License-Identifier: Aladdin
+MODULE_LICENSE(Aladdin)
+License: Aladdin
+Aladdin License
+Aladdin Free Public License

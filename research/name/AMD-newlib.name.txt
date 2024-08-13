@@ -1,2 +1,5 @@
-AMD-newlib
+SPDX-License-Identifier: AMD-newlib
+MODULE_LICENSE(AMD-newlib)
+License: AMD-newlib
+AMD-newlib License
 AMD newlib License

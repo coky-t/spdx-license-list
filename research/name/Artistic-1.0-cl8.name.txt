@@ -1,2 +1,6 @@
-Artistic-1.0-cl8
+SPDX-License-Identifier: Artistic-1.0-cl8
+MODULE_LICENSE(Artistic-1.0-cl8)
+License: Artistic-1.0-cl8
+Artistic-1.0-cl8 License
 Artistic License 1.0 w/clause 8
+v1.0 of the Artistic License w/clause 8

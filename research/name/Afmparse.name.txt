@@ -1,2 +1,4 @@
-Afmparse
+SPDX-License-Identifier: Afmparse
+MODULE_LICENSE(Afmparse)
+License: Afmparse
 Afmparse License

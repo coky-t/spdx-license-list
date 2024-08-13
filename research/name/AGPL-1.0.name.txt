@@ -1,6 +1,11 @@
-AGPL-1.0
-AGPL-1.0 License
 SPDX-License-Identifier: AGPL-1.0
+MODULE_LICENSE(AGPL-1.0)
+License: AGPL-1.0
+AGPL-1.0 License
+AGPL License v1.0
+AGPL v1.0 License
+v1.0 of the AGPL License
 Affero General Public License v1.0
 AFFERO GENERAL PUBLIC LICENSE Version 1
 Affero General Public License (AGPL) v. 1
+v1.0 of the Affero General Public License

@@ -1,2 +1,5 @@
-AML-glslang
+SPDX-License-Identifier: AML-glslang
+MODULE_LICENSE(AML-glslang)
+License: AML-glslang
+AML-glslang License
 AML glslang variant License

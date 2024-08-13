@@ -1,2 +1,5 @@
-AMDPLPA
+SPDX-License-Identifier: AMDPLPA
+MODULE_LICENSE(AMDPLPA)
+License: AMDPLPA
+AMDPLPA License
 AMD's plpa_map.c License
