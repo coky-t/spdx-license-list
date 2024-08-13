@@ -1,3 +1,6 @@
-iMatix
+SPDX-License-Identifier: iMatix
+MODULE_LICENSE(iMatix)
+License: iMatix
+iMatix License
 iMatix Standard Function Library Agreement
 SFL License Agreement

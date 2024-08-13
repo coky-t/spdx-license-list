@@ -1,3 +1,4 @@
-Info-ZIP
-Info-ZIP License
 SPDX-License-Identifier: Info-ZIP
+MODULE_LICENSE(Info-ZIP)
+License: Info-ZIP
+Info-ZIP License

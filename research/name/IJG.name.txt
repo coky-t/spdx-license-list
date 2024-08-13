@@ -1,4 +1,5 @@
-IJG
-IJG License
 SPDX-License-Identifier: IJG
+MODULE_LICENSE(IJG)
+License: IJG
+IJG License
 Independent JPEG Group License

@@ -1,7 +1,9 @@
-IPL1
-IPL-1.0
+SPDX-License-Identifier: IPL-1.0
+MODULE_LICENSE(IPL-1.0)
+License: IPL-1.0
+IPL-1.0 License
+IPL License v1.0
+v1.0 of the IPL License
 IBM Public License v1.0
 IBM Public License Version 1.0
-IPL1 License
-License: IPL1
-SPDX-License-Identifier: IPL-1.0
+v1.0 of the IBM Public License

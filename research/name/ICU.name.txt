@@ -1,4 +1,4 @@
-ICU
-ICU License
-License: ICU
 SPDX-License-Identifier: ICU
+MODULE_LICENSE(ICU)
+License: ICU
+ICU License

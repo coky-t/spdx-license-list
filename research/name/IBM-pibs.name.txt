@@ -1,2 +1,5 @@
-IBM-pibs
+SPDX-License-Identifier: IBM-pibs
+MODULE_LICENSE(IBM-pibs)
+License: IBM-pibs
+IBM-pibs License
 IBM PowerPC Initialization and Boot Software

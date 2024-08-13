@@ -1,2 +1,5 @@
-IJG-short
+SPDX-License-Identifier: IJG-short
+MODULE_LICENSE(IJG-short)
+License: IJG-short
+IJG-short License
 Independent JPEG Group License - short

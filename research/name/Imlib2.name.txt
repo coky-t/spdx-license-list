@@ -1,2 +1,4 @@
-Imlib2
+SPDX-License-Identifier: Imlib2
+MODULE_LICENSE(Imlib2)
+License: Imlib2
 Imlib2 License

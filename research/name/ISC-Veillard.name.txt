@@ -1,2 +1,5 @@
-ISC-Veillard
+SPDX-License-Identifier: ISC-Veillard
+MODULE_LICENSE(ISC-Veillard)
+License: ISC-Veillard
+ISC-Veillard License
 ISC Veillard variant

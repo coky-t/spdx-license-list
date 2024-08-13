@@ -1,3 +1,4 @@
-ImageMagick
-ImageMagick License
 SPDX-License-Identifier: ImageMagick
+MODULE_LICENSE(ImageMagick)
+License: ImageMagick
+ImageMagick License

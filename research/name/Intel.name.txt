@@ -1,2 +1,5 @@
-Intel
+SPDX-License-Identifier: Intel
+MODULE_LICENSE(Intel)
+License: Intel
+Intel License
 Intel Open Source License

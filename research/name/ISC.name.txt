@@ -1,4 +1,4 @@
-ISC
-ISC License
-License: ISC
 SPDX-License-Identifier: ISC
+MODULE_LICENSE(ISC)
+License: ISC
+ISC License

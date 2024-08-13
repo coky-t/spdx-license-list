@@ -1,2 +1,5 @@
-IEC-Code-Components-EULA
+SPDX-License-Identifier: IEC-Code-Components-EULA
+MODULE_LICENSE(IEC-Code-Components-EULA)
+License: IEC-Code-Components-EULA
+IEC-Code-Components-EULA License
 IEC Code Components End-user licence agreement

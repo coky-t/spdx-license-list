@@ -1,3 +1,6 @@
-Intel-ACPI
+SPDX-License-Identifier: Intel-ACPI
+MODULE_LICENSE(Intel-ACPI)
+License: Intel-ACPI
+Intel-ACPI License
 Intel ACPI Software License Agreement
 ACPI - Software License Agreement

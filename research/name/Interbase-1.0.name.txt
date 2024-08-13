@@ -1,3 +1,9 @@
-Interbase-1.0
+SPDX-License-Identifier: Interbase-1.0
+MODULE_LICENSE(Interbase-1.0)
+License: Interbase-1.0
+Interbase-1.0 License
+Interbase License v1.0
+v1.0 of the Interbase License
 Interbase Public License v1.0
 INTERBASE PUBLIC LICENSE Version 1.0
+v1.0 of the Interbase Public License

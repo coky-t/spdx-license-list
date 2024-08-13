@@ -1,6 +1,6 @@
-IPA
+SPDX-License-Identifier: IPA
+MODULE_LICENSE(IPA)
+License: IPA
+IPA License
 IPA Font License
 IPA Font License Agreement v1.0
-IPA License
-License: IPA
-SPDX-License-Identifier: IPA
