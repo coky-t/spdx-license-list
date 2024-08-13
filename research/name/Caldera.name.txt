@@ -1,3 +1,4 @@
-Caldera
-Caldera License
 SPDX-License-Identifier: Caldera
+MODULE_LICENSE(Caldera)
+License: Caldera
+Caldera License

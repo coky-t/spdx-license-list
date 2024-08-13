@@ -1,2 +1,5 @@
-CC-BY-3.0-AT
+SPDX-License-Identifier: CC-BY-3.0-AT
+MODULE_LICENSE(CC-BY-3.0-AT)
+License: CC-BY-3.0-AT
+CC-BY-3.0-AT License
 Creative Commons Attribution 3.0 Austria

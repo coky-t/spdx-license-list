@@ -1,2 +1,5 @@
-CC-PDDC
+SPDX-License-Identifier: CC-PDDC
+MODULE_LICENSE(CC-PDDC)
+License: CC-PDDC
+CC-PDDC License
 Creative Commons Public Domain Dedication and Certification

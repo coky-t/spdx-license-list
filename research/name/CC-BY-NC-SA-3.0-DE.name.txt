@@ -1,3 +1,6 @@
-CC-BY-NC-SA-3.0-DE
+SPDX-License-Identifier: CC-BY-NC-SA-3.0-DE
+MODULE_LICENSE(CC-BY-NC-SA-3.0-DE)
+License: CC-BY-NC-SA-3.0-DE
+CC-BY-NC-SA-3.0-DE License
 Creative Commons Attribution Non Commercial Share Alike 3.0 Germany
 Creative Commons Namensnennung - Keine kommerzielle Nutzung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland

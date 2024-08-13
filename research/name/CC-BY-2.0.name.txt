@@ -1,3 +1,6 @@
-CC-BY-2.0
+SPDX-License-Identifier: CC-BY-2.0
+MODULE_LICENSE(CC-BY-2.0)
+License: CC-BY-2.0
+CC-BY-2.0 License
 Creative Commons Attribution 2.0 Generic
 Creative Commons Attribution 2.0

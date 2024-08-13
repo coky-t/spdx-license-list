@@ -1,2 +1,5 @@
-Caldera-no-preamble
+SPDX-License-Identifier: Caldera-no-preamble
+MODULE_LICENSE(Caldera-no-preamble)
+License: Caldera-no-preamble
+Caldera-no-preamble License
 Caldera License (without preamble)

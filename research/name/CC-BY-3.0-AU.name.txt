@@ -1,2 +1,5 @@
-CC-BY-3.0-AU
+SPDX-License-Identifier: CC-BY-3.0-AU
+MODULE_LICENSE(CC-BY-3.0-AU)
+License: CC-BY-3.0-AU
+CC-BY-3.0-AU License
 Creative Commons Attribution 3.0 Australia

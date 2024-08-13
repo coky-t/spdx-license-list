@@ -1,3 +1,5 @@
-Catharon
+SPDX-License-Identifier: Catharon
+MODULE_LICENSE(Catharon)
+License: Catharon
 Catharon License
 The Catharon Open Source LICENSE

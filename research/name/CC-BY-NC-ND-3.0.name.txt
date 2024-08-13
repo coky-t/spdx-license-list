@@ -1,4 +1,7 @@
-CC-BY-NC-ND-3.0
+SPDX-License-Identifier: CC-BY-NC-ND-3.0
+MODULE_LICENSE(CC-BY-NC-ND-3.0)
+License: CC-BY-NC-ND-3.0
+CC-BY-NC-ND-3.0 License
 Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported
 Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
 Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0 Unported

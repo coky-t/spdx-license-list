@@ -1,3 +1,10 @@
-CATOSL-1.1
+SPDX-License-Identifier: CATOSL-1.1
+MODULE_LICENSE(CATOSL-1.1)
+License: CATOSL-1.1
+CATOSL-1.1 License
+CATOSL License v1.1
+v1.1 of the CATOSL License
 Computer Associates Trusted Open Source License 1.1
 Computer Associates Trusted Open Source License Version 1.1
+Computer Associates Trusted Open Source License ("CATOSL") v1.1
+v1.1 of the Computer Associates Trusted Open Source License

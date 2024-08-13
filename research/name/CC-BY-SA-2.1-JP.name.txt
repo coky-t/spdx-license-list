@@ -1,3 +1,6 @@
-CC-BY-SA-2.1-JP
+SPDX-License-Identifier: CC-BY-SA-2.1-JP
+MODULE_LICENSE(CC-BY-SA-2.1-JP)
+License: CC-BY-SA-2.1-JP
+CC-BY-SA-2.1-JP License
 Creative Commons Attribution Share Alike 2.1 Japan
 アトリビューション—シェアアライク 2.1（帰属—同一条件許諾）

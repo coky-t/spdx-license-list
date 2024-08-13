@@ -1,2 +1,5 @@
-CC-BY-2.5-AU
+SPDX-License-Identifier: CC-BY-2.5-AU
+MODULE_LICENSE(CC-BY-2.5-AU)
+License: CC-BY-2.5-AU
+CC-BY-2.5-AU License
 Creative Commons Attribution 2.5 Australia

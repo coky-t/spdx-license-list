@@ -1,6 +1,10 @@
-CAL-1.0
-CAL-1.0 License
 SPDX-License-Identifier: CAL-1.0
+MODULE_LICENSE(CAL-1.0)
+License: CAL-1.0
+CAL-1.0 License
+CAL License v1.0
+v1.0 of the CAL License
 Cryptographic Autonomy License 1.0
 Cryptographic Autonomy License, v. 1.0
 Cryptographic Autonomy License version 1.0
+v1.0 of the Cryptographic Autonomy License

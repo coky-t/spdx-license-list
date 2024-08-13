@@ -1,2 +1,5 @@
-CC-BY-3.0-US
+SPDX-License-Identifier: CC-BY-3.0-US
+MODULE_LICENSE(CC-BY-3.0-US)
+License: CC-BY-3.0-US
+CC-BY-3.0-US License
 Creative Commons Attribution 3.0 United States

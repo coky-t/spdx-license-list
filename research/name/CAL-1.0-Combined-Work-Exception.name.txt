@@ -1,3 +1,10 @@
-CAL-1.0-Combined-Work-Exception
+SPDX-License-Identifier: CAL-1.0-Combined-Work-Exception
+MODULE_LICENSE(CAL-1.0-Combined-Work-Exception)
+License: CAL-1.0-Combined-Work-Exception
+CAL-1.0-Combined-Work-Exception License
+CAL v1.0 License (Combined Work Exception)
+CAL License v1.0 (Combined Work Exception)
+v1.0 of the CAL License (Combined Work Exception)
 Cryptographic Autonomy License 1.0 (Combined Work Exception)
 Cryptographic Autonomy License version 1.0, with Combined Work Exception
+v1.0 of the Cryptographic Autonomy License (Combined Work Exception)

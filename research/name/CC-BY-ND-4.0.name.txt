@@ -1,2 +1,5 @@
-CC-BY-ND-4.0
+SPDX-License-Identifier: CC-BY-ND-4.0
+MODULE_LICENSE(CC-BY-ND-4.0)
+License: CC-BY-ND-4.0
+CC-BY-ND-4.0 License
 Creative Commons Attribution No Derivatives 4.0 International

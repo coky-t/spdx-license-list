@@ -1,2 +1,5 @@
-CC-BY-SA-3.0-IGO
+SPDX-License-Identifier: CC-BY-SA-3.0-IGO
+MODULE_LICENSE(CC-BY-SA-3.0-IGO)
+License: CC-BY-SA-3.0-IGO
+CC-BY-SA-3.0-IGO License
 Creative Commons Attribution-ShareAlike 3.0 IGO

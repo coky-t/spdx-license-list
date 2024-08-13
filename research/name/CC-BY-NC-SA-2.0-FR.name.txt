@@ -1,3 +1,6 @@
-CC-BY-NC-SA-2.0-FR
+SPDX-License-Identifier: CC-BY-NC-SA-2.0-FR
+MODULE_LICENSE(CC-BY-NC-SA-2.0-FR)
+License: CC-BY-NC-SA-2.0-FR
+CC-BY-NC-SA-2.0-FR License
 Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France
 Creative Commons Paternité - Pas d'Utilisation Commerciale - Partage Des Conditions Initiales A l'Identique 2.0

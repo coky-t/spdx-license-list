@@ -1,3 +1,6 @@
-CC-BY-1.0
+SPDX-License-Identifier: CC-BY-1.0
+MODULE_LICENSE(CC-BY-1.0)
+License: CC-BY-1.0
+CC-BY-1.0 License
 Creative Commons Attribution 1.0 Generic
 Creative Commons Attribution 1.0

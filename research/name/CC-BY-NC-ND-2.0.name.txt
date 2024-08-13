@@ -1,3 +1,6 @@
-CC-BY-NC-ND-2.0
+SPDX-License-Identifier: CC-BY-NC-ND-2.0
+MODULE_LICENSE(CC-BY-NC-ND-2.0)
+License: CC-BY-NC-ND-2.0
+CC-BY-NC-ND-2.0 License
 Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic
 Creative Commons Attribution-NonCommercial-NoDerivs 2.0
