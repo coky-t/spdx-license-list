@@ -1,2 +1,5 @@
-FSFAP
+SPDX-License-Identifier: FSFAP
+MODULE_LICENSE(FSFAP)
+License: FSFAP
+FSFAP License
 FSF All Permissive License

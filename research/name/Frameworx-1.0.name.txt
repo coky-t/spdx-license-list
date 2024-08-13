@@ -1,2 +1,8 @@
-Frameworx-1.0
+SPDX-License-Identifier: Frameworx-1.0
+MODULE_LICENSE(Frameworx-1.0)
+License: Frameworx-1.0
+Frameworx-1.0 License
+Frameworx License v1.0
+v1.0 of the Frameworx License
 Frameworx Open License 1.0
+v1.0 of the Frameworx Open License

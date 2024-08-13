@@ -1,2 +1,3 @@
-freertos-exception-2.0
+SPDX-License-Identifier: GPL-2.0 WITH freertos-exception-2.0
+SPDX-Exception-Identifier: freertos-exception-2.0
 FreeRTOS Exception 2.0

@@ -1,2 +1,4 @@
-Furuseth
+SPDX-License-Identifier: Furuseth
+MODULE_LICENSE(Furuseth)
+License: Furuseth
 Furuseth License

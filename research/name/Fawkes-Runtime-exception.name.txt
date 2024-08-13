@@ -1,2 +1,3 @@
-Fawkes-Runtime-exception
+SPDX-License-Identifier: GPL-2.0-only WITH Fawkes-Runtime-exception
+SPDX-Exception-Identifier: Fawkes-Runtime-exception
 Fawkes Runtime Exception

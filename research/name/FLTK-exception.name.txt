@@ -1,2 +1,3 @@
-FLTK-exception
+SPDX-License-Identifier: LGPL-2.0-only WITH FLTK-exception
+SPDX-Exception-Identifier: FLTK-exception
 FLTK exception

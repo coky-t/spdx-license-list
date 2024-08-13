@@ -1,2 +1,5 @@
-FreeBSD-DOC
+SPDX-License-Identifier: FreeBSD-DOC
+MODULE_LICENSE(FreeBSD-DOC)
+License: FreeBSD-DOC
+FreeBSD-DOC License
 FreeBSD Documentation License

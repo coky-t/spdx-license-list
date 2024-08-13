@@ -1,4 +1,8 @@
-FreeImage
+SPDX-License-Identifier: FreeImage
+MODULE_LICENSE(FreeImage)
+License: FreeImage
+FreeImage License
 FreeImage Public License v1.0
 FreeImage Public License - Version 1.0
 FreeImage Public License Version 1.0
+v1.0 of the FreeImage Public License

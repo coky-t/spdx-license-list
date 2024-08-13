@@ -1,2 +1,5 @@
-FSFAP-no-warranty-disclaimer
+SPDX-License-Identifier: FSFAP-no-warranty-disclaimer
+MODULE_LICENSE(FSFAP-no-warranty-disclaimer)
+License: FSFAP-no-warranty-disclaimer
+FSFAP-no-warranty-disclaimer License
 FSF All Permissive License (without Warranty)

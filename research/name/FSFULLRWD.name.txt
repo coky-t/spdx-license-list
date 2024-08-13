@@ -1,2 +1,5 @@
-FSFULLRWD
+SPDX-License-Identifier: FSFULLRWD
+MODULE_LICENSE(FSFULLRWD)
+License: FSFULLRWD
+FSFULLRWD License
 FSF Unlimited License (With License Retention and Warranty Disclaimer)

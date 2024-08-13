@@ -1,2 +1,5 @@
-Ferguson-Twofish
+SPDX-License-Identifier: Ferguson-Twofish
+MODULE_LICENSE(Ferguson-Twofish)
+License: Ferguson-Twofish
+Ferguson-Twofish License
 Ferguson Twofish License

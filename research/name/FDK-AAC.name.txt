@@ -1,3 +1,6 @@
-FDK-AAC
+SPDX-License-Identifier: FDK-AAC
+MODULE_LICENSE(FDK-AAC)
+License: FDK-AAC
+FDK-AAC License
 Fraunhofer FDK AAC Codec Library
 Software License for The Fraunhofer FDK AAC Codec Library for Android

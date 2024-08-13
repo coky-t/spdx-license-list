@@ -1,4 +1,4 @@
-Fair
-Fair License
-License: Fair
 SPDX-License-Identifier: Fair
+MODULE_LICENSE(Fair)
+License: Fair
+Fair License

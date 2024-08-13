@@ -1,2 +1,4 @@
-fwlw
+SPDX-License-Identifier: fwlw
+MODULE_LICENSE(fwlw)
+License: fwlw
 fwlw License

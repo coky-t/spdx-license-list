@@ -1,5 +1,5 @@
-FTL
-Freetype Project License
-FTL License
-License: FTL
 SPDX-License-Identifier: FTL
+MODULE_LICENSE(FTL)
+License: FTL
+FTL License
+Freetype Project License

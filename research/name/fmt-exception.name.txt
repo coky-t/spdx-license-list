@@ -1,2 +1,3 @@
-fmt-exception
+SPDX-License-Identifier: MIT WITH fmt-exception
+SPDX-Exception-Identifier: fmt-exception
 fmt exception

@@ -1,2 +1,5 @@
-FSFUL
+SPDX-License-Identifier: FSFUL
+MODULE_LICENSE(FSFUL)
+License: FSFUL
+FSFUL License
 FSF Unlimited License

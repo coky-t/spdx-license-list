@@ -1,2 +1,5 @@
-FSFULLR
+SPDX-License-Identifier: FSFULLR
+MODULE_LICENSE(FSFULLR)
+License: FSFULLR
+FSFULLR License
 FSF Unlimited License (with License Retention)
