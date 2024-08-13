@@ -1,4 +1,5 @@
-Zlib
-zlib License
-License: zlib
 SPDX-License-Identifier: Zlib
+MODULE_LICENSE(Zlib)
+License: Zlib
+Zlib License
+zlib License

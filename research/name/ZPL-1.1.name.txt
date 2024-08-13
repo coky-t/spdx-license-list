@@ -1,5 +1,9 @@
-ZPL-1.1
-ZPL-1.1 License
 SPDX-License-Identifier: ZPL-1.1
+MODULE_LICENSE(ZPL-1.1)
+License: ZPL-1.1
+ZPL-1.1 License
+ZPL License v1.1
+v1.1 of the ZPL License
 Zope Public License 1.1
 Zope Public License (ZPL) Version 1.1
+v1.1 of the Zope Public License

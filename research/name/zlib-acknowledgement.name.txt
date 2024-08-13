@@ -1,2 +1,5 @@
-zlib-acknowledgement
+SPDX-License-Identifier: zlib-acknowledgement
+MODULE_LICENSE(zlib-acknowledgement)
+License: zlib-acknowledgement
+zlib-acknowledgement License
 zlib/libpng License with Acknowledgement

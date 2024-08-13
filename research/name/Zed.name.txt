@@ -1,3 +1,4 @@
-Zed
-Zed License
 SPDX-License-Identifier: Zed
+MODULE_LICENSE(Zed)
+License: Zed
+Zed License

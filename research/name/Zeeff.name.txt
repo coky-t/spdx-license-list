@@ -1,2 +1,4 @@
-Zeeff
+SPDX-License-Identifier: Zeeff
+MODULE_LICENSE(Zeeff)
+License: Zeeff
 Zeeff License

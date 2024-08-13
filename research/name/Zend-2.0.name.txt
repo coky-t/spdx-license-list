@@ -1,3 +1,7 @@
-Zend-2.0
+SPDX-License-Identifier: Zend-2.0
+MODULE_LICENSE(Zend-2.0)
+License: Zend-2.0
+Zend-2.0 License
 Zend License v2.0
 Zend Engine License, version 2.00
+v2.0 of the Zend License

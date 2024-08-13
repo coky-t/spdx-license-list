@@ -1,3 +1,9 @@
-Zimbra-1.4
+SPDX-License-Identifier: Zimbra-1.4
+MODULE_LICENSE(Zimbra-1.4)
+License: Zimbra-1.4
+Zimbra-1.4 License
+Zimbra License v1.4
+v1.4 of the Zimbra License
 Zimbra Public License v1.4
 Zimbra Public License, Version 1.4 (ZPL)
+v1.4 of the Zimbra Public License
