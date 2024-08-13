@@ -1,2 +1,5 @@
-Linux-OpenIB
+SPDX-License-Identifier: Linux-OpenIB
+MODULE_LICENSE(Linux-OpenIB)
+License: Linux-OpenIB
+Linux-OpenIB License
 Linux Kernel Variant of OpenIB.org license

@@ -1,2 +1,4 @@
-Leptonica
+SPDX-License-Identifier: Leptonica
+MODULE_LICENSE(Leptonica)
+License: Leptonica
 Leptonica License

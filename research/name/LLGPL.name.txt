@@ -1,3 +1,4 @@
-LLGPL
+SPDX-License-Identifier: LGPL-2.1 WITH LLGPL
+SPDX-Exception-Identifier: LLGPL
 LLGPL Preamble
 Preamble to the Gnu Lesser General Public License

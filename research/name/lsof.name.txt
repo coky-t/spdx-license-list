@@ -1,3 +1,4 @@
-lsof
-lsof License
 SPDX-License-Identifier: lsof
+MODULE_LICENSE(lsof)
+License: lsof
+lsof License

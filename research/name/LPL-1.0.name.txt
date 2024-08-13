@@ -1,2 +1,8 @@
-LPL-1.0
+SPDX-License-Identifier: LPL-1.0
+MODULE_LICENSE(LPL-1.0)
+License: LPL-1.0
+LPL-1.0 License
+LPL License v1.0
+v1.0 of the LPL License
 Lucent Public License Version 1.0
+Version 1.0 of the Lucent Public License

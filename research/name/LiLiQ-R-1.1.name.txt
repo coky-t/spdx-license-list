@@ -1,3 +1,8 @@
-LiLiQ-R-1.1
+SPDX-License-Identifier: LiLiQ-R-1.1
+MODULE_LICENSE(ALiLiQ-R-1.1AL)
+License: LiLiQ-R-1.1
+LiLiQ-R-1.1 License
+LiLiQ-R License v1.1
+v1.1 of the LiLiQ-R License
 Licence Libre du Québec – Réciprocité version 1.1
 Licence Libre du Québec – Réciprocité (LiLiQ-R) Version 1.1

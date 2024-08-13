@@ -1,3 +1,9 @@
-LPPL-1.3c
+SPDX-License-Identifier: LPPL-1.3c
+MODULE_LICENSE(LPPL-1.3c)
+License: LPPL-1.3c
+LPPL-1.3c License
+LPPL License v1.3c
+v1.3c of the LPPL License
 LaTeX Project Public License v1.3c
+v1.3c of the LaTeX Project Public License
 LaTeX Project Public License LPPL Version 1.3c

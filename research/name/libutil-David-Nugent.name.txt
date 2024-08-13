@@ -1,2 +1,5 @@
-libutil-David-Nugent
+SPDX-License-Identifier: libutil-David-Nugent
+MODULE_LICENSE(libutil-David-Nugent)
+License: libutil-David-Nugent
+libutil-David-Nugent License
 libutil David Nugent License

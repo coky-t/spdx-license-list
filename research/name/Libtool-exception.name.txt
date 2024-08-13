@@ -1,2 +1,3 @@
-Libtool-exception
+SPDX-License-Identifier: GPL-2.0-only WITH Libtool-exception
+SPDX-Exception-Identifier: Libtool-exception
 Libtool Exception

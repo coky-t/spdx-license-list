@@ -1,3 +1,14 @@
-LGPL-3.0+
-LGPL-3.0-or-later
+SPDX-License-Identifier: LGPL-3.0+
+SPDX-License-Identifier: LGPL-3.0-or-later
+MODULE_LICENSE(LGPL-3.0+)
+MODULE_LICENSE(LGPL-3.0-or-later)
+License: LGPL-3.0+
+License: LGPL-3.0-or-later
+LGPL-3.0-or-later License
+Lesser GPL-3.0 or later License
+LGPL License v3.0 or later
+Lesser GPL License v3.0 or later
+v3.0 or later of the LGPL License
+v3.0 or later of the Lesser GPL License
 GNU Lesser General Public License v3.0 or later
+v3.0 or later of the GNU Lesser General Public License

@@ -1,4 +1,7 @@
-libselinux-1.0
-libselinux-1.0 License
 SPDX-License-Identifier: libselinux-1.0
+MODULE_LICENSE(libselinux-1.0)
+License: libselinux-1.0
+libselinux-1.0 License
+libselinux License v1.0
+v1.0 of the libselinux License
 libselinux public domain notice

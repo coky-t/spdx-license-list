@@ -1,2 +1,5 @@
-Linux-man-pages-copyleft-var
+SPDX-License-Identifier: Linux-man-pages-copyleft-var
+MODULE_LICENSE(Linux-man-pages-copyleft-var)
+License: Linux-man-pages-copyleft-var
+Linux-man-pages-copyleft-var License
 Linux man-pages Copyleft Variant

@@ -1,2 +1,5 @@
-LPD-document
+SPDX-License-Identifier: LPD-document
+MODULE_LICENSE(LPD-document)
+License: LPD-document
+LPD-document License
 LPD Documentation License

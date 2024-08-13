@@ -1,3 +1,5 @@
-Libpng
-libpng License
 SPDX-License-Identifier: Libpng
+MODULE_LICENSE(Libpng)
+License: Libpng
+Libpng License
+libpng License

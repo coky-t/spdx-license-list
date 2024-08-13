@@ -1,3 +1,4 @@
-libtiff
-libtiff License
 SPDX-License-Identifier: libtiff
+MODULE_LICENSE(libtiff)
+License: libtiff
+libtiff License

@@ -1,3 +1,10 @@
-LAL-1.2
+SPDX-License-Identifier: LAL-1.2
+MODULE_LICENSE(LAL-1.2)
+License: LAL-1.2
+LAL-1.2 License
+LAL License v1.2
+v1.2 of the LAL License
 Licence Art Libre 1.2
+Licence Art Libre ("LAL") 1.2
 Licence Art Libre Version 1.2
+v1.2 of the Licence Art Libre

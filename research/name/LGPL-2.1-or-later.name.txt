@@ -1,4 +1,15 @@
-LGPL-2.1+
-LGPL-2.1-or-later
+SPDX-License-Identifier: LGPL-2.1+
+SPDX-License-Identifier: LGPL-2.1-or-later
+MODULE_LICENSE(LGPL-2.1+)
+MODULE_LICENSE(LGPL-2.1-or-later)
+License: LGPL-2.1+
+License: LGPL-2.1-or-later
+LGPL-2.1-or-later License
+Lesser GPL-2.1 or later License
+LGPL License v2.1 or later
+Lesser GPL License v2.1 or later
+v2.1 or later of the LGPL License
+v2.1 or later of the Lesser GPL License
 GNU Lesser General Public License v2.1 or later
+v2.1 or later of the GNU Lesser General Public License
 GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version

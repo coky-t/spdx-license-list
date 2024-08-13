@@ -1,2 +1,3 @@
-LZMA-exception
+SPDX-License-Identifier: CPL-1.0 WITH LZMA-exception
+SPDX-Exception-Identifier: LZMA-exception
 LZMA exception

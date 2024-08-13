@@ -1,2 +1,5 @@
-Linux-man-pages-1-para
+SPDX-License-Identifier: Linux-man-pages-1-para
+MODULE_LICENSE(Linux-man-pages-1-para)
+License: Linux-man-pages-1-para
+Linux-man-pages-1-para License
 Linux man-pages - 1 paragraph

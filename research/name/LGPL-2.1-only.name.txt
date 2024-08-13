@@ -1,2 +1,11 @@
-LGPL-2.1-only
+SPDX-License-Identifier: LGPL-2.1-only
+MODULE_LICENSE(LGPL-2.1-only)
+License: LGPL-2.1-only
+LGPL-2.1-only License
+Lesser GPL-2.1 only License
+LGPL License v2.1 only
+Lesser GPL License v2.1 only
+v2.1 only of the LGPL License
+v2.1 only of the Lesser GPL License
 GNU Lesser General Public License v2.1 only
+v2.1 only of the GNU Lesser General Public License

@@ -1,2 +1,5 @@
-LZMA-SDK-9.11-to-9.20
+SPDX-License-Identifier: LZMA-SDK-9.11-to-9.20
+MODULE_LICENSE(LZMA-SDK-9.11-to-9.20)
+License: LZMA-SDK-9.11-to-9.20
+LZMA-SDK-9.11-to-9.20 License
 LZMA SDK License (versions 9.11 to 9.20)

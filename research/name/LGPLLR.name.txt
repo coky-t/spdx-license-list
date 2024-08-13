@@ -1,2 +1,5 @@
-LGPLLR
+SPDX-License-Identifier: LGPLLR
+MODULE_LICENSE(LGPLLR)
+License: LGPLLR
+LGPLLR License
 Lesser General Public License For Linguistic Resources

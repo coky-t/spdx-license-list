@@ -1,5 +1,14 @@
-LGPL-2.0
+SPDX-License-Identifier: LGPL-2.0
+MODULE_LICENSE(LGPL-2.0)
+License: LGPL-2.0
+LGPL-2.0 License
+Library GPL-2.0 License
+LGPL License v2.0
+Library GPL License v2.0
+v2.0 of the LGPL License
+v2.0 of the Library GPL License
 GNU Library General Public License v2
 GNU Library General Public License as published by the Free Software Foundation; version 2
 GNU LIBRARY GENERAL PUBLIC LICENSE Version 2
 GNU Library or “Lesser” General Public License (LGPL) 2.0
+v2 of the GNU Library General Public License

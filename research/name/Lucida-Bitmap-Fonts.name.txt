@@ -1,2 +1,5 @@
-Lucida-Bitmap-Fonts
+SPDX-License-Identifier: Lucida-Bitmap-Fonts
+MODULE_LICENSE(Lucida-Bitmap-Fonts)
+License: Lucida-Bitmap-Fonts
+Lucida-Bitmap-Fonts License
 Lucida Bitmap Fonts License

@@ -1,2 +1,5 @@
-Latex2e-translated-notice
+SPDX-License-Identifier: Latex2e-translated-notice
+MODULE_LICENSE(Latex2e-translated-notice)
+License: Latex2e-translated-notice
+Latex2e-translated-notice License
 Latex2e with translated notice permission
