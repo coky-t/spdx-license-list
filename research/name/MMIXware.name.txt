@@ -1,3 +1,4 @@
-MMIXware
-MMIXware License
 SPDX-License-Identifier: MMIXware
+MODULE_LICENSE(MMIXware)
+License: MMIXware
+MMIXware License

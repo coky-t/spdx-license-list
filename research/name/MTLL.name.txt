@@ -1,3 +1,6 @@
-MTLL
+SPDX-License-Identifier: MTLL
+MODULE_LICENSE(MTLL)
+License: MTLL
+MTLL License
 Matrix Template Library License
 Software License for MTL

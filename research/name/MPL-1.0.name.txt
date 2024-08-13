@@ -1,6 +1,10 @@
-MPL-1.0
-MPL-1.0 License
 SPDX-License-Identifier: MPL-1.0
+MODULE_LICENSE(MPL-1.0)
+License: MPL-1.0
+MPL-1.0 License
+MPL License v1.0
+v1.0 of the MPL License
 Mozilla Public License 1.0
 MOZILLA PUBLIC LICENSE Version 1.0
 Mozilla Public License (MPL) 1.0
+v1.0 of the Mozilla Public License

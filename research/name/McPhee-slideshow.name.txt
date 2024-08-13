@@ -1,2 +1,5 @@
-McPhee-slideshow
+SPDX-License-Identifier: McPhee-slideshow
+MODULE_LICENSE(McPhee-slideshow)
+License: McPhee-slideshow
+McPhee-slideshow License
 McPhee Slideshow License

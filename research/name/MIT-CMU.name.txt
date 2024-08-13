@@ -1,2 +1,5 @@
-MIT-CMU
+SPDX-License-Identifier: MIT-CMU
+MODULE_LICENSE(MIT-CMU)
+License: MIT-CMU
+MIT-CMU License
 CMU License

@@ -1,2 +1,4 @@
-Martin-Birgmeier
-Martin Birgmeier License
+SPDX-License-Identifier: Martin-Birgmeier
+MODULE_LICENSE(Martin-Birgmeier)
+License: Martin-Birgmeier
+Martin-Birgmeier License

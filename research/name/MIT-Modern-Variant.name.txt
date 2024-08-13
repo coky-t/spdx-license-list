@@ -1,2 +1,5 @@
-MIT-Modern-Variant
+SPDX-License-Identifier: MIT-Modern-Variant
+MODULE_LICENSE(MIT-Modern-Variant)
+License: MIT-Modern-Variant
+MIT-Modern-Variant License
 MIT License Modern Variant

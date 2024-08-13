@@ -1,3 +1,6 @@
-MS-PL
+SPDX-License-Identifier: MS-PL
+MODULE_LICENSE(MS-PL)
+License: MS-PL
+MS-PL License
 Microsoft Public License
 Microsoft Public License (Ms-PL)

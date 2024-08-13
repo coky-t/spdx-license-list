@@ -1,3 +1,4 @@
-Mup
-Mup License
 SPDX-License-Identifier: Mup
+MODULE_LICENSE(Mup)
+License: Mup
+Mup License

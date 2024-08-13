@@ -1,2 +1,4 @@
-mpich2
+SPDX-License-Identifier: mpich2
+MODULE_LICENSE(mpich2)
+License: mpich2
 mpich2 License

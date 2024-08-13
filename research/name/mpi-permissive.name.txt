@@ -1,2 +1,5 @@
-mpi-permissive
+SPDX-License-Identifier: mpi-permissive
+MODULE_LICENSE(mpi-permissive)
+License: mpi-permissive
+mpi-permissive License
 mpi Permissive License

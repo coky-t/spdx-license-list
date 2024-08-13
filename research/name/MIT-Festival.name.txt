@@ -1,2 +1,5 @@
-MIT-Festival
+SPDX-License-Identifier: MIT-Festival
+MODULE_LICENSE(MIT-Festival)
+License: MIT-Festival
+MIT-Festival License
 MIT Festival Variant

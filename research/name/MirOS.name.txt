@@ -1,2 +1,5 @@
-MirOS
+SPDX-License-Identifier: MirOS
+MODULE_LICENSE(MirOS)
+License: MirOS
+MirOS License
 The MirOS Licence

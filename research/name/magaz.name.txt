@@ -1,2 +1,4 @@
-magaz
+SPDX-License-Identifier: magaz
+MODULE_LICENSE(magaz)
+License: magaz
 magaz License

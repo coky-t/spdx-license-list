@@ -1,2 +1,4 @@
-metamail
+SPDX-License-Identifier: metamail
+MODULE_LICENSE(metamail)
+License: metamail
 metamail License

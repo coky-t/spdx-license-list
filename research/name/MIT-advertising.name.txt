@@ -1,2 +1,5 @@
-MIT-advertising
+SPDX-License-Identifier: MIT-advertising
+MODULE_LICENSE(MIT-advertising)
+License: MIT-advertising
+MIT-advertising License
 Enlightenment License (e16)

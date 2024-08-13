@@ -1,2 +1,5 @@
-MITNFA
+SPDX-License-Identifier: MITNFA
+MODULE_LICENSE(MITNFA)
+License: MITNFA
+MITNFA License
 MIT +no-false-attribs license

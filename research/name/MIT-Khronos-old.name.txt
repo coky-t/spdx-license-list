@@ -1,2 +1,5 @@
-MIT-Khronos-old
+SPDX-License-Identifier: MIT-Khronos-old
+MODULE_LICENSE(MIT-Khronos-old)
+License: MIT-Khronos-old
+MIT-Khronos-old License
 MIT Khronos - old variant

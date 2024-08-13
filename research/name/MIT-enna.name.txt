@@ -1,2 +1,5 @@
-MIT-enna
+SPDX-License-Identifier: MIT-enna
+MODULE_LICENSE(MIT-enna)
+License: MIT-enna
+MIT-enna License
 enna License

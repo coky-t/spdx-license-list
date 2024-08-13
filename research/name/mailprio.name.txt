@@ -1,2 +1,4 @@
-mailprio
+SPDX-License-Identifier: mailprio
+MODULE_LICENSE(mailprio)
+License: mailprio
 mailprio License

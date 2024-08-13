@@ -1,2 +1,5 @@
-MIT-Wu
+SPDX-License-Identifier: MIT-Wu
+MODULE_LICENSE(MIT-Wu)
+License: MIT-Wu
+MIT-Wu License
 MIT Tom Wu Variant

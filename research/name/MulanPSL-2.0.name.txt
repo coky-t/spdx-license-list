@@ -1,5 +1,13 @@
-MulanPSL-2.0
-Mulan PSL v2
+SPDX-License-Identifier: MulanPSL-2.0
+MODULE_LICENSE(MulanPSL-2.0)
+MODULE_LICENSE(Mulan PSL v2)
+License: MulanPSL-2.0
+License: Mulan PSL v2
+MulanPSL-2.0 License
+Mulan PSL v2 License
+Mulan PSL License v2
+v2 of the Mulan PSL License
 Mulan Permissive Software License, Version 2
 Mulan Permissive Software License，Version 2 (Mulan PSL v2)
+Version 2 of the Mulan Permissive Software License
 木兰宽松许可证, 第2版

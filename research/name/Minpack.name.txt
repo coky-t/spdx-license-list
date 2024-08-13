@@ -1,3 +1,4 @@
-Minpack
-Minpack License
 SPDX-License-Identifier: Minpack
+MODULE_LICENSE(Minpack)
+License: Minpack
+Minpack License

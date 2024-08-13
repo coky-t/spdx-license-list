@@ -1,3 +1,6 @@
-MS-RL
+SPDX-License-Identifier: MS-RL
+MODULE_LICENSE(MS-RL)
+License: MS-RL
+MS-RL License
 Microsoft Reciprocal License
 Microsoft Reciprocal License (Ms-RL)

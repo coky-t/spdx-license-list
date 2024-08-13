@@ -1,2 +1,8 @@
-MPL-2.0-no-copyleft-exception
+SPDX-License-Identifier: MPL-2.0-no-copyleft-exception
+MODULE_LICENSE(MPL-2.0-no-copyleft-exception)
+License: MPL-2.0-no-copyleft-exception
+MPL-2.0-no-copyleft-exception License
+MPL License v2.0 no copyleft exception
+v2.0 of the MPL License no copyleft exception
 Mozilla Public License 2.0 (no copyleft exception)
+v2.0 of the Mozilla Public License (no copyleft exception)

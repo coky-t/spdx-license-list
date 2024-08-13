@@ -1,2 +1,5 @@
-MIT-testregex
+SPDX-License-Identifier: MIT-testregex
+MODULE_LICENSE(MIT-testregex)
+License: MIT-testregex
+MIT-testregex License
 MIT testregex Variant

@@ -1,3 +1,5 @@
-Motosoto
+SPDX-License-Identifier: Motosoto
+MODULE_LICENSE(Motosoto)
+License: Motosoto
 Motosoto License
 MOTOSOTO OPEN SOURCE LICENSE - Version 0.9.1

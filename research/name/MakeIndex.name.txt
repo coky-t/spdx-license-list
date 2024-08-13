@@ -1,4 +1,4 @@
-MakeIndex
-MakeIndex License
-License: MakeIndex
 SPDX-License-Identifier: MakeIndex
+MODULE_LICENSE(MakeIndex)
+License: MakeIndex
+MakeIndex License

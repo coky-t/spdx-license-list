@@ -1,3 +1,6 @@
-MIT-0
+SPDX-License-Identifier: MIT-0
+MODULE_LICENSE(MIT-0)
+License: MIT-0
+MIT-0 License
 MIT No Attribution
 MIT-Zero License

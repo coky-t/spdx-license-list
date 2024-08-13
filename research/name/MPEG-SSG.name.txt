@@ -1,2 +1,5 @@
-MPEG-SSG
+SPDX-License-Identifier: MPEG-SSG
+MODULE_LICENSE(MPEG-SSG)
+License: MPEG-SSG
+MPEG-SSG License
 MPEG Software Simulation

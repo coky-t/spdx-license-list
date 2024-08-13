@@ -1,2 +1,4 @@
-MIT
+SPDX-License-Identifier: MIT
+MODULE_LICENSE(MIT)
+License: MIT
 MIT License

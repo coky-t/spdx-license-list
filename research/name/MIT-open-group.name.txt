@@ -1,2 +1,5 @@
-MIT-open-group
+SPDX-License-Identifier: MIT-open-group
+MODULE_LICENSE(MIT-open-group)
+License: MIT-open-group
+MIT-open-group License
 MIT Open Group variant

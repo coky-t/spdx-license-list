@@ -1,2 +1,3 @@
-mif-exception
+SPDX-License-Identifier: GPL-2.0-only WITH mif-exception
+SPDX-Exception-Identifier: mif-exception
 Macros and Inline Functions Exception

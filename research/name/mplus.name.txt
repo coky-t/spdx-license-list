@@ -1,2 +1,5 @@
-mplus
+SPDX-License-Identifier: mplus
+MODULE_LICENSE(mplus)
+License: mplus
+mplus License
 mplus Font License

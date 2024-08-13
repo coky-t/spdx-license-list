@@ -1,2 +1,5 @@
-Mackerras-3-Clause-acknowledgment
+SPDX-License-Identifier: Mackerras-3-Clause-acknowledgment
+MODULE_LICENSE(Mackerras-3-Clause-acknowledgment)
+License: Mackerras-3-Clause-acknowledgment
+Mackerras-3-Clause-acknowledgment License
 Mackerras 3-Clause - acknowledgment variant

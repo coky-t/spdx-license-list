@@ -1,3 +1,6 @@
-MS-LPL
+SPDX-License-Identifier: MS-LPL
+MODULE_LICENSE(MS-LPL)
+License: MS-LPL
+MS-LPL License
 Microsoft Limited Public License
 Microsoft Limited Public License (Ms-LPL)

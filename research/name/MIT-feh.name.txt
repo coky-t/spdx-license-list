@@ -1,2 +1,5 @@
-MIT-feh
+SPDX-License-Identifier: MIT-feh
+MODULE_LICENSE(MIT-feh)
+License: MIT-feh
+MIT-feh License
 feh License
