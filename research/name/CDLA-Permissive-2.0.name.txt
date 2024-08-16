@@ -1,4 +1,4 @@
-PDX-License-Identifier: CDLA-Permissive-2.0
+SPDX-License-Identifier: CDLA-Permissive-2.0
 MODULE_LICENSE(CDLA-Permissive-2.0)
 License: CDLA-Permissive-2.0
 CDLA-Permissive-2.0 License
