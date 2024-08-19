@@ -9,7 +9,7 @@ Library GPL-2.0 or later License
 LGPL License v2.0 or later
 Library GPL License v2.0 or later
 v2.0 or later of the LGPL License
-v2.0 of the Library GPL License
+v2.0 or later of the Library GPL License
 GNU Library General Public License v2 or later
 v2 or later of the GNU Library General Public License
 GNU Library General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version
