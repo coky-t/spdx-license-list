@@ -208,6 +208,8 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | 3.16 |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | 3.22 |
 | DOC License | DOC | 1.20 |
+| DocBook Schema License | DocBook-Schema | 3.25.0 |
+| DocBook XML License | DocBook-XML | 3.25.0 |
 | Dotseqn License | Dotseqn | 1.20 |
 | Detection Rule License 1.0 | DRL-1.0 | 3.12 |
 | Detection Rule License 1.1 | DRL-1.1 | 3.23 |
@@ -284,6 +286,7 @@
 | Gutmann License | Gutmann | 3.24.0 |
 | Haskell Language Report License | HaskellReport | 1.20 |
 | hdparm License | hdparm | 3.23 |
+| HIDAPI License | HIDAPI | 3.25.0 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 3.9 |
 | Hewlett-Packard 1986 License | HP-1986 | 3.20 |
 | Hewlett-Packard 1989 License | HP-1989 | 3.22 |
@@ -302,6 +305,7 @@
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | 3.20 |
 | Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | 3.24.0 |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | 3.23 |
+| Historical Permission Notice and Disclaimer - Netrek variant | HPND-Netrek | 3.25.0 |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | 3.22 |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | 3.23 |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | 3.22 |
@@ -423,7 +427,6 @@
 | Non-Commercial Government Licence | NCGL-UK-2.0 | 3.9 |
 | NCL Source Code License | NCL | 3.24.0 |
 | University of Illinois/NCSA Open Source License | NCSA | 1.0 beta |
-| Net-SNMP License | Net-SNMP | 2.6 |
 | NetCDF license | NetCDF | 1.20 |
 | Newsletr License | Newsletr | 1.20 |
 | Nethack General Public License | NGPL | 1.0 beta |
@@ -526,6 +529,7 @@
 | RSA Message-Digest License | RSA-MD | 2.0 |
 | Ricoh Source Code Public License | RSCPL | 1.0 beta |
 | Ruby License | Ruby | 1.0 |
+| Ruby pty extension license | Ruby-pty | 3.25.0 |
 | Sax Public Domain Notice | SAX-PD | 1.0 |
 | Sax Public Domain Notice 2.0 | SAX-PD-2.0 | 3.23 |
 | Saxpath License | Saxpath | 1.20 |
@@ -582,6 +586,7 @@
 | TTYP0 License | TTYP0 | 3.22 |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | 3.2 |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | 3.2 |
+| Ubuntu Font Licence v1.0 | Ubuntu-font-1.0 | 3.25.0 |
 | UCAR License | UCAR | 3.20 |
 | Upstream Compatibility License v1.0 | UCL-1.0 | 3.7 |
 | ulem License | ulem | 3.22 |
@@ -607,6 +612,7 @@
 | Do What The F*ck You Want To Public License | WTFPL | 1.17 |
 | X11 License | X11 | 1.17 |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 3.16 |
+| X11 swapped final paragraphs | X11-swapped | 3.25.0 |
 | Xdebug License v 1.03 | Xdebug-1.03 | 3.21 |
 | Xerox License | Xerox | 1.20 |
 | Xfig License | Xfig | 3.21 |
@@ -663,6 +669,7 @@
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 1.0 | 2.0rc2 |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0 | 1.0 beta | 3.0 |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 1.0 | 2.0rc2 |
+| Net-SNMP License | Net-SNMP | 3.25.0 |
 | Nunit License | Nunit | 1.20 | 3.0 |
 | Standard ML of New Jersey License | StandardML-NJ | 1.20 | 2.0rc2 |
 | wxWindows Library License | wxWindows | 1.0 beta | 2.0rc2 |

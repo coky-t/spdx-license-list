@@ -18,6 +18,7 @@
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | Copyleft |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | Copyleft Limited |
 | eCos exception 2.0 | eCos-exception-2.0 | Copyleft Limited |
+| Erlang/OTP Linking Exception | erlang-otp-linking-exception | |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | Copyleft Limited |
 | FLTK exception | FLTK-exception | Copyleft Limited |
 | fmt exception | fmt-exception | Permissive |
@@ -57,6 +58,7 @@
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | Copyleft Limited |
 | Qt LGPL exception 1.1 | Qt-LGPL-exception-1.1 | Copyleft Limited |
 | Qwt exception 1.0 | Qwt-exception-1.0 | Copyleft Limited |
+| Romic Exception | romic-exception | |
 | RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | Copyleft Limited |
 | SANE Exception | SANE-exception | Copyleft Limited |
 | Solderpad Hardware License v2.0 | SHL-2.0 | Permissive |
