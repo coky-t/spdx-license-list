@@ -18,9 +18,10 @@
 | [cryptsetup OpenSSL exception](https://spdx.org/licenses/cryptsetup-OpenSSL-exception.html) | cryptsetup-OpenSSL-exception | 3.21 | none | N/A | N/A |
 | [DigiRule FOSS License Exception](https://spdx.org/licenses/DigiRule-FOSS-exception.html) | DigiRule-FOSS-exception | 2.2 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/DigiRule-FOSS-exception.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/DigiRule-FOSS-exception.html)) | N/A |
 | [eCos exception 2.0](https://spdx.org/licenses/eCos-exception-2.0.html) | eCos-exception-2.0 | 2.1 | none | N/A | N/A |
+| [Erlang/OTP Linking Exception](https://spdx.org/licenses/erlang-otp-linking-exception.html) | erlang-otp-linking-exception | 3.25.0 | blue (since [3.25.0](https://github.com/spdx/license-list-data/blob/v3.25.0/html/erlang-otp-linking-exception.html)) | N/A | N/A |
 | [Fawkes Runtime Exception](https://spdx.org/licenses/Fawkes-Runtime-exception.html) | Fawkes-Runtime-exception | 2.2 | none | N/A | N/A |
 | [FLTK exception](https://spdx.org/licenses/FLTK-exception.html) | FLTK-exception | 2.1 | none | N/A | N/A |
-| [fmt exception](https://spdx.org/licenses/fmt-exception.html) | fmt-exception | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/main/html/fmt-exception.html)) | N/A |
+| [fmt exception](https://spdx.org/licenses/fmt-exception.html) | fmt-exception | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/fmt-exception.html)) | N/A |
 | [Font exception 2.0](https://spdx.org/licenses/Font-exception-2.0.html) | Font-exception-2.0 | 2.1 | none | N/A | N/A |
 | [FreeRTOS Exception 2.0](https://spdx.org/licenses/freertos-exception-2.0.html) | freertos-exception-2.0 | 2.1 | none | N/A | N/A |
 | [GCC Runtime Library exception 2.0](https://spdx.org/licenses/GCC-exception-2.0.html) | GCC-exception-2.0 | 2.1 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/GCC-exception-2.0.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/GCC-exception-2.0.html)) | N/A | N/A |
@@ -57,6 +58,7 @@
 | [Qt GPL exception 1.0](https://spdx.org/licenses/Qt-GPL-exception-1.0.html) | Qt-GPL-exception-1.0 | 3.2 | none | blue (since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/Qt-GPL-exception-1.0.html)) | N/A |
 | [Qt LGPL exception 1.1](https://spdx.org/licenses/Qt-LGPL-exception-1.1.html) | Qt-LGPL-exception-1.1 | 3.2 | none | blue (since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/Qt-LGPL-exception-1.1.html)) | N/A |
 | [Qwt exception 1.0](https://spdx.org/licenses/Qwt-exception-1.0.html) | Qwt-exception-1.0 | 2.1 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Qwt-exception-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Qwt-exception-1.0.html)) | N/A |
+| [Romic Exception](https://spdx.org/licenses/romic-exception.html) | romic-exception | 3.25.0 | none | N/A | N/A |
 | [RRDtool FLOSS exception 2.0](https://spdx.org/licenses/RRDtool-FLOSS-exception-2.0.html) | RRDtool-FLOSS-exception-2.0 | 3.24.0 | none | blue (since [3.24.0](https://github.com/spdx/license-list-data/blob/v3.24.0/html/RRDtool-FLOSS-exception-2.0.html)) | N/A |
 | [SANE Exception](https://spdx.org/licenses/SANE-exception.html) | SANE-exception | 3.22 | none | N/A | N/A |
 | [Solderpad Hardware License v2.0](https://spdx.org/licenses/SHL-2.0.html) | SHL-2.0 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/SHL-2.0.html)) | N/A |

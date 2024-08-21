@@ -207,7 +207,9 @@
 | diffmark license | diffmark | diffmark | | |
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | DL-DE-BY | 2.0 | |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | DL-DE-ZERO | 2.0 | |
-| DOC License | DOC | DOC | | |
+| DOC License | DOC | DOC | | `(?!Book)` |
+| DocBook Schema License | DocBook-Schema | DocBook-Schema | | |
+| DocBook XML License | DocBook-XML | DocBook-XML | | |
 | Dotseqn License | Dotseqn | Dotseqn | | |
 | Detection Rule License 1.0 | DRL-1.0 | DRL | 1.0 | |
 | Detection Rule License 1.1 | DRL-1.1 | DRL | 1.1 | |
@@ -284,10 +286,11 @@
 | Gutmann License | Gutmann | Gutmann | | |
 | Haskell Language Report License | HaskellReport | HaskellReport | | |
 | hdparm License | hdparm | hdparm | | |
+| HIDAPI License | HIDAPI | HIDAPI | | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | Hippocratic | 2.1 | |
 | Hewlett-Packard 1986 License | HP-1986 | HP | 1986 | |
 | Hewlett-Packard 1989 License | HP-1989 | HP | 1989 | |
-| Historical Permission Notice and Disclaimer | HPND | HPND | | `(?!\W*DEC|\W*doc|\W*export|\W*Fenneberg|\W*INRIA|\W*Kevlin|\W*Markus|\W*MIT|\W*Pbmplus|\W*sell|\W*UC)` |
+| Historical Permission Notice and Disclaimer | HPND | HPND | | `(?!\W*DEC|\W*doc|\W*export|\W*Fenneberg|\W*INRIA|\W*Kevlin|\W*Markus|\W*MIT|\W*Netrek|\W*Pbmplus|\W*sell|\W*UC)` |
 | Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | HPND-DEC | | |
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | HPND-doc | | `(?!\W*sell)` |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | HPND-doc-sell | | |
@@ -302,6 +305,7 @@
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | HPND-Markus-Kuhn | | |
 | Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | HPND-merchantability-variant | | |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | HPND-MIT-disclaimer | | |
+| Historical Permission Notice and Disclaimer - Netrek variant | HPND-Netrek | HPND-Netrek | | |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | HPND-Pbmplus | | |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | HPND-sell-MIT-disclaimer-xserver |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | HPND-sell-regexpr | | |
@@ -423,7 +427,6 @@
 | Non-Commercial Government Licence | NCGL-UK-2.0 | NCGL-UK | 2.0 | |
 | NCL Source Code License | NCL | NCL | | |
 | University of Illinois/NCSA Open Source License | NCSA | NCSA | | |
-| Net-SNMP License | Net-SNMP | Net-SNMP | | |
 | NetCDF license | NetCDF | NetCDF | | |
 | Newsletr License | Newsletr | Newsletr | | |
 | Nethack General Public License | NGPL | NGPL | | |
@@ -525,7 +528,8 @@
 | RealNetworks Public Source License v1.0 | RPSL-1.0 | RPSL | 1.0 | |
 | RSA Message-Digest License | RSA-MD | RSA-MD | | |
 | Ricoh Source Code Public License | RSCPL | RSCPL | | |
-| Ruby License | Ruby | Ruby | | |
+| Ruby License | Ruby | Ruby | | `(?!\W*pty)` |
+| Ruby pty extension license | Ruby-pty | Ruby-pty | | |
 | Sax Public Domain Notice | SAX-PD | SAX-PD | | `(?!\W*2)` |
 | Sax Public Domain Notice 2.0 | SAX-PD-2.0 | SAX-PD | 2.0 | |
 | Saxpath License | Saxpath | Saxpath | | |
@@ -582,6 +586,7 @@
 | TTYP0 License | TTYP0 | TTYP0 | | |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | TU-Berlin | 1.0 | |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | TU-Berlin | 2.0 | |
+| Ubuntu Font Licence v1.0 | Ubuntu-font-1.0 | Ubuntu-font | 1.0 | |
 | UCAR License | UCAR | UCAR | | |
 | Upstream Compatibility License v1.0 | UCL-1.0 | UCL | 1.0 | |
 | ulem License | ulem | ulem | | |
@@ -605,8 +610,9 @@
 | Widget Workshop License | Widget-Workshop | Widget-Workshop | | |
 | Wsuipa License | Wsuipa | Wsuipa | | |
 | Do What The F*ck You Want To Public License | WTFPL | WTFPL | | |
-| X11 License | X11 | X11 | | `(?!\W*distribute)` |
+| X11 License | X11 | X11 | | `(?!\W*distribute|\W*swapped)` |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | X11-distribute-modifications-variant | | |
+| X11 swapped final paragraphs | X11-swapped | X11-swapped | | |
 | Xdebug License v 1.03 | Xdebug-1.03 | Xdebug | 1.03 | |
 | Xerox License | Xerox | Xerox | | |
 | Xfig License | Xfig | Xfig | | |
@@ -663,6 +669,7 @@
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | LGPL | 2.1 | + |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0 | LGPL | 3.0 | `(?!\W*only|\W*or\W*later|\W*\+)` |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | LGPL | 3.0 | + |
+| Net-SNMP License | Net-SNMP | Net-SNMP | | |
 | Nunit License | Nunit | Nunit | | |
 | Standard ML of New Jersey License | StandardML-NJ | StandardML-NJ | | |
 | wxWindows Library License | wxWindows | wxWindows | | |

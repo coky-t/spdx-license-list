@@ -208,6 +208,8 @@
 | [Data licence Germany - attribution - version 2.0](https://spdx.org/licenses/DL-DE-BY-2.0.html) | DL-DE-BY-2.0 | 3.16 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/DL-DE-BY-2.0.html)) | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/DL-DE-BY-2.0.html)) | N/A |
 | [Data licence Germany – zero – version 2.0](https://spdx.org/licenses/DL-DE-ZERO-2.0.html) | DL-DE-ZERO-2.0 | 3.22 | blue (since [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/DL-DE-ZERO-2.0.html)) | blue (since [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/DL-DE-ZERO-2.0.html)) | N/A |
 | [DOC License](https://spdx.org/licenses/DOC.html) | DOC | 1.20 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/DOC.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/DOC.html)) | N/A |
+| [DocBook Schema License](https://spdx.org/licenses/DocBook-Schema.html) | DocBook-Schema | 3.25.0 | none | N/A | N/A |
+| [DocBook XML License](https://spdx.org/licenses/DocBook-XML.html) | DocBook-XML | 3.25.0 | blue (since [3.25.0](https://github.com/spdx/license-list-data/blob/v3.25.0/html/DocBook-XML.html)) | N/A | N/A |
 | [Dotseqn License](https://spdx.org/licenses/Dotseqn.html) | Dotseqn | 1.20 | none | N/A | N/A |
 | [Detection Rule License 1.0](https://spdx.org/licenses/DRL-1.0.html) | DRL-1.0 | 3.12 | none | blue (since [3.12](https://github.com/spdx/license-list-data/blob/v3.12/html/DRL-1.0.html)) | N/A |
 | [Detection Rule License 1.1](https://spdx.org/licenses/DRL-1.1.html) | DRL-1.1 | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/DRL-1.1.html)) | N/A |
@@ -284,6 +286,7 @@
 | [Gutmann License](https://spdx.org/licenses/Gutmann.html) | Gutmann | 3.24.0 | none | N/A | N/A |
 | [Haskell Language Report License](https://spdx.org/licenses/HaskellReport.html) | HaskellReport | 1.20 | none | N/A | N/A |
 | [hdparm License](https://spdx.org/licenses/hdparm.html) | hdparm | 3.23 | none | black | N/A |
+| [HIDAPI License](https://spdx.org/licenses/HIDAPI.html) | HIDAPI | 3.25.0 | none | N/A | N/A |
 | [Hippocratic License 2.1](https://spdx.org/licenses/Hippocratic-2.1.html) | Hippocratic-2.1 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/Hippocratic-2.1.html)) | N/A |
 | [Hewlett-Packard 1986 License](https://spdx.org/licenses/HP-1986.html) | HP-1986 | 3.20 | none | N/A | N/A |
 | [Hewlett-Packard 1989 License](https://spdx.org/licenses/HP-1989.html) | HP-1989 | 3.22 | none | N/A | N/A |
@@ -302,6 +305,7 @@
 | [Historical Permission Notice and Disclaimer - Markus Kuhn variant](https://spdx.org/licenses/HPND-Markus-Kuhn.html) | HPND-Markus-Kuhn | 3.20 | none | N/A | N/A |
 | [Historical Permission Notice and Disclaimer - merchantability variant](https://spdx.org/licenses/HPND-merchantability-variant.html) | HPND-merchantability-variant | 3.24.0 | none | N/A | N/A |
 | [Historical Permission Notice and Disclaimer with MIT disclaimer](https://spdx.org/licenses/HPND-MIT-disclaimer.html) | HPND-MIT-disclaimer | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/HPND-MIT-disclaimer.html)) | N/A |
+| [Historical Permission Notice and Disclaimer - Netrek variant](https://spdx.org/licenses/HPND-Netrek.html) | HPND-Netrek | 3.25.0 | none | N/A | N/A |
 | [Historical Permission Notice and Disclaimer - Pbmplus variant](https://spdx.org/licenses/HPND-Pbmplus.html) | HPND-Pbmplus | 3.22 | none | N/A | N/A |
 | [Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer](https://spdx.org/licenses/HPND-sell-MIT-disclaimer-xserver.html) | HPND-sell-MIT-disclaimer-xserver | 3.23 | none | N/A | N/A |
 | [Historical Permission Notice and Disclaimer - sell regexpr variant](https://spdx.org/licenses/HPND-sell-regexpr.html) | HPND-sell-regexpr | 3.22 | none | N/A | N/A |
@@ -423,7 +427,6 @@
 | [Non-Commercial Government Licence](https://spdx.org/licenses/NCGL-UK-2.0.html) | NCGL-UK-2.0 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/NCGL-UK-2.0.html)) | N/A |
 | [NCL Source Code License](https://spdx.org/licenses/NCL.html) | NCL | 3.24.0 | blue (since [3.24.0](https://github.com/spdx/license-list-data/blob/v3.24.0/html/NCL.html)) | N/A | N/A |
 | [University of Illinois/NCSA Open Source License](https://spdx.org/licenses/NCSA.html) | NCSA | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NCSA.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NCSA.html)) | N/A |
-| [Net-SNMP License](https://spdx.org/licenses/Net-SNMP.html) | Net-SNMP | 2.6 | none | N/A | N/A |
 | [NetCDF license](https://spdx.org/licenses/NetCDF.html) | NetCDF | 1.20 | none | N/A | N/A |
 | [Newsletr License](https://spdx.org/licenses/Newsletr.html) | Newsletr | 1.20 | none | N/A | N/A |
 | [Nethack General Public License](https://spdx.org/licenses/NGPL.html) | NGPL | 1.0 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/NGPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/NGPL.html)) | N/A |
@@ -526,6 +529,7 @@
 | [RSA Message-Digest License](https://spdx.org/licenses/RSA-MD.html) | RSA-MD | 2.0 | none | N/A | N/A |
 | [Ricoh Source Code Public License](https://spdx.org/licenses/RSCPL.html) | RSCPL | 1.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RSCPL.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RSCPL.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/RSCPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/RSCPL.html)) | N/A |
 | [Ruby License](https://spdx.org/licenses/Ruby.html) | Ruby | 1.0 | none | N/A | N/A |
+| [Ruby pty extension license](https://spdx.org/licenses/Ruby-pty.html) | Ruby-pty | 3.25.0 | none | N/A | N/A |
 | [Sax Public Domain Notice](https://spdx.org/licenses/SAX-PD.html) | SAX-PD | 1.0 | none | N/A | N/A |
 | [Sax Public Domain Notice 2.0](https://spdx.org/licenses/SAX-PD-2.0.html) | SAX-PD-2.0 | 3.23 | none | N/A | N/A |
 | [Saxpath License](https://spdx.org/licenses/Saxpath.html) | Saxpath | 1.20 | none | N/A | N/A |
@@ -582,9 +586,10 @@
 | [TTYP0 License](https://spdx.org/licenses/TTYP0.html) | TTYP0 | 3.22 | none | blue (since [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/TTYP0.html)) | N/A |
 | [Technische Universitaet Berlin License 1.0](https://spdx.org/licenses/TU-Berlin-1.0.html) | TU-Berlin-1.0 | 3.2 | blue (since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/TU-Berlin-1.0.html)) | N/A | N/A |
 | [Technische Universitaet Berlin License 2.0](https://spdx.org/licenses/TU-Berlin-2.0.html) | TU-Berlin-2.0 | 3.2 | blue (since [3.2](https://github.com/spdx/license-list-data/blob/v3.2/html/TU-Berlin-2.0.html)) | N/A | N/A |
+| [Ubuntu Font Licence v1.0](https://spdx.org/licenses/Ubuntu-font-1.0.html) | Ubuntu-font-1.0 | 3.25.0 | none | N/A | N/A |
 | [UCAR License](https://spdx.org/licenses/UCAR.html) | UCAR | 3.20 | none | N/A | N/A |
 | [Upstream Compatibility License v1.0](https://spdx.org/licenses/UCL-1.0.html) | UCL-1.0 | 3.7 | blue (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/UCL-1.0.html)) | blue (since [3.7](https://github.com/spdx/license-list-data/blob/v3.7/html/UCL-1.0.html)) | N/A |
-| [ulem License](https://spdx.org/licenses/ulem.html) | ulem | 3.22 | none | N/A | N/A |
+| [ulem License](https://spdx.org/licenses/ulem.html) | ulem | 3.22 | blue (since [3.25.0](https://github.com/spdx/license-list-data/blob/v3.25.0/html/ulem.html)), none (until [3.24.0](https://github.com/spdx/license-list-data/blob/v3.24.0/html/ulem.html)) | N/A | N/A |
 | [Michigan/Merit Networks License](https://spdx.org/licenses/UMich-Merit.html) | UMich-Merit | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/UMich-Merit.html)) | N/A |
 | [Unicode License v3](https://spdx.org/licenses/Unicode-3.0.html) | Unicode-3.0 | 3.23 | none | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/Unicode-3.0.html)) | N/A |
 | [Unicode License Agreement - Data Files and Software (2015)](https://spdx.org/licenses/Unicode-DFS-2015.html) | Unicode-DFS-2015 | 2.6 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Unicode-DFS-2015.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Unicode-DFS-2015.html)) | N/A |
@@ -607,6 +612,7 @@
 | [Do What The F*ck You Want To Public License](https://spdx.org/licenses/WTFPL.html) | WTFPL | 1.17 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/WTFPL.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/WTFPL.html)) | N/A |
 | [X11 License](https://spdx.org/licenses/X11.html) | X11 | 1.17 | blue (since [3.16](https://github.com/spdx/license-list-data/blob/v3.16/html/X11.html)), none (until [3.15](https://github.com/spdx/license-list-data/blob/v3.15/html/X11.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/X11.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/X11.html)) | N/A |
 | [X11 License Distribution Modification Variant](https://spdx.org/licenses/X11-distribute-modifications-variant.html) | X11-distribute-modifications-variant | 3.16 | none | N/A | N/A |
+| [X11 swapped final paragraphs](https://spdx.org/licenses/X11-swapped.html) | X11-swapped | 3.25.0 | blue (since [3.25.0](https://github.com/spdx/license-list-data/blob/v3.25.0/html/X11-swapped.html)) | blue (since [3.25.0](https://github.com/spdx/license-list-data/blob/v3.25.0/html/X11-swapped.html)) | N/A |
 | [Xdebug License v 1.03](https://spdx.org/licenses/Xdebug-1.03.html) | Xdebug-1.03 | 3.21 | blue (since [3.21](https://spdx.org/licenses/Xdebug-1.03.html)) | blue (since [3.21](https://spdx.org/licenses/Xdebug-1.03.html)) | N/A |
 | [Xerox License](https://spdx.org/licenses/Xerox.html) | Xerox | 1.20 | none | N/A | N/A |
 | [Xfig License](https://spdx.org/licenses/Xfig.html) | Xfig | 3.21 | none | N/A | N/A |
@@ -663,6 +669,7 @@
 | [GNU Lesser General Public License v2.1 or later](https://spdx.org/licenses/LGPL-2.1+.html) | LGPL-2.1+ | 1.0 | 2.0rc2 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.1%2B.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.1%2B.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.1%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.1%2B.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-2.1%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-2.1%2B.html)) |
 | [GNU Lesser General Public License v3.0 only](https://spdx.org/licenses/LGPL-3.0.html) | LGPL-3.0 | 1.0 | 3.0 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0.html)) |
 | [GNU Lesser General Public License v3.0 or later](https://spdx.org/licenses/LGPL-3.0+.html) | LGPL-3.0+ | 1.0 | 2.0rc2 | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0%2B.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0%2B.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0%2B.html)) | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/LGPL-3.0%2B.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/LGPL-3.0%2B.html)) |
+| [Net-SNMP License](https://spdx.org/licenses/Net-SNMP.html) | Net-SNMP | 2.6 | none | N/A | N/A |
 | [Nunit License](https://spdx.org/licenses/Nunit.html) | Nunit | 1.20 | 3.0 | none | N/A | N/A |
 | [Standard ML of New Jersey License](https://spdx.org/licenses/StandardML-NJ.html) | StandardML-NJ | 1.20 | 2.0rc2 | none | blue (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/StandardML-NJ.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/StandardML-NJ.html)) | N/A |
 | [wxWindows Library License](https://spdx.org/licenses/wxWindows.html) | wxWindows | 1.0 | 2.0rc2 | none | N/A | N/A |

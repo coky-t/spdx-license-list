@@ -208,6 +208,8 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | |
 | DOC License | DOC | |
+| DocBook Schema License | DocBook-Schema | Permission to use, copy |
+| DocBook XML License | DocBook-XML | Permission is hereby granted |
 | Dotseqn License | Dotseqn | |
 | Detection Rule License 1.0 | DRL-1.0 | Permission is hereby granted |
 | Detection Rule License 1.1 | DRL-1.1 | Permission is hereby granted |
@@ -284,6 +286,7 @@
 | Gutmann License | Gutmann | |
 | Haskell Language Report License | HaskellReport | |
 | hdparm License | hdparm | |
+| HIDAPI License | HIDAPI | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
 | Hewlett-Packard 1986 License | HP-1986 | |
 | Hewlett-Packard 1989 License | HP-1989 | |
@@ -302,6 +305,7 @@
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | Permission to use, copy |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | Permission to use, copy |
+| Historical Permission Notice and Disclaimer - Netrek variant | HPND-Netrek | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | Permission to use, copy |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | Permission to use, copy |
@@ -423,7 +427,6 @@
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
 | NCL Source Code License | NCL | Redistribution and use |
 | University of Illinois/NCSA Open Source License | NCSA | Permission is hereby granted |
-| Net-SNMP License | Net-SNMP | Permission to use, copy / Redistribution and use |
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | Permission is granted |
 | Nethack General Public License | NGPL | |
@@ -526,6 +529,7 @@
 | RSA Message-Digest License | RSA-MD | |
 | Ricoh Source Code Public License | RSCPL | |
 | Ruby License | Ruby | |
+| Ruby pty extension license | Ruby-pty | |
 | Sax Public Domain Notice | SAX-PD | |
 | Sax Public Domain Notice 2.0 | SAX-PD-2.0 | |
 | Saxpath License | Saxpath | Redistribution and use |
@@ -582,6 +586,7 @@
 | TTYP0 License | TTYP0 | Permission is hereby granted |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | Permission to use, copy |
+| Ubuntu Font Licence v1.0 | Ubuntu-font-1.0 | Permission is hereby granted |
 | UCAR License | UCAR | Redistribution and use |
 | Upstream Compatibility License v1.0 | UCL-1.0 | |
 | ulem License | ulem | |
@@ -607,6 +612,7 @@
 | Do What The F*ck You Want To Public License | WTFPL | |
 | X11 License | X11 | Permission is hereby granted |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permission is hereby granted |
+| X11 swapped final paragraphs | X11-swapped | Permission is hereby granted |
 | Xdebug License v 1.03 | Xdebug-1.03 | Redistribution and use |
 | Xerox License | Xerox | |
 | Xfig License | Xfig | |
@@ -663,6 +669,7 @@
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0 | |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | |
+| Net-SNMP License | Net-SNMP | Permission to use, copy / Redistribution and use |
 | Nunit License | Nunit | Permission is granted |
 | Standard ML of New Jersey License | StandardML-NJ | Permission to use, copy |
 | wxWindows Library License | wxWindows | |

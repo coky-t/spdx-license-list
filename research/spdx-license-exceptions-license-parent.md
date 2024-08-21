@@ -18,6 +18,7 @@
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | GPL |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | GPL-2.0-only, GPL-2.0-and-later |
 | eCos exception 2.0 | eCos-exception-2.0 | GPL-2.0-only, GPL-2.0-and-later |
+| Erlang/OTP Linking Exception | erlang-otp-linking-exception | GPL, AGPL-3.0 |
 | Fawkes Runtime Exception | Fawkes-Runtime-exception | GPL |
 | FLTK exception | FLTK-exception | LGPL-2.0-only |
 | fmt exception | fmt-exception | MIT |
@@ -57,6 +58,7 @@
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | GPL-3.0 |
 | Qt LGPL exception 1.1 | Qt-LGPL-exception-1.1 | LGPL-2.1-only |
 | Qwt exception 1.0 | Qwt-exception-1.0 | LGPL-2.1 |
+| Romic Exception | romic-exception | AGPL-3.0 |
 | RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | GPL-2.0 |
 | SANE Exception | SANE-exception | GPL |
 | Solderpad Hardware License v2.0 | SHL-2.0 | Apache-2.0 |
