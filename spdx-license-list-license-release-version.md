@@ -669,7 +669,7 @@
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 1.0 | 2.0rc2 |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0 | 1.0 beta | 3.0 |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 1.0 | 2.0rc2 |
-| Net-SNMP License | Net-SNMP | 3.25.0 |
+| Net-SNMP License | Net-SNMP | 2.6 | 3.25.0 |
 | Nunit License | Nunit | 1.20 | 3.0 |
 | Standard ML of New Jersey License | StandardML-NJ | 1.20 | 2.0rc2 |
 | wxWindows Library License | wxWindows | 1.0 beta | 2.0rc2 |
