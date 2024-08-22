@@ -1,2 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*X11(?!-distribut|-swapped|vnc)
+MODULE_LICENSE\W*X11(?!\W*distribut|\W*swapped)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)X11(?:\W*Licen[sc]e(?!\W*Distribut)|(?!\W*Licen[sc]e|\W*distribut|\W*swapped|vnc|\W*Release\W*\d|R\d|\w))
 (?<!\w)X11\W*Licen[sc]e(?!\W*Distribution)
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)X11(?:\W*Licen[sc]e(?!\W*Distribution)|(?!\W*Licen[sc]e|\W*distribute|vnc|\W*Release\W*\d|R\d|\w))

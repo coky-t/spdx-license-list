@@ -1,0 +1,5 @@
+SPDX-License-Identifier: DocBook-XML
+MODULE_LICENSE(DocBook-XML)
+License: DocBook-XML
+DocBook-XML License
+DocBook XML License

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: X11-swapped
+MODULE_LICENSE(X11-swapped)
+License: X11-swapped
+X11-swapped License
+X11 swapped final paragraphs

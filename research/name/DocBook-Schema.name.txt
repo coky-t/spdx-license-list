@@ -1,0 +1,5 @@
+SPDX-License-Identifier: DocBook-Schema
+MODULE_LICENSE(DocBook-Schema)
+License: DocBook-Schema
+DocBook-Schema License
+DocBook Schema License

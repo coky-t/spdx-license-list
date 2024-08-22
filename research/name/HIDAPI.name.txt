@@ -1,0 +1,4 @@
+SPDX-License-Identifier: HIDAPI
+MODULE_LICENSE(HIDAPI)
+License: HIDAPI
+HIDAPI License

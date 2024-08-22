@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*DocBook-XML
+MODULE_LICENSE\W*DocBook\W*XML
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)DocBook\W*XML(?:\W*Licen[sc]e)?
+(?<!\w)DocBook\W*XML\W*Licen[sc]e

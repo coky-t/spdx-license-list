@@ -1,0 +1,7 @@
+SPDX-License-Identifier: Ubuntu-font-1.0
+MODULE_LICENSE(Ubuntu-font-1.0)
+License: Ubuntu-font-1.0
+Ubuntu-font-1.0 License
+Ubuntu Font Licence v1.0
+UBUNTU FONT LICENCE Version 1.0
+v1.0 of the Ubuntu Font Licence

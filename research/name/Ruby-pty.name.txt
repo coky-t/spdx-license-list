@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Ruby-pty
+MODULE_LICENSE(Ruby-pty)
+License: Ruby-pty
+Ruby-pty License
+Ruby pty extension license

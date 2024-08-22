@@ -1,0 +1,3 @@
+SPDX-License-Identifier: AGPL-3.0 WITH erlang-otp-linking-exception
+SPDX-Exception-Identifier: erlang-otp-linking-exception
+Erlang/OTP Linking Exception

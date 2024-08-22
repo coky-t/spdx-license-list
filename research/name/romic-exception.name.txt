@@ -1,0 +1,3 @@
+SPDX-License-Identifier: AGPL-3.0 WITH romic-exception
+SPDX-Exception-Identifier: romic-exception
+Romic Exception

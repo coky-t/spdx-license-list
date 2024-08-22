@@ -1,0 +1,5 @@
+SPDX-License-Identifier: HPND-Netrek
+MODULE_LICENSE(HPND-Netrek)
+License: HPND-Netrek
+HPND-Netrek License
+Historical Permission Notice and Disclaimer - Netrek variant
