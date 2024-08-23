@@ -1,5 +1,5 @@
 SPDX-License-Identifier: LiLiQ-R-1.1
-MODULE_LICENSE(ALiLiQ-R-1.1AL)
+MODULE_LICENSE(LiLiQ-R-1.1)
 License: LiLiQ-R-1.1
 LiLiQ-R-1.1 License
 LiLiQ-R License v1.1
