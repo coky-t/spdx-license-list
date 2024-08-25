@@ -1,2 +1,8 @@
-(?<!\w)SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.5(?!1)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*SHL-0\.5(?!1)
+MODULE_LICENSE\W*SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.5(?!1)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.5(?!1)(?:\W*Licen[sc]e)?
+(?<!\w)SHL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.5\W*Licen[sc]e
+(?<!\w)SHL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.5(?!1)
+v(?:er(?:sion|\.)?|\.)?\W*0\.5\W*of\W*(?:the\W*)?SHL\W*Licen[sc]e
 Solderpad\W*Hardware\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.5(?!1)
+v(?:er(?:sion|\.)?|\.)?\W*0\.5\W*of\W*(?:the\W*)?Solderpad\W*Hardware\W*Licen[sc]e

@@ -1,3 +1,9 @@
-(?<!\w)SMLNJ(?!\w)
-StandardML\W*NJ
-Standard\W*ML\W*of\W*New\W*Jersey(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*SMLNJ(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*StandardML-NJ(?!\w)
+MODULE_LICENSE\W*SMLNJ(?!\w)
+MODULE_LICENSE\W*StandardML\W*NJ(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)SMLNJ(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)StandardML\W*NJ(?:\W*Licen[sc]e)?
+(?<!\w)SMLNJ\W*Licen[sc]e
+(?<!\w)StandardML\W*NJ\W*Licen[sc]e
+(?<!\w)Standard\W*ML\W*of\W*New\W*Jersey(?:\W*Copyright\W*Notice)?\W*Licen[sc]e(?:\W*and\W*Disclaimer)?

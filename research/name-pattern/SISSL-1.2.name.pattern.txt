@@ -1,2 +1,8 @@
-(?<!\w)SISSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*SISSL-1\.2
+MODULE_LICENSE\W*SISSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)SISSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2(?:\W*Licen[sc]e)?
+(?<!\w)SISSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*Licen[sc]e
+(?<!\w)SISSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+v(?:er(?:sion|\.)?|\.)?\W*1\.2\W*of\W*(?:the\W*)?SISSL\W*Licen[sc]e
 Sun\W*(?:Industry\W*)?Standards\W*(?:Source\W*)?Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+v(?:er(?:sion|\.)?|\.)?\W*1\.2\W*of\W*(?:the\W*)?Sun\W*(?:Industry\W*)?Standards\W*(?:Source\W*)?Licen[sc]e

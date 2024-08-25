@@ -1,1 +1,5 @@
-Spencer\W*(?:Licen[sc]e\W*)?94
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Spencer-94
+MODULE_LICENSE\W*Spencer\W*94
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Spencer\W*94(?:\W*Licen[sc]e)?
+(?<!\w)Spencer\W*94\W*Licen[sc]e
+(?<!\w)Spencer\W*Licen[sc]e\W*94
