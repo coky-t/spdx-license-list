@@ -1,1 +1,6 @@
-Python\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0\.1
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Python-2\.0\.1
+MODULE_LICENSE\W*Python\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Python\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0\.1(?:\W*Licen[sc]e)?
+(?<!\w)Python\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0\.1\W*Licen[sc]e
+(?<!\w)Python\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.0\.1
+v(?:er(?:sion|\.)?|\.)?\W*2\.0\.1\W*of\W*(?:the\W*)?Python\W*Licen[sc]e

@@ -1,1 +1,6 @@
-PolyForm\W*Small\W*Business\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?:\.0)?)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*PolyForm-Small-Business-1\.0\.0
+MODULE_LICENSE\W*PolyForm\W*Small\W*Business\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?:\.0)?)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)PolyForm\W*Small\W*Business\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?:\.0)?)?(?:\W*Licen[sc]e)?
+(?<!\w)PolyForm\W*Small\W*Business\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?:\.0)?)?\W*Licen[sc]e
+(?<!\w)PolyForm\W*Small\W*Business\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?:\.0)?)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0(?:\.0)?)?\W*of\W*(?:the\W*)?PolyForm\W*Small\W*Business\W*Licen[sc]e

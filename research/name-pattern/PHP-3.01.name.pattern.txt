@@ -1,2 +1,6 @@
-(?<!\w)PHP\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.01
-(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.01\W*of\W*(?:the\W*)?PHP\W*Licen[sc]e
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*PHP-3\.01
+MODULE_LICENSE\W*PHP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.01
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)PHP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.01(?:\W*Licen[sc]e)?
+(?<!\w)PHP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.01\W*Licen[sc]e
+(?<!\w)PHP\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3\.01
+v(?:er(?:sion|\.)?|\.)?\W*3\.01\W*of\W*(?:the\W*)?PHP\W*Licen[sc]e
