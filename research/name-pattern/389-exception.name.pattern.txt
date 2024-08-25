@@ -1,1 +1,3 @@
-389(?:\W*directory\W*server)?\W*exception
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*389-exception
+SPDX-Exception-Identifier\W*389-exception
+389\W*directory\W*server\W*exception

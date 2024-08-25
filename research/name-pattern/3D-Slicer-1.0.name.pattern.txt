@@ -1,1 +1,7 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*3D-Slicer-1\.0
+MODULE_LICENSE\W*3D\W*Slicer\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)3D\W*Slicer\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+3D\W*Slicer\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+3D\W*Slicer\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?3D\W*Slicer\W*Licen[sc]e
 3D\W*Slicer\W*(?:(?:Contribution\W*and\W*Software\W*)?Licen[sc]e\W*(?:Agreement\W*)*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
