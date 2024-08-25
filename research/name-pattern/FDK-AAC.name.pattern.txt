@@ -1,1 +1,5 @@
-(?:(?:Software\W*Licen[sc]e\W*for\W*The\W*)?Fraunhofer\W*)?FDK\W*AAC(?:\W*Codec\W*Library)?(?:\W*for\W*Android)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*FDK-AAC(?!\w)
+MODULE_LICENSE\W*FDK\W*AAC(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)FDK\W*AAC(?:\W*Licen[sc]e)?
+(?<!\w)FDK\W*AAC\W*Licen[sc]e
+(?:Software\W*Licen[sc]e\W*for\W*The\W*)?Fraunhofer\W*FDK\W*AAC\W*Codec\W*Library(?:\W*for\W*Android)?

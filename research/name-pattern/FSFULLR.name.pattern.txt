@@ -1,2 +1,5 @@
-(?<!\w)FSFULLR(?!WD|\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*FSFULLR(?!WD|\w)
+MODULE_LICENSE\W*FSFULLR(?!WD|\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)FSFULLR(?!WD|\w)(?:\W*Licen[sc]e)?
+(?<!\w)FSFULLR\W*Licen[sc]e
 FSF\W*Unlimited\W*Licen[sc]e\W*with\W*Licen[sc]e\W*Retention(?!\W*and\W*Warranty)

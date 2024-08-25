@@ -1,1 +1,4 @@
-(?<!\w)fwlw(?:\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*fwlw(?!\w)
+MODULE_LICENSE\W*fwlw(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)fwlw(?:\W*Licen[sc]e)?
+(?<!\w)fwlw\W*Licen[sc]e

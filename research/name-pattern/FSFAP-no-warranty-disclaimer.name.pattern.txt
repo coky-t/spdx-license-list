@@ -1,2 +1,5 @@
-FSFAP\W*no\W*warranty\W*disclaimer
-FSF\W*All\W*Permissive\W*Licen[sc]e\W*without\W*Warranty
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*FSFAP-no-warranty-disclaimer(?!\w)
+MODULE_LICENSE\W*FSFAP\W*no\W*warranty\W*disclaimer(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)FSFAP\W*no\W*warranty\W*disclaimer(?:\W*Licen[sc]e)?
+(?<!\w)FSFAP\W*no\W*warranty\W*disclaimer\W*Licen[sc]e
+(?<!\w)FSF\W*All\W*Permissive\W*Licen[sc]e\W*without\W*Warranty

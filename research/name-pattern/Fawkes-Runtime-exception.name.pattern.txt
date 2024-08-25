@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Fawkes-Runtime-exception
+SPDX-Exception-Identifier\W*Fawkes-Runtime-exception
 Fawkes\W*Runtime\W*exception

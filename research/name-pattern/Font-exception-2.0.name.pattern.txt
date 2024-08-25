@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Font-exception-2\.0
+SPDX-Exception-Identifier\W*Font-exception-2\.0
 Font\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0|(?!\w))
