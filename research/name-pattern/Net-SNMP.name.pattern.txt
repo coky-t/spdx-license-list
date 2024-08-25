@@ -1,1 +1,4 @@
-Net\W*SNMP(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Net-SNMP(?!\w)
+MODULE_LICENSE\W*Net\W*SNMP(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Net\W*SNMP(?:\W*Licen[sc]e)?
+(?<!\w)Net\W*SNMP\W*Licen[sc]e

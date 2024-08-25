@@ -1,2 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Nunit(?!\w)
+MODULE_LICENSE\W*Nunit(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Nunit(?:\W*Licen[sc]e)?
 (?<!\w)Nunit\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Nunit(?:\W*Licen[sc]e|(?!\w))

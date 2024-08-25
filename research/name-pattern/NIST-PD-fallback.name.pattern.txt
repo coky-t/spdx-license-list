@@ -1,2 +1,5 @@
-NIST\W*PD\W*fallback
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NIST-PD-fallback(?!\w)
+MODULE_LICENSE\W*NIST\W*PD\W*fallback(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NIST\W*PD\W*fallback(?:\W*Licen[sc]e)?
+(?<!\w)NIST\W*PD\W*fallback\W*Licen[sc]e
 NIST\W*Public\W*Domain\W*Notice\W*with\W*licen[sc]e\W*fallback

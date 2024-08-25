@@ -1,2 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NTP(?!-0|\w)
+MODULE_LICENSE\W*NTP(?!\w|\W*0|\W*No)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NTP(?!\w|\W*0|\W*No)(?:\W*Licen[sc]e)?
 (?<!\w)NTP\W*Licen[sc]e(?:\W*NTP)?
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)NTP(?:\W*Licen[sc]e(?:\W*NTP)?|(?!\w|\W*0|\W*No))

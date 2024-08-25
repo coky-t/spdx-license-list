@@ -1,1 +1,4 @@
-(?<!\w)Newsletr(?:\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Newsletr(?!\w)
+MODULE_LICENSE\W*Newsletr(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Newsletr(?:\W*Licen[sc]e)?
+(?<!\w)Newsletr\W*Licen[sc]e

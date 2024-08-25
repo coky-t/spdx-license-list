@@ -1,1 +1,4 @@
-NIST\W*Software(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NIST-Software(?!\w)
+MODULE_LICENSE\W*NIST\W*Software(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NIST\W*Software(?:\W*Licen[sc]e)?
+(?<!\w)NIST\W*Software\W*Licen[sc]e

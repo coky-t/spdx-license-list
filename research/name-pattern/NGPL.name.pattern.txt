@@ -1,2 +1,5 @@
-(?<!\w)NGPL(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NGPL(?!\w)
+MODULE_LICENSE\W*NGPL(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NGPL(?:\W*Licen[sc]e)?
+(?<!\w)NGPL\W*Licen[sc]e
 Nethack\W*General\W*Public\W*Licen[sc]e

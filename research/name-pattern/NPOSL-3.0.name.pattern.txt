@@ -1,1 +1,9 @@
-(?:Non\W*Profit|(?<!\w)NP)\W*(?:Open\W*Software\W*Licen[sc]e|OSL)(?:\W*Non\W*Profit\W*OSL)?\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NPOSL-3\.0
+MODULE_LICENSE\W*NPOSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:Non\W*Profit|NP)\W*OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)NP\W*OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Licen[sc]e
+(?<!\w)Non\W*Profit\W*OSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)(?:Non\W*Profit|NP)\W*OSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*3(?:\.0)?\W*of\W*(?:the\W*)?(?:Non\W*Profit|NP)\W*OSL\W*Licen[sc]e
+Non\W*Profit\W*Open\W*Software\W*Licen[sc]e(?:\W*Non\W*Profit\W*OSL)?\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*3(?:\.0)?\W*of\W*(?:the\W*)?Non\W*Profit\W*Open\W*Software\W*Licen[sc]e

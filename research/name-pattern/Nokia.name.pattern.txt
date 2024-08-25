@@ -1,3 +1,7 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Nokia(?!\w)
+MODULE_LICENSE\W*Nokia(?!\W*Qt)
+MODULE_LICENSE\W*NOKOS(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Nokia(?!\W*Qt)(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NOKOS(?:\W*Licen[sc]e)?
 (?<!\w)Nokia(?:\W*Open\W*Source)?\W*Licen[sc]e(?:\W*NOKOS\W*Licen[sc]e)?(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0a?)?)?
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Nokia(?:(?:\W*Open\W*Source)?\W*Licen[sc]e|(?!\W*Qt))(?:\W*NOKOS\W*Licen[sc]e)?(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0a?)?)?
-NOKOS\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)?
+(?<!\w)NOKOS\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)?
