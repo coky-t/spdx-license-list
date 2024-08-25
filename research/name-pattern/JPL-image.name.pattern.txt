@@ -1,1 +1,5 @@
-JPL\W*Image(?:\W*Use\W*Policy)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*JPL-image(?!\w)
+MODULE_LICENSE\W*JPL\W*Image(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)JPL\W*Image(?:\W*Licen[sc]e)?
+(?<!\w)JPL\W*Image\W*Licen[sc]e
+JPL\W*Image\W*Use\W*Policy

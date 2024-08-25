@@ -1,2 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Jam(?!\w)
+MODULE_LICENSE\W*Jam(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Jam(?:\W*Licen[sc]e)?
 (?<!\w)Jam\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Jam(?:\W*Licen[sc]e|(?!\w))

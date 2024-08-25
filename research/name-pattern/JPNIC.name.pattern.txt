@@ -1,2 +1,5 @@
-(?<!\w)JPNIC(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*JPNIC(?!\w)
+MODULE_LICENSE\W*JPNIC(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)JPNIC(?:\W*Licen[sc]e)?
+(?<!\w)JPNIC\W*Licen[sc]e
 Japan\W*Network\W*Information\W*Center\W*Licen[sc]e
