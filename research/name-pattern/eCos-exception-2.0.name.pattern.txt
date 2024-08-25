@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*eCos-exception-2\.0
+SPDX-Exception-Identifier\W*eCos-exception-2\.0
 eCos\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
