@@ -1,3 +1,8 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ZPL-1\.1
+MODULE_LICENSE\W*ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?:\W*Licen[sc]e)?
 (?<!\w)ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)ZPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+(?<!\w)ZPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?ZPL\W*Licen[sc]e
 Zope\W*Public\W*Licen[sc]e\W*(?:ZPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?Zope\W*Public\W*Licen[sc]e
