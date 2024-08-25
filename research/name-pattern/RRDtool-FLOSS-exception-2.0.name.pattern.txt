@@ -1,2 +1,4 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*RRDtool-FLOSS-exception-2\.0
+SPDX-Exception-Identifier\W*RRDtool-FLOSS-exception-2\.0
 RRDtool\W*FLOSS\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
 FLOSS\W*Licen[sc]e\W*Exception

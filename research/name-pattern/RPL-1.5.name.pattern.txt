@@ -1,3 +1,8 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*RPL-1\.5
+MODULE_LICENSE\W*RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5(?:\W*Licen[sc]e)?
 (?<!\w)RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)RPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5
+(?<!\w)RPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5
+v(?:er(?:sion|\.)?|\.)?\W*1\.5\W*of\W*(?:the\W*)?RPL\W*Licen[sc]e
 Reciprocal\W*Public\W*Licen[sc]e\W*(?:RPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.5
+v(?:er(?:sion|\.)?|\.)?\W*1\.5\W*of\W*(?:the\W*)?Reciprocal\W*Public\W*Licen[sc]e

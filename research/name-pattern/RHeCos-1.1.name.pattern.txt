@@ -1,2 +1,8 @@
-(?<!\w)RHeCos\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*RHeCos-1\.1
+MODULE_LICENSE\W*RHeCos\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)RHeCos\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?:\W*Licen[sc]e)?
+(?<!\w)RHeCos\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
+(?<!\w)RHeCos\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?RHeCos\W*Licen[sc]e
 Red\W*Hat\W*eCos\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?Red\W*Hat\W*eCos\W*Public\W*Licen[sc]e
