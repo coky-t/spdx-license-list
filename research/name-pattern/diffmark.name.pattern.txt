@@ -1,1 +1,4 @@
-diffmark(?:\W*licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*diffmark(?!\w)
+MODULE_LICENSE\W*diffmark(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)diffmark(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)diffmark\W*Licen[sc]e

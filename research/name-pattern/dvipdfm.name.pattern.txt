@@ -1,2 +1,4 @@
-dvipdfm\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)dvipdfm(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*dvipdfm(?!\w)
+MODULE_LICENSE\W*dvipdfm(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)dvipdfm(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)dvipdfm\W*Licen[sc]e

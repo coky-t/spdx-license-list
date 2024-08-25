@@ -1,1 +1,4 @@
-DEC\W*3\W*Clause(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*DEC-3-Clause(?!\w)
+MODULE_LICENSE\W*DEC\W*3\W*Clause(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)DEC\W*3\W*Clause(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)DEC\W*3\W*Clause\W*Licen[sc]e

@@ -1,3 +1,9 @@
-DL\W*DE\W*BY\W*\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*DL-DE-BY-2\.0
+MODULE_LICENSE\W*DL\W*DE\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)DL\W*DE\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)DL\W*DE\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*Licen[sc]e
+(?<!\w)DL\W*DE\W*BY\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?DL\W*DE\W*BY\W*Licen[sc]e
 Data\W*licen[sc]e\W*Germany\W*attribution\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?Data\W*licen[sc]e\W*Germany\W*attribution
 Datenlizenz\W*Deutschland\W*Namensnennung\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?

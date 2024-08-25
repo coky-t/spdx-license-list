@@ -1,3 +1,8 @@
-D\W*FSL\W*1\.0
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*D-FSL-1\.0
+MODULE_LICENSE\W*D\W*FSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)D\W*FSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)D\W*FSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
+(?<!\w)D\W*FSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?D\W*FSL\W*Licen[sc]e
 Deutsche\W*Freie\W*Software\W*Lizenz
 German\W*Free\W*Software\W*Licen[sc]e
