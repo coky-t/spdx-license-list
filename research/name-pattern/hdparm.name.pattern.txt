@@ -1,1 +1,4 @@
-hdparm(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*hdparm(?!\w)
+MODULE_LICENSE\W*hdparm(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)hdparm(?:\W*Licen[sc]e)?
+(?<!\w)hdparm\W*Licen[sc]e

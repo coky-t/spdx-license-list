@@ -1,1 +1,4 @@
-HTML\W*Tidy(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HTMLTIDY(?!\w)
+MODULE_LICENSE\W*HTML\W*Tidy(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HTML\W*Tidy(?:\W*Licen[sc]e)?
+(?<!\w)HTML\W*Tidy\W*Licen[sc]e

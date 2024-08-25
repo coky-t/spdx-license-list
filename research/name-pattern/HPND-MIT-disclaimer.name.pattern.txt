@@ -1,2 +1,5 @@
-HPND\W*MIT\W*disclaimer
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HPND-MIT-disclaimer(?!\w)
+MODULE_LICENSE\W*HPND\W*MIT\W*disclaimer(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*MIT\W*disclaimer(?:\W*Licen[sc]e)?
+(?<!\w)HPND\W*MIT\W*disclaimer\W*Licen[sc]e
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*with\W*MIT\W*disclaimer

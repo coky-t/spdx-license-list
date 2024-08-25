@@ -1,2 +1,5 @@
-HPND\W*Pbmplus
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HPND-Pbmplus(?!\w)
+MODULE_LICENSE\W*HPND\W*Pbmplus(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*Pbmplus(?:\W*Licen[sc]e)?
+(?<!\w)HPND\W*Pbmplus\W*Licen[sc]e
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*Pbmplus\W*variant

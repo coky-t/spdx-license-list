@@ -1,2 +1,5 @@
-HPND\W*doc(?!\W*sell)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HPND-doc(?!-sell)
+MODULE_LICENSE\W*HPND\W*doc(?!\W*sell)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*doc(?!\W*sell)(?:\W*Licen[sc]e)?
+(?<!\w)HPND\W*doc\W*Licen[sc]e
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*documentation\W*variant
