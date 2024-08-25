@@ -1,2 +1,5 @@
-IBM\W*pibs
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*IBM-pibs(?!\w)
+MODULE_LICENSE\W*IBM\W*pibs(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)IBM\W*pibs(?:\W*Licen[sc]e)?
+(?<!\w)IBM\W*pibs\W*Licen[sc]e
 IBM\W*PowerPC\W*Initialization\W*and\W*Boot\W*Software

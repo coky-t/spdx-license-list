@@ -1,3 +1,5 @@
-(?<!\w)IJG\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)IJG(?!\W*short|\W*author|\W*code|\W*distribution)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*IJG(?!-short)
+MODULE_LICENSE\W*IJG(?!\W*short)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)IJG(?!\W*short)(?:\W*Licen[sc]e)?
+(?<!\w)IJG\W*Licen[sc]e(?!\W*short)
 Independent\W*JPEG\W*Group\W*Licen[sc]e(?!\W*short)

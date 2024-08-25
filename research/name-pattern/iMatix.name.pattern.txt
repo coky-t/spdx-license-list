@@ -1,2 +1,6 @@
-iMatix(?:\W*Standard\W*Function\W*Library\W*Agreement)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*iMatix(?!\w)
+MODULE_LICENSE\W*iMatix(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)iMatix(?:\W*Licen[sc]e)?
+(?<!\w)iMatix\W*Licen[sc]e
+iMatix\W*Standard\W*Function\W*Library\W*Agreement
 SFL\W*Licen[sc]e\W*Agreement

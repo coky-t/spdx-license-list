@@ -1,2 +1,4 @@
-Info\W*ZIP\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Info\W*ZIP(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Info-ZIP(?!\w)
+MODULE_LICENSE\W*Info\W*ZIP(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Info\W*ZIP(?:\W*Licen[sc]e)?
+(?<!\w)Info\W*ZIP\W*Licen[sc]e

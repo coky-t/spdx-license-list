@@ -1,2 +1,4 @@
-(?<!\w)(?<!HPND\W)(?<!Disclaimer\W\W\W)Intel(?:\W*Open\W*Source)?\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Intel(?!\W*ACPI|\W*Corp|\W*Code|\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Intel(?!-ACPI)
+MODULE_LICENSE\W*Intel(?!\W*ACPI)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Intel(?!\W*ACPI)(?:\W*Licen[sc]e)?
+(?<!\w)Intel(?:\W*Open\W*Source)?\W*Licen[sc]e
