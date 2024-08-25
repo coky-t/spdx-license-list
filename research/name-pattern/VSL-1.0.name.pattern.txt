@@ -1,3 +1,8 @@
-(?<!\w)VSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)VSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*VSL-1\.0
+MODULE_LICENSE\W*VSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)VSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)VSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
+(?<!\w)VSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?VSL\W*Licen[sc]e
 Vovida\W*Software\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Vovida\W*Software\W*Licen[sc]e
