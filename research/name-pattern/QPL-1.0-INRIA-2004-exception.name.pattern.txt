@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*QPL-1\.0-INRIA-2004-exception
+SPDX-Exception-Identifier\W*QPL-1\.0-INRIA-2004-exception
 (?:(?:QPL|Q\W*Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA|INRIA\W*(?:QPL|Q\W*Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)\W*2004\W*(?:variant\W*)?exception

@@ -1,2 +1,8 @@
-(?<!\w)QPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004(?!\W*exception)
-Q\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004(?:\W*variant|(?!\W*variant|\W*exception))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*QPL-1\.0-INRIA-2004(?!-exception)
+MODULE_LICENSE\W*QPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004(?!\W*exception)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)QPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004(?!\W*exception)(?:\W*Licen[sc]e)?
+(?<!\w)QPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004\W*Licen[sc]e
+(?<!\w)QPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004(?!\W*exception)
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?QPL\W*Licen[sc]e\W*INRIA\W*2004
+Q\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*INRIA\W*2004(?:\W*variant(?!\W*exception)|(?!\W*variant|\W*exception))
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Q\W*Public\W*Licen[sc]e\W*INRIA\W*2004(?:\W*variant(?!\W*exception)|(?!\W*variant|\W*exception))
