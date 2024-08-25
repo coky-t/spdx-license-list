@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Autoconf-exception-generic(?!-3\.0)
+SPDX-Exception-Identifier\W*Autoconf-exception-generic(?!-3\.0)
 Autoconf(?:\W*exception\W*generic|\W*generic\W*exception)(?!\W*for|\W*3\.0)

@@ -1,3 +1,8 @@
-Artistic\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Perl
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Artistic-1\.0-Perl(?!\w)
+MODULE_LICENSE\W*Artistic\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Perl(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Artistic\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Perl(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Artistic\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Perl\W*Licen[sc]e
+(?<!\w)Artistic\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Perl
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Artistic\W*Licen[sc]e\W*Perl
 Artistic\W*licen[sc]e\W*(?:From\W*)?Perl
 Perl\W*Artistic\W*Licen[sc]e

@@ -1,5 +1,8 @@
-(?<!\w)AGPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))\W*Licen[sc]e(?!\W*only|\W*or)
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)AGPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))(?:\W*Licen[sc]e)?(?!\W*only|\W*or)
-Affero\W*GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))(?:\W*Licen[sc]e)?(?!\W*only|\W*or)
-(?:GNU\W*)?Affero\W*(?:GPL(?:\W*Licen[sc]e)?|General\W*Public\W*Licen[sc]e)\W*(?:AGPL\W*)?(?:as\W*published\W*by\W*the\W*Free\W*Software\W*Foundation\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))
-v(?:er(?:sion|\.)?|\.)?\W*3(?:\.0)?\W*of\W*(?:the\W*)?(?:GNU\W*)?Affero\W*(?:GPL(?:\W*Licen[sc]e)?|General\W*Public\W*Licen[sc]e)(?!\W*only|\W*or)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*AGPL-3\.0(?!-only|-or)
+MODULE_LICENSE\W*(?:GNU\W*)?(?:Affero\W*|A)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:GNU\W*)?(?:Affero\W*|A)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))(?:\W*Licen[sc]e)?(?!\W*only|\W*or)
+(?<!\w)(?:Affero\W*|A)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))\W*Licen[sc]e(?!\W*only|\W*or)
+(?<!\w)(?:Affero\W*|A)GPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))
+v(?:er(?:sion|\.)?|\.)?\W*3(?:\.0)?\W*of\W*(?:the\W*)?(?:Affero\W*|A)GPL\W*Licen[sc]e
+(?:GNU\W*)?Affero\W*General\W*Public\W*Licen[sc]e\W*(?:AGPL\W*)?(?:as\W*published\W*by\W*the\W*Free\W*Software\W*Foundation\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*only|\W*or)|(?!\.0|\W*only|\W*or))
+v(?:er(?:sion|\.)?|\.)?\W*3(?:\.0)?\W*of\W*(?:the\W*)?(?:GNU\W*)?Affero\W*General\W*Public\W*Licen[sc]e

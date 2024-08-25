@@ -1,1 +1,3 @@
-Autoconf(?:\W*exception\W*macro|\W*macro\W*exception)
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Autoconf-exception-macro
+SPDX-Exception-Identifier\W*Autoconf-exception-macro
+Autoconf\W*macro\W*exception

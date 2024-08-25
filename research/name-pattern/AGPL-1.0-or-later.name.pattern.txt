@@ -1,2 +1,8 @@
-(?:(?<!\w)A|Affero\W*)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e)?\W*or\W*later
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*AGPL-1\.0-or-later
+MODULE_LICENSE\W*(?:Affero\W*|A)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*or\W*later
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:Affero\W*|A)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*or\W*later
+(?<!\w)(?:Affero\W*|A)GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*or\W*later\W*Licen[sc]e
+(?<!\w)(?:Affero\W*|A)GPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*or\W*later
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*or\W*later\W*of\W*(?:the\W*)?(?:Affero\W*|A)GPL\W*Licen[sc]e
 Affero\W*General\W*Public\W*Licen[sc]e\W*(?:AGPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*or(?:\W*any)?\W*later
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*or(?:\W*any)?\W*later\W*of\W*(?:the\W*)?Affero\W*General\W*Public\W*Licen[sc]e

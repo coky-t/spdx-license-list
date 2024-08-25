@@ -1,3 +1,5 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ADSL(?!\w)
+MODULE_LICENSE\W*ADSL(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ADSL(?:\W*Licen[sc]e|(?!\w))
 (?<!\w)ADSL\W*Licen[sc]e
 Amazon\W*Digital\W*Services\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)ADSL(?:\W*Licen[sc]e|(?!\w))

@@ -1,2 +1,5 @@
-AMDPLPA
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*AMDPLPA(?!\w)
+MODULE_LICENSE\W*AMDPLPA(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)AMDPLPA(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)AMDPLPA\W*Licen[sc]e
 AMD\W*s\W*plpa_map\.c\W*Licen[sc]e

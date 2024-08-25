@@ -1,2 +1,8 @@
-(?<!\w)APSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
-Apple\W*Public\W*Source\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*APSL-1\.1
+MODULE_LICENSE\W*APSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)APSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)APSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
+(?<!\w)APSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?APSL\W*Licen[sc]e
+Apple\W*Public\W*Source\W*Licen[sc]e\W*(?:APSL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?Apple\W*Public\W*Source\W*Licen[sc]e

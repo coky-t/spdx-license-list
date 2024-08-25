@@ -1,2 +1,8 @@
-(?<!\w)AFL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*AFL-1\.1
+MODULE_LICENSE\W*AFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)AFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?:\W*Licen[sc]e)?
+(?<!\w)AFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
+(?<!\w)AFL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?AFL\W*Licen[sc]e
 Academic\W*Free\W*Licen[sc]e\W*(?:AFL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?Academic\W*Free\W*Licen[sc]e
