@@ -1,1 +1,5 @@
-Linux\W*man\W*pages\W*copyleft(?!\W*2\W*para|\W*var)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Linux-man-pages-copyleft(?!-2-para|-var)
+MODULE_LICENSE\W*Linux\W*man\W*pages\W*copyleft(?!\W*2\W*para|\W*var)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Linux\W*man\W*pages\W*copyleft(?!\W*2\W*para|\W*var)(?:\W*Licen[sc]e)?
+(?<!\w)Linux\W*man\W*pages\W*copyleft\W*Licen[sc]e
+(?<!\w)Linux\W*man\W*pages\W*copyleft(?!\W*2\W*para|\W*var)

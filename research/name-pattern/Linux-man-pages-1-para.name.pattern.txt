@@ -1,1 +1,5 @@
-Linux\W*man\W*pages\W*1\W*para(?:graph)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Linux-man-pages-1-para
+MODULE_LICENSE\W*Linux\W*man\W*pages\W*1\W*para(?:graph)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Linux\W*man\W*pages\W*1\W*para(?:graph)?(?:\W*Licen[sc]e)?
+(?<!\w)Linux\W*man\W*pages\W*1\W*para\W*Licen[sc]e
+(?<!\w)Linux\W*man\W*pages\W*1\W*paragraph

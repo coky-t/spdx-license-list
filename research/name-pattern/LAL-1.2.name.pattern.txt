@@ -1,2 +1,8 @@
-(?<!\w)LAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
-Licence\W*Art\W*Libre\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*LAL-1\.2(?!\w)
+MODULE_LICENSE\W*LAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)LAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2(?:\W*Licen[sc]e)?
+(?<!\w)LAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*Licen[sc]e
+(?<!\w)LAL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+v(?:er(?:sion|\.)?|\.)?\W*1\.2\W*of\W*(?:the\W*)?LAL\W*Licen[sc]e
+Licen[sc]e\W*Art\W*Libre\W*(?:LAL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2
+v(?:er(?:sion|\.)?|\.)?\W*1\.2\W*of\W*(?:the\W*)?Licen[sc]e\W*Art\W*Libre

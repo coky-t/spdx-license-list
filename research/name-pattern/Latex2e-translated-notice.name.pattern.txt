@@ -1,1 +1,5 @@
-Latex2e(?:\W*with)?\W*translated\W*notice(?:\W*permission)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Latex2e-translated-notice(?!\w)
+MODULE_LICENSE\W*Latex2e\W*translated\W*notice(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Latex2e(?:\W*with)?\W*translated\W*notice(?:\W*Licen[sc]e)?
+(?<!\w)Latex2e(?:\W*with)?\W*translated\W*notice\W*Licen[sc]e
+Latex2e\W*with\W*translated\W*notice\W*permission

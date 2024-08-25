@@ -1,2 +1,5 @@
-(?:Common\W*Lisp\W*|(?<!\w))LOOP\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:Common\W*Lisp\W*)?LOOP(?:\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*LOOP(?!\w)
+MODULE_LICENSE\W*LOOP(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)LOOP(?:\W*Licen[sc]e)?
+(?<!\w)LOOP\W*Licen[sc]e
+Common\W*Lisp\W*LOOP\W*Licen[sc]e

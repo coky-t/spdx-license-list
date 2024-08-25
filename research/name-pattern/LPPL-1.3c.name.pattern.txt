@@ -1,3 +1,9 @@
-LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*LPPL-1\.3c
+MODULE_LICENSE\W*LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c(?:\W*Licen[sc]e)?
+(?<!\w)LPPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c\W*Licen[sc]e
+(?<!\w)LPPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c
+v(?:er(?:sion|\.)?|\.)?\W*1\.3c\W*of\W*(?:the\W*)?LPPL\W*Licen[sc]e
 LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:LPPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c
+v(?:er(?:sion|\.)?|\.)?\W*1\.3c\W*of\W*(?:the\W*)?LaTeX\W*Project\W*Public\W*Licen[sc]e
 LaTeX\W*Project\W*Public\W*Licen[sc]e\W*(?:Distributed\W*from\W*CTAN\W*archives\W*in\W*directory\W*macros\W*latex\W*base\W*lppl.txt\W*)?either\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3c
