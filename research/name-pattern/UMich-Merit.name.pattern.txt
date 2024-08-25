@@ -1,2 +1,5 @@
-UMich\W*Merit
-Michigan\W*Merit\W*Networks\W*Licen[sc]e
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*UMich-Merit(?!\w)
+MODULE_LICENSE\W*UMich\W*Merit(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)UMich\W*Merit(?:\W*Licen[sc]e)?
+(?<!\w)UMich\W*Merit\W*Licen[sc]e
+(?<!\w)Michigan\W*Merit\W*Networks\W*Licen[sc]e

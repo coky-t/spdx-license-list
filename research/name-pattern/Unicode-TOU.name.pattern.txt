@@ -1,3 +1,5 @@
-Unicode\W*TOU\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)Unicode\W*TOU
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Unicode-TOU(?!\w)
+MODULE_LICENSE\W*Unicode\W*TOU(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Unicode\W*TOU(?:\W*Licen[sc]e)?
+(?<!\w)Unicode\W*TOU\W*Licen[sc]e
 Unicode\W*Terms\W*of\W*Use

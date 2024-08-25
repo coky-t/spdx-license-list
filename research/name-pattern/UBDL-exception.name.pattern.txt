@@ -1,1 +1,3 @@
-(?:UBDL|Unmodified\W*Binary\W*Distribution\W*(?:exception|licen[sc]e))
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*UBDL-exception
+SPDX-Exception-Identifier\W*UBDL-exception
+(?:UBDL|Unmodified\W*Binary\W*Distribution)\W*(?:exception|licen[sc]e)

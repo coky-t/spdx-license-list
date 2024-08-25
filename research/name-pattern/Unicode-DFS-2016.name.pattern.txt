@@ -1,2 +1,7 @@
-Unicode\W*DFS\W*2016
-Unicode\W*Licen[sc]e\W*Agreement\W*Data\W*Files\W*and\W*Software\W*2016
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Unicode-DFS-2016
+MODULE_LICENSE\W*Unicode\W*DFS\W*2016
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Unicode\W*DFS\W*2016(?:\W*Licen[sc]e)?
+(?<!\w)Unicode\W*DFS\W*2016\W*Licen[sc]e
+(?<!\w)Unicode\W*DFS\W*Licen[sc]e\W*2016
+(?<!\w)Unicode\W*Licen[sc]e\W*DFS\W*2016
+(?<!\w)Unicode\W*Licen[sc]e\W*Agreement\W*Data\W*Files\W*and\W*Software\W*2016

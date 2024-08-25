@@ -1,2 +1,5 @@
-(?<!\w)URT\W*RLE(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*URT-RLE(?!\w)
+MODULE_LICENSE\W*URT\W*RLE(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)URT\W*RLE(?:\W*Licen[sc]e)?
+(?<!\w)URT\W*RLE\W*Licen[sc]e
 Utah\W*Raster\W*Toolkit\W*Run\W*Length\W*Encoded\W*Licen[sc]e
