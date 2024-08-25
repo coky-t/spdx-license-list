@@ -1,3 +1,6 @@
-(?<!\w)CC\W*BY\W*NC\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-NC-ND-3\.0-IGO
+MODULE_LICENSE\W*CC\W*BY\W*NC\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*NC\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO(?:\W*Licen[sc]e)?
+(?<!\w)CC\W*BY\W*NC\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO\W*Licen[sc]e
 (?:Creative\W*Commons\W*)?Attribution\W*Non\W*Commercial\W*No\W*Deriv(?:ative)?s\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO
 (?:Creative\W*Commons\W*)?Attribution\W*No\W*Deriv(?:ative)?s\W*Non\W*Commercial\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO

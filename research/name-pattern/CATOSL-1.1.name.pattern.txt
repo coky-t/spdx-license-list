@@ -1,1 +1,8 @@
-(?:(?<!\w)CATOSL|Computer\W*Associates\W*Trusted\W*Open\W*Source\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CATOSL-1\.1
+MODULE_LICENSE\W*CATOSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CATOSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?:\W*Licen[sc]e)?
+(?<!\w)CATOSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
+(?<!\w)CATOSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?CATOSL\W*Licen[sc]e
+Computer\W*Associates\W*Trusted\W*Open\W*Source\W*Licen[sc]e\W*(?:CATOSL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?Computer\W*Associates\W*Trusted\W*Open\W*Source\W*Licen[sc]e

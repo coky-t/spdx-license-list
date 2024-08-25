@@ -1,2 +1,5 @@
-(?<!\w)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-NC-SA-3\.0-IGO
+MODULE_LICENSE\W*CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO(?:\W*Licen[sc]e)?
+(?<!\w)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO\W*Licen[sc]e
 (?:Creative\W*Commons\W*)?Attribution\W*Non\W*Commercial\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*IGO

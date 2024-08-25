@@ -1,3 +1,6 @@
-(?<!\w)CC\W*BY\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*DE
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-ND-3\.0-DE
+MODULE_LICENSE\W*CC\W*BY\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*DE
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*DE(?:\W*Licen[sc]e)?
+(?<!\w)CC\W*BY\W*ND\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*DE\W*Licen[sc]e
 Creative\W*Commons\W*Attribution\W*No\W*Deriv(?:ative)?s\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Germany
 Creative\W*Commons\W*Namensnennung\W*Keine\W*Bearbeitungen\W*3(?:\.0)?\W*Deutschland

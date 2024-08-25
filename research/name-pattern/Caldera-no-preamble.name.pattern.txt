@@ -1,2 +1,5 @@
-Caldera\W*no\W*preamble
-Caldera\W*Licen[sc]e\W*without\W*preamble
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Caldera-no-preamble
+MODULE_LICENSE\W*Caldera\W*no\W*preamble
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Caldera\W*no\W*preamble(?:\W*Licen[sc]e)?
+(?<!\w)Caldera\W*no\W*preamble\W*Licen[sc]e
+(?<!\w)Caldera\W*Licen[sc]e\W*without\W*preamble
