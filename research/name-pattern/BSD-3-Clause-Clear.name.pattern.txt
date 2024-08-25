@@ -1,3 +1,8 @@
-BSD\W*3\W*Clause\W*Clear(?:\W*Licen[sc]e)?
-Clear\W*BSD(?:\W*Licen[sc]e)?
-BSD\W*Clear(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-3-Clause-Clear
+MODULE_LICENSE\W*BSD\W*(?:3\W*Clause\W*)?Clear
+MODULE_LICENSE\W*Clear\W*BSD
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*3\W*Clause\W*Clear
+(?<!\w)BSD\W*3\W*Clause\W*Clear\W*Licen[sc]e
+(?<!\w)BSD\W*3\W*Clause\W*Licen[sc]e\W*Clear
+(?<!\w)Clear\W*BSD\W*Licen[sc]e
+(?<!\w)BSD\W*Clear\W*Licen[sc]e

@@ -1,1 +1,4 @@
-Bahyph(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Bahyph(?!\w)
+MODULE_LICENSE\W*Bahyph(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Bahyph(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Bahyph\W*Licen[sc]e

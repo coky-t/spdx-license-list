@@ -1,1 +1,5 @@
-BSD\W*4\W*Clause\W*(?:UC|University\W*of\W*California\W*Specific)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-4-Clause-UC(?!\w)
+MODULE_LICENSE\W*BSD\W*4\W*Clause\W*:UC(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*4\W*Clause\W*(?:UC|University\W*of\W*California\W*Specific)(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)BSD\W*4\W*Clause\W*UC\W*Licen[sc]e
+(?<!\w)BSD\W*4\W*Clause\W*University\W*of\W*California\W*Specific(?:\W*Licen[sc]e)?

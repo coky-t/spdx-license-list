@@ -1,1 +1,4 @@
-BSD\W*Advertising\W*Acknowledge?ment(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-Advertising-Acknowledgement(?!\w)
+MODULE_LICENSE\W*BSD\W*Advertising\W*Acknowledge?ment(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*Advertising\W*Acknowledge?ment(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)BSD\W*Advertising\W*Acknowledge?ment\W*Licen[sc]e

@@ -1,1 +1,5 @@
-BSD\W*2\W*Clause(?:\W*Plus)?\W*Patent(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-2-Clause-Patent
+MODULE_LICENSE\W*BSD\W*2\W*Clause(?:\W*Plus)?\W*Patent
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*2\W*Clause(?:\W*Plus)?\W*Patent(?:\W*Licen[sc]e)?
+(?<!\w)BSD\W*2\W*Clause(?:\W*Plus)?\W*Patent\W*Licen[sc]e
+(?<!\w)BSD\W*2\W*Clause\W*Licen[sc]e(?:\W*Plus)?\W*Patent

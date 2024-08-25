@@ -1,7 +1,7 @@
-(?<!\w)BSD\W*(?:3|Three)(?:(?:\W*Clause)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun))
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*(?:3|Three)(?:(?:\W*Clause)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)|(?!\W*Clause))
-(?:3|Three)\W*(?:Clause\W*|Term\W*)BSD(?:\W*Licen[sc]e)?
-(?:3|Three)\W*(?:Clause\W*|Term\W*)?BSD\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:3|Three)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
-BSD\W*(?:New|Revised|Modified)(?:\W*Licen[sc]e)?
-(?:New|Revised|Modified)\W*BSD(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-3-Clause(?!-acpica|-Attribution|-Clear|-flex|-HP|-LBNL|-Modification|-No|-Open|-Sun)
+MODULE_LICENSE\W*3(?:\W*Clause)?\W*BSD(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)
+MODULE_LICENSE\W*BSD\W*3(?:\W*Clause(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)|(?!\W*Clause|\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:(?:3|Three)(?:\W*Clause|\W*term)?|New|Revised|Modified)\W*BSD(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*(?:3|Three)(?:(?:\W*Clause|\W*term)(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)|(?!\W*Clause|\W*term|\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*(?:New|Revised|Modified)(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)
+(?:(?:(?:3|Three)(?:\W*Clause|\W*term)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)?|New|Revised|Modified)\W*BSD|BSD\W*(?:(?:3|Three)(?:\W*Clause|\W*term)?(?:\W*New\W*or\W*Revised|\W*New|\W*Revised|\W*Modified)?|New|Revised|Modified))\W*Licen[sc]e(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun)

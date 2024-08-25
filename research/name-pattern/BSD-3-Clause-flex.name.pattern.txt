@@ -1,1 +1,5 @@
-BSD\W*3\W*Clause\W*Flex(?:\W*variant)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-3-Clause-flex
+MODULE_LICENSE\W*BSD\W*3\W*Clause\W*flex(?:\W*variant)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*3\W*Clause\W*flex(?:\W*variant)?
+(?<!\w)BSD\W*3\W*Clause\W*flex(?:\W*variant(?:\W*Licen[sc]e)?|\W*Licen[sc]e)
+(?<!\w)BSD\W*3\W*Clause\W*Licen[sc]e\W*flex(?:\W*variant)?

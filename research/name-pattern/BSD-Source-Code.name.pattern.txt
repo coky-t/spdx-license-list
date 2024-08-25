@@ -1,3 +1,5 @@
-BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))
-BSD\W*Source\W*Code\W*Attribution(?!\W*beginning)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-Source-Code
+MODULE_LICENSE\W*BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))
+(?<!\w)BSD\W*Source\W*(?:Code\W*Attribution(?!\W*beginning)|Code(?!\W*Attribution))\W*Licen[sc]e
+(?<!\w)BSD\W*Source\W*Code\W*Attribution(?!\W*beginning)

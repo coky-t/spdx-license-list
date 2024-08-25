@@ -1,1 +1,5 @@
-BSD\W*3\W*Clause\W*No\W*Nuclear\W*Licen[sc]e\W*2014
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-3-Clause-No-Nuclear-License-2014
+MODULE_LICENSE\W*BSD\W*3\W*Clause\W*No\W*Nuclear\W*Licen[sc]e\W*2014
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*3\W*Clause\W*No\W*Nuclear\W*Licen[sc]e\W*2014
+(?<!\w)BSD\W*3\W*Clause\W*No\W*Nuclear\W*Licen[sc]e\W*2014
+(?<!\w)BSD\W*3\W*Clause\W*Licen[sc]e\W*No\W*Nuclear\W*2014

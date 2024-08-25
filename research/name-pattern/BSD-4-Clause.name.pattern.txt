@@ -1,7 +1,7 @@
-BSD\W*(?:4|Four)(?:(?:\W*Clause)?(?:\W*Original\W*or\W*Old|\W*Original|\W*Old)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*Shortened|\W*UC|\W*University))
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*(?:4|Four)(?:(?:\W*Clause)?(?:\W*Original\W*or\W*Old|\W*Original|\W*Old)(?:\W*Licen[sc]e)?|(?:\W*Clause)?\W*Licen[sc]e|\W*Clause(?!\W*Shortened|\W*UC|\W*University)|(?!\W*Clause))
-(?:(?<!\w)4|Four)\W*(?:Clause\W*|Term\W*)BSD(?:\W*Licen[sc]e)?
-(?:(?<!\w)4|Four)\W*(?:Clause\W*|Term\W*)?BSD\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:4|Four)\W*(?:Clause\W*|Term\W*)?BSD(?:\W*Licen[sc]e)?
-BSD\W*(?:Original|Old)(?:\W*Licen[sc]e)?
-(?:Original|Old)\W*BSD(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-4-Clause(?!-Shortened|-UC|-University)
+MODULE_LICENSE\W*4(?:\W*Clause)?\W*BSD(?!\W*Shortened|\W*UC|\W*University)
+MODULE_LICENSE\W*BSD\W*3(?:\W*Clause(?!\W*Shortened|\W*UC|\W*University)|(?!\W*Clause|\W*Shortened|\W*UC|\W*University))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:(?:4|Four)(?:\W*Clause|\W*term)?|Original|Old)\W*BSD(?!\W*Shortened|\W*UC|\W*University)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*(?:4|Four)(?:(?:\W*Clause|\W*term)(?!\W*Shortened|\W*UC|\W*University)|(?!\W*Clause|\W*Shortened|\W*UC|\W*University))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*(?:Original|Old)(?!\W*Shortened|\W*UC|\W*University)
+(?:(?:(?:4|Four)(?:\W*Clause|\W*term)?(?:\W*Original\W*or\W*Old|\W*Original|\W*Old)?|Original|Old)\W*BSD|BSD\W*(?:(?:4|Four)(?:\W*Clause|\W*term)?(?:\W*Original\W*or\W*Old|\W*Original|\W*Old)?|Original|Old))\W*Licen[sc]e(?!\W*Shortened|\W*UC|\W*University)

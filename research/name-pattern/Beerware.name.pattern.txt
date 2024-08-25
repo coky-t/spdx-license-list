@@ -1,1 +1,4 @@
-Beer\W*ware(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Beerware(?!\w)
+MODULE_LICENSE\W*Beer\W*ware(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Beer\W*ware(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Beer\W*ware\W*Licen[sc]e

@@ -1,6 +1,4 @@
-(?<!\w)BSD\W*(?:1|One)\W*Clause(?:\W*Licen[sc]e)?
-(?<!\w)(?:1|One)\W*Clause\W*BSD(?:\W*Licen[sc]e)?
-(?<!\w)BSD\W*(?:1|One)(?:\W*Clause)?\W*Licen[sc]e
-(?<!\w)(?:1|One)\W*(?:Clause\W*)?BSD\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)BSD\W*(?:1|One)(?:\W*Clause)?(?:\W*Licen[sc]e)?
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:1|One)\W*(?:Clause\W*)?BSD(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-1-Clause
+MODULE_LICENSE\W*(?:1(?:\W*Clause)?\W*BSD|BSD\W*1(?:\W*Clause)?)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:(?:1|One)(?:\W*Clause)?\W*BSD|BSD\W*(?:1|One)(?:\W*Clause)?)(?:\W*Licen[sc]e)?
+(?:(?:1|One)(?:\W*Clause)?\W*BSD|BSD\W*(?:1|One)(?:\W*Clause)?)\W*Licen[sc]e

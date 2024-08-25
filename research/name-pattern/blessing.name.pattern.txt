@@ -1,3 +1,5 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Blessing(?!\w)
+MODULE_LICENSE\W*(?:SQLite\W*)?Blessing(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:SQLite\W*)?Blessing(?:\W*Licen[sc]e|(?!\w))
 (?:SQLite\W*)?Blessing\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)(?:SQLite\W*)?Blessing
 SQLite\W*Blessing
