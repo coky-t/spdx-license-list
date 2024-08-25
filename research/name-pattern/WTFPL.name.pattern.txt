@@ -1,2 +1,5 @@
-(?<!\w)WTFPL(?!\w)
-Do\W*What\W*The\W*F[u\*]ck\W*You\W*Want\W*To\W*Public\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(\.0)?)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*WTFPL(?!\w)
+MODULE_LICENSE\W*WTFPL(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)WTFPL(?:\W*Licen[sc]e)?
+(?<!\w)WTFPL\W*Licen[sc]e
+(?<!\w)Do\W*What\W*The\W*F[u\*]ck\W*You\W*Want\W*To\W*Public\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(\.0)?)?

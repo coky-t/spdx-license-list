@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*WxWindows-exception-3\.1
+SPDX-Exception-Identifier\W*WxWindows-exception-3\.1
 WxWindows\W*(?:Library\W*)?exception\W*3\.1
