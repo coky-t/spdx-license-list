@@ -1,1 +1,3 @@
-(?:GPL|GNU\W*(?:General\W*)?Public\W*Licen[sc]e)\W*(?:CC|Cooperation\W*Commitment)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*GPL-CC-1\.0
+SPDX-Exception-Identifier\W*GPL-CC-1\.0
+(?:(?<!\w)GPL|GNU\W*(?:General\W*)?Public\W*Licen[sc]e)\W*(?:CC|Cooperation\W*Commitment)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*GPL-3\.0-linking-exception
+SPDX-Exception-Identifier\W*GPL-3\.0-linking-exception
 (?:(?<!\w)GPL|GNU\W*(?:General\W*)?Public\W*Licen[sc]e)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*linking\W*exception(?!\W*with)

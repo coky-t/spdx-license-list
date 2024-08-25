@@ -1,2 +1,8 @@
-GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*no\W*invariants\W*only
-GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*only\W*no\W*invariants
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*GFDL-1\.1-no-invariants-only
+MODULE_LICENSE\W*GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*no\W*invariants\W*only
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*no\W*invariants\W*only(?:\W*Licen[sc]e)?
+(?<!\w)GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*no\W*invariants\W*only\W*Licen[sc]e
+(?<!\w)GFDL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*no\W*invariants\W*only
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*only\W*of\W*(?:the\W*)?GFDL\W*Licen[sc]e\W*no\W*invariants
+GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:GFDL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*only\W*no\W*invariants
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*only\W*of\W*(?:the\W*)?GNU\W*Free\W*Documentation\W*Licen[sc]e\W*\W*no\W*invariants

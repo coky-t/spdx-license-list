@@ -1,2 +1,4 @@
-Gutmann
-Gutmann License
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Gutmann(?!\w)
+MODULE_LICENSE\W*Gutmann(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Gutmann(?:\W*Licen[sc]e)?
+(?<!\w)Gutmann\W*Licen[sc]e

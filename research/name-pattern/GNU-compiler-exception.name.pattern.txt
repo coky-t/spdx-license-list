@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*GNU-compiler-exception
+SPDX-Exception-Identifier\W*GNU-compiler-exception
 GNU\W*compiler\W*exception
