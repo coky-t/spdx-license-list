@@ -1,1 +1,4 @@
-(?<!\w)xinetd(?:\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*xinetd(?!\w)
+MODULE_LICENSE\W*xinetd(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)xinetd(?:\W*Licen[sc]e)?
+(?<!\w)xinetd\W*Licen[sc]e

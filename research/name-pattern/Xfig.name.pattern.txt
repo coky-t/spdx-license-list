@@ -1,1 +1,4 @@
-(?<!\w)Xfig(?:\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Xfig(?!\w)
+MODULE_LICENSE\W*Xfig(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Xfig(?:\W*Licen[sc]e)?
+(?<!\w)Xfig\W*Licen[sc]e
