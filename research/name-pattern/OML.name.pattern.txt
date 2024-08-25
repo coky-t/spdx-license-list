@@ -1,3 +1,5 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OML(?!\w)
+MODULE_LICENSE\W*OML(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OML(?:\W*Licen[sc]e)?
 (?<!\w)OML\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)OML(?:\W*Licen[sc]e|(?!\w))
 Open\W*Market\W*Licen[sc]e

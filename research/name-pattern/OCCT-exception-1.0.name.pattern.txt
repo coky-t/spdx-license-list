@@ -1,1 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*OCCT-exception-1\.0
+SPDX-Exception-Identifier\W*OCCT-exception-1\.0
 (?:OCCT|Open\W*CASCADE(?:\W*Technology)?)\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?

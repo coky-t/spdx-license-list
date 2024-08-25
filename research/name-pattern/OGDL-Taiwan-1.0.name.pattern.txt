@@ -1,3 +1,9 @@
-OGDL\W*Taiwan\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:.0)?
-(?:Taiwan\W*)?Open\W*Government\W*Data\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:.0)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OGDL-Taiwan-1\.0
+MODULE_LICENSE\W*OGDL\W*Taiwan\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OGDL\W*Taiwan\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)OGDL\W*Taiwan\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
+(?<!\w)OGDL\W*Taiwan\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?OGDL\W*Taiwan\W*Licen[sc]e
+(?:Taiwan\W*)?Open\W*Government\W*Data\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?(?:Taiwan\W*)?Open\W*Government\W*Data\W*Licen[sc]e
 政府資料開放授權條款\W*第1版

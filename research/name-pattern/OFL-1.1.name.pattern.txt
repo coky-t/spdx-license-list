@@ -1,3 +1,8 @@
-(?<!\w)OFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\W*no\W*RFN|\W*RFN)
-(?:SIL\W*)?Open\W*Font\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\W*with)
-(?:v(?:er(?:sion|\.)?|\.)?\W*|(?<!1\.))1.1\W*of\W*(?:the\W*)?(?:SIL\W*)?Open\W*Font\W*Licen[sc]e
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OFL-1\.1(?!-no-RFN|-RFN)
+MODULE_LICENSE\W*OFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\W*no\W*RFN|\W*RFN)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\W*no\W*RFN|\W*RFN)(?:\W*Licen[sc]e)?
+(?<!\w)OFL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e(?!\W*no\W*RFN|\W*RFN|\W*with)
+(?<!\w)OFL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\W*no\W*RFN|\W*RFN|\W*with)
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?OFL\W*Licen[sc]e(?!\W*no\W*RFN|\W*RFN|\W*with)
+(?:SIL\W*)?Open\W*Font\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\W*no\W*RFN|\W*RFN|\W*with)
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?(?:SIL\W*)?Open\W*Font\W*Licen[sc]e(?!\W*no\W*RFN|\W*RFN|\W*with)

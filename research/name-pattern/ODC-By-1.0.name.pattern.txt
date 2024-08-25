@@ -1,3 +1,9 @@
-(?<!\w)ODC\W*By\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ODC-By-1\.0
+MODULE_LICENSE\W*ODC\W*By\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ODC\W*By\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)ODC\W*By\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
+(?<!\w)ODC\W*By\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?ODC\W*By\W*Licen[sc]e
 Open\W*Data\W*Commons\W*Attribution\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
-ODC\W*Attribution\W*Licen[sc]e(?:\W*ODC\W*By)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Open\W*Data\W*Commons\W*Attribution\W*Licen[sc]e
+(?<!\w)ODC\W*Attribution\W*Licen[sc]e(?:\W*ODC\W*By)?

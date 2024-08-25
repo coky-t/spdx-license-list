@@ -1,2 +1,8 @@
-(?<!\w)OLDAP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.7
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OLDAP-2\.7
+MODULE_LICENSE\W*OLDAP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.7
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OLDAP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.7(?:\W*Licen[sc]e)?
+(?<!\w)OLDAP\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.7\W*Licen[sc]e
+(?<!\w)OLDAP\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.7
+v(?:er(?:sion|\.)?|\.)?\W*2\.7\W*of\W*(?:the\W*)?OLDAP\W*Licen[sc]e
 Open\W*LDAP\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.7
+v(?:er(?:sion|\.)?|\.)?\W*2\.7\W*of\W*(?:the\W*)?Open\W*LDAP\W*Public\W*Licen[sc]e

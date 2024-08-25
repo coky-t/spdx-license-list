@@ -1,2 +1,4 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*openvpn-openssl-exception
+SPDX-Exception-Identifier\W*openvpn-openssl-exception
 openvpn\W*openssl\W*exception
 Special\W*exception\W*for\W*linking\W*OpenVPN\W*with\W*OpenSSL

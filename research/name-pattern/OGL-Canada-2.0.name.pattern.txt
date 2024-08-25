@@ -1,2 +1,7 @@
-OGL\W*Canada\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
-(?:(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*of\W*(?:the\W*)?)?Open\W*Government\W*Licen[sc]e\W*Canada
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OGL-Canada-2\.0
+MODULE_LICENSE\W*OGL\W*Canada\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OGL\W*Canada\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)OGL\W*Canada\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*Licen[sc]e
+(?<!\w)OGL\W*Canada\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?OGL\W*Canada\W*Licen[sc]e
+(?:v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?)?Open\W*Government\W*Licen[sc]e\W*Canada

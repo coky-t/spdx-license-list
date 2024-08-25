@@ -1,2 +1,5 @@
-(?<!\w)OGTSL(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OGTSL(?!\w)
+MODULE_LICENSE\W*OGTSL(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OGTSL(?:\W*Licen[sc]e)?
+(?<!\w)OGTSL\W*Licen[sc]e
 Open\W*Group\W*Test\W*Suite\W*Licen[sc]e

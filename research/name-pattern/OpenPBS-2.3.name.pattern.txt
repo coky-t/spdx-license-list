@@ -1,2 +1,6 @@
-OpenPBS\W*(?:Portable\W*Batch\W*System\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.3(?:\W*Software)?\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)OpenPBS\W*(?:Portable\W*Batch\W*System\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.3(?:(?:\W*Software)?\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*OpenPBS-2\.3
+MODULE_LICENSE\W*OpenPBS\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.3
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)OpenPBS\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.3(?:\W*Licen[sc]e)?
+(?<!\w)OpenPBS\W*(?:Portable\W*Batch\W*System\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.3\W*(?:Software\W*)?Licen[sc]e
+(?<!\w)OpenPBS\W*(?:Portable\W*Batch\W*System\W*)?(?:Software\W*)?Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.3
+v(?:er(?:sion|\.)?|\.)?\W*2\.3\W*of\W*(?:the\W*)?OpenPBS\W*(?:Portable\W*Batch\W*System\W*)?(?:Software\W*)?Licen[sc]e
