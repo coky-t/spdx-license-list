@@ -1,1 +1,4 @@
-CMU\W*Mach(?:\W*Licen[sc]e|(?!\W*no))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CMU-Mach(?!-no)
+MODULE_LICENSE\W*CMU\W*Mach(?!\W*no)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CMU\W*Mach(?:\W*Licen[sc]e|(?!\W*no))
+(?<!\w)CMU\W*Mach\W*Licen[sc]e

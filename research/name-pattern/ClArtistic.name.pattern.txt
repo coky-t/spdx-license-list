@@ -1,2 +1,5 @@
-ClArtistic
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ClArtistic(?!\w)
+MODULE_LICENSE\W*ClArtistic(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ClArtistic(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)ClArtistic\W*Licen[sc]e
 Clarified\W*Artistic\W*Licen[sc]e

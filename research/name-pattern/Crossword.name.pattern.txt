@@ -1,1 +1,4 @@
-Crossword(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Crossword(?!\w)
+MODULE_LICENSE\W*Crossword(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Crossword(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Crossword\W*Licen[sc]e

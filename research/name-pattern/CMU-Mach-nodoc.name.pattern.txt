@@ -1,2 +1,5 @@
-CMU\W*Mach\W*nodoc
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CMU-Mach-nodoc(?!\w)
+MODULE_LICENSE\W*CMU\W*Mach\W*nodoc(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CMU\W*Mach\W*nodoc(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)CMU\W*Mach\W*nodoc\W*Licen[sc]e
 CMU\W*Mach\W*no\W*notices\W*in\W*documentation\W*variant

@@ -1,1 +1,6 @@
-(?<!\w)CeCILL\W*B(?:\W*Free\W*Software\W*Licen[sc]e\W*Agreement|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CECILL-B
+MODULE_LICENSE\W*CECILL\W*B
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CECILL\W*B(?:\W*Licen[sc]e)?
+(?<!\w)CECILL\W*B\W*Licen[sc]e
+(?<!\w)CECILL\W*Licen[sc]e\W*B(?!\w)
+(?<!\w)CeCILL\W*B\W*Free\W*Software\W*Licen[sc]e\W*Agreement

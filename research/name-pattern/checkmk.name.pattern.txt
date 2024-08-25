@@ -1,1 +1,4 @@
-Checkmk(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*checkmk(?!\w)
+MODULE_LICENSE\W*checkmk(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)checkmk(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Checkmk\W*Licen[sc]e

@@ -1,1 +1,6 @@
-copyleft\W*next\W*0\.3\.1
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*copyleft-next-0\.3\.1
+MODULE_LICENSE\W*copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?\W*0\.3\.1
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3\.1(?:\W*Licen[sc]e)?
+(?<!\w)copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3\.1\W*Licen[sc]e
+(?<!\w)copyleft\W*next\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3\.1
+v(?:er(?:sion|\.)?|\.)?\W*0\.3\.1\W*of\W*(?:the\W*)?copyleft\W*next\W*Licen[sc]e

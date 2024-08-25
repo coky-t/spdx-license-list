@@ -1,2 +1,5 @@
-CC\W*PDDC
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-PDDC
+MODULE_LICENSE\W*CC\W*PDDC
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*PDDC(?:\W*Licen[sc]e)?
+(?<!\w)CC\W*PDDC\W*Licen[sc]e
 Creative\W*Commons\W*Public\W*Domain\W*Dedication\W*and\W*Certification

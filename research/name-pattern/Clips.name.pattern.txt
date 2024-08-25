@@ -1,1 +1,4 @@
-(?<!\w)Clips(?:\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Clips(?!\w)
+MODULE_LICENSE\W*Clips(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Clips(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Clips\W*Licen[sc]e

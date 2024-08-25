@@ -1,2 +1,8 @@
-CERN\W*OHL\W*P\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CERN-OHL-P-2\.0
+MODULE_LICENSE\W*CERN\W*OHL\W*P\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CERN\W*OHL\W*P\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)CERN\W*OHL\W*P\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*Licen[sc]e
+(?<!\w)CERN\W*OHL\W*P\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?CERN\W*OHL\W*P\W*Licen[sc]e
 CERN\W*Open\W*Hardware\W*Licen[sc]e\W*(?:CERN\W*OHL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*Permissive
+v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?CERN\W*Open\W*Hardware\W*Licen[sc]e\W*Permissive
