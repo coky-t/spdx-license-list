@@ -1,1 +1,4 @@
-mpi\W*Permissive(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*mpi-permissive(?!\w)
+MODULE_LICENSE\W*mpi\W*Permissive(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)mpi\W*Permissive(?:\W*Licen[sc]e)?
+(?<!\w)mpi\W*Permissive\W*Licen[sc]e

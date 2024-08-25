@@ -1,4 +1,8 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MPL-1\.0
+MODULE_LICENSE\W*MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))(?:\W*Licen[sc]e)?
+(?<!\w)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
 (?<!\w)MPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
-(?<!\w)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))\W*Licen[sc]e
-(?:SPDX\-License\-Identifier\W*|MODULE_LICENSE\W*|Licen[sc]e\W*)MPL\W*(?:Licen[sc]e\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?MPL\W*Licen[sc]e
 Mozilla\W*Public\W*Licen[sc]e\W*(?:MPL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0|(?!\.[1-9]))
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Mozilla\W*Public\W*Licen[sc]e

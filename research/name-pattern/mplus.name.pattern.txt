@@ -1,1 +1,4 @@
-(?<!\w)mplus(?:(?:\W*Font)?\W*Licen[sc]e|(?!\w))
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*mplus(?!\w)
+MODULE_LICENSE\W*mplus(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)mplus(?:\W*Licen[sc]e)?
+(?<!\w)mplus(?:\W*Font)?\W*Licen[sc]e

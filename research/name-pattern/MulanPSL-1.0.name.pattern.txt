@@ -1,3 +1,9 @@
-Mulan\W*PSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MulanPSL-1\.0
+MODULE_LICENSE\W*Mulan\W*PSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Mulan\W*PSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)Mulan\W*PSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e
+(?<!\w)Mulan\W*PSL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Mulan\W*PSL\W*Licen[sc]e
 Mulan\W*Permissive\W*Software\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?(?:\W*Mulan\W*PSL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?)?
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Mulan\W*Permissive\W*Software\W*Licen[sc]e
 木兰宽松许可证\W*第1版

@@ -1,1 +1,5 @@
-MIT\W*Open\W*Group(?:\W*variant)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MIT-open-group(?!\w)
+MODULE_LICENSE\W*MIT\W*Open\W*Group(?:\W*variant)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MIT\W*Open\W*Group(?:\W*variant)?(?:\W*Licen[sc]e)?
+(?<!\w)MIT\W*Open\W*Group\W*Licen[sc]e
+(?<!\w)MIT\W*Open\W*Group\W*variant

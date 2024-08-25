@@ -1,1 +1,5 @@
-(?<!\w)MIT\W*(?:0|Zero|No\W*Attribution)(?:\W*Licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MIT-0(?!\w)
+MODULE_LICENSE\W*MIT\W*(?:0|Zero|No\W*Attribution)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MIT\W*(?:0|Zero|No\W*Attribution)(?:\W*Licen[sc]e)?
+(?<!\w)MIT\W*(?:0|Zero)\W*Licen[sc]e
+(?<!\w)MIT\W*No\W*Attribution(?:\W*Licen[sc]e)?

@@ -1,2 +1,4 @@
-MIT\W*feh
-feh\W*Licen[sc]e
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MIT-feh(?!\w)
+MODULE_LICENSE\W*MIT\W*feh(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MIT\W*feh(?:\W*Licen[sc]e)?
+(?:(?<!\w)MIT\W*|(?<!\w))feh\W*Licen[sc]e

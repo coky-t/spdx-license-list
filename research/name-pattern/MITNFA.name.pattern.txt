@@ -1,2 +1,5 @@
-(?<!\w)MITNFA(?!\w)
-MIT\W*no\W*false\W*attribs(?:\W*licen[sc]e)?
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MITNFA(?!\w)
+MODULE_LICENSE\W*MITNFA(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MITNFA(?:\W*Licen[sc]e)?
+(?<!\w)MITNFA\W*Licen[sc]e
+(?<!\w)MIT\W*no\W*false\W*attribs\W*licen[sc]e

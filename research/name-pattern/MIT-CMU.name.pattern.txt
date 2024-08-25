@@ -1,2 +1,4 @@
-MIT\W*CMU
-CMU\W*Licen[sc]e
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MIT-CMU(?!\w)
+MODULE_LICENSE\W*MIT\W*CMU(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MIT\W*CMU(?:\W*Licen[sc]e)?
+(?:(?<!\w)MIT\W*|(?<!\w))CMU\W*Licen[sc]e

@@ -1,1 +1,5 @@
-MIT(?:\W*Licen[sc]e)?\W*Modern\W*Variant
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MIT-Modern-Variant(?!\w)
+MODULE_LICENSE\W*MIT\W*Modern\W*Variant(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MIT\W*Modern\W*Variant(?:\W*Licen[sc]e)?
+(?<!\w)MIT\W*Modern\W*Variant\W*Licen[sc]e
+(?<!\w)MIT\W*Licen[sc]e\W*Modern\W*Variant

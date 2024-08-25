@@ -1,2 +1,5 @@
-(?<!\w)MS\W*LPL(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MS-LPL(?!\w)
+MODULE_LICENSE\W*MS\W*LPL(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MS\W*LPL(?:\W*Licen[sc]e)?
+(?<!\w)MS\W*LPL\W*Licen[sc]e
 Microsoft\W*Limited\W*Public\W*Licen[sc]e(?:\W*Ms\W*LPL)?

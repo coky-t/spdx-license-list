@@ -1,2 +1,5 @@
-(?<!\w)MPEG\W*SSG(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MPEG-SSG(?!\w)
+MODULE_LICENSE\W*MPEG\W*SSG(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MPEG\W*SSG(?:\W*Licen[sc]e)?
+(?<!\w)MPEG\W*SSG\W*Licen[sc]e
 MPEG\W*Software\W*Simulation
