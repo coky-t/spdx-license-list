@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*W3C(?!-1998|-2015)
 MODULE_LICENSE\W*W3C(?!\W*1998|\W*2015)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)W3C(?!\W*Software|\W*1998|\W*2015)(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)W3C(?:\W*Licen[sc]e(?!\W*1998|\W*2015)|(?!\W*Licen[sc]e|\W*Software|\W*1998|\W*2015))
 (?<!\w)W3C\W*(?:2002\W*12\W*31\W*)?Licen[sc]e(?:\W*2002\W*12\W*31|(?!\W*1998|\W*2015))
 W3C\W*Software\W*Notice\W*and\W*(?:Document\W*)?Licen[sc]e\W*2002\W*12\W*31

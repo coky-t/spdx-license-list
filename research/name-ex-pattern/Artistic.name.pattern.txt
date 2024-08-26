@@ -1,1 +1,1 @@
-(?<!Clarified\W)(?<!Perl\W)Artistic\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?[12])(?!\W*From\W*Perl)
+(?<!Cl)(?<!Clarified\W)(?<!Perl\W)Artistic\W*Licen[sc]e(?!\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?[12])(?!\W*From\W*Perl)
