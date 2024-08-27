@@ -1,4 +1,4 @@
-SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-3\.0
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-3\.0(?!-AT|-AU|-DE|-IGO|-NL|-US)
 MODULE_LICENSE\W*CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*AT|\W*AU|\W*DE|\W*IGO|\W*NL|\W*US)|(?!\.0|\W*AT|\W*AU|\W*DE|\W*IGO|\W*NL|\W*US))
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0(?!\W*AT|\W*AU|\W*DE|\W*IGO|\W*NL|\W*US)|(?!\.0|\W*AT|\W*AU|\W*DE|\W*IGO|\W*NL|\W*US))
 (?<!\w)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Licen[sc]e

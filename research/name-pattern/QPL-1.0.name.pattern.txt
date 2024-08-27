@@ -5,4 +5,4 @@ Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*
 (?<!\w)(?<!INRIA\W)QPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*INRIA|\W*2004)|(?!\.0|\w|\W*INRIA|\W*2004))
 v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?QPL\W*Licen[sc]e(?!\W*INRIA)
 Q\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*INRIA|\W*2004)|(?!\.0|\w|\W*INRIA|\W*2004))
-v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Q\W*Public\W*Licen[sc]e
+v(?:er(?:sion|\.)?|\.)?\W*1(?:\.0)?\W*of\W*(?:the\W*)?Q\W*Public\W*Licen[sc]e(?!\W*INRIA|\W*2004)

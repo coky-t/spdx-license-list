@@ -1,4 +1,4 @@
-SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Nokia(?!\w)
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Nokia(?!-Qt|\w)
 MODULE_LICENSE\W*Nokia(?!\W*Qt)
 MODULE_LICENSE\W*NOKOS(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Nokia(?!\W*Qt)(?:\W*Licen[sc]e)?
