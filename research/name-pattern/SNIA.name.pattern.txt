@@ -4,3 +4,5 @@ Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*
 (?<!\w)SNIA\W*Licen[sc]e
 (?<!\w)SNIA\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
 v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?SNIA\W*Public\W*Licen[sc]e
+STORAGE\W*NETWORKING\W*INDUSTRY\W*ASSOCIATION\W*PUBLIC\W*LICEN[SC]E\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?STORAGE\W*NETWORKING\W*INDUSTRY\W*ASSOCIATION\W*PUBLIC\W*LICEN[SC]E

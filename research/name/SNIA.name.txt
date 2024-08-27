@@ -4,3 +4,4 @@ License: SNIA
 SNIA License
 SNIA Public License 1.1
 SNIA Public License Version 1.0
+STORAGE NETWORKING INDUSTRY ASSOCIATION PUBLIC LICENSE Version 1.1
