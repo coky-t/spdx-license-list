@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*copyleft-next-0\.3\.0
 MODULE_LICENSE\W*copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?\W*0\.3(?:\.0|(?!\.[1-9]))
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3(?:\.0|(?!\.[1-9]))(?:\W*Licen[sc]e)?
-(?<!\w)copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3(?:\.0)?(?:\W*Licen[sc]e)?
+(?<!\w)copyleft\W*next\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3(?:\.0|(?!\.[1-9]))(?:\W*Licen[sc]e)?
 (?<!\w)copyleft\W*next\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?0\.3(?:\.0|(?!\.[1-9]))
 v(?:er(?:sion|\.)?|\.)?\W*0\.3(?:\.0)?\W*of\W*(?:the\W*)?copyleft\W*next\W*Licen[sc]e
