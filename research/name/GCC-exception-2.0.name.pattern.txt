@@ -1,3 +1,0 @@
-SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*GCC-exception-2\.0(?!-note)
-SPDX-Exception-Identifier\W*GCC-exception-2\.0(?!-note)
-GCC\W*(?:Runtime\W*Library\W*)?exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0(?!\W*note)|(?!\.0\W*note))
