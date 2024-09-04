@@ -1,16 +1,16 @@
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-   <<var;name="bullet";original="1.";match=".{0,20}">> Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+   <<var;name="bullet";original="1. ";match=".{0,20}">>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
-   <<var;name="bullet";original="2.";match=".{0,20}">> Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+   <<var;name="bullet";original="2. ";match=".{0,20}">>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
-   <<var;name="bullet";original="3.";match=".{0,20}">> All advertising materials mentioning features or use of this software must display the following acknowledgment: "This product includes software developed by the <<var;name="organizationClause3";original="Apache Group for use in the Apache HTTP server project (http://www.apache.org/)";match="[\w\W]{1,100}">> ."
+   <<var;name="bullet";original="3. ";match=".{0,20}">>All advertising materials mentioning features or use of this software must display the following acknowledgment: "This product includes software developed by the <<var;name="organizationClause3";original="Apache Group for use in the Apache HTTP server project (http://www.apache.org/)";match="">> ."
 
-   <<var;name="bullet";original="4.";match=".{0,20}">> The <<var;name="nameClause4";original="name";match="name(?:\(s\))?">> <<var;name="organizationClause4";original=""Apache Server" and "Apache Group"";match="[\w\W]{1,80}">> must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact <<var;name="contactClause4";original="apache@apache.org";match="[\w\W]{1,80}">> .
+   <<var;name="bullet";original="4. ";match="[\w\W]{1,120}">>The <<var;name="nameClause4";original="name";match="name(?:\(s\))?">> <<var;name="organizationClause4";original=""Apache Server" and "Apache Group"";match="[\w\W]{1,80}">> must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact <<var;name="contactClause4";original="apache@apache.org";match="">> .
 
-   <<var;name="bullet";original="5.";match=".{0,20}">> Products derived from this software may not be called <<var;name="nameClause5";original=""Apache"";match="[\w\W]{1,80}">> nor may <<var;name="name2clause5";original=""Apache"";match="[\w\W]{1,80}">> appear in their <<var;name="name3clause5";original="name";match="names?">> , without prior written permission of <<var;name="name4clause5";original="the Apache Group";match="[\w\W]{1,80}">> .
+   <<var;name="bullet";original="5. ";match="[\w\W]{1,100}">>Products derived from this software may not be called <<var;name="nameClause5";original=""Apache"";match="[\w\W]{1,80}">> nor may <<var;name="name2clause5";original=""Apache"";match="[\w\W]{1,80}">> appear in their <<var;name="name3clause5";original="name";match="names?">> , without prior written permission of <<var;name="name4clause5";original="the Apache Group";match="">> .
 
-   <<var;name="bullet";original="6.";match=".{0,20}">> Redistributions of any form whatsoever must retain the following acknowledgment:
+   <<var;name="bullet";original="6. ";match="[\w\W]{1,100}">>Redistributions of any form whatsoever must retain the following acknowledgment:
 
    "This product includes software developed by <<var;name="nameClause6";original="the Apache Group for use in the Apache HTTP server project (http://www.apache.org/)";match="[\w\W]{1,100}">> ."
 
