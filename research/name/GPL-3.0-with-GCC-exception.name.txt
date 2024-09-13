@@ -1,0 +1,8 @@
+SPDX-License-Identifier: GPL-3.0-with-GCC-exception
+MODULE_LICENSE(GPL-3.0-with-GCC-exception)
+License: GPL-3.0-with-GCC-exception
+GPL-3.0 License w/GCC exception
+GPL License v3.0 w/GCC exception
+GNU General Public License v3.0 w/GCC Runtime Library exception
+GNU General Public License v3.0 with GCC Runtime Library exception
+GNU GPL License version 3 w/GCC Runtime Library exception

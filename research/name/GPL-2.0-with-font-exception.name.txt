@@ -1,0 +1,8 @@
+SPDX-License-Identifier: GPL-2.0-with-font-exception
+MODULE_LICENSE(GPL-2.0-with-font-exception)
+License: GPL-2.0-with-font-exception
+GPL-2.0 License w/Font exception
+GPL License v2.0 w/Font exception
+GNU General Public License v2.0 w/Font exception
+GNU General Public License v2.0 with Font exception
+GNU GPL License version 2 w/Font exception

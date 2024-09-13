@@ -1,0 +1,8 @@
+SPDX-License-Identifier: GPL-3.0-with-autoconf-exception
+MODULE_LICENSE(GPL-3.0-with-autoconf-exception)
+License: GPL-3.0-with-autoconf-exception
+GPL-3.0 License w/Autoconf exception
+GPL License v3.0 w/Autoconf exception
+GNU General Public License v3.0 w/Autoconf exception
+GNU General Public License v3.0 with Autoconf exception
+GNU GPL License version 3 w/Autoconf exception
