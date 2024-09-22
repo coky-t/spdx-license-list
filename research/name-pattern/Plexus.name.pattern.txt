@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Plexus(?!\w)
-MODULE_LICENSE\W*Plexus(?!\w)
+(?:MODULE_LICENSE|__license__)\W*Plexus(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Plexus(?:\W*Licen[sc]e)?
 (?<!\w)Plexus(?:\W*Classworlds)?\W*Licen[sc]e
