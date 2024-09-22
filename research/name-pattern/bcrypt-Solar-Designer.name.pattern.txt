@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*bcrypt-Solar-Designer(?!\w)
-MODULE_LICENSE\W*bcrypt\W*Solar\W*Designer(?!\w)
+(?:MODULE_LICENSE|__license__)\W*bcrypt\W*Solar\W*Designer(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)bcrypt\W*Solar\W*Designer(?:\W*Licen[sc]e|(?!\w))
 (?<!\w)bcrypt\W*Solar\W*Designer\W*Licen[sc]e

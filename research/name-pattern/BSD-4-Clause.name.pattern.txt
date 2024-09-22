@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-4-Clause(?!-Shortened|-UC|-University)
-MODULE_LICENSE\W*4(?:\W*Clause)?\W*BSD(?!\W*Shortened|\W*UC|\W*University)
-MODULE_LICENSE\W*BSD\W*4(?:\W*Clause(?!\W*Shortened|\W*UC|\W*University)|(?!\.3|\W*Clause|\W*Shortened|\W*UC|\W*University))
+(?:MODULE_LICENSE|__license__)\W*4(?:\W*Clause)?\W*BSD(?!\W*Shortened|\W*UC|\W*University)
+(?:MODULE_LICENSE|__license__)\W*BSD\W*4(?:\W*Clause(?!\W*Shortened|\W*UC|\W*University)|(?!\.3|\W*Clause|\W*Shortened|\W*UC|\W*University))
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:(?:4|Four)(?:\W*Clause|\W*term)?|Original|Old)\W*BSD(?!\W*Shortened|\W*UC|\W*University)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*(?:4(?!\.3)|Four)(?:(?:\W*Clause|\W*term)(?!\W*Shortened|\W*UC|\W*University)|(?!\W*Clause|\W*Shortened|\W*UC|\W*University))
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*(?:Original|Old)(?!\W*Shortened|\W*UC|\W*University)
