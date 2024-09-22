@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Adobe-Glyph(?!\w)
-MODULE_LICENSE\W*Adobe\W*Glyph(?!\w)
+(?:MODULE_LICENSE|__license__)\W*Adobe\W*Glyph(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Adobe\W*Glyph(?:\W*List)?(?:\W*Licen[sc]e|(?!\w))
 (?<!\w)Adobe\W*Glyph(?:\W*List)?\W*Licen[sc]e
