@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*GL2PS(?!\w)
-MODULE_LICENSE\W*GL2PS(?!\w)
+(?:MODULE_LICENSE|__license__)\W*GL2PS(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)GL2PS(?:\W*Licen[sc]e)?
 (?<!\w)GL2PS\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2)?

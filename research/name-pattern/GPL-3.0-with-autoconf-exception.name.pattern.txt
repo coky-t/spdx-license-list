@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*GPL-3\.0-with-autoconf-exception
-MODULE_LICENSE\W*GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*w(?:ith)?\W*autoconf\W*exception
+(?:MODULE_LICENSE|__license__)\W*GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*w(?:ith)?\W*autoconf\W*exception
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:GNU\W*)?GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*w(?:ith)?\W*autoconf\W*exception
 (?:GNU\W*|(?<!Affero\W)(?<!A)(?<!Library\W)(?<!Lesser\W)(?<!L))GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*Licen[sc]e\W*w(?:ith)?\W*Autoconf\W*exception
 (?:GNU\W*|(?<!Affero\W)(?<!A)(?<!Library\W)(?<!Lesser\W)(?<!L))GPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*w(?:ith)?\W*Autoconf\W*exception
