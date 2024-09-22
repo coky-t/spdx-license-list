@@ -1,0 +1,10 @@
+SPDX-License-Identifier: EDL-1.0
+MODULE_LICENSE(EDL-1.0)
+License: EDL-1.0
+EDL-1.0 License
+EDL License v1.0
+v1.0 of the EDL License
+Eclipse Distribution License 1.0
+Eclipse Distribution License - v 1.0
+Eclipse Distribution License (EDL) v. 1.0
+v1.0 of the Eclipse Distribution License
