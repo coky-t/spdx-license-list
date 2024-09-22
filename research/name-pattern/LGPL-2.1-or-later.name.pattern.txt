@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*LGPL-2\.1(?:\+|-or-later)
-MODULE_LICENSE\W*LGPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))
+(?:MODULE_LICENSE|__license__)\W*LGPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)(?:GNU\W*)?(?:LGPL|(?:Library|Lesser)\W*GPL)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))(?:\W*Licen[sc]e)?
 (?:GNU\W*)?(?:(?<!\w)LGPL|(?:Library|Lesser)\W*GPL)\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))(?:\W*v(?:er(?:sion|\.)?|\.)?)?(?:\W*Licen[sc]e)?
 (?:GNU\W*)?(?:(?<!\w)LGPL|(?:Library|Lesser)\W*GPL)\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))

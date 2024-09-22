@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*libutil-David-Nugent(?!\w)
-MODULE_LICENSE\W*libutil\W*David\W*Nugent(?!\w)
+(?:MODULE_LICENSE|__license__)\W*libutil\W*David\W*Nugent(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)libutil\W*David\W*Nugent(?:\W*Licen[sc]e)?
 (?<!\w)libutil\W*David\W*Nugent\W*Licen[sc]e
