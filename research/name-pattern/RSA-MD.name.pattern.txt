@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*RSA-MD(?!\w)
-MODULE_LICENSE\W*RSA\W*MD(?!\w)
+(?:MODULE_LICENSE|__license__)\W*RSA\W*MD(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)RSA\W*MD(?:\W*Licen[sc]e)?
 (?<!\w)RSA\W*MD\W*Licen[sc]e
 (?<!\w)RSA\W*Message\W*Digest\W*Licen[sc]e
