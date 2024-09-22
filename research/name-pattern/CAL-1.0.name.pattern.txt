@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CAL-1\.0(?!-Combined)
-MODULE_LICENSE\W*CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*Combined|\W*with)|(?!\.0|\W*Combined|\W*with))
+(?:MODULE_LICENSE|__license__)\W*CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*Combined|\W*with)|(?!\.0|\W*Combined|\W*with))
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*Licen[sc]e\W*Combined|\W*Combined|\W*with)|(?!\.0|W*Licen[sc]e\W*Combined|\W*Combined|\W*with))
 (?<!\w)CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e(?!\W*Combined|\W*with)
 (?<!\w)CAL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0(?!\W*Combined|\W*with)|(?!\.0(?:\W*Combined|\W*with)))
