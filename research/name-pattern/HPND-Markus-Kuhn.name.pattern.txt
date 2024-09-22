@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HPND-Markus-Kuhn(?!\w)
-MODULE_LICENSE\W*HPND\W*Markus\W*Kuhn(?!\w)
+(?:MODULE_LICENSE|__license__)\W*HPND\W*Markus\W*Kuhn(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*Markus\W*Kuhn(?:\W*Licen[sc]e)?
 (?<!\w)HPND\W*Markus\W*Kuhn\W*Licen[sc]e
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*Markus\W*Kuhn\W*variant

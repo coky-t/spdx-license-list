@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HPND-sell-variant(?!-MIT)
-MODULE_LICENSE\W*HPND\W*sell\W*variant(?!(?:\W*with)?\W*MIT)(?!\w)
+(?:MODULE_LICENSE|__license__)\W*HPND\W*sell\W*variant(?!(?:\W*with)?\W*MIT)(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*sell\W*variant(?!(?:\W*with)?\W*MIT)(?:\W*Licen[sc]e)?
 (?<!\w)HPND\W*sell\W*variant(?!(?:\W*with)?\W*MIT)\W*Licen[sc]e
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*sell\W*variant(?!(?:\W*with)?\W*MIT)
