@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NCBI-PD(?!\w)
-MODULE_LICENSE\W*NCBI\W*PD(?!\w)
+(?:MODULE_LICENSE|__license__)\W*NCBI\W*PD(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NCBI\W*PD(?:\W*Licen[sc]e)?
 (?<!\w)NCBI\W*PD\W*Licen[sc]e
 NCBI\W*Public\W*Domain\W*Notice
