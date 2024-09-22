@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Widget-Workshop(?!\w)
-MODULE_LICENSE\W*Widget\W*Workshop(?!\w)
+(?:MODULE_LICENSE|__license__)\W*Widget\W*Workshop(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Widget\W*Workshop(?:\W*Licen[sc]e)?
 (?<!\w)Widget\W*Workshop\W*Licen[sc]e
