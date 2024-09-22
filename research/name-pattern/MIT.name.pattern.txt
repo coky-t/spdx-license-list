@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MIT(?!-0|-advertising|-CMU|-disclaimer|-enna|-feh|-Festival|-Khronos|-Modern|-open|-testregex|-Wu|NFA|\w)
-MODULE_LICENSE\W*MIT(?!\W*0|\W*No|\W*Zero|\W*advertising|\W*CMU|\W*disclaimer|\W*enna|\W*feh|\W*Festival|\W*Khronos|\W*Modern|\W*open|\W*testregex|\W*Tom|\W*Wu|\W*NFA|\w)
+(?:MODULE_LICENSE|__license__)\W*MIT(?!\W*0|\W*No|\W*Zero|\W*advertising|\W*CMU|\W*disclaimer|\W*enna|\W*feh|\W*Festival|\W*Khronos|\W*Modern|\W*open|\W*testregex|\W*Tom|\W*Wu|\W*NFA|\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MIT(?:\W*Licen[sc]e(?!\W*Modern)|(?!\W*Licen[sc]e|\W*0|\W*No|\W*Zero|\W*advertising|\W*CMU|\W*disclaimer|\W*enna|\W*feh|\W*Festival|\W*Khronos|\W*Modern|\W*open|\W*testregex|\W*Tom|\W*Wu|\W*NFA|\w))
 (?<!Apple\W)(?<!HPND\W)(?<!with\W)(?<!\w)MIT\W*Licen[sc]e(?!\W*Modern)

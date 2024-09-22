@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MPL-2\.0-no-copyleft-exception
-MODULE_LICENSE\W*MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception
+(?:MODULE_LICENSE|__license__)\W*MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception(?:\W*Licen[sc]e)?
 (?<!\w)MPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception\W*Licen[sc]e
 (?<!\w)MPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*no\W*copyleft\W*exception

@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MS-RL(?!\w)
-MODULE_LICENSE\W*MS\W*RL(?!\w)
+(?:MODULE_LICENSE|__license__)\W*MS\W*RL(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MS\W*RL(?:\W*Licen[sc]e)?
 (?<!\w)MS\W*RL\W*Licen[sc]e
 Microsoft\W*Reciprocal\W*Licen[sc]e(?:\W*Ms\W*RL)?

@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Martin-Birgmeier(?!\w)
-MODULE_LICENSE\W*Martin\W*Birgmeier(?!\w)
+(?:MODULE_LICENSE|__license__)\W*Martin\W*Birgmeier(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Martin\W*Birgmeier(?:\W*Licen[sc]e)?
 (?<!\w)Martin\W*Birgmeier\W*Licen[sc]e

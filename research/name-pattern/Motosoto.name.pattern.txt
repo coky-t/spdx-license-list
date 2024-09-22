@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Motosoto(?!\w)
-MODULE_LICENSE\W*Motosoto(?!\w)
+(?:MODULE_LICENSE|__license__)\W*Motosoto(?!\w)
 Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Motosoto(?:(?:\W*Open\W*Source)?\W*Licen[sc]e)?(?:\W*(?:v(?:er(?:sions?|\.)?|\.)?\W*)?0\.9\.1)?
 (?<!\w)Motosoto(?:\W*Open\W*Source)?\W*Licen[sc]e(?:\W*(?:v(?:er(?:sions?|\.)?|\.)?\W*)?0\.9\.1)?
