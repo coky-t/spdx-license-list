@@ -1,0 +1,4 @@
+https://spdx.org/licenses/RPL-1.5.html
+https://opensource.org/licenses/RPL-1.5
+https://opensource.org/license/rpl1-5-txt/
+https://www.tldrlegal.com/license/reciprocal-public-license-1-5-rpl-1-5

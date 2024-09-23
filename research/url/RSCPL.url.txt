@@ -1,0 +1,3 @@
+https://spdx.org/licenses/RSCPL.html
+https://opensource.org/license/ricohpl-php/
+https://www.tldrlegal.com/license/ricoh-source-code-public-license-rscpl

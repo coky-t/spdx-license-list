@@ -1,0 +1,3 @@
+https://spdx.org/licenses/RHeCos-1.1.html
+https://www.tldrlegal.com/license/red-hat-ecos-public-license-v1-1-rhecos-1-1
+https://ecos.sourceware.org/old-license.html
