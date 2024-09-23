@@ -1,0 +1,2 @@
+https://spdx.org/licenses/Beerware.html
+https://www.tldrlegal.com/license/beerware-license
