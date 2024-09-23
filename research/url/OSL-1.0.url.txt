@@ -1,0 +1,4 @@
+https://spdx.org/licenses/OSL-1.0.html
+https://opensource.org/licenses/OSL-1.0
+https://opensource.org/license/osl-1-0/
+https://www.tldrlegal.com/license/open-software-license-1-0-opl-1-0

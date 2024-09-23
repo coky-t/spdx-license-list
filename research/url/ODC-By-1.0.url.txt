@@ -1,0 +1,2 @@
+https://spdx.org/licenses/ODC-By-1.0.html
+https://opendatacommons.org/licenses/by/1-0/
