@@ -1,0 +1,2 @@
+https://spdx.org/licenses/ADSL.html
+https://www.tldrlegal.com/license/amazon-digital-services-license

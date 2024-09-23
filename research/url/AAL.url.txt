@@ -1,0 +1,3 @@
+https://spdx.org/licenses/AAL.html
+https://opensource.org/license/attribution-php/
+https://www.tldrlegal.com/license/attribution-assurance-license-aal

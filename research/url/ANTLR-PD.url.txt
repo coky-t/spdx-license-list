@@ -1,0 +1,2 @@
+https://spdx.org/licenses/ANTLR-PD.html
+https://www.antlr2.org/license.html

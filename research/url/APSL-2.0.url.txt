@@ -1,0 +1,3 @@
+https://spdx.org/licenses/APSL-2.0.html
+https://opensource.org/license/apsl-2-0-php/
+https://www.tldrlegal.com/license/apple-public-source-license-2-0-apsl

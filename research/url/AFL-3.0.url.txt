@@ -1,0 +1,3 @@
+https://spdx.org/licenses/AFL-3.0.html
+https://opensource.org/license/afl-3-0-php/
+https://www.tldrlegal.com/license/academic-free-license-3-0-afl

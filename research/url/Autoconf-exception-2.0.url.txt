@@ -1,0 +1,2 @@
+https://spdx.org/licenses/Autoconf-exception-2.0.html
+https://ac-archive.sourceforge.net/doc/copyright.html
