@@ -1,0 +1,3 @@
+https://spdx.org/licenses/JSON.html
+https://www.tldrlegal.com/license/the-json-license
+https://www.json.org/license.html

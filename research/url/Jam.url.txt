@@ -1,0 +1,2 @@
+https://spdx.org/licenses/Jam.html
+https://opensource.org/license/jam/

@@ -1,0 +1,2 @@
+https://spdx.org/licenses/JasPer-2.0.html
+https://www.ece.uvic.ca/~frodo/jasper/LICENSE
