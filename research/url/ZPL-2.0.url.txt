@@ -1,0 +1,5 @@
+https://spdx.org/licenses/ZPL-2.0.html
+https://opensource.org/license/ZPL-2.0
+https://opensource.org/license/zpl-php/
+https://www.tldrlegal.com/license/zope-public-license-2-0-zpl-2-0
+http://old.zope.org/Resources/License/ZPL-2.0
