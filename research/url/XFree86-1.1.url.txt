@@ -1,0 +1,3 @@
+https://spdx.org/licenses/XFree86-1.1.html
+https://www.tldrlegal.com/license/xfree86-license-1-1-xfree86-1-1
+http://www.xfree86.org/current/LICENSE4.html
