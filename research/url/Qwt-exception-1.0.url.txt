@@ -1,0 +1,2 @@
+https://spdx.org/licenses/Qwt-exception-1.0.html
+https://qwt.sourceforge.io/qwtlicense.html
