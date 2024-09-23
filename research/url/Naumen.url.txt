@@ -1,0 +1,4 @@
+https://spdx.org/licenses/Naumen.html
+https://opensource.org/licenses/Naumen
+https://opensource.org/license/naumen-php/
+https://www.tldrlegal.com/license/naumen-public-license-naumen

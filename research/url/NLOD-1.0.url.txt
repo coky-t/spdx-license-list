@@ -1,0 +1,2 @@
+https://spdx.org/licenses/NLOD-1.0.html
+https://data.norge.no/nlod/en/1.0

@@ -1,0 +1,2 @@
+https://spdx.org/licenses/NRL.html
+https://web.mit.edu/network/isakmp/nrllicense.html

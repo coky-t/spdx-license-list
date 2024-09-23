@@ -1,0 +1,3 @@
+https://spdx.org/licenses/NGPL.html
+https://opensource.org/license/nethack-php/
+https://www.tldrlegal.com/license/nethack-general-public-license-ngpl
