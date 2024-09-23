@@ -1,0 +1,2 @@
+https://spdx.org/licenses/LGPL-2.1-or-later.html
+https://spdx.org/licenses/LGPL-2.1+.html

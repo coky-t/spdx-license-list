@@ -1,0 +1,2 @@
+https://spdx.org/licenses/LLGPL.html
+https://opensource.franz.com/preamble.html
