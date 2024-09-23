@@ -1,0 +1,4 @@
+https://spdx.org/licenses/MS-RL.html
+https://opensource.org/licenses/MS-RL
+https://opensource.org/license/ms-rl-html/
+https://www.tldrlegal.com/license/microsoft-reciprocal-license-ms-rl

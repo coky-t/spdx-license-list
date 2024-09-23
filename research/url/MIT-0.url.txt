@@ -1,0 +1,2 @@
+https://spdx.org/licenses/MIT-0.html
+https://opensource.org/license/mit-0/

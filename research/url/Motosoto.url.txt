@@ -1,0 +1,3 @@
+https://spdx.org/licenses/Motosoto.html
+https://opensource.org/license/Motosoto
+https://opensource.org/license/motosoto-php/
