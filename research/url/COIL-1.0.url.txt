@@ -1,0 +1,2 @@
+https://spdx.org/licenses/COIL-1.0.html
+https://coil.apotheon.org/plaintext/01.0.txt

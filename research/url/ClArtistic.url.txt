@@ -1,0 +1,2 @@
+https://spdx.org/licenses/ClArtistic.html
+https://www.ncftp.com/ncftp/doc/LICENSE.txt

@@ -1,0 +1,2 @@
+https://spdx.org/licenses/CPOL-1.02.html
+https://www.codeproject.com/info/cpol10.aspx

@@ -1,0 +1,4 @@
+https://spdx.org/licenses/CECILL-2.0.html
+https://www.tldrlegal.com/license/cecill-v2
+http://www.cecill.info/licences/Licence_CeCILL_V2-en.html
+http://www.cecill.info/licences/Licence_CeCILL_V2-fr.html

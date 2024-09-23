@@ -1,0 +1,2 @@
+https://spdx.org/licenses/CDLA-Permissive-1.0.html
+https://cdla.dev/permissive-1-0/

@@ -1,0 +1,4 @@
+https://spdx.org/licenses/CERN-OHL-S-2.0.html
+https://opensource.org/license/cern-ohl-s/
+https://ohwr.org/project/cernohl/-/wikis/Documents/CERN-OHL-version-2
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2

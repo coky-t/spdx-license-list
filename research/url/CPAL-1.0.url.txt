@@ -1,0 +1,3 @@
+https://spdx.org/licenses/CPAL-1.0.html
+https://opensource.org/license/cpal_1-0/
+https://www.tldrlegal.com/license/common-public-attribution-license-version-1-0-cpal-1-0
