@@ -1,0 +1,4 @@
+https://spdx.org/licenses/Sleepycat.html
+https://opensource.org/licenses/Sleepycat
+https://opensource.org/license/sleepycat-php/
+https://www.tldrlegal.com/license/sleepycat-license

@@ -1,0 +1,2 @@
+https://spdx.org/licenses/SAX-PD-2.0.html
+http://www.saxproject.org/copying.html

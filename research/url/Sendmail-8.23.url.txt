@@ -1,0 +1,1 @@
+https://spdx.org/licenses/Sendmail-8.23.html

@@ -1,0 +1,2 @@
+https://spdx.org/licenses/Swift-exception.html
+https://www.swift.org/LICENSE.txt

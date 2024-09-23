@@ -1,0 +1,2 @@
+https://spdx.org/licenses/SISSL.html
+https://opensource.org/license/sissl/

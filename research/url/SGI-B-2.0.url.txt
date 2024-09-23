@@ -1,0 +1,2 @@
+https://spdx.org/licenses/SGI-B-2.0.html
+https://www.tldrlegal.com/license/sgi-free-software-license-b-v2-0-sgi-b-2-0

@@ -1,0 +1,3 @@
+https://spdx.org/licenses/SMLNJ.html
+https://spdx.org/licenses/StandardML-NJ.html
+https://www.smlnj.org/license.html

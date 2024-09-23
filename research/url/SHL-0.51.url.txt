@@ -1,0 +1,2 @@
+https://spdx.org/licenses/SHL-0.51.html
+https://solderpad.org/licenses/SHL-0.51/
