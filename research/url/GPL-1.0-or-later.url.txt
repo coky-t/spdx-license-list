@@ -1,0 +1,2 @@
+https://spdx.org/licenses/GPL-1.0-or-later.html
+https://spdx.org/licenses/GPL-1.0+.html

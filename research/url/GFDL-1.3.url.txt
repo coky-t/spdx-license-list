@@ -1,0 +1,3 @@
+https://spdx.org/licenses/GFDL-1.3.html
+https://www.tldrlegal.com/license/gnu-free-documentation-license
+https://www.gnu.org/licenses/fdl-1.3.txt

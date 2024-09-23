@@ -1,0 +1,1 @@
+https://spdx.org/licenses/GStreamer-exception-2005.html
