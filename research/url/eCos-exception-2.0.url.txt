@@ -1,0 +1,2 @@
+https://spdx.org/licenses/eCos-exception-2.0.html
+https://ecos.sourceware.org/license-overview.html

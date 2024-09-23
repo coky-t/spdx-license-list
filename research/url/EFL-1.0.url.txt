@@ -1,0 +1,4 @@
+https://spdx.org/licenses/EFL-1.0.html
+https://opensource.org/license/EFL-1.0
+https://opensource.org/license/efl-1-0/
+http://www.eiffel-nice.org/license/forum.txt

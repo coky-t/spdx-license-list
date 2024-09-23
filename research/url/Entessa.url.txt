@@ -1,0 +1,3 @@
+https://spdx.org/licenses/Entessa.html
+https://opensource.org/license/entessa/
+https://www.tldrlegal.com/license/entessa-public-license-v1-0-entessa

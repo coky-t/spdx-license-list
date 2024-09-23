@@ -1,0 +1,4 @@
+https://spdx.org/licenses/EUDatagrid.html
+https://opensource.org/license/eudatagrid-php/
+https://www.tldrlegal.com/license/eu-datagrid-software-license-eudatagrid
+https://opensource.org/license/eudatagrid-php

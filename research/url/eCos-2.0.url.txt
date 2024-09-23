@@ -1,0 +1,4 @@
+https://spdx.org/licenses/eCos-2.0.html
+https://opensource.org/license/ecos-2-0/
+https://www.gnu.org/licenses/ecos-license.html
+http://sources.redhat.com/ecos/ecos-license/

@@ -1,0 +1,4 @@
+https://spdx.org/licenses/EPL-2.0.html
+https://opensource.org/license/EPL-2.0
+https://opensource.org/license/epl-2-0/
+https://www.eclipse.org/legal/epl-2.0/

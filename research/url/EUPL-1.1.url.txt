@@ -1,0 +1,4 @@
+https://spdx.org/licenses/EUPL-1.1.html
+https://opensource.org/license/EUPL-1.1
+https://opensource.org/license/eupl-1-1/
+https://www.tldrlegal.com/license/european-union-public-licence

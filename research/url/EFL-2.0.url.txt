@@ -1,0 +1,4 @@
+https://spdx.org/licenses/EFL-2.0.html
+https://opensource.org/license/ver2_eiffel-php/
+https://www.tldrlegal.com/license/eiffel-forum-license-v2-0-efl-2-0
+http://www.eiffel-nice.org/license/eiffel-forum-license-2.html
