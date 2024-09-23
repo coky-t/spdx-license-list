@@ -1,0 +1,4 @@
+https://spdx.org/licenses/PHP-3.01.html
+https://opensource.org/license/php-3-01/
+https://www.tldrlegal.com/license/the-php-license-3-0-1
+https://www.php.net/license/3_01.txt
