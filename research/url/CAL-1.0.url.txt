@@ -1,0 +1,2 @@
+https://spdx.org/licenses/CAL-1.0.html
+https://opensource.org/license/cal-1-0/
