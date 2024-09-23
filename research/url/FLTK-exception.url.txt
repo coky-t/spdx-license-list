@@ -1,0 +1,2 @@
+https://spdx.org/licenses/FLTK-exception.html
+https://www.fltk.org/COPYING.php
