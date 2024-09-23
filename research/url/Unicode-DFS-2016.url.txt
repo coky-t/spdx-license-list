@@ -1,0 +1,2 @@
+https://spdx.org/licenses/Unicode-DFS-2016.html
+https://opensource.org/license/unicode-inc-license-agreement-data-files-and-software/
