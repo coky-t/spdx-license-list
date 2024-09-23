@@ -1,0 +1,4 @@
+https://spdx.org/licenses/0BSD.html
+https://opensource.org/license/0bsd/
+https://www.tldrlegal.com/license/bsd-0-clause-license
+https://landley.net/toybox/license.html
