@@ -1,0 +1,6 @@
+https://spdx.org/licenses/W3C.html
+https://opensource.org/license/W3C
+https://opensource.org/license/w3c-php/
+https://www.tldrlegal.com/license/w3c-software-notice-and-license-w3c
+http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html
+https://www.w3.org/copyright/software-license-2002/
