@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Knuth-CTAN\.html
+https?://ctan\.org/license/knuth
