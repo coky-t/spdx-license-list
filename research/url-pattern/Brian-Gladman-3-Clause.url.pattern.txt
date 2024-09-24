@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/Brian-Gladman-3-Clause\.html

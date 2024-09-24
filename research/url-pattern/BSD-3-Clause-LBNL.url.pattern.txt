@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/BSD-3-Clause-LBNL\.html
+https?://opensource\.org/licenses?/bsd-3-clause-lbnl

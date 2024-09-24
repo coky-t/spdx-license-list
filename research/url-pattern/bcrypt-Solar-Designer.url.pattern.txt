@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/bcrypt-Solar-Designer\.html

@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/BSD-Attribution-HPND-disclaimer\.html

@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/BSD-Inferno-Nettverk\.html
+https?://www\.inet\.no/dante/LICENSE

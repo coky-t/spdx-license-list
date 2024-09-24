@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/BSD-Advertising-Acknowledgement\.html

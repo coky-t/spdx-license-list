@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/BUSL-1\.1\.html
+https?://mariadb\.com/bsl11
