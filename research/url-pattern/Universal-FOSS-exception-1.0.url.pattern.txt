@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Universal-FOSS-exception-1\.0\.html
+https?://oss\.oracle\.com/licenses/universal-foss-exception

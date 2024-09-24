@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/UPL-1\.0\.html
+https?://opensource\.org/licenses?/upl
+https?://www\.tldrlegal\.com/license/universal-permissive-license-1-0-upl-1-0

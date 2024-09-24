@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/Unlicense\.html
+https?://opensource\.org/licenses?/unlicense
+https?://www\.tldrlegal\.com/license/unlicense
+https?://unlicense\.org

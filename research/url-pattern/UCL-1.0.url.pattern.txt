@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/UCL-1\.0\.html
+https?://opensource\.org/licenses?/ucl-1-0

@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Unicode-TOU\.html
+https?://www\.unicode\.org/copyright\.html
