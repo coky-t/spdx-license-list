@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/PCRE2-exception\.html
+https?://www\.pcre\.org/licence\.txt

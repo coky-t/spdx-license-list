@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/PostgreSQL\.html
+https?://opensource\.org/licenses?/postgresql
+https?://www\.tldrlegal\.com/license/postgresql-license-postgresql
+https?://www\.postgresql\.org/about/licence

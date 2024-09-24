@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Parity-6\.0\.0\.html
+https?://paritylicense\.com/versions/6\.0\.0\.html

@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/PolyForm-Noncommercial-1\.0\.0\.html
+https?://polyformproject\.org/licenses/noncommercial/1\.0\.0
