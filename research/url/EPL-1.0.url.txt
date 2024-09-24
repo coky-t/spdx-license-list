@@ -3,3 +3,4 @@ https://opensource.org/license/EPL-1.0
 https://opensource.org/license/eclipse-1-0-php/
 https://www.tldrlegal.com/license/eclipse-public-license-1-0-epl-1-0
 https://www.eclipse.org/legal/epl/epl-v10.html
+http://www.eclipse.org/legal/epl-v10.html
