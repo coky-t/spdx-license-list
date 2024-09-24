@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/Fawkes-Runtime-exception\.html

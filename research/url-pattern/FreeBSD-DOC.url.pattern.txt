@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/FreeBSD-DOC\.html
+https?://www\.freebsd\.org/copyright/freebsd-doc-license
