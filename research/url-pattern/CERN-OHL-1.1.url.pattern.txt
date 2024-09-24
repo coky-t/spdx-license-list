@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CERN-OHL-1\.1\.html
+https?://ohwr\.org/project/licences/-/wikis/cern-ohl-v1\.1
+https?://ohwr\.org/project/licences/wikis/cern-ohl-v1\.1

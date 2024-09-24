@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Classpath-exception-2\.0\.html
+https?://www\.gnu\.org/software/classpath/license\.html

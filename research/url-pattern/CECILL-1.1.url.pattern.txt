@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CECILL-1\.1\.html
+https?://www\.tldrlegal\.com/license/cecill-free-software-license-agreement-v1-1-cecill-1-1
+https?://www\.cecill\.info/licences/Licence_CeCILL_V1\.1-US\.html

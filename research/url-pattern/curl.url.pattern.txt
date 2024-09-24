@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/curl\.html
+https?://www\.tldrlegal\.com/license/curl-license

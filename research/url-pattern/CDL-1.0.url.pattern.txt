@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/CDL-1\.0\.html

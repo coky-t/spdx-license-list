@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/Cornell-Lossless-JPEG\.html

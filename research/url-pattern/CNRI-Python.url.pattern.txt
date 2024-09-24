@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/CNRI-Python\.html
+https?://opensource\.org/licenses?/cnri-python

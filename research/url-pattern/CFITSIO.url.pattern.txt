@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/CFITSIO\.html
+https?://heasarc\.gsfc\.nasa\.gov/docs/software/ftools/fv/doc/license\.html

@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CECILL-C\.html
+https?://www\.cecill\.info/licences/Licence_CeCILL-C_V1-en\.html
+https?://www\.cecill\.info/licences/Licence_CeCILL-C_V1-fr\.html
