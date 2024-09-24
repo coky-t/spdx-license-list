@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Info-ZIP\.html
+https?://infozip\.sourceforge\.net/license\.html

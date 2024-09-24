@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/IPA\.html
+https?://opensource\.org/licenses?/ipafont-html
+https?://www\.tldrlegal\.com/license/ipa-font-license-ipa

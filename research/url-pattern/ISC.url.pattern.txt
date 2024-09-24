@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/ISC\.html
+https?://opensource\.org/licenses?/isc-license-txt
+https?://www\.tldrlegal\.com/license/isc-license

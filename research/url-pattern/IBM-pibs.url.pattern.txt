@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/IBM-pibs\.html
+https?://www\.tldrlegal\.com/license/ibm-powerpc-initialization-and-boot-software-ibm-pibs

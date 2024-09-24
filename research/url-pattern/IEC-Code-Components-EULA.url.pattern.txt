@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/IEC-Code-Components-EULA\.html
+https?://www\.iec\.ch/copyright

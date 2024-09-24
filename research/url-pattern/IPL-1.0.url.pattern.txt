@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/IPL-1\.0\.html
+https?://opensource\.org/licenses?/ibmpl-php
+https?://www\.tldrlegal\.com/license/ibm-public-license-1-0-ipl

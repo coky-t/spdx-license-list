@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/Intel\.html
+https?://opensource\.org/licenses?/intel
+https?://www\.tldrlegal\.com/license/intel-open-source-license-intel
