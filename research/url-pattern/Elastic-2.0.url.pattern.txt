@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Elastic-2\.0\.html
+https?://www\.elastic\.co/jp/licensing/elastic-license

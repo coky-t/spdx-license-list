@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/ECL-1\.0\.html
+https?://opensource\.org/licenses?/ECL-1\.0
+https?://opensource\.org/licenses?/ecl-1-0

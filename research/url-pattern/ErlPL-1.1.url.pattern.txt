@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/ErlPL-1\.1\.html
+https?://www\.tldrlegal\.com/license/erlang-public-license-v1-1-erlpl-1-1
+https?://www\.erlang\.org/EPLICENSE

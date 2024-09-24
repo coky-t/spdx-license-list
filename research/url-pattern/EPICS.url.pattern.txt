@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/EPICS\.html
+https?://epics\.anl\.gov/license/open\.php
