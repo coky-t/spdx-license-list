@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/TMate\.html
+https?://svnkit\.com/license\.html

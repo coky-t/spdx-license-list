@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/TCL\.html
+https?://www\.tcl\.tk/software/tcltk/license\.html
