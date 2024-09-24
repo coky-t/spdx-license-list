@@ -1,0 +1,5 @@
+https?://spdx\.org/licenses/Zlib\.html
+https?://opensource\.org/licenses?/Zlib
+https?://opensource\.org/licenses?/zlib-license-php
+https?://www\.tldrlegal\.com/license/zlib-libpng-license-zlib
+https?://www\.zlib\.net/zlib_license\.html
