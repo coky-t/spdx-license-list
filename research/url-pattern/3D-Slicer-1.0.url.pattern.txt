@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/3D-Slicer-1\.0\.html
