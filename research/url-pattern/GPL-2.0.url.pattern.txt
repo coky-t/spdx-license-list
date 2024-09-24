@@ -1,0 +1,5 @@
+https?://spdx\.org/licenses/GPL-2\.0\.html
+https?://opensource\.org/licenses?/gpl-2-0
+https?://www\.tldrlegal\.com/license/gnu-general-public-license-v2
+https?://www\.gnu\.org/licenses/old-licenses/gpl-2\.0-standalone\.html
+https?://www\.gnu\.org/licenses/old-licenses/gpl-2\.0\.txt

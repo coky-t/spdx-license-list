@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/GPL-3\.0\.html
+https?://opensource\.org/licenses?/gpl-3-0
+https?://www\.tldrlegal\.com/license/gnu-general-public-license-v3-gpl-3
+https?://www\.gnu\.org/licenses/gpl-3\.0-standalone\.html

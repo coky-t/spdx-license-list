@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/GFDL-1\.2\.html
+https?://www\.gnu\.org/licenses/old-licenses/fdl-1\.2\.txt

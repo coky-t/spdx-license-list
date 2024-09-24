@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/GFDL-1\.2-invariants-or-later\.html
