@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Xnet\.html
+https?://opensource\.org/licenses?/xnet
