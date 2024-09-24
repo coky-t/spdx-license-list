@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/YPL-1\.1\.html
+https?://www\.tldrlegal\.com/license/yahoo-public-license-v1-1-ypl-1-1
