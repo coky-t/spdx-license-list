@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/Multics\.html
+https?://opensource\.org/licenses?/Multics
+https?://opensource\.org/licenses?/multics-txt
+https?://www\.tldrlegal\.com/license/multics-license-multics

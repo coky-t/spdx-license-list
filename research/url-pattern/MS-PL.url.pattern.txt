@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/MS-PL\.html
+https?://opensource\.org/licenses?/MS-PL
+https?://opensource\.org/licenses?/ms-pl-html
+https?://www\.tldrlegal\.com/license/microsoft-public-license-ms-pl

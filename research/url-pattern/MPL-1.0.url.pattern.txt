@@ -1,0 +1,5 @@
+https?://spdx\.org/licenses/MPL-1\.0\.html
+https?://opensource\.org/licenses?/MPL-1\.0
+https?://opensource\.org/licenses?/mpl-1-0
+https?://www\.tldrlegal\.com/license/mozilla-public-license-1-0-mpl-1-0
+https?://www\.mozilla\.org/MPL/MPL-1\.0\.html

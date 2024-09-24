@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/MirOS\.html
+https?://opensource\.org/licenses?/MirOS
+https?://opensource\.org/licenses?/miros-html
+https?://www\.tldrlegal\.com/license/miros-license-miros
