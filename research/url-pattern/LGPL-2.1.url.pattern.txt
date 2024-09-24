@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/LGPL-2\.1\.html
+https?://opensource\.org/licenses?/lgpl-2-1
+https?://www\.tldrlegal\.com/license/gnu-lesser-general-public-license-v2-1-lgpl-2-1
+https?://www\.gnu\.org/licenses/old-licenses/lgpl-2\.1-standalone\.html

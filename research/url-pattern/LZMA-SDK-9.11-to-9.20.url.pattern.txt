@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/LZMA-SDK-9\.11-to-9\.20\.html

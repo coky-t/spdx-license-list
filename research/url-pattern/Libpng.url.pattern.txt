@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Libpng\.html
+https?://www\.libpng\.org/pub/png/src/libpng-LICENSE\.txt

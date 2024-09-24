@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/LPPL-1\.3c\.html
+https?://opensource\.org/licenses?/lppl
+https?://www\.tldrlegal\.com/license/latex-project-public-license-v1-3c-lppl-1-3c
+https?://www\.latex-project\.org/lppl/lppl-1-3c\.txt

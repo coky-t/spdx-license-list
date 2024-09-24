@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/LiLiQ-R-1\.1\.html
+https?://opensource\.org/licenses?/LiLiQ-R-1\.1
+https?://opensource\.org/licenses?/liliq-r-1-1
