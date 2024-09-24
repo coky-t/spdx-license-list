@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/VSL-1\.0\.html
+https?://opensource\.org/licenses?/vovidapl-php
+https?://www\.tldrlegal\.com/license/vovida-software-license-v1-0-vsl-1-0
