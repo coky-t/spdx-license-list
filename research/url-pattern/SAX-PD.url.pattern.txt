@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/SAX-PD\.html
+https?://www\.tldrlegal\.com/license/sax-public-domain-notice-sax-pd
