@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/DEC-3-Clause\.html
