@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/HPND\.html
+https?://opensource\.org/licenses?/historical-php
+https?://www\.tldrlegal\.com/license/historic-permission-notice-and-disclaimer-hpnd
