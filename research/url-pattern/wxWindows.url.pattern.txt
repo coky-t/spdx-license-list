@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/wxWindows\.html
+https?://opensource\.org/licenses?/wxwindows-php
