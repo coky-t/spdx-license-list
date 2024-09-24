@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/NPL-1\.1\.html
+https?://www\.tldrlegal\.com/license/netscape-public-license-v1-1-npl-1-1
+https?://www\.mozilla\.org/MPL/NPL/1\.1

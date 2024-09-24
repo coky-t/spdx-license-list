@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/NCGL-UK-2\.0\.html
+https?://www\.nationalarchives\.gov\.uk/doc/non-commercial-government-licence/version/2

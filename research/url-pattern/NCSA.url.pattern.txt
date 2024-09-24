@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/NCSA\.html
+https?://opensource\.org/licenses?/uoi-ncsa-php
+https?://www\.tldrlegal\.com/license/university-of-illinois-ncsa-open-source-license-ncsa

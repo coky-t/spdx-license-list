@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/Net-SNMP\.html
+https?://net-snmp\.sourceforge\.net/about/license\.html
+https?://net-snmp\.sourceforge\.io/about/license\.html

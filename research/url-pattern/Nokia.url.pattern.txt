@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/Nokia\.html
+https?://opensource\.org/licenses?/nokia
+https?://www\.tldrlegal\.com/license/nokia-open-source-license-nokia-open-source-license

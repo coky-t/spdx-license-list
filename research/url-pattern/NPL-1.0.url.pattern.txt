@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/NPL-1\.0\.html
+https?://www\.mozilla\.org/MPL/NPL/1\.0
