@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/ODbL-1\.0\.html
+https?://www\.tldrlegal\.com/license/odc-open-database-license-odbl
+https?://www\.opendatacommons\.org/licenses/odbl/1\.0
+https?://opendatacommons\.org/licenses/odbl/1-0

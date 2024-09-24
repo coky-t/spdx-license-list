@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/OpenJDK-assembly-exception-1\.0\.html
+https?://openjdk\.org/legal/assembly-exception\.html

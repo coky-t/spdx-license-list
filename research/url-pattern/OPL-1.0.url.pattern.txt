@@ -1,0 +1,5 @@
+https?://spdx\.org/licenses/OPL-1\.0\.html
+https?://www\.tldrlegal\.com/license/open-public-license-v1-0-opl-1-0
+https?://opencontent\.org/openpub
+https?://www\.ctan\.org/license/opl
+https?://www\.debian\.org/opl

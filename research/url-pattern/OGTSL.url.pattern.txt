@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/OGTSL\.html
+https?://opensource\.org/licenses?/opengroup-php
+https?://www\.tldrlegal\.com/license/open-group-test-suite-license-ogtsl
+https?://www\.opengroup\.org/testing/downloads/The_Open_Group_TSL\.txt

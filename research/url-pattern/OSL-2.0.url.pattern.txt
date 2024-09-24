@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/OSL-2\.0\.html
+https?://www\.tldrlegal\.com/license/open-software-license-2-0-osl-2-0

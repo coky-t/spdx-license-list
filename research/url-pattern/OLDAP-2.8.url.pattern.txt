@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/OLDAP-2\.8\.html
+https?://opensource\.org/licenses?/oldap-2-8
+https?://www\.tldrlegal\.com/license/openldap-public-license-v2-8-oldap-2-8
+https?://www\.openldap\.org/software/release/license\.html

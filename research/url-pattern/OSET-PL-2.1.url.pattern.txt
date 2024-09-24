@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/OSET-PL-2\.1\.html
+https?://opensource\.org/licenses?/opl-2-1
+https?://www\.osetfoundation\.org/public-license
