@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/QPL-1\.0-INRIA-2004\.html
