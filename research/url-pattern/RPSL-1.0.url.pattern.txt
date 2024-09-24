@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/RPSL-1\.0\.html
+https?://opensource\.org/licenses?/real-php
+https?://www\.tldrlegal\.com/license/realnetworks-public-source-license-v1-0-rpsl-1-0

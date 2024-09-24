@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/RRDtool-FLOSS-exception-2\.0\.html
