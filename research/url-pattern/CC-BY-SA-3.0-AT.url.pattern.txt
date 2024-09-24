@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/CC-BY-SA-3\.0-AT\.html
+https?://creativecommons\.org/licenses/by-sa/3\.0/at

@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/Caldera-no-preamble\.html

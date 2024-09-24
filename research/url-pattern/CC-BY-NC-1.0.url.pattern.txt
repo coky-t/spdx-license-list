@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CC-BY-NC-1\.0\.html
+https?://www\.tldrlegal\.com/license/creative-commons-attribution-noncommercial-cc-nc
+https?://creativecommons\.org/licenses/by-nc/1\.0

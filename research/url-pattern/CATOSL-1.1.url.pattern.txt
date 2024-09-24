@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CATOSL-1\.1\.html
+https?://opensource\.org/licenses?/ca-tosl1-1-php
+https?://www\.tldrlegal\.com/license/computer-associates-trusted-open-source-license-1-1-catosl-1-1

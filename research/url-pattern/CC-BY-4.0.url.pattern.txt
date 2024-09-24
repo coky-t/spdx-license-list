@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CC-BY-4\.0\.html
+https?://www\.tldrlegal\.com/license/creative-commons-attribution-4-0-international-cc-by-4
+https?://creativecommons\.org/licenses/by/4\.0

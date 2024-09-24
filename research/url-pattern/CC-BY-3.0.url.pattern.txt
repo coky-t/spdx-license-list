@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/CC-BY-3\.0\.html
+https?://www\.tldrlegal\.com/license/creative-commons-attribution-cc
+https?://creativecommons\.org/licenses/by/3\.0(?!/at|/au|/de|/igo|/nl|/us)

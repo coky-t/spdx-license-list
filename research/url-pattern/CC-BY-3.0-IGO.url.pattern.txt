@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/CC-BY-3\.0-IGO\.html
+https?://creativecommons\.org/licenses/by/3\.0/igo
