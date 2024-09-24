@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/Artistic-1\.0-Perl\.html
+https?://opensource\.org/licenses?/artistic-perl-1-0-2
+https?://dev\.perl\.org/licenses/artistic\.html

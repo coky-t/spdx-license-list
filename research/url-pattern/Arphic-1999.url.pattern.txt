@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Arphic-1999\.html
+https?://ftp\.gnu\.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE

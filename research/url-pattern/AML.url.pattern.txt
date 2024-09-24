@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/AML\.html
+https?://www\.tldrlegal\.com/license/apple-mit-license-aml

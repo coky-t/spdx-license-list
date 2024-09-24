@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Artistic-1\.0\.html
+https?://opensource\.org/licenses?/artistic-1-0

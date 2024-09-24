@@ -1,0 +1,3 @@
+https?://spdx\.org/licenses/Apache-1\.1\.html
+https?://opensource\.org/licenses?/apache-1-1
+https?://apache\.org/licenses/LICENSE-1\.1

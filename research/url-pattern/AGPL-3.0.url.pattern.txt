@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/AGPL-3\.0\.html
+https?://opensource\.org/licenses?/agpl-v3
+https?://www\.tldrlegal\.com/license/gnu-affero-general-public-license-v3-agpl-3-0
+https?://www\.gnu\.org/licenses/agpl-3\.0\.txt

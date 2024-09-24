@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Adobe-2006\.html
+https?://www\.tldrlegal\.com/license/adobe-systems-incorporated-source-code-license-agreement

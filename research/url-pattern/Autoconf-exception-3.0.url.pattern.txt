@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Autoconf-exception-3\.0\.html
+https?://www\.gnu\.org/licenses/autoconf-exception-3\.0\.html

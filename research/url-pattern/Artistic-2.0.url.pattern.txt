@@ -1,0 +1,4 @@
+https?://spdx\.org/licenses/Artistic-2\.0\.html
+https?://opensource\.org/licenses?/artistic-license-2-0-php
+https?://www\.tldrlegal\.com/license/artistic-license-2-0-artistic
+https?://www\.perlfoundation\.org/artistic-license-20\.html
