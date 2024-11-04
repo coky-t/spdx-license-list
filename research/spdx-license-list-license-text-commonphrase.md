@@ -18,10 +18,10 @@
 | Academic Free License v2.1 | AFL-2.1 | Permission is hereby granted |
 | Academic Free License v3.0 | AFL-3.0 | Permission is granted |
 | Afmparse License | Afmparse | |
-| Affero General Public License v1.0 only | AGPL-1.0-only | |
-| Affero General Public License v1.0 or later | AGPL-1.0-or-later | |
-| GNU Affero General Public License v3.0 only | AGPL-3.0-only | |
-| GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | |
+| Affero General Public License v1.0 only | AGPL-1.0-only | Everyone is permitted ... this license document |
+| Affero General Public License v1.0 or later | AGPL-1.0-or-later | Everyone is permitted ... this license document |
+| GNU Affero General Public License v3.0 only | AGPL-3.0-only | Everyone is permitted ... this license document |
+| GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | Everyone is permitted ... this license document |
 | Aladdin Free Public License | Aladdin | |
 | AMD newlib License | AMD-newlib | |
 | AMD's plpa_map.c License | AMDPLPA | Redistribution and use |
@@ -41,11 +41,11 @@
 | Apple Public Source License 1.1 | APSL-1.1 | |
 | Apple Public Source License 1.2 | APSL-1.2 | |
 | Apple Public Source License 2.0 | APSL-2.0 | |
-| Arphic Public License | Arphic-1999 | |
+| Arphic Public License | Arphic-1999 | Everyone is permitted ... this license document |
 | Artistic License 1.0 | Artistic-1.0 | The intent of this document is ... reasonable modifications |
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | The intent of this document is ... reasonable modifications |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | The intent of this document is ... reasonable modifications |
-| Artistic License 2.0 | Artistic-2.0 | |
+| Artistic License 2.0 | Artistic-2.0 | Everyone is permitted ... this license document |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | Redistribution and use |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | Redistribution and use |
 | Baekmuk License | Baekmuk | Permission to use, copy |
@@ -250,36 +250,36 @@
 | fwlw License | fwlw | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
-| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.1 only | GFDL-1.1-only | Permission is granted |
-| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | Permission is granted |
-| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.2 only | GFDL-1.2-only | Permission is granted |
-| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | Permission is granted |
-| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | Permission is granted |
-| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | Permission is granted |
-| GNU Free Documentation License v1.3 only | GFDL-1.3-only | Permission is granted |
-| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | Permission is granted |
+| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | Permission is granted, Everyone is permitted ... this license document  |
+| GNU Free Documentation License v1.1 only | GFDL-1.1-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 only | GFDL-1.2-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 only | GFDL-1.3-only | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | Permission is granted, Everyone is permitted ... this license document |
 | Giftware License | Giftware | |
 | GL2PS License | GL2PS | Permission to use, copy |
 | 3dfx Glide License | Glide | |
 | Glulxe License | Glulxe | |
 | Good Luck With That Public License | GLWTPL | |
 | gnuplot License | gnuplot | Permission to use, copy |
-| GNU General Public License v1.0 only | GPL-1.0-only | |
-| GNU General Public License v1.0 or later | GPL-1.0-or-later | |
-| GNU General Public License v2.0 only | GPL-2.0-only | |
-| GNU General Public License v2.0 or later | GPL-2.0-or-later | |
-| GNU General Public License v3.0 only | GPL-3.0-only | |
-| GNU General Public License v3.0 or later | GPL-3.0-or-later | |
+| GNU General Public License v1.0 only | GPL-1.0-only | Everyone is permitted ... this license document |
+| GNU General Public License v1.0 or later | GPL-1.0-or-later | Everyone is permitted ... this license document |
+| GNU General Public License v2.0 only | GPL-2.0-only | Everyone is permitted ... this license document |
+| GNU General Public License v2.0 or later | GPL-2.0-or-later | Everyone is permitted ... this license document |
+| GNU General Public License v3.0 only | GPL-3.0-only | Everyone is permitted ... this license document |
+| GNU General Public License v3.0 or later | GPL-3.0-or-later | Everyone is permitted ... this license document |
 | Graphics Gems License | Graphics-Gems | |
 | gSOAP Public License v1.3b | gSOAP-1.3b | |
 | gtkbook License | gtkbook | |
@@ -345,12 +345,12 @@
 | Latex2e License | Latex2e | Permission is granted |
 | Latex2e with translated notice permission | Latex2e-translated-notice | Permission is granted |
 | Leptonica License | Leptonica | |
-| GNU Library General Public License v2 only | LGPL-2.0-only | |
-| GNU Library General Public License v2 or later | LGPL-2.0-or-later | |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | |
-| GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
+| GNU Library General Public License v2 only | LGPL-2.0-only | Everyone is permitted ... this license document |
+| GNU Library General Public License v2 or later | LGPL-2.0-or-later | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1-only | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1-or-later | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0-only | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | Everyone is permitted ... this license document |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
 | libpng License | Libpng | Permission is hereby granted |
 | PNG Reference Library version 2 | libpng-2.0 | Permission is hereby granted |
@@ -369,7 +369,7 @@
 | LPD Documentation License | LPD-document | Permission is granted |
 | Lucent Public License Version 1.0 | LPL-1.0 | |
 | Lucent Public License v1.02 | LPL-1.02 | |
-| LaTeX Project Public License v1.0 | LPPL-1.0 | |
+| LaTeX Project Public License v1.0 | LPPL-1.0 | Everyone is permitted ... this license document |
 | LaTeX Project Public License v1.1 | LPPL-1.1 | |
 | LaTeX Project Public License v1.2 | LPPL-1.2 | |
 | LaTeX Project Public License v1.3a | LPPL-1.3a | |
@@ -563,7 +563,7 @@
 | SSH OpenSSH license | SSH-OpenSSH | |
 | SSH short notice | SSH-short | |
 | SSLeay License - standalone | SSLeay-standalone | Redistribution and use |
-| Server Side Public License, v 1 | SSPL-1.0 | |
+| Server Side Public License, v 1 | SSPL-1.0 | Everyone is permitted ... this license document |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | |
 | Sun PPP License | Sun-PPP | |
 | Sun PPP License (2000) | Sun-PPP-2000 | Permission to use, copy |
@@ -641,34 +641,34 @@
 
 | License Name | Identifier | Common Phrase |
 | ------------ | ---------- | ------------- |
-| Affero General Public License v1.0 | AGPL-1.0 | |
-| GNU Affero General Public License v3.0 | AGPL-3.0 | |
+| Affero General Public License v1.0 | AGPL-1.0 | Everyone is permitted ... this license document |
+| GNU Affero General Public License v3.0 | AGPL-3.0 | Everyone is permitted ... this license document |
 | BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | Redistribution and use |
 | BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | Redistribution and use |
 | bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | Redistribution and use |
 | eCos license version 2.0 | eCos-2.0 | |
-| GNU Free Documentation License v1.1 | GFDL-1.1 | Permission is granted |
-| GNU Free Documentation License v1.2 | GFDL-1.2 | Permission is granted |
-| GNU Free Documentation License v1.3 | GFDL-1.3 | Permission is granted |
-| GNU General Public License v1.0 only | GPL-1.0 | |
-| GNU General Public License v1.0 or later | GPL-1.0+ | |
-| GNU General Public License v2.0 only | GPL-2.0 | |
-| GNU General Public License v2.0 or later | GPL-2.0+ | |
+| GNU Free Documentation License v1.1 | GFDL-1.1 | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 | GFDL-1.2 | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 | GFDL-1.3 | Permission is granted, Everyone is permitted ... this license document |
+| GNU General Public License v1.0 only | GPL-1.0 | Everyone is permitted ... this license document |
+| GNU General Public License v1.0 or later | GPL-1.0+ | Everyone is permitted ... this license document |
+| GNU General Public License v2.0 only | GPL-2.0 | Everyone is permitted ... this license document |
+| GNU General Public License v2.0 or later | GPL-2.0+ | Everyone is permitted ... this license document |
 | GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | |
 | GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | |
 | GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | |
 | GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | |
 | GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | |
-| GNU General Public License v3.0 only | GPL-3.0 | |
-| GNU General Public License v3.0 or later | GPL-3.0+ | |
-| GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | |
-| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | |
-| GNU Library General Public License v2 only | LGPL-2.0 | |
-| GNU Library General Public License v2 or later | LGPL-2.0+ | |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1 | |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0 | |
-| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | |
+| GNU General Public License v3.0 only | GPL-3.0 | Everyone is permitted ... this license document |
+| GNU General Public License v3.0 or later | GPL-3.0+ | Everyone is permitted ... this license document |
+| GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | Everyone is permitted ... this license document |
+| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | Everyone is permitted ... this license document |
+| GNU Library General Public License v2 only | LGPL-2.0 | Everyone is permitted ... this license document |
+| GNU Library General Public License v2 or later | LGPL-2.0+ | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1 | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0 | Everyone is permitted ... this license document |
+| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | Everyone is permitted ... this license document |
 | Net-SNMP License | Net-SNMP | Permission to use, copy / Redistribution and use |
 | Nunit License | Nunit | Permission is granted |
 | Standard ML of New Jersey License | StandardML-NJ | Permission to use, copy |

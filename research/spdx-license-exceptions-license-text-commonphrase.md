@@ -6,7 +6,7 @@
 | Asterisk exception | Asterisk-exception | In addition |
 | Asterisk linking protocols exception | Asterisk-linking-protocols-exception | |
 | Autoconf exception 2.0 | Autoconf-exception-2.0 | As a special exception |
-| Autoconf exception 3.0 | Autoconf-exception-3.0 | an additional permission |
+| Autoconf exception 3.0 | Autoconf-exception-3.0 | an additional permission, Everyone is permitted ... this license document |
 | Autoconf generic exception | Autoconf-exception-generic | As a special exception |
 | Autoconf generic exception for GPL-3.0 | Autoconf-exception-generic-3.0 | As a special exception |
 | Autoconf macro exception | Autoconf-exception-macro | As a special exception |
@@ -26,7 +26,7 @@
 | FreeRTOS Exception 2.0 | freertos-exception-2.0 | As a special exception |
 | GCC Runtime Library exception 2.0 | GCC-exception-2.0 | In addition to the permissions |
 | GCC Runtime Library exception 2.0 - note variant | GCC-exception-2.0-note | In addition to the permissions |
-| GCC Runtime Library exception 3.1 | GCC-exception-3.1 | an additional permission |
+| GCC Runtime Library exception 3.1 | GCC-exception-3.1 | an additional permission, Everyone is permitted ... this license document |
 | Gmsh exception | Gmsh-exception | |
 | GNAT exception | GNAT-exception | As a special exception |
 | GNOME examples exception | GNOME-examples-exception | As a special exception |
