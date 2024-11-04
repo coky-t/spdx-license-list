@@ -110,26 +110,26 @@
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | |
 | Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | |
 | Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | |
-| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | |
+| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | You may Distribute ... of this License |
 | Creative Commons Attribution 3.0 Austria | CC-BY-3.0-AT | |
 | Creative Commons Attribution 3.0 Australia | CC-BY-3.0-AU | |
 | Creative Commons Attribution 3.0 Germany | CC-BY-3.0-DE | |
-| Creative Commons Attribution 3.0 IGO | CC-BY-3.0-IGO | |
+| Creative Commons Attribution 3.0 IGO | CC-BY-3.0-IGO | You may Distribute ... of this License |
 | Creative Commons Attribution 3.0 Netherlands | CC-BY-3.0-NL | |
 | Creative Commons Attribution 3.0 United States | CC-BY-3.0-US | |
 | Creative Commons Attribution 4.0 International | CC-BY-4.0 | |
 | Creative Commons Attribution Non Commercial 1.0 Generic | CC-BY-NC-1.0 | |
 | Creative Commons Attribution Non Commercial 2.0 Generic | CC-BY-NC-2.0 | |
 | Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | |
-| Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | |
+| Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | You may Distribute ... of this License |
 | Creative Commons Attribution Non Commercial 3.0 Germany | CC-BY-NC-3.0-DE | |
 | Creative Commons Attribution Non Commercial 4.0 International | CC-BY-NC-4.0 | |
 | Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | |
 | Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | |
 | Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic | CC-BY-NC-ND-2.5 | |
-| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | |
+| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | You may Distribute ... of this License |
 | Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany | CC-BY-NC-ND-3.0-DE | |
-| Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO | CC-BY-NC-ND-3.0-IGO | |
+| Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO | CC-BY-NC-ND-3.0-IGO | You may Distribute ... of this License |
 | Creative Commons Attribution Non Commercial No Derivatives 4.0 International | CC-BY-NC-ND-4.0 | |
 | Creative Commons Attribution Non Commercial Share Alike 1.0 Generic | CC-BY-NC-SA-1.0 | |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 Generic | CC-BY-NC-SA-2.0 | |
@@ -137,14 +137,14 @@
 | Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France | CC-BY-NC-SA-2.0-FR | |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales | CC-BY-NC-SA-2.0-UK | |
 | Creative Commons Attribution Non Commercial Share Alike 2.5 Generic | CC-BY-NC-SA-2.5 | |
-| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | |
+| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | You may Distribute ... of this License |
 | Creative Commons Attribution Non Commercial Share Alike 3.0 Germany | CC-BY-NC-SA-3.0-DE | |
-| Creative Commons Attribution Non Commercial Share Alike 3.0 IGO | CC-BY-NC-SA-3.0-IGO | |
+| Creative Commons Attribution Non Commercial Share Alike 3.0 IGO | CC-BY-NC-SA-3.0-IGO | You may Distribute ... of this License |
 | Creative Commons Attribution Non Commercial Share Alike 4.0 International | CC-BY-NC-SA-4.0 | |
 | Creative Commons Attribution No Derivatives 1.0 Generic | CC-BY-ND-1.0 | |
 | Creative Commons Attribution No Derivatives 2.0 Generic | CC-BY-ND-2.0 | |
 | Creative Commons Attribution No Derivatives 2.5 Generic | CC-BY-ND-2.5 | |
-| Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | |
+| Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | You may Distribute ... of this License |
 | Creative Commons Attribution No Derivatives 3.0 Germany | CC-BY-ND-3.0-DE | |
 | Creative Commons Attribution No Derivatives 4.0 International | CC-BY-ND-4.0 | |
 | Creative Commons Attribution Share Alike 1.0 Generic | CC-BY-SA-1.0 | |
@@ -152,10 +152,10 @@
 | Creative Commons Attribution Share Alike 2.0 England and Wales | CC-BY-SA-2.0-UK | |
 | Creative Commons Attribution Share Alike 2.1 Japan | CC-BY-SA-2.1-JP | |
 | Creative Commons Attribution Share Alike 2.5 Generic | CC-BY-SA-2.5 | |
-| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | |
+| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | You may Distribute ... of this License |
 | Creative Commons Attribution Share Alike 3.0 Austria | CC-BY-SA-3.0-AT | |
 | Creative Commons Attribution Share Alike 3.0 Germany | CC-BY-SA-3.0-DE | |
-| Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | |
+| Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | You may Distribute ... of this License |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | |
@@ -510,7 +510,7 @@
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | |
 | PostgreSQL License | PostgreSQL | Permission to use, copy |
-| Peer Production License | PPL | |
+| Peer Production License | PPL | You may Distribute ... of this License |
 | Python Software Foundation License 2.0 | PSF-2.0 | |
 | psfrag License | psfrag | |
 | psutils License | psutils | |
