@@ -411,9 +411,9 @@
 | Mozilla Public License 2.0 | MPL-2.0 | |
 | Mozilla Public License 2.0 (no copyleft exception) | MPL-2.0-no-copyleft-exception | |
 | mplus Font License | mplus | |
-| Microsoft Limited Public License | MS-LPL | |
-| Microsoft Public License | MS-PL | |
-| Microsoft Reciprocal License | MS-RL | |
+| Microsoft Limited Public License | MS-LPL | This license governs ... accompanying software |
+| Microsoft Public License | MS-PL | This license governs ... accompanying software |
+| Microsoft Reciprocal License | MS-RL | This license governs ... accompanying software |
 | Matrix Template Library License | MTLL | Redistribution and use |
 | Mulan Permissive Software License, Version 1 | MulanPSL-1.0 | Subject to the terms ... of this License |
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | Subject to the terms ... of this License |
