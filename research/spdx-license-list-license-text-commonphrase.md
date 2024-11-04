@@ -42,9 +42,9 @@
 | Apple Public Source License 1.2 | APSL-1.2 | |
 | Apple Public Source License 2.0 | APSL-2.0 | |
 | Arphic Public License | Arphic-1999 | |
-| Artistic License 1.0 | Artistic-1.0 | |
-| Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | |
-| Artistic License 1.0 (Perl) | Artistic-1.0-Perl | |
+| Artistic License 1.0 | Artistic-1.0 | The intent of this document is ... reasonable modifications |
+| Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | The intent of this document is ... reasonable modifications |
+| Artistic License 1.0 (Perl) | Artistic-1.0-Perl | The intent of this document is ... reasonable modifications |
 | Artistic License 2.0 | Artistic-2.0 | |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | Redistribution and use |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | Redistribution and use |
@@ -179,7 +179,7 @@
 | CFITSIO License | CFITSIO | |
 | check-cvs License | check-cvs | Permission is granted |
 | Checkmk License | checkmk | |
-| Clarified Artistic License | ClArtistic | |
+| Clarified Artistic License | ClArtistic | The intent of this document is ... reasonable modifications |
 | Clips License | Clips | Permission is hereby granted |
 | CMU Mach License | CMU-Mach | Permission to use, copy |
 | CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | Permission to use, copy |
@@ -422,7 +422,7 @@
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | |
 | NASA Open Source Agreement 1.3 | NASA-1.3 | |
 | Naumen Public License | Naumen | Redistribution and use |
-| Net Boolean Public License v1 | NBPL-1.0 | |
+| Net Boolean Public License v1 | NBPL-1.0 | The intent of this document is ... reasonable modifications |
 | NCBI Public Domain Notice | NCBI-PD | |
 | Non-Commercial Government Licence | NCGL-UK-2.0 | |
 | NCL Source Code License | NCL | Redistribution and use |
@@ -465,11 +465,11 @@
 | Open Government Licence v1.0 | OGL-UK-1.0 | |
 | Open Government Licence v2.0 | OGL-UK-2.0 | |
 | Open Government Licence v3.0 | OGL-UK-3.0 |  |
-| Open Group Test Suite License | OGTSL | |
-| Open LDAP Public License v1.1 | OLDAP-1.1 | |
-| Open LDAP Public License v1.2 | OLDAP-1.2 | |
-| Open LDAP Public License v1.3 | OLDAP-1.3 | |
-| Open LDAP Public License v1.4 | OLDAP-1.4 | |
+| Open Group Test Suite License | OGTSL | The intent of this document is ... reasonable modifications |
+| Open LDAP Public License v1.1 | OLDAP-1.1 | The intent of this document is ... reasonable modifications |
+| Open LDAP Public License v1.2 | OLDAP-1.2 | The intent of this document is ... reasonable modifications |
+| Open LDAP Public License v1.3 | OLDAP-1.3 | The intent of this document is ... reasonable modifications |
+| Open LDAP Public License v1.4 | OLDAP-1.4 | The intent of this document is ... reasonable modifications |
 | Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B) | OLDAP-2.0 | Redistribution and use |
 | Open LDAP Public License v2.0.1 | OLDAP-2.0.1 | Redistribution and use |
 | Open LDAP Public License v2.1 | OLDAP-2.1 | Redistribution and use |
