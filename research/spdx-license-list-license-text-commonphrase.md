@@ -33,14 +33,14 @@
 | Any OSI License | any-OSI | |
 | Apache License 1.0 | Apache-1.0 | Redistribution and use |
 | Apache License 1.1 | Apache-1.1 | Redistribution and use |
-| Apache License 2.0 | Apache-2.0 | |
+| Apache License 2.0 | Apache-2.0 | Subject to the terms ... of this License |
 | Adobe Postscript AFM License | APAFML | |
 | Adaptive Public License 1.0 | APL-1.0 | |
 | App::s2p License | App-s2p | |
-| Apple Public Source License 1.0 | APSL-1.0 | |
-| Apple Public Source License 1.1 | APSL-1.1 | |
-| Apple Public Source License 1.2 | APSL-1.2 | |
-| Apple Public Source License 2.0 | APSL-2.0 | |
+| Apple Public Source License 1.0 | APSL-1.0 | Subject to the terms ... of this License |
+| Apple Public Source License 1.1 | APSL-1.1 | Subject to the terms ... of this License |
+| Apple Public Source License 1.2 | APSL-1.2 | Subject to the terms ... of this License |
+| Apple Public Source License 2.0 | APSL-2.0 | Subject to the terms ... of this License |
 | Arphic Public License | Arphic-1999 | Everyone is permitted ... this license document |
 | Artistic License 1.0 | Artistic-1.0 | The intent of this document is ... reasonable modifications |
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | The intent of this document is ... reasonable modifications |
@@ -56,7 +56,7 @@
 | Bitstream Charter Font License | Bitstream-Charter | |
 | Bitstream Vera Font License | Bitstream-Vera | Permission is hereby granted |
 | BitTorrent Open Source License v1.0 | BitTorrent-1.0 | |
-| BitTorrent Open Source License v1.1 | BitTorrent-1.1 | |
+| BitTorrent Open Source License v1.1 | BitTorrent-1.1 | Subject to the terms ... of this License |
 | SQLite Blessing | blessing | |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | |
 | Boehm-Demers-Weiser GC License | Boehm-GC | Permission is hereby granted |
@@ -67,7 +67,7 @@
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | Redistribution and use |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | Redistribution and use |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | Redistribution and use |
-| BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Redistribution and use |
+| BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Redistribution and use / Subject to the terms ... of this License |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | Redistribution and use |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Redistribution and use |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | Redistribution and use |
@@ -106,56 +106,56 @@
 | Caldera License (without preamble) | Caldera-no-preamble | Redistribution and use |
 | Catharon License | Catharon | |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | |
-| Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | |
-| Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | |
-| Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | |
-| Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | |
-| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | You may Distribute ... of this License |
+| Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | Subject to the terms ... of this License |
+| Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | Subject to the terms ... of this License |
+| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution 3.0 Austria | CC-BY-3.0-AT | |
 | Creative Commons Attribution 3.0 Australia | CC-BY-3.0-AU | |
 | Creative Commons Attribution 3.0 Germany | CC-BY-3.0-DE | |
-| Creative Commons Attribution 3.0 IGO | CC-BY-3.0-IGO | You may Distribute ... of this License |
+| Creative Commons Attribution 3.0 IGO | CC-BY-3.0-IGO | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution 3.0 Netherlands | CC-BY-3.0-NL | |
-| Creative Commons Attribution 3.0 United States | CC-BY-3.0-US | |
+| Creative Commons Attribution 3.0 United States | CC-BY-3.0-US | Subject to the terms ... of this License |
 | Creative Commons Attribution 4.0 International | CC-BY-4.0 | |
-| Creative Commons Attribution Non Commercial 1.0 Generic | CC-BY-NC-1.0 | |
-| Creative Commons Attribution Non Commercial 2.0 Generic | CC-BY-NC-2.0 | |
-| Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | |
-| Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | You may Distribute ... of this License |
+| Creative Commons Attribution Non Commercial 1.0 Generic | CC-BY-NC-1.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial 2.0 Generic | CC-BY-NC-2.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial 3.0 Germany | CC-BY-NC-3.0-DE | |
 | Creative Commons Attribution Non Commercial 4.0 International | CC-BY-NC-4.0 | |
-| Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | |
-| Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | |
-| Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic | CC-BY-NC-ND-2.5 | |
-| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | You may Distribute ... of this License |
+| Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic | CC-BY-NC-ND-2.5 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany | CC-BY-NC-ND-3.0-DE | |
-| Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO | CC-BY-NC-ND-3.0-IGO | You may Distribute ... of this License |
+| Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO | CC-BY-NC-ND-3.0-IGO | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial No Derivatives 4.0 International | CC-BY-NC-ND-4.0 | |
-| Creative Commons Attribution Non Commercial Share Alike 1.0 Generic | CC-BY-NC-SA-1.0 | |
-| Creative Commons Attribution Non Commercial Share Alike 2.0 Generic | CC-BY-NC-SA-2.0 | |
+| Creative Commons Attribution Non Commercial Share Alike 1.0 Generic | CC-BY-NC-SA-1.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial Share Alike 2.0 Generic | CC-BY-NC-SA-2.0 | Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 Germany | CC-BY-NC-SA-2.0-DE | |
 | Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France | CC-BY-NC-SA-2.0-FR | |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales | CC-BY-NC-SA-2.0-UK | |
-| Creative Commons Attribution Non Commercial Share Alike 2.5 Generic | CC-BY-NC-SA-2.5 | |
-| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | You may Distribute ... of this License |
+| Creative Commons Attribution Non Commercial Share Alike 2.5 Generic | CC-BY-NC-SA-2.5 | Subject to the terms ... of this License |
+| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial Share Alike 3.0 Germany | CC-BY-NC-SA-3.0-DE | |
-| Creative Commons Attribution Non Commercial Share Alike 3.0 IGO | CC-BY-NC-SA-3.0-IGO | You may Distribute ... of this License |
+| Creative Commons Attribution Non Commercial Share Alike 3.0 IGO | CC-BY-NC-SA-3.0-IGO | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial Share Alike 4.0 International | CC-BY-NC-SA-4.0 | |
-| Creative Commons Attribution No Derivatives 1.0 Generic | CC-BY-ND-1.0 | |
-| Creative Commons Attribution No Derivatives 2.0 Generic | CC-BY-ND-2.0 | |
-| Creative Commons Attribution No Derivatives 2.5 Generic | CC-BY-ND-2.5 | |
-| Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | You may Distribute ... of this License |
+| Creative Commons Attribution No Derivatives 1.0 Generic | CC-BY-ND-1.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution No Derivatives 2.0 Generic | CC-BY-ND-2.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution No Derivatives 2.5 Generic | CC-BY-ND-2.5 | Subject to the terms ... of this License |
+| Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution No Derivatives 3.0 Germany | CC-BY-ND-3.0-DE | |
 | Creative Commons Attribution No Derivatives 4.0 International | CC-BY-ND-4.0 | |
-| Creative Commons Attribution Share Alike 1.0 Generic | CC-BY-SA-1.0 | |
-| Creative Commons Attribution Share Alike 2.0 Generic | CC-BY-SA-2.0 | |
+| Creative Commons Attribution Share Alike 1.0 Generic | CC-BY-SA-1.0 | Subject to the terms ... of this License |
+| Creative Commons Attribution Share Alike 2.0 Generic | CC-BY-SA-2.0 | Subject to the terms ... of this License |
 | Creative Commons Attribution Share Alike 2.0 England and Wales | CC-BY-SA-2.0-UK | |
 | Creative Commons Attribution Share Alike 2.1 Japan | CC-BY-SA-2.1-JP | |
-| Creative Commons Attribution Share Alike 2.5 Generic | CC-BY-SA-2.5 | |
-| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | You may Distribute ... of this License |
+| Creative Commons Attribution Share Alike 2.5 Generic | CC-BY-SA-2.5 | Subject to the terms ... of this License |
+| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Share Alike 3.0 Austria | CC-BY-SA-3.0-AT | |
 | Creative Commons Attribution Share Alike 3.0 Germany | CC-BY-SA-3.0-DE | |
-| Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | You may Distribute ... of this License |
+| Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | |
@@ -173,9 +173,9 @@
 | CeCILL-C Free Software License Agreement | CECILL-C | |
 | CERN Open Hardware Licence v1.1 | CERN-OHL-1.1 | |
 | CERN Open Hardware Licence v1.2 | CERN-OHL-1.2 | |
-| CERN Open Hardware Licence Version 2 - Permissive | CERN-OHL-P-2.0 | |
-| CERN Open Hardware Licence Version 2 - Strongly Reciprocal | CERN-OHL-S-2.0 | |
-| CERN Open Hardware Licence Version 2 - Weakly Reciprocal | CERN-OHL-W-2.0 | |
+| CERN Open Hardware Licence Version 2 - Permissive | CERN-OHL-P-2.0 | Subject to the terms ... of this License |
+| CERN Open Hardware Licence Version 2 - Strongly Reciprocal | CERN-OHL-S-2.0 | Subject to the terms ... of this License |
+| CERN Open Hardware Licence Version 2 - Weakly Reciprocal | CERN-OHL-W-2.0 | Subject to the terms ... of this License |
 | CFITSIO License | CFITSIO | |
 | check-cvs License | check-cvs | Permission is granted |
 | Checkmk License | checkmk | |
@@ -183,9 +183,9 @@
 | Clips License | Clips | Permission is hereby granted |
 | CMU Mach License | CMU-Mach | Permission to use, copy |
 | CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | Permission to use, copy |
-| CNRI Jython License | CNRI-Jython | |
-| CNRI Python License | CNRI-Python | |
-| CNRI Python Open Source GPL Compatible License Agreement | CNRI-Python-GPL-Compatible | |
+| CNRI Jython License | CNRI-Jython | Subject to the terms ... of this License |
+| CNRI Python License | CNRI-Python | Subject to the terms ... of this License |
+| CNRI Python Open Source GPL Compatible License Agreement | CNRI-Python-GPL-Compatible | Subject to the terms ... of this License |
 | Copyfree Open Innovation License | COIL-1.0 | |
 | Community Specification License 1.0 | Community-Spec-1.0 | |
 | Condor Public License v1.1 | Condor-1.1 | |
@@ -194,7 +194,7 @@
 | Cornell Lossless JPEG License | Cornell-Lossless-JPEG | Permission to use, copy |
 | Common Public Attribution License 1.0 | CPAL-1.0 | |
 | Common Public License 1.0 | CPL-1.0 | |
-| Code Project Open License 1.02 | CPOL-1.02 | |
+| Code Project Open License 1.02 | CPOL-1.02 | Subject to the terms ... of this License |
 | Cronyx License | Cronyx | |
 | Crossword License | Crossword | |
 | CrystalStacker License | CrystalStacker | |
@@ -217,7 +217,7 @@
 | David M. Gay dtoa License | dtoa | Permission to use, copy |
 | dvipdfm License | dvipdfm | |
 | Educational Community License v1.0 | ECL-1.0 | Permission to use, copy |
-| Educational Community License v2.0 | ECL-2.0 | |
+| Educational Community License v2.0 | ECL-2.0 | Subject to the terms ... of this License |
 | Eiffel Forum License v1.0 | EFL-1.0 | Permission is hereby granted |
 | Eiffel Forum License v2.0 | EFL-2.0 | Permission is hereby granted |
 | eGenix.com Public License 1.1.0 | eGenix | |
@@ -250,24 +250,24 @@
 | fwlw License | fwlw | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
-| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | Permission is granted, Everyone is permitted ... this license document  |
-| GNU Free Documentation License v1.1 only | GFDL-1.1-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 only | GFDL-1.2-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 only | GFDL-1.3-only | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 or later - no invariants | GFDL-1.1-no-invariants-or-later | Permission is granted / Everyone is permitted ... this license document  |
+| GNU Free Documentation License v1.1 only | GFDL-1.1-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 or later | GFDL-1.1-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 only - invariants | GFDL-1.2-invariants-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 or later - invariants | GFDL-1.2-invariants-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 only - no invariants | GFDL-1.2-no-invariants-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 or later - no invariants | GFDL-1.2-no-invariants-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 only | GFDL-1.2-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 or later | GFDL-1.2-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 only - invariants | GFDL-1.3-invariants-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 or later - invariants | GFDL-1.3-invariants-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 only - no invariants | GFDL-1.3-no-invariants-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 or later - no invariants | GFDL-1.3-no-invariants-or-later | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 only | GFDL-1.3-only | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 or later | GFDL-1.3-or-later | Permission is granted / Everyone is permitted ... this license document |
 | Giftware License | Giftware | |
 | GL2PS License | GL2PS | Permission to use, copy |
 | 3dfx Glide License | Glide | |
@@ -320,7 +320,7 @@
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
 | Independent JPEG Group License | IJG | Permission is hereby granted |
 | Independent JPEG Group License - short | IJG-short | Permission is hereby granted |
-| ImageMagick License | ImageMagick | |
+| ImageMagick License | ImageMagick | Subject to the terms ... of this License |
 | iMatix Standard Function Library Agreement | iMatix | |
 | Imlib2 License | Imlib2 | Permission is hereby granted |
 | Info-ZIP License | Info-ZIP | Permission is granted |
@@ -415,8 +415,8 @@
 | Microsoft Public License | MS-PL | |
 | Microsoft Reciprocal License | MS-RL | |
 | Matrix Template Library License | MTLL | Redistribution and use |
-| Mulan Permissive Software License, Version 1 | MulanPSL-1.0 | |
-| Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | |
+| Mulan Permissive Software License, Version 1 | MulanPSL-1.0 | Subject to the terms ... of this License |
+| Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | Subject to the terms ... of this License |
 | Multics License | Multics | Permission to use, copy |
 | Mup License | Mup | Redistribution and use |
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | |
@@ -448,10 +448,10 @@
 | NTP No Attribution | NTP-0 | Permission to use, copy |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
 | OAR License | OAR | Permission to use, copy |
-| Open CASCADE Technology Public License | OCCT-PL | |
+| Open CASCADE Technology Public License | OCCT-PL | Subject to the terms ... of this License |
 | OCLC Research Public License 2.0 | OCLC-2.0 | |
-| Open Data Commons Open Database License v1.0 | ODbL-1.0 | |
-| Open Data Commons Attribution License v1.0 | ODC-By-1.0 | |
+| Open Data Commons Open Database License v1.0 | ODbL-1.0 | Subject to the terms ... of this License |
+| Open Data Commons Attribution License v1.0 | ODC-By-1.0 | Subject to the terms ... of this License |
 | OFFIS License | OFFIS | |
 | SIL Open Font License 1.0 | OFL-1.0 | Permission is hereby granted |
 | SIL Open Font License 1.0 with no Reserved Font Name | OFL-1.0-no-RFN | Permission is hereby granted |
@@ -482,7 +482,7 @@
 | Open LDAP Public License v2.6 | OLDAP-2.6 | Redistribution and use |
 | Open LDAP Public License v2.7 | OLDAP-2.7 | Redistribution and use |
 | Open LDAP Public License v2.8 | OLDAP-2.8 | Redistribution and use |
-| Open Logistics Foundation License Version 1.3 | OLFL-1.3 | |
+| Open Logistics Foundation License Version 1.3 | OLFL-1.3 | Subject to the terms ... of this License |
 | Open Market License | OML | |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | |
 | OpenSSL License | OpenSSL | Redistribution and use |
@@ -503,19 +503,19 @@
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | |
 | PHP License v3.0 | PHP-3.0 | Redistribution and use |
 | PHP License v3.01 | PHP-3.01 | Redistribution and use |
-| Pixar License | Pixar | |
+| Pixar License | Pixar | Subject to the terms ... of this License |
 | pkgconf License | pkgconf | Permission to use, copy |
 | Plexus Classworlds License | Plexus | Redistribution and use |
 | pnmstitch License | pnmstitch | Redistribution and use |
 | PolyForm Noncommercial License 1.0.0 | PolyForm-Noncommercial-1.0.0 | |
 | PolyForm Small Business License 1.0.0 | PolyForm-Small-Business-1.0.0 | |
 | PostgreSQL License | PostgreSQL | Permission to use, copy |
-| Peer Production License | PPL | You may Distribute ... of this License |
-| Python Software Foundation License 2.0 | PSF-2.0 | |
+| Peer Production License | PPL | You may Distribute ... of this License / Subject to the terms ... of this License |
+| Python Software Foundation License 2.0 | PSF-2.0 | Subject to the terms ... of this License |
 | psfrag License | psfrag | |
 | psutils License | psutils | |
-| Python License 2.0 | Python-2.0 | (CWI) Permission to use, copy |
-| Python License 2.0.1 | Python-2.0.1 | (CWI) Permission to use, copy |
+| Python License 2.0 | Python-2.0 | (CWI) Permission to use, copy / Subject to the terms ... of this License |
+| Python License 2.0.1 | Python-2.0.1 | (CWI) Permission to use, copy / Subject to the terms ... of this License |
 | Python ldap License | python-ldap | |
 | Qhull License | Qhull | |
 | Q Public License 1.0 | QPL-1.0 | |
@@ -523,9 +523,9 @@
 | radvd License | radvd | redistribution and use |
 | Rdisc License | Rdisc | |
 | Red Hat eCos Public License v1.1 | RHeCos-1.1 | |
-| Reciprocal Public License 1.1 | RPL-1.1 | |
-| Reciprocal Public License 1.5 | RPL-1.5 | |
-| RealNetworks Public Source License v1.0 | RPSL-1.0 | |
+| Reciprocal Public License 1.1 | RPL-1.1 | Subject to the terms ... of this License |
+| Reciprocal Public License 1.5 | RPL-1.5 | Subject to the terms ... of this License |
+| RealNetworks Public Source License v1.0 | RPSL-1.0 | Subject to the terms ... of this License |
 | RSA Message-Digest License | RSA-MD | |
 | Ricoh Source Code Public License | RSCPL | |
 | Ruby License | Ruby | |
@@ -533,7 +533,7 @@
 | Sax Public Domain Notice | SAX-PD | |
 | Sax Public Domain Notice 2.0 | SAX-PD-2.0 | |
 | Saxpath License | Saxpath | Redistribution and use |
-| SCEA Shared Source License | SCEA | |
+| SCEA Shared Source License | SCEA | Subject to the terms ... of this License |
 | Scheme Language Report License | SchemeReport | |
 | Sendmail License | Sendmail | Redistribution and use |
 | Sendmail License 8.23 | Sendmail-8.23 | Redistribution and use |
@@ -542,8 +542,8 @@
 | SGI Free Software License B v2.0 | SGI-B-2.0 | Permission is hereby granted |
 | SGI OpenGL License | SGI-OpenGL | Permission to use, copy |
 | SGP4 Permission Notice | SGP4 | |
-| Solderpad Hardware License v0.5 | SHL-0.5 | |
-| Solderpad Hardware License, Version 0.51 | SHL-0.51 | |
+| Solderpad Hardware License v0.5 | SHL-0.5 | Subject to the terms ... of this License |
+| Solderpad Hardware License, Version 0.51 | SHL-0.51 | Subject to the terms ... of this License |
 | Simple Public License 2.0 | SimPL-2.0 | |
 | Sun Industry Standards Source License v1.1 | SISSL | |
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | |
@@ -606,7 +606,7 @@
 | W3C Software Notice and License (1998-07-20) | W3C-19980720 | Permission to use, copy |
 | W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | |
 | w3m License | w3m | |
-| Sybase Open Watcom Public License 1.0 | Watcom-1.0 | |
+| Sybase Open Watcom Public License 1.0 | Watcom-1.0 | Subject to the terms ... of this License |
 | Widget Workshop License | Widget-Workshop | Permission to use, copy |
 | Wsuipa License | Wsuipa | |
 | Do What The F*ck You Want To Public License | WTFPL | |
@@ -647,9 +647,9 @@
 | BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | Redistribution and use |
 | bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | Redistribution and use |
 | eCos license version 2.0 | eCos-2.0 | |
-| GNU Free Documentation License v1.1 | GFDL-1.1 | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.2 | GFDL-1.2 | Permission is granted, Everyone is permitted ... this license document |
-| GNU Free Documentation License v1.3 | GFDL-1.3 | Permission is granted, Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.1 | GFDL-1.1 | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.2 | GFDL-1.2 | Permission is granted / Everyone is permitted ... this license document |
+| GNU Free Documentation License v1.3 | GFDL-1.3 | Permission is granted / Everyone is permitted ... this license document |
 | GNU General Public License v1.0 only | GPL-1.0 | Everyone is permitted ... this license document |
 | GNU General Public License v1.0 or later | GPL-1.0+ | Everyone is permitted ... this license document |
 | GNU General Public License v2.0 only | GPL-2.0 | Everyone is permitted ... this license document |
