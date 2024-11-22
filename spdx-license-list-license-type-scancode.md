@@ -208,8 +208,8 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | Permissive |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | Permissive |
 | DOC License | DOC | Permissive |
-| DocBook Schema License | DocBook-Schema | |
-| DocBook XML License | DocBook-XML | |
+| DocBook Schema License | DocBook-Schema | Permissive |
+| DocBook XML License | DocBook-XML | Permissive |
 | Dotseqn License | Dotseqn | Permissive |
 | Detection Rule License 1.0 | DRL-1.0 | Permissive |
 | Detection Rule License 1.1 | DRL-1.1 | Permissive |
@@ -286,7 +286,7 @@
 | Gutmann License | Gutmann | Permissive |
 | Haskell Language Report License | HaskellReport | Permissive |
 | hdparm License | hdparm | Permissive |
-| HIDAPI License | HIDAPI | |
+| HIDAPI License | HIDAPI | Permissive |
 | Hippocratic License 2.1 | Hippocratic-2.1 | Free Restricted |
 | Hewlett-Packard 1986 License | HP-1986 | Permissive |
 | Hewlett-Packard 1989 License | HP-1989 | Permissive |
@@ -305,7 +305,7 @@
 | Historical Permission Notice and Disclaimer - Markus Kuhn variant | HPND-Markus-Kuhn | Permissive |
 | Historical Permission Notice and Disclaimer - merchantability variant | HPND-merchantability-variant | Permissive |
 | Historical Permission Notice and Disclaimer with MIT disclaimer | HPND-MIT-disclaimer | Permissive |
-| Historical Permission Notice and Disclaimer - Netrek variant | HPND-Netrek | |
+| Historical Permission Notice and Disclaimer - Netrek variant | HPND-Netrek | Permissive |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | Permissive |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | Permissive |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | Permissive |
@@ -529,7 +529,7 @@
 | RSA Message-Digest License | RSA-MD | Permissive |
 | Ricoh Source Code Public License | RSCPL | Copyleft Limited |
 | Ruby License | Ruby | Copyleft Limited |
-| Ruby pty extension license | Ruby-pty | |
+| Ruby pty extension license | Ruby-pty | Permissive |
 | Sax Public Domain Notice | SAX-PD | Public Domain |
 | Sax Public Domain Notice 2.0 | SAX-PD-2.0 | Public Domain |
 | Saxpath License | Saxpath | Permissive |
@@ -586,7 +586,7 @@
 | TTYP0 License | TTYP0 | Permissive |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | Permissive |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | Permissive |
-| Ubuntu Font Licence v1.0 | Ubuntu-font-1.0 | |
+| Ubuntu Font Licence v1.0 | Ubuntu-font-1.0 | Copyleft Limited |
 | UCAR License | UCAR | Permissive |
 | Upstream Compatibility License v1.0 | UCL-1.0 | Copyleft Limited |
 | ulem License | ulem | Permissive |
@@ -612,7 +612,7 @@
 | Do What The F*ck You Want To Public License | WTFPL | Public Domain |
 | X11 License | X11 | Permissive |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permissive |
-| X11 swapped final paragraphs | X11-swapped | |
+| X11 swapped final paragraphs | X11-swapped | Permissive |
 | Xdebug License v 1.03 | Xdebug-1.03 | Permissive |
 | Xerox License | Xerox | Permissive |
 | Xfig License | Xfig | Permissive |
