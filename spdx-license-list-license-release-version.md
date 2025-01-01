@@ -31,6 +31,7 @@
 | ANTLR Software Rights Notice | ANTLR-PD | 1.0 |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | 3.11 |
 | Any OSI License | any-OSI | 3.24.0 |
+| Any OSI License - Perl Modules | any-OSI-perl-modules | 3.26.0 |
 | Apache License 1.0 | Apache-1.0 | 1.0 |
 | Apache License 1.1 | Apache-1.1 | 1.0 |
 | Apache License 2.0 | Apache-2.0 | 1.0 beta |
@@ -60,6 +61,7 @@
 | SQLite Blessing | blessing | 3.6 |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | 3.6 |
 | Boehm-Demers-Weiser GC License | Boehm-GC | 3.21 |
+| Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | 3.26.0 |
 | Borceux license | Borceux | 1.20 |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | 3.23 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 3.20 |
@@ -158,6 +160,8 @@
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | 3.21 |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | 1.20 |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | 3.6 |
+| Creative Commons Public Domain Mark 1.0 Universal | CC-PDM-1.0 | 3.26.0 |
+| Creative Commons Share Alike 1.0 Generic | CC-SA-1.0 | 3.26.0 |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | 1.0 |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | 1.0 beta |
 | Common Development and Distribution License 1.1 | CDDL-1.1 | 1.15 |
@@ -209,6 +213,7 @@
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | 3.22 |
 | DOC License | DOC | 1.20 |
 | DocBook Schema License | DocBook-Schema | 3.25.0 |
+| DocBook Stylesheet License | DocBook-Stylesheet | 3.26.0 |
 | DocBook XML License | DocBook-XML | 3.25.0 |
 | Dotseqn License | Dotseqn | 1.20 |
 | Detection Rule License 1.0 | DRL-1.0 | 3.12 |
@@ -250,6 +255,7 @@
 | fwlw License | fwlw | 3.22 |
 | Gnome GCR Documentation License | GCR-docs | 3.23 |
 | GD License | GD | 3.12 |
+| Generic XTS License | generic-xts | 3.26.0 |
 | GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | 3.10 |
 | GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | 3.10 |
 | GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | 3.10 |
@@ -325,6 +331,7 @@
 | Imlib2 License | Imlib2 | 1.17 |
 | Info-ZIP License | Info-ZIP | 2.3 |
 | Inner Net License v2.0 | Inner-Net-2.0 | 3.21 |
+| Inno Setup License | InnoSetup | 3.26.0 |
 | Intel Open Source License | Intel | 1.17 |
 | Intel ACPI Software License Agreement | Intel-ACPI | 1.20 |
 | Interbase Public License v1.0 | Interbase-1.0 | 2.2 |
@@ -387,10 +394,12 @@
 | McPhee Slideshow License | McPhee-slideshow | 3.22 |
 | metamail License | metamail | 3.21 |
 | Minpack License | Minpack | 3.18 |
+| MIPS License | MIPS | 3.26.0 |
 | The MirOS Licence | MirOS | 1.0 beta |
 | MIT License | MIT | 1.0 beta |
 | MIT No Attribution | MIT-0 | 3.1 |
 | Enlightenment License (e16) | MIT-advertising | 1.20 |
+| MIT Click License | MIT-Click | 3.26.0 |
 | CMU License | MIT-CMU | 1.20 |
 | enna License | MIT-enna | 1.20 |
 | feh License | MIT-feh | 1.20 |
@@ -537,6 +546,7 @@
 | Scheme Language Report License | SchemeReport | 3.16 |
 | Sendmail License | Sendmail | 2.2 |
 | Sendmail License 8.23 | Sendmail-8.23 | 3.3 |
+| Sendmail Open Source License v1.1 | Sendmail-Open-Source-1.1 | 3.26.0 |
 | SGI Free Software License B v1.0 | SGI-B-1.0 | 1.17 |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | 1.17 |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | 1.17 |
@@ -549,6 +559,7 @@
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | 1.19 |
 | SL License | SL | 3.22 |
 | Sleepycat License | Sleepycat | 1.0 beta |
+| SMAIL General Public License | SMAIL-GPL | 3.26.0 |
 | Standard ML of New Jersey License | SMLNJ | 1.17 |
 | Secure Messaging Protocol Public License | SMPPL | 2.4 |
 | SNIA Public License 1.1 | SNIA | 1.20 |
@@ -576,12 +587,14 @@
 | TCP Wrappers License | TCP-wrappers | 2.6 |
 | TermReadKey License | TermReadKey | 3.21 |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | 3.23 |
+| ThirdEye License | ThirdEye | 3.26.0 |
 | threeparttable License | threeparttable | 3.24.0 |
 | TMate Open Source License | TMate | 1.20 |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 1.20 |
 | Trusster Open Source License | TOSL | 1.20 |
 | Time::ParseDate License | TPDL | 3.20 |
 | THOR Public License 1.0 | TPL-1.0 | 3.20 |
+| TrustedQSL License | TrustedQSL | 3.26.0 |
 | Text-Tabs+Wrap License | TTWL | 3.20 |
 | TTYP0 License | TTYP0 | 3.22 |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | 3.2 |
@@ -610,6 +623,7 @@
 | Widget Workshop License | Widget-Workshop | 3.21 |
 | Wsuipa License | Wsuipa | 1.20 |
 | Do What The F*ck You Want To Public License | WTFPL | 1.17 |
+| WWL License | wwl | 3.26.0 |
 | X11 License | X11 | 1.17 |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 3.16 |
 | X11 swapped final paragraphs | X11-swapped | 3.25.0 |

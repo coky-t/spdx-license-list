@@ -13,6 +13,7 @@
 | Bison exception 1.24 | Bison-exception-1.24 | Copyleft Limited |
 | Bison exception 2.2 | Bison-exception-2.2 | Copyleft Limited |
 | Bootloader Distribution Exception | Bootloader-exception | Copyleft Limited |
+| CGAL Linking Exception | CGAL-linking-exception | |
 | Classpath exception 2.0 | Classpath-exception-2.0 | Copyleft Limited |
 | CLISP exception 2.0 | CLISP-exception-2.0 | Copyleft Limited |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | Copyleft |
@@ -32,13 +33,16 @@
 | GNOME examples exception | GNOME-examples-exception | Permissive |
 | GNU Compiler Exception | GNU-compiler-exception | Copyleft Limited |
 | GNU JavaMail exception | gnu-javamail-exception | Copyleft Limited |
+| GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | Copyleft Limited |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | Copyleft Limited |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | Copyleft Limited |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | Copyleft Limited |
 | GStreamer Exception (2005) | GStreamer-exception-2005 | Permissive |
 | GStreamer Exception (2008) | GStreamer-exception-2008 | Permissive |
+| harbour exception | harbour-exception | |
 | i2p GPL+Java Exception | i2p-gpl-java-exception | Copyleft Limited |
+| Independent Module Linking exception | Independent-modules-exception | |
 | KiCad Libraries Exception | KiCad-libraries-exception | Copyleft Limited |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | Copyleft Limited |
 | libpri OpenH323 exception | libpri-OpenH323-exception | Copyleft |
@@ -48,6 +52,7 @@
 | LLVM Exception | LLVM-exception | Permissive |
 | LZMA exception | LZMA-exception | Copyleft Limited |
 | Macros and Inline Functions Exception | mif-exception | Copyleft Limited |
+| mxml Exception | mxml-exception | |
 | OCaml LGPL Linking Exception | OCaml-LGPL-linking-exception | Copyleft Limited |
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | Copyleft Limited |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | Copyleft Limited |

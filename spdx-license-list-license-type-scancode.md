@@ -31,6 +31,7 @@
 | ANTLR Software Rights Notice | ANTLR-PD | Permissive |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | Public Domain |
 | Any OSI License | any-OSI | Unstated License |
+| Any OSI License - Perl Modules | any-OSI-perl-modules | |
 | Apache License 1.0 | Apache-1.0 | Permissive |
 | Apache License 1.1 | Apache-1.1 | Permissive |
 | Apache License 2.0 | Apache-2.0 | Permissive |
@@ -60,6 +61,7 @@
 | SQLite Blessing | blessing | Public Domain |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | Permissive |
 | Boehm-Demers-Weiser GC License | Boehm-GC | Permissive |
+| Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | |
 | Borceux license | Borceux | Permissive |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | Permissive |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | Permissive |
@@ -158,6 +160,8 @@
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | Copyleft Limited |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | Copyleft Limited |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | Public Domain |
+| Creative Commons Public Domain Mark 1.0 Universal | CC-PDM-1.0 | |
+| Creative Commons Share Alike 1.0 Generic | CC-SA-1.0 | |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | Public Domain |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | Copyleft Limited |
 | Common Development and Distribution License 1.1 | CDDL-1.1 | Copyleft Limited |
@@ -209,6 +213,7 @@
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | Permissive |
 | DOC License | DOC | Permissive |
 | DocBook Schema License | DocBook-Schema | Permissive |
+| DocBook Stylesheet License | DocBook-Stylesheet | |
 | DocBook XML License | DocBook-XML | Permissive |
 | Dotseqn License | Dotseqn | Permissive |
 | Detection Rule License 1.0 | DRL-1.0 | Permissive |
@@ -250,6 +255,7 @@
 | fwlw License | fwlw | Permissive |
 | Gnome GCR Documentation License | GCR-docs | Copyleft Limited |
 | GD License | GD | Permissive |
+| Generic XTS License | generic-xts | |
 | GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Copyleft Limited |
 | GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Copyleft Limited |
 | GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Copyleft Limited |
@@ -325,6 +331,7 @@
 | Imlib2 License | Imlib2 | Copyleft Limited |
 | Info-ZIP License | Info-ZIP | Permissive |
 | Inner Net License v2.0 | Inner-Net-2.0 | Permissive |
+| Inno Setup License | InnoSetup | |
 | Intel Open Source License | Intel | Permissive |
 | Intel ACPI Software License Agreement | Intel-ACPI | Permissive |
 | Interbase Public License v1.0 | Interbase-1.0 | Copyleft |
@@ -387,10 +394,12 @@
 | McPhee Slideshow License | McPhee-slideshow | Permissive |
 | metamail License | metamail | Permissive |
 | Minpack License | Minpack | Permissive |
+| MIPS License | MIPS | |
 | The MirOS Licence | MirOS | Permissive |
 | MIT License | MIT | Permissive |
 | MIT No Attribution | MIT-0 | Permissive |
 | Enlightenment License (e16) | MIT-advertising | Permissive |
+| MIT Click License | MIT-Click | |
 | CMU License | MIT-CMU | Permissive |
 | enna License | MIT-enna | Permissive |
 | feh License | MIT-feh | Permissive |
@@ -537,6 +546,7 @@
 | Scheme Language Report License | SchemeReport | Permissive |
 | Sendmail License | Sendmail | Permissive |
 | Sendmail License 8.23 | Sendmail-8.23 | Free Restricted |
+| Sendmail Open Source License v1.1 | Sendmail-Open-Source-1.1 | |
 | SGI Free Software License B v1.0 | SGI-B-1.0 | Permissive |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | Permissive |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | Permissive |
@@ -549,6 +559,7 @@
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | Proprietary Free |
 | SL License | SL | Permissive |
 | Sleepycat License | Sleepycat | Copyleft |
+| SMAIL General Public License | SMAIL-GPL | |
 | Standard ML of New Jersey License | SMLNJ | Permissive |
 | Secure Messaging Protocol Public License | SMPPL | Copyleft Limited |
 | SNIA Public License 1.1 | SNIA | Copyleft |
@@ -576,12 +587,14 @@
 | TCP Wrappers License | TCP-wrappers | Permissive |
 | TermReadKey License | TermReadKey | Permissive |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | Copyleft |
+| ThirdEye License | ThirdEye | |
 | threeparttable License | threeparttable | Permissive |
 | TMate Open Source License | TMate | Copyleft |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | Copyleft Limited |
 | Trusster Open Source License | TOSL | Copyleft |
 | Time::ParseDate License | TPDL | Permissive |
 | THOR Public License 1.0 | TPL-1.0 | Copyleft Limited |
+| TrustedQSL License | TrustedQSL | |
 | Text-Tabs+Wrap License | TTWL | Permissive |
 | TTYP0 License | TTYP0 | Permissive |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | Permissive |
@@ -610,6 +623,7 @@
 | Widget Workshop License | Widget-Workshop | Permissive |
 | Wsuipa License | Wsuipa | Permissive |
 | Do What The F*ck You Want To Public License | WTFPL | Public Domain |
+| WWL License | wwl | |
 | X11 License | X11 | Permissive |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permissive |
 | X11 swapped final paragraphs | X11-swapped | Permissive |
