@@ -13,6 +13,7 @@
 | Bison exception 1.24 | Bison-exception-1.24 | 225 |
 | Bison exception 2.2 | Bison-exception-2.2 | 673 |
 | Bootloader Distribution Exception | Bootloader-exception | 523 |
+| CGAL Linking Exception | CGAL-linking-exception | 259 |
 | Classpath exception 2.0 | Classpath-exception-2.0 | 919 |
 | CLISP exception 2.0 | CLISP-exception-2.0 | 2698 |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | 700 |
@@ -32,13 +33,16 @@
 | GNOME examples exception | GNOME-examples-exception | 197 |
 | GNU Compiler Exception | GNU-compiler-exception | 346 |
 | GNU JavaMail exception | gnu-javamail-exception | 341 |
+| GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | 632 |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | 1618 |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | 359  |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | 531 |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | 2092 |
 | GStreamer Exception (2005) | GStreamer-exception-2005 | 246 |
 | GStreamer Exception (2008) | GStreamer-exception-2008 | 462 |
+| harbour exception | harbour-exception | 1199 |
 | i2p GPL+Java Exception | i2p-gpl-java-exception | 605 |
+| Independent Module Linking exception | Independent-modules-exception | 1065 |
 | KiCad Libraries Exception | KiCad-libraries-exception | 299 |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | 1033 |
 | libpri OpenH323 exception | libpri-OpenH323-exception | 229 |
@@ -48,6 +52,7 @@
 | LLVM Exception | LLVM-exception | 919 |
 | LZMA exception | LZMA-exception | 522 |
 | Macros and Inline Functions Exception | mif-exception | 529 |
+| mxml Exception | mxml-exception | 707 |
 | OCaml LGPL Linking Exception | OCaml-LGPL-linking-exception | 881 |
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | 663 |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | 1447 |

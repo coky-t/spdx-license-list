@@ -13,6 +13,7 @@
 | Bison exception 1.24 | Bison-exception-1.24 | As a special exception |
 | Bison exception 2.2 | Bison-exception-2.2 | As a special exception |
 | Bootloader Distribution Exception | Bootloader-exception | In addition to the permissions |
+| CGAL Linking Exception | CGAL-linking-exception | As a special exception |
 | Classpath exception 2.0 | Classpath-exception-2.0 | As a special exception |
 | CLISP exception 2.0 | CLISP-exception-2.0 | |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | In addition, as a special exception |
@@ -32,13 +33,16 @@
 | GNOME examples exception | GNOME-examples-exception | As a special exception |
 | GNU Compiler Exception | GNU-compiler-exception | As a special exception |
 | GNU JavaMail exception | gnu-javamail-exception | As a special exception |
+| GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | Additional permission / grant you additional permission |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | As a special exception |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | Additional permission / grant you additional permission |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | Additional permission / grant you additional permission |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | |
 | GStreamer Exception (2005) | GStreamer-exception-2005 | |
 | GStreamer Exception (2008) | GStreamer-exception-2008 | |
+| harbour exception | harbour-exception | As a special exception |
 | i2p GPL+Java Exception | i2p-gpl-java-exception | In addition, as a special exception |
+| Independent Module Linking exception | Independent-modules-exception | As a special exception |
 | KiCad Libraries Exception | KiCad-libraries-exception | |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | As a special exception |
 | libpri OpenH323 exception | libpri-OpenH323-exception | As a special exception |
@@ -48,6 +52,7 @@
 | LLVM Exception | LLVM-exception | As an exception |
 | LZMA exception | LZMA-exception | |
 | Macros and Inline Functions Exception | mif-exception | As a special exception |
+| mxml Exception | mxml-exception | |
 | OCaml LGPL Linking Exception | OCaml-LGPL-linking-exception | As a special exception |
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | As a special exception |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | as a special exception |

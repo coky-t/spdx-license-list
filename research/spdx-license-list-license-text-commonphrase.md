@@ -31,6 +31,7 @@
 | ANTLR Software Rights Notice | ANTLR-PD | |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | |
 | Any OSI License | any-OSI | |
+| Any OSI License - Perl Modules | any-OSI-perl-modules | |
 | Apache License 1.0 | Apache-1.0 | Redistribution and use |
 | Apache License 1.1 | Apache-1.1 | Redistribution and use |
 | Apache License 2.0 | Apache-2.0 | Subject to the terms ... of this License |
@@ -60,6 +61,7 @@
 | SQLite Blessing | blessing | |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | |
 | Boehm-Demers-Weiser GC License | Boehm-GC | Permission is hereby granted |
+| Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | Permission to use or copy |
 | Borceux license | Borceux | |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | redistribution and use |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | |
@@ -158,6 +160,8 @@
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | |
+| Creative Commons Public Domain Mark 1.0 Universal | CC-PDM-1.0 | |
+| Creative Commons Share Alike 1.0 Generic | CC-SA-1.0 | |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | |
 | Common Development and Distribution License 1.1 | CDDL-1.1 | |
@@ -209,6 +213,7 @@
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | |
 | DOC License | DOC | |
 | DocBook Schema License | DocBook-Schema | Permission to use, copy |
+| DocBook Stylesheet License | DocBook-Stylesheet | Permission to use, copy |
 | DocBook XML License | DocBook-XML | Permission is hereby granted |
 | Dotseqn License | Dotseqn | |
 | Detection Rule License 1.0 | DRL-1.0 | Permission is hereby granted |
@@ -250,6 +255,7 @@
 | fwlw License | fwlw | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
+| Generic XTS License | generic-xts | Permission to use, copy |
 | GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | Permission is granted / Everyone is permitted ... this license document |
 | GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | Permission is granted / Everyone is permitted ... this license document |
 | GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | Permission is granted / Everyone is permitted ... this license document |
@@ -325,6 +331,7 @@
 | Imlib2 License | Imlib2 | Permission is hereby granted |
 | Info-ZIP License | Info-ZIP | Permission is granted |
 | Inner Net License v2.0 | Inner-Net-2.0 | |
+| Inno Setup License | InnoSetup | Permission is granted |
 | Intel Open Source License | Intel | Redistribution and use |
 | Intel ACPI Software License Agreement | Intel-ACPI | |
 | Interbase Public License v1.0 | Interbase-1.0 | |
@@ -387,10 +394,12 @@
 | McPhee Slideshow License | McPhee-slideshow | |
 | metamail License | metamail | Permission to use, copy |
 | Minpack License | Minpack | Redistribution and use |
+| MIPS License | MIPS | |
 | The MirOS Licence | MirOS | |
 | MIT License | MIT | Permission is hereby granted |
 | MIT No Attribution | MIT-0 | Permission is hereby granted |
 | Enlightenment License (e16) | MIT-advertising | Permission is hereby granted |
+| MIT Click License | MIT-Click | Permission is hereby granted |
 | CMU License | MIT-CMU | Permission to use, copy |
 | enna License | MIT-enna | Permission is hereby granted |
 | feh License | MIT-feh | Permission is hereby granted |
@@ -537,6 +546,7 @@
 | Scheme Language Report License | SchemeReport | |
 | Sendmail License | Sendmail | Redistribution and use |
 | Sendmail License 8.23 | Sendmail-8.23 | Redistribution and use |
+| Sendmail Open Source License v1.1 | Sendmail-Open-Source-1.1 | |
 | SGI Free Software License B v1.0 | SGI-B-1.0 | |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | Permission is hereby granted |
@@ -549,6 +559,7 @@
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | |
 | SL License | SL | |
 | Sleepycat License | Sleepycat | Redistribution and use |
+| SMAIL General Public License | SMAIL-GPL | |
 | Standard ML of New Jersey License | SMLNJ | Permission to use, copy |
 | Secure Messaging Protocol Public License | SMPPL | |
 | SNIA Public License 1.1 | SNIA | |
@@ -576,12 +587,14 @@
 | TCP Wrappers License | TCP-wrappers | Redistribution and use |
 | TermReadKey License | TermReadKey | |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | |
+| ThirdEye License | ThirdEye | |
 | threeparttable License | threeparttable | |
 | TMate Open Source License | TMate | Redistribution and use |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | |
 | Trusster Open Source License | TOSL | Redistribution and use |
 | Time::ParseDate License | TPDL | |
 | THOR Public License 1.0 | TPL-1.0 | |
+| TrustedQSL License | TrustedQSL | Redistribution and use |
 | Text-Tabs+Wrap License | TTWL | |
 | TTYP0 License | TTYP0 | Permission is hereby granted |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | |
@@ -610,6 +623,7 @@
 | Widget Workshop License | Widget-Workshop | Permission to use, copy |
 | Wsuipa License | Wsuipa | |
 | Do What The F*ck You Want To Public License | WTFPL | |
+| WWL License | wwl | |
 | X11 License | X11 | Permission is hereby granted |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permission is hereby granted |
 | X11 swapped final paragraphs | X11-swapped | Permission is hereby granted |

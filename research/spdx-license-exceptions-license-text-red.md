@@ -13,6 +13,7 @@
 | [Bison exception 1.24](https://spdx.org/licenses/Bison-exception-1.24.html) | Bison-exception-1.24 | 3.23 | none | N/A | N/A |
 | [Bison exception 2.2](https://spdx.org/licenses/Bison-exception-2.2.html) | Bison-exception-2.2 | 2.1 | none | N/A | N/A |
 | [Bootloader Distribution Exception](https://spdx.org/licenses/Bootloader-exception.html) | Bootloader-exception | 3.0 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Bootloader-exception.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Bootloader-exception.html)) | N/A | N/A |
+| [CGAL Linking Exception](https://spdx.org/licenses/CGAL-linking-exception.html) | CGAL-linking-exception | red (since [3.26.0](https://github.com/spdx/license-list-data/blob/v3.26.0/html/CGAL-linking-exception.html)) | N/A | N/A |
 | [Classpath exception 2.0](https://spdx.org/licenses/Classpath-exception-2.0.html) | Classpath-exception-2.0 | 2.1 | none | N/A | N/A |
 | [CLISP exception 2.0](https://spdx.org/licenses/CLISP-exception-2.0.html) | CLISP-exception-2.0 | 2.1 | none | N/A | N/A |
 | [cryptsetup OpenSSL exception](https://spdx.org/licenses/cryptsetup-OpenSSL-exception.html) | cryptsetup-OpenSSL-exception | 3.21 | red (since [3.24.0](https://github.com/spdx/license-list-data/blob/v3.24.0/html/cryptsetup-OpenSSL-exception.html)), none (until [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/cryptsetup-OpenSSL-exception.html)) | N/A | N/A |
@@ -32,13 +33,16 @@
 | [GNOME examples exception](https://spdx.org/licenses/GNOME-examples-exception.html) | GNOME-examples-exception | 3.23 | none | N/A | N/A |
 | [GNU Compiler Exception](https://spdx.org/licenses/GNU-compiler-exception.html) | GNU-compiler-exception | 3.22 | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/GNU-compiler-exception.html)), none (until [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GNU-compiler-exception.html)) | N/A | N/A |
 | [GNU JavaMail exception](https://spdx.org/licenses/gnu-javamail-exception.html) | gnu-javamail-exception | 2.1 | none | N/A | N/A |
+| [GPL-3.0 389 DS Base Exception](https://spdx.org/licenses/GPL-3.0-389-ds-base-exception.html) | GPL-3.0-389-ds-base-exception | none | N/A | N/A |
 | [GPL-3.0 Interface Exception](https://spdx.org/licenses/GPL-3.0-interface-exception.html) | GPL-3.0-interface-exception | 3.21 | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/GPL-3.0-interface-exception.html)) | N/A | N/A |
 | [GPL-3.0 Linking Exception](https://spdx.org/licenses/GPL-3.0-linking-exception.html) | GPL-3.0-linking-exception | 3.8 | red (since [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/GPL-3.0-linking-exception.html)) | N/A | N/A |
 | [GPL-3.0 Linking Exception (with Corresponding Source)](https://spdx.org/licenses/GPL-3.0-linking-source-exception.html) | GPL-3.0-linking-source-exception | 3.8 | red2 (since [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GPL-3.0-linking-source-exception.html)), red1 (until [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/GPL-3.0-linking-source-exception.html), since [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/GPL-3.0-linking-source-exception.html)) | N/A | N/A |
 | [GPL Cooperation Commitment 1.0](https://spdx.org/licenses/GPL-CC-1.0.html) | GPL-CC-1.0 | 3.5 | none | N/A | N/A |
 | [GStreamer Exception (2005)](https://spdx.org/licenses/GStreamer-exception-2005.html) | GStreamer-exception-2005 | 3.18 | red (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/GStreamer-exception-2005.html)), none (until [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GStreamer-exception-2005.html)) | N/A | N/A |
 | [GStreamer Exception (2008)](https://spdx.org/licenses/GStreamer-exception-2008.html) | GStreamer-exception-2008 | 3.18 | red (since [3.18](https://github.com/spdx/license-list-data/blob/v3.18/html/GStreamer-exception-2008.html)) | N/A | N/A |
+| [harbour exception](https://spdx.org/licenses/harbour-exception.html) | harbour-exception | none | N/A | N/A |
 | [i2p GPL+Java Exception](https://spdx.org/licenses/i2p-gpl-java-exception.html) | i2p-gpl-java-exception | 2.1 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/i2p-gpl-java-exception.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/i2p-gpl-java-exception.html)) | N/A | N/A |
+| [Independent Module Linking exception](https://spdx.org/licenses/Independent-modules-exception.html) | Independent-modules-exception | red (since [3.26.0](https://github.com/spdx/license-list-data/blob/v3.26.0/html/Independent-modules-exception.html)) | N/A | N/A |
 | [KiCad Libraries Exception](https://spdx.org/licenses/KiCad-libraries-exception.html) | KiCad-libraries-exception | 3.17 | none | N/A | N/A |
 | [LGPL-3.0 Linking Exception](https://spdx.org/licenses/LGPL-3.0-linking-exception.html) | LGPL-3.0-linking-exception | 3.9 | none | N/A | N/A |
 | [libpri OpenH323 exception](https://spdx.org/licenses/libpri-OpenH323-exception.html) | libpri-OpenH323-exception | 3.21 | none | N/A | N/A |
@@ -48,6 +52,7 @@
 | [LLVM Exception](https://spdx.org/licenses/LLVM-exception.html) | LLVM-exception | 3.1 | none | N/A | N/A |
 | [LZMA exception](https://spdx.org/licenses/LZMA-exception.html) | LZMA-exception | 2.1 | none | N/A | N/A |
 | [Macros and Inline Functions Exception](https://spdx.org/licenses/mif-exception.html) | mif-exception | 2.1 | none | N/A | N/A |
+| [mxml Exception](https://spdx.org/licenses/mxml-exception.html) | mxml-exception | none | N/A | N/A |
 | [OCaml LGPL Linking Exception](https://spdx.org/licenses/OCaml-LGPL-linking-exception.html) | OCaml-LGPL-linking-exception | 3.3 | red2 (since [3.20](https://github.com/spdx/license-list-data/blob/v3.20/html/OCaml-LGPL-linking-exception.html)), red1 (until [3.19](https://github.com/spdx/license-list-data/blob/v3.19/html/OCaml-LGPL-linking-exception.html), since [3.3](https://github.com/spdx/license-list-data/blob/v3.3/html/OCaml-LGPL-linking-exception.html)) | N/A | N/A |
 | [Open CASCADE Exception 1.0](https://spdx.org/licenses/OCCT-exception-1.0.html) | OCCT-exception-1.0 | 2.3 | none | N/A | N/A |
 | [OpenJDK Assembly exception 1.0](https://spdx.org/licenses/OpenJDK-assembly-exception-1.0.html) | OpenJDK-assembly-exception-1.0 | 3.1 | none | N/A | N/A |

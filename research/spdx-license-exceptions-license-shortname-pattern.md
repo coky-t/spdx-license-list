@@ -13,6 +13,7 @@
 | Bison exception 1.24 | Bison-exception-1.24 | Bison-exception | 1.24 | |
 | Bison exception 2.2 | Bison-exception-2.2 | Bison-exception | 2.2 | |
 | Bootloader Distribution Exception | Bootloader-exception | Bootloader-exception | | |
+| CGAL Linking Exception | CGAL-linking-exception | CGAL-linking-exception | | |
 | Classpath exception 2.0 | Classpath-exception-2.0 | Classpath-exception | 2.0 | |
 | CLISP exception 2.0 | CLISP-exception-2.0 | CLISP-exception | 2.0 | |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | cryptsetup-OpenSSL-exception | | |
@@ -32,13 +33,16 @@
 | GNOME examples exception | GNOME-examples-exception | GNOME-examples-exception | | |
 | GNU Compiler Exception | GNU-compiler-exception | GNU-compiler-exception | | |
 | GNU JavaMail exception | gnu-javamail-exception | gnu-javamail-exception | | |
+| GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | GPL | 3.0 | 389-ds-base-exception |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | GPL | 3.0 | interface-exception |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | GPL | 3.0 | linking-exception |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | GPL | 3.0 | linking-source-exception |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | GPL-CC | 1.0 | |
 | GStreamer Exception (2005) | GStreamer-exception-2005 | GStreamer-exception-2005 | | |
 | GStreamer Exception (2008) | GStreamer-exception-2008 | GStreamer-exception-2008 | | |
+| harbour exception | harbour-exception | harbour-exception | | |
 | i2p GPL+Java Exception | i2p-gpl-java-exception | i2p-gpl-java-exception | | |
+| Independent Module Linking exception | Independent-modules-exception | Independent-modules-exception | | |
 | KiCad Libraries Exception | KiCad-libraries-exception | KiCad-libraries-exception | | |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | LGPL | 3.0 | linking-exception |
 | libpri OpenH323 exception | libpri-OpenH323-exception | libpri-OpenH323-exception | | |
@@ -48,6 +52,7 @@
 | LLVM Exception | LLVM-exception | LLVM-exception | | |
 | LZMA exception | LZMA-exception | LZMA-exception | | |
 | Macros and Inline Functions Exception | mif-exception | mif-exception | | |
+| mxml Exception | mxml-exception | mxml-exception | | |
 | OCaml LGPL Linking Exception | OCaml-LGPL-linking-exception | OCaml-LGPL-linking-exception | | |
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | OCCT-exception | 1.0 | |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | OpenJDK-assembly-exception | 1.0 | |

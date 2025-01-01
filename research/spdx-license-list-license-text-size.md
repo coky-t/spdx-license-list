@@ -31,6 +31,7 @@
 | ANTLR Software Rights Notice | ANTLR-PD | 987 |
 | ANTLR Software Rights Notice with license fallback | ANTLR-PD-fallback | 1261 |
 | Any OSI License | any-OSI | 93 |
+| Any OSI License - Perl Modules | any-OSI-perl-modules | 627 |
 | Apache License 1.0 | Apache-1.0 | 2507 |
 | Apache License 1.1 | Apache-1.1 | 2474 |
 | Apache License 2.0 | Apache-2.0 | 10280 |
@@ -60,6 +61,7 @@
 | SQLite Blessing | blessing | 244 |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | 1552 |
 | Boehm-Demers-Weiser GC License | Boehm-GC | 506 |
+| Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | 586 |
 | Borceux license | Borceux | 647 |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | 655 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 1096 |
@@ -158,6 +160,8 @@
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | 20189 |
 | Creative Commons Attribution Share Alike 4.0 International | CC-BY-SA-4.0 | 18375 |
 | Creative Commons Public Domain Dedication and Certification | CC-PDDC | 1593 |
+| Creative Commons Public Domain Mark 1.0 Universal | CC-PDM-1.0 | 1111 |
+| Creative Commons Share Alike 1.0 Generic | CC-SA-1.0 | 11937 |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | 7048 |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | 16514 |
 | Common Development and Distribution License 1.1 | CDDL-1.1 | 17390 |
@@ -209,6 +213,7 @@
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | 1210 |
 | DOC License | DOC | 4472 |
 | DocBook Schema License | DocBook-Schema | 1042 |
+| DocBook Stylesheet License | DocBook-Stylesheet | 615 |
 | DocBook XML License | DocBook-XML | 1999 |
 | Dotseqn License | Dotseqn | 261 |
 | Detection Rule License 1.0 | DRL-1.0 | 1512 |
@@ -221,7 +226,7 @@
 | Eiffel Forum License v1.0 | EFL-1.0 | 919 |
 | Eiffel Forum License v2.0 | EFL-2.0 | 924 |
 | eGenix.com Public License 1.1.0 | eGenix | 4235 |
-| Elastic License 2.0 | Elastic-2.0 | 3860 |
+| Elastic License 2.0 | Elastic-2.0 | 3802 |
 | Entessa Public License v1.0 | Entessa | 2277 |
 | EPICS Open License | EPICS | 3439 |
 | Eclipse Public License 1.0 | EPL-1.0 | 11345 |
@@ -250,6 +255,7 @@
 | fwlw License | fwlw | 206 |
 | Gnome GCR Documentation License | GCR-docs | 1697 |
 | GD License | GD | 2983 |
+| Generic XTS License | generic-xts | 779 |
 | GNU Free Documentation License v1.1 only - invariants | GFDL-1.1-invariants-only | 17970 |
 | GNU Free Documentation License v1.1 or later - invariants | GFDL-1.1-invariants-or-later | 17970 |
 | GNU Free Documentation License v1.1 only - no invariants | GFDL-1.1-no-invariants-only | 17970 |
@@ -325,6 +331,7 @@
 | Imlib2 License | Imlib2 | 2002 |
 | Info-ZIP License | Info-ZIP | 3171 |
 | Inner Net License v2.0 | Inner-Net-2.0 | 1996 |
+| Inno Setup License | InnoSetup | 1424 |
 | Intel Open Source License | Intel | 2084 |
 | Intel ACPI Software License Agreement | Intel-ACPI | 6132 |
 | Interbase Public License v1.0 | Interbase-1.0 | 24344 |
@@ -387,10 +394,12 @@
 | McPhee Slideshow License | McPhee-slideshow | 323 |
 | metamail License | metamail | 629 |
 | Minpack License | Minpack | 2193 |
+| MIPS License | MIPS | 192 |
 | The MirOS Licence | MirOS | 887 |
-| MIT License | MIT | 1078 |
+| MIT License | MIT | 1087 |
 | MIT No Attribution | MIT-0 | 915 |
 | Enlightenment License (e16) | MIT-advertising | 1270 |
+| MIT Click License | MIT-Click | 1695 |
 | CMU License | MIT-CMU | 1150 |
 | enna License | MIT-enna | 1668 |
 | feh License | MIT-feh | 1105 |
@@ -402,7 +411,7 @@
 | MIT Tom Wu Variant | MIT-Wu | 1295 |
 | MIT +no-false-attribs license | MITNFA | 1531 |
 | MMIXware License | MMIXware | 865 |
-| Motosoto License | Motosoto | 20187 |
+| Motosoto License | Motosoto | 26396 |
 | MPEG Software Simulation | MPEG-SSG | 1126 |
 | mpi Permissive License | mpi-permissive | 583 |
 | mpich2 License | mpich2 | 1424 |
@@ -537,6 +546,7 @@
 | Scheme Language Report License | SchemeReport | 290 |
 | Sendmail License | Sendmail | 3948 |
 | Sendmail License 8.23 | Sendmail-8.23 | 4020 |
+| Sendmail Open Source License v1.1 | Sendmail-Open-Source-1.1 | 4317 |
 | SGI Free Software License B v1.0 | SGI-B-1.0 | 13553 |
 | SGI Free Software License B v1.1 | SGI-B-1.1 | 14556 |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | 1503 |
@@ -549,6 +559,7 @@
 | Sun Industry Standards Source License v1.2 | SISSL-1.2 | 12474 |
 | SL License | SL | 275 |
 | Sleepycat License | Sleepycat | 4995 |
+| SMAIL General Public License | SMAIL-GPL | 7386 |
 | Standard ML of New Jersey License | SMLNJ | 1122 |
 | Secure Messaging Protocol Public License | SMPPL | 3177 |
 | SNIA Public License 1.1 | SNIA | 21717 |
@@ -576,12 +587,14 @@
 | TCP Wrappers License | TCP-wrappers | 648 |
 | TermReadKey License | TermReadKey | 103 |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | 10971 |
+| ThirdEye License | ThirdEye | 271 |
 | threeparttable License | threeparttable | 195 |
 | TMate Open Source License | TMate | 2537 |
 | TORQUE v2.5+ Software License v1.1 | TORQUE-1.1 | 3998 |
 | Trusster Open Source License | TOSL | 2074 |
 | Time::ParseDate License | TPDL | 233 |
 | THOR Public License 1.0 | TPL-1.0 | 23787 |
+| TrustedQSL License | TrustedQSL | 2446 |
 | Text-Tabs+Wrap License | TTWL | 406 |
 | TTYP0 License | TTYP0 | 1521 |
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | 678 |
@@ -610,6 +623,7 @@
 | Widget Workshop License | Widget-Workshop | 1270 |
 | Wsuipa License | Wsuipa | 529 |
 | Do What The F*ck You Want To Public License | WTFPL | 432 |
+| WWL License | wwl | 261 |
 | X11 License | X11 | 1338 |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 1314 |
 | X11 swapped final paragraphs | X11-swapped | 1312 |
@@ -646,30 +660,30 @@
 | BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | 1518 |
 | BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | 1383 |
 | bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | 1947 |
-| eCos license version 2.0 | eCos-2.0 | 1566 |
+| eCos license version 2.0 | eCos-2.0 | 1565 |
 | GNU Free Documentation License v1.1 | GFDL-1.1 | 17970 |
 | GNU Free Documentation License v1.2 | GFDL-1.2 | 20272 |
 | GNU Free Documentation License v1.3 | GFDL-1.3 | 22791 |
 | GNU General Public License v1.0 only | GPL-1.0 | 12235 |
-| GNU General Public License v1.0 or later | GPL-1.0+ | 12257 |
+| GNU General Public License v1.0 or later | GPL-1.0+ | 12245 |
 | GNU General Public License v2.0 only | GPL-2.0 | 17337 |
-| GNU General Public License v2.0 or later | GPL-2.0+ | 17402 |
+| GNU General Public License v2.0 or later | GPL-2.0+ | 17381 |
 | GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | 1626 |
-| GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | 673 |
+| GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | 672 |
 | GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | 974 |
 | GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | 631 |
 | GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | 537 |
 | GNU General Public License v3.0 only | GPL-3.0 | 34674 |
-| GNU General Public License v3.0 or later | GPL-3.0+ | 34735 |
+| GNU General Public License v3.0 or later | GPL-3.0+ | 34682 |
 | GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | 1873 |
-| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | 3450 |
+| GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | 3445 |
 | GNU Library General Public License v2 only | LGPL-2.0 | 24877 |
-| GNU Library General Public License v2 or later | LGPL-2.0+ | 24988 |
+| GNU Library General Public License v2 or later | LGPL-2.0+ | 24961 |
 | GNU Lesser General Public License v2.1 only | LGPL-2.1 | 26001 |
-| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 26121 |
+| GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | 26088 |
 | GNU Lesser General Public License v3.0 only | LGPL-3.0 | 42098 |
-| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 42266 |
+| GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | 42200 |
 | Net-SNMP License | Net-SNMP | 14237 |
 | Nunit License | Nunit | 1075 |
-| Standard ML of New Jersey License | StandardML-NJ | 1123 |
-| wxWindows Library License | wxWindows | 1279 |
+| Standard ML of New Jersey License | StandardML-NJ | 1122 |
+| wxWindows Library License | wxWindows | 1276 |

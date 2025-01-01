@@ -13,6 +13,7 @@
 | Bison exception 1.24 | Bison-exception-1.24 | |
 | Bison exception 2.2 | Bison-exception-2.2 | GPL-2.0-only, GPL-2.0-and-later, GPL-3.0-only, GPL-3.0-and-later |
 | Bootloader Distribution Exception | Bootloader-exception | GPL |
+| CGAL Linking Exception | CGAL-linking-exception | |
 | Classpath exception 2.0 | Classpath-exception-2.0 | GPL |
 | CLISP exception 2.0 | CLISP-exception-2.0 | GPL-2.0-only, GPL-2.0-and-later |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | GPL |
@@ -32,13 +33,16 @@
 | GNOME examples exception | GNOME-examples-exception | CC-BY-SA-3.0 |
 | GNU Compiler Exception | GNU-compiler-exception | GPL, LGPL |
 | GNU JavaMail exception | gnu-javamail-exception | GPL |
+| GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | GPL-3.0 |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | GPL-3.0 |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | GPL-3.0 |
 | GPL-3.0 Linking Exception (with Corresponding Source) | GPL-3.0-linking-source-exception | GPL-3.0 |
 | GPL Cooperation Commitment 1.0 | GPL-CC-1.0 | |
 | GStreamer Exception (2005) | GStreamer-exception-2005 | |
 | GStreamer Exception (2008) | GStreamer-exception-2008 | |
+| harbour exception | harbour-exception | GPL |
 | i2p GPL+Java Exception | i2p-gpl-java-exception | GPL-2.0-only, GPL-2.0-and-later |
+| Independent Module Linking exception | Independent-modules-exception | LGPL |
 | KiCad Libraries Exception | KiCad-libraries-exception | CC-BY-SA-4.0 |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | LGPL-3.0 |
 | libpri OpenH323 exception | libpri-OpenH323-exception | |
@@ -48,6 +52,7 @@
 | LLVM Exception | LLVM-exception | Apache-2.0 |
 | LZMA exception | LZMA-exception | CPL-1.0 |
 | Macros and Inline Functions Exception | mif-exception | GPL-2.0-only, GPL-2.0-and-later |
+| mxml Exception | mxml-exception | Apache-2.0 |
 | OCaml LGPL Linking Exception | OCaml-LGPL-linking-exception | GPL, LGPL |
 | Open CASCADE Exception 1.0 | OCCT-exception-1.0 | LGPL-2.1-only |
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | GPL-2.0 |
