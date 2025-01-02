@@ -1,0 +1,5 @@
+SPDX-License-Identifier: SMAIL-GPL
+MODULE_LICENSE(SMAIL-GPL)
+License: SMAIL-GPL
+SMAIL-GPL License
+SMAIL General Public License

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: CC-SA-1.0
+MODULE_LICENSE(CC-SA-1.0)
+License: CC-SA-1.0
+CC-SA-1.0 License
+Creative Commons Share Alike 1.0 Generic

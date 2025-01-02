@@ -1,0 +1,5 @@
+SPDX-License-Identifier: DocBook-Stylesheet
+MODULE_LICENSE(DocBook-Stylesheet)
+License: DocBook-Stylesheet
+DocBook-Stylesheet License
+DocBook Stylesheet License

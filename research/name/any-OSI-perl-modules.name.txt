@@ -1,0 +1,5 @@
+SPDX-License-Identifier: any-OSI-perl-modules
+MODULE_LICENSE(any-OSI-perl-modules)
+License: any-OSI-perl-modules
+any-OSI-perl-modules License
+Any OSI License - Perl Modules

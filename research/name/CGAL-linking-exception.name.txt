@@ -1,0 +1,3 @@
+SPDX-License-Identifier: XXX WITH CGAL-linking-exception
+SPDX-Exception-Identifier: CGAL-linking-exception
+CGAL Linking Exception

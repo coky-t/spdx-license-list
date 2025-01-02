@@ -1,0 +1,4 @@
+SPDX-License-Identifier: MIPS
+MODULE_LICENSE(MIPS)
+License: MIPS
+MIPS License

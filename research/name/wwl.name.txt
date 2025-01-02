@@ -1,0 +1,5 @@
+SPDX-License-Identifier: wwl
+MODULE_LICENSE(wwl)
+License: wwl
+wwl License
+WWL License

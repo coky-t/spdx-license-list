@@ -1,0 +1,5 @@
+SPDX-License-Identifier: MIT-Click
+MODULE_LICENSE(MIT-Click)
+License: MIT-Click
+MIT-Click License
+MIT Click License

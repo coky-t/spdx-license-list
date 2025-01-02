@@ -1,0 +1,3 @@
+SPDX-License-Identifier: XXX WITH harbour-exception
+SPDX-Exception-Identifier: harbour-exception
+harbour exception

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Boehm-GC-without-fee
+MODULE_LICENSE(Boehm-GC-without-fee)
+License: Boehm-GC-without-fee
+Boehm-GC-without-fee License
+Boehm-Demers-Weiser GC License (without fee)

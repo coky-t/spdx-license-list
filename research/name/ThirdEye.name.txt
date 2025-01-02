@@ -1,0 +1,4 @@
+SPDX-License-Identifier: ThirdEye
+MODULE_LICENSE(ThirdEye)
+License: ThirdEye
+ThirdEye License

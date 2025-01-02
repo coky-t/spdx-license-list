@@ -1,0 +1,5 @@
+SPDX-License-Identifier: CC-PDM-1.0
+MODULE_LICENSE(CC-PDM-1.0)
+License: CC-PDM-1.0
+CC-PDM-1.0 License
+Creative Commons Public Domain Mark 1.0 Universal

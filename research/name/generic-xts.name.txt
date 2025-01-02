@@ -1,0 +1,5 @@
+SPDX-License-Identifier: generic-xts
+MODULE_LICENSE(generic-xts)
+License: generic-xts
+generic-xts License
+Generic XTS License

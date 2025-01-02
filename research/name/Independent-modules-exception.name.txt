@@ -1,0 +1,3 @@
+SPDX-License-Identifier: XXX WITH Independent-modules-exception
+SPDX-Exception-Identifier: Independent-modules-exception
+Independent Module Linking exception

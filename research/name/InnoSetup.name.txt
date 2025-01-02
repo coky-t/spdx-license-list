@@ -1,0 +1,5 @@
+SPDX-License-Identifier: InnoSetup
+MODULE_LICENSE(InnoSetup)
+License: InnoSetup
+InnoSetup License
+Inno Setup License

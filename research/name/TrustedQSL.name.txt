@@ -1,0 +1,4 @@
+SPDX-License-Identifier: TrustedQSL
+MODULE_LICENSE(TrustedQSL)
+License: TrustedQSL
+TrustedQSL License
