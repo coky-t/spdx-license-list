@@ -1,0 +1,1 @@
+db\W*freebsd\W*org\W*wrote\W*this\W*file\W*as\W*long\W*as\W*you\W*retain\W*this\W*notice\W*you\W*can\W*do\W*whatever\W*you\W*want\W*with\W*this\W*code\W*except\W*you\W*may\W*not\W*licen[sc]e\W*it\W*under\W*any\W*form\W*of\W*the\W*gpl\W*a\W*postcard\W*or\W*qsl\W*card\W*showing\W*me\W*you\W*appreciate\W*this\W*code\W*would\W*be\W*nice\W*diane\W*bruce\W*va3db\W*
