@@ -1,0 +1,5 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Boehm-GC-without-fee(?!\w)
+(?:MODULE_LICENSE|__license__)\W*Boehm\W*(?:Demers\W*Weiser\W*)?GC\W*(?:Licen[sc]e\W*)?without\W*fee(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Boehm\W*(?:Demers\W*Weiser\W*)?GC\W*(?:Licen[sc]e\W*)?without\W*fee(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)Boehm\W*(?:Demers\W*Weiser\W*)?GC\W*without\W*fee\W*Licen[sc]e
+(?<!\w)Boehm\W*(?:Demers\W*Weiser\W*)?GC\W*Licen[sc]e\W*without\W*fee

@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*generic-xts
+(?:MODULE_LICENSE|__license__)\W*Generic\W*XTS
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Generic\W*XTS(?:\W*Licen[sc]e)?
+(?<!\w)Generic\W*XTS\W*Licen[sc]e

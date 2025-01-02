@@ -1,0 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Independent-modules-exception
+SPDX-Exception-Identifier\W*Independent-modules-exception
+Independent\W*Module\W*Linking\W*exception

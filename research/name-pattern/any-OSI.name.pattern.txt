@@ -1,4 +1,4 @@
-SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*any-OSI(?!\w)
-(?:MODULE_LICENSE|__license__)\W*Any\W*OSI(?!\w)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Any\W*OSI(?:\W*Licen[sc]e|(?!\w))
-(?<!\w)Any\W*OSI\W*Licen[sc]e
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*any-OSI(?!\w|-perl-modules)
+(?:MODULE_LICENSE|__license__)\W*Any\W*OSI(?!\w|\W*Perl\W*Modules)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Any\W*OSI(?:\W*Licen[sc]e(?!\W*Perl\W*Modules)|(?!\w|\W*Perl\W*Modules|\W*Licen[sc]e\W*Perl\W*Modules))
+(?<!\w)Any\W*OSI\W*Licen[sc]e(?!\W*Perl\W*Modules)
