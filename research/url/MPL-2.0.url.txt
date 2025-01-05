@@ -3,3 +3,4 @@ https://opensource.org/license/MPL-2.0
 https://opensource.org/license/mpl-2-0/
 https://www.tldrlegal.com/license/mozilla-public-license-2-0-mpl-2
 https://www.mozilla.org/MPL/2.0/
+http://mozilla.org/MPL/2.0/
