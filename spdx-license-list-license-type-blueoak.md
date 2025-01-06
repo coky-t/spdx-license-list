@@ -46,13 +46,13 @@
 | Artistic License 1.0 | Artistic-1.0 | Permissive - Lead |
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | Permissive - Lead |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | Permissive - Lead |
-| Artistic License 2.0 | Artistic-2.0 | |
+| Artistic License 2.0 | Artistic-2.0 | Permissive - Bronze |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | |
 | Baekmuk License | Baekmuk | |
 | Bahyph License | Bahyph | Permissive - Bronze |
 | Barr License | Barr | Permissive - Bronze |
-| bcrypt Solar Designer License | bcrypt-Solar-Designer | |
+| bcrypt Solar Designer License | bcrypt-Solar-Designer | Permissive - Bronze |
 | Beerware License | Beerware | Permissive - Lead |
 | Bitstream Charter Font License | Bitstream-Charter | |
 | Bitstream Vera Font License | Bitstream-Vera | |
@@ -67,16 +67,16 @@
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | |
 | BSD 1-Clause License | BSD-1-Clause | Permissive - Silver |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | Permissive - Silver |
-| BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | |
+| BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | Permissive - Lead |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Permissive - Gold |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | Permissive - Silver |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Permissive - Bronze |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | |
-| BSD with attribution | BSD-3-Clause-Attribution | |
-| BSD 3-Clause Clear License | BSD-3-Clause-Clear | |
+| BSD with attribution | BSD-3-Clause-Attribution | Permissive - Bronze |
+| BSD 3-Clause Clear License | BSD-3-Clause-Clear | Permissive - Bronze |
 | BSD 3-Clause Flex variant | BSD-3-Clause-flex | |
-| Hewlett-Packard BSD variant license | BSD-3-Clause-HP | |
+| Hewlett-Packard BSD variant license | BSD-3-Clause-HP | Permissive - Bronze |
 | Lawrence Berkeley National Labs BSD variant license | BSD-3-Clause-LBNL | Permissive - Bronze |
 | BSD 3-Clause Modification | BSD-3-Clause-Modification | Permissive - Bronze |
 | BSD 3-Clause No Military License | BSD-3-Clause-No-Military-License | |
@@ -84,7 +84,7 @@
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | Permissive - Bronze |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | Permissive - Bronze |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | Permissive - Bronze |
-| BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | |
+| BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | Permissive - Bronze |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | Permissive - Bronze |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | Permissive - Bronze |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | Permissive - Bronze |
@@ -169,22 +169,22 @@
 | Community Data License Agreement Permissive 1.0 | CDLA-Permissive-1.0 | |
 | Community Data License Agreement Permissive 2.0 | CDLA-Permissive-2.0 | |
 | Community Data License Agreement Sharing 1.0 | CDLA-Sharing-1.0 | |
-| CeCILL Free Software License Agreement v1.0 | CECILL-1.0 | |
-| CeCILL Free Software License Agreement v1.1 | CECILL-1.1 | |
-| CeCILL Free Software License Agreement v2.0 | CECILL-2.0 | |
-| CeCILL Free Software License Agreement v2.1 | CECILL-2.1 | |
+| CeCILL Free Software License Agreement v1.0 | CECILL-1.0 | Weak Copyleft |
+| CeCILL Free Software License Agreement v1.1 | CECILL-1.1 | Weak Copyleft |
+| CeCILL Free Software License Agreement v2.0 | CECILL-2.0 | Weak Copyleft |
+| CeCILL Free Software License Agreement v2.1 | CECILL-2.1 | Weak Copyleft |
 | CeCILL-B Free Software License Agreement | CECILL-B | Permissive - Lead |
-| CeCILL-C Free Software License Agreement | CECILL-C | |
+| CeCILL-C Free Software License Agreement | CECILL-C | Weak Copyleft |
 | CERN Open Hardware Licence v1.1 | CERN-OHL-1.1 | |
 | CERN Open Hardware Licence v1.2 | CERN-OHL-1.2 | |
 | CERN Open Hardware Licence Version 2 - Permissive | CERN-OHL-P-2.0 | |
 | CERN Open Hardware Licence Version 2 - Strongly Reciprocal | CERN-OHL-S-2.0 | |
 | CERN Open Hardware Licence Version 2 - Weakly Reciprocal | CERN-OHL-W-2.0 | |
-| CFITSIO License | CFITSIO | |
-| check-cvs License | check-cvs | |
+| CFITSIO License | CFITSIO | Permissive - Bronze |
+| check-cvs License | check-cvs | Permissive - Lead |
 | Checkmk License | checkmk | |
 | Clarified Artistic License | ClArtistic | Permissive - Lead |
-| Clips License | Clips | |
+| Clips License | Clips | Permissive - Bronze |
 | CMU Mach License | CMU-Mach | |
 | CMU Mach - no notices-in-documentation variant | CMU-Mach-nodoc | |
 | CNRI Jython License | CNRI-Jython | Permissive - Bronze |
@@ -245,14 +245,14 @@
 | Frameworx Open License 1.0 | Frameworx-1.0 | |
 | FreeBSD Documentation License | FreeBSD-DOC | |
 | FreeImage Public License v1.0 | FreeImage | |
-| FSF All Permissive License | FSFAP | |
+| FSF All Permissive License | FSFAP | Permissive - Lead |
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | |
 | FSF Unlimited License | FSFUL | Permissive - Lead |
 | FSF Unlimited License (with License Retention) | FSFULLR | Permissive - Lead |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | |
 | Freetype Project License | FTL | Permissive - Bronze |
 | Furuseth License | Furuseth | |
-| fwlw License | fwlw | |
+| fwlw License | fwlw | Permissive - Bronze |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
 | Generic XTS License | generic-xts | |
@@ -278,7 +278,7 @@
 | GL2PS License | GL2PS | |
 | 3dfx Glide License | Glide | |
 | Glulxe License | Glulxe | |
-| Good Luck With That Public License | GLWTPL | |
+| Good Luck With That Public License | GLWTPL | Permissive - Lead |
 | gnuplot License | gnuplot | |
 | GNU General Public License v1.0 only | GPL-1.0-only | Strong Copyleft |
 | GNU General Public License v1.0 or later | GPL-1.0-or-later | Strong Copyleft |
@@ -291,7 +291,7 @@
 | gtkbook License | gtkbook | |
 | Gutmann License | Gutmann | |
 | Haskell Language Report License | HaskellReport | |
-| hdparm License | hdparm | |
+| hdparm License | hdparm | Permissive - Silver |
 | HIDAPI License | HIDAPI | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
 | Hewlett-Packard 1986 License | HP-1986 | |
@@ -300,11 +300,11 @@
 | Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | |
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | |
-| HPND with US Government export control warning | HPND-export-US | |
+| HPND with US Government export control warning | HPND-export-US | Permissive - Lead |
 | HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | |
 | HPND with US Government export control and 2 disclaimers | HPND-export2-US | |
-| Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | |
+| Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant | HPND-Fenneberg-Livingston | Permissive - Bronze |
 | Historical Permission Notice and Disclaimer - INRIA-IMAG variant | HPND-INRIA-IMAG | |
 | Historical Permission Notice and Disclaimer - Intel variant | HPND-Intel | |
 | Historical Permission Notice and Disclaimer - Kevlin Henney variant | HPND-Kevlin-Henney | |
@@ -314,7 +314,7 @@
 | Historical Permission Notice and Disclaimer - Netrek variant | HPND-Netrek | |
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | |
-| Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | |
+| Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | Permissive - Bronze |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | |
 | HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | |
@@ -325,7 +325,7 @@
 | ICU License | ICU | Permissive - Bronze |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
 | Independent JPEG Group License | IJG | Permissive - Lead |
-| Independent JPEG Group License - short | IJG-short | |
+| Independent JPEG Group License - short | IJG-short | Permissive - Lead |
 | ImageMagick License | ImageMagick | Permissive - Silver |
 | iMatix Standard Function Library Agreement | iMatix | |
 | Imlib2 License | Imlib2 | |
@@ -333,19 +333,19 @@
 | Inner Net License v2.0 | Inner-Net-2.0 | |
 | Inno Setup License | InnoSetup | |
 | Intel Open Source License | Intel | Permissive - Bronze |
-| Intel ACPI Software License Agreement | Intel-ACPI | |
+| Intel ACPI Software License Agreement | Intel-ACPI | Permissive - Silver |
 | Interbase Public License v1.0 | Interbase-1.0 | |
 | IPA Font License | IPA | |
 | IBM Public License v1.0 | IPL-1.0 | Weak Copyleft |
 | ISC License | ISC | Permissive - Silver |
 | ISC Veillard variant | ISC-Veillard | |
-| Jam License | Jam | |
+| Jam License | Jam | Permissive - Lead |
 | JasPer License | JasPer-2.0 | Permissive - Bronze |
 | JPL Image Use Policy | JPL-image | |
 | Japan Network Information Center License | JPNIC | |
 | JSON License | JSON | |
 | Kastrup License | Kastrup | |
-| Kazlib License | Kazlib | |
+| Kazlib License | Kazlib | Permissive - Lead |
 | Knuth CTAN License | Knuth-CTAN | |
 | Licence Art Libre 1.2 | LAL-1.2 | |
 | Licence Art Libre 1.3 | LAL-1.3 | |
@@ -384,14 +384,14 @@
 | lsof License | lsof | |
 | Lucida Bitmap Fonts License | Lucida-Bitmap-Fonts | |
 | LZMA SDK License (versions 9.11 to 9.20) | LZMA-SDK-9.11-to-9.20 | |
-| LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | |
+| LZMA SDK License (versions 9.22 and beyond) | LZMA-SDK-9.22 | Permissive - Bronze |
 | Mackerras 3-Clause License | Mackerras-3-Clause | |
 | Mackerras 3-Clause - acknowledgment variant | Mackerras-3-Clause-acknowledgment | |
 | magaz License | magaz | |
 | mailprio License | mailprio | |
 | MakeIndex License | MakeIndex | |
 | Martin Birgmeier License | Martin-Birgmeier | |
-| McPhee Slideshow License | McPhee-slideshow | |
+| McPhee Slideshow License | McPhee-slideshow | Permissive - Lead |
 | metamail License | metamail | |
 | Minpack License | Minpack | |
 | MIPS License | MIPS | |
@@ -408,7 +408,7 @@
 | MIT License Modern Variant | MIT-Modern-Variant | Permissive - Silver |
 | MIT Open Group variant | MIT-open-group | Permissive - Bronze |
 | MIT testregex Variant | MIT-testregex | |
-| MIT Tom Wu Variant | MIT-Wu | |
+| MIT Tom Wu Variant | MIT-Wu | Permissive - Silver |
 | MIT +no-false-attribs license | MITNFA | Permissive - Bronze |
 | MMIXware License | MMIXware | |
 | Motosoto License | Motosoto | |
@@ -428,7 +428,7 @@
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | Permissive - Bronze |
 | Multics License | Multics | Permissive - Bronze |
 | Mup License | Mup | Permissive - Silver |
-| Nara Institute of Science and Technology License (2003) | NAIST-2003 | |
+| Nara Institute of Science and Technology License (2003) | NAIST-2003 | Permissive - Lead |
 | NASA Open Source Agreement 1.3 | NASA-1.3 | Permissive - Lead |
 | Naumen Public License | Naumen | Permissive - Bronze |
 | Net Boolean Public License v1 | NBPL-1.0 | Permissive - Lead |
@@ -439,10 +439,10 @@
 | NetCDF license | NetCDF | Permissive - Bronze |
 | Newsletr License | Newsletr | Permissive - Lead |
 | Nethack General Public License | NGPL | |
-| NICTA Public Software License, Version 1.0 | NICTA-1.0 | |
+| NICTA Public Software License, Version 1.0 | NICTA-1.0 | Permissive - Bronze |
 | NIST Public Domain Notice | NIST-PD | |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | |
-| NIST Software License | NIST-Software | |
+| NIST Software License | NIST-Software | Permissive - Bronze |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | |
 | Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | |
 | No Limit Public License | NLPL | Permissive - Lead |
@@ -454,14 +454,14 @@
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | Network Copyleft |
 | NRL License | NRL | Permissive - Lead |
 | NTP License | NTP | Permissive - Bronze |
-| NTP No Attribution | NTP-0 | |
+| NTP No Attribution | NTP-0 | Permissive - Lead |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
 | OAR License | OAR | |
 | Open CASCADE Technology Public License | OCCT-PL | |
 | OCLC Research Public License 2.0 | OCLC-2.0 | |
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | |
 | Open Data Commons Attribution License v1.0 | ODC-By-1.0 | |
-| OFFIS License | OFFIS | |
+| OFFIS License | OFFIS | Permissive - Lead |
 | SIL Open Font License 1.0 | OFL-1.0 | |
 | SIL Open Font License 1.0 with no Reserved Font Name | OFL-1.0-no-RFN | |
 | SIL Open Font License 1.0 with Reserved Font Name | OFL-1.0-RFN | |
@@ -470,7 +470,7 @@
 | SIL Open Font License 1.1 with Reserved Font Name | OFL-1.1-RFN | |
 | OGC Software License, Version 1.0 | OGC-1.0 | |
 | Taiwan Open Government Data License, version 1.0 | OGDL-Taiwan-1.0 | |
-| Open Government Licence - Canada | OGL-Canada-2.0 | |
+| Open Government Licence - Canada | OGL-Canada-2.0 | Permissive - Bronze |
 | Open Government Licence v1.0 | OGL-UK-1.0 | |
 | Open Government Licence v2.0 | OGL-UK-2.0 | |
 | Open Government Licence v3.0 | OGL-UK-3.0 |  |
@@ -525,7 +525,7 @@
 | psutils License | psutils | Permissive - Lead |
 | Python License 2.0 | Python-2.0 | Permissive - Bronze |
 | Python License 2.0.1 | Python-2.0.1 | |
-| Python ldap License | python-ldap | |
+| Python ldap License | python-ldap | Permissive - Lead |
 | Qhull License | Qhull | Permissive - Lead |
 | Q Public License 1.0 | QPL-1.0 | Strong Copyleft |
 | Q Public License 1.0 - INRIA 2004 variant | QPL-1.0-INRIA-2004 | |
@@ -552,7 +552,7 @@
 | SGI Free Software License B v2.0 | SGI-B-2.0 | Permissive - Bronze |
 | SGI OpenGL License | SGI-OpenGL | |
 | SGP4 Permission Notice | SGP4 | |
-| Solderpad Hardware License v0.5 | SHL-0.5 | |
+| Solderpad Hardware License v0.5 | SHL-0.5 | Permissive - Silver |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | |
 | Simple Public License 2.0 | SimPL-2.0 | |
 | Sun Industry Standards Source License v1.1 | SISSL | |
@@ -563,7 +563,7 @@
 | Standard ML of New Jersey License | SMLNJ | Permissive - Bronze |
 | Secure Messaging Protocol Public License | SMPPL | |
 | SNIA Public License 1.1 | SNIA | |
-| snprintf License | snprintf | |
+| snprintf License | snprintf | Permissive - Lead |
 | softSurfer License | softSurfer | |
 | Soundex License | Soundex | |
 | Spencer License 86 | Spencer-86 | Permissive - Lead |
@@ -572,16 +572,16 @@
 | Sun Public License v1.0 | SPL-1.0 | Weak Copyleft |
 | ssh-keyscan License | ssh-keyscan | |
 | SSH OpenSSH license | SSH-OpenSSH | |
-| SSH short notice | SSH-short | |
+| SSH short notice | SSH-short | Permissive - Lead |
 | SSLeay License - standalone | SSLeay-standalone | |
 | Server Side Public License, v 1 | SSPL-1.0 | Network Copyleft |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | |
 | Sun PPP License | Sun-PPP | |
 | Sun PPP License (2000) | Sun-PPP-2000 | |
-| SunPro License | SunPro | |
+| SunPro License | SunPro | Permissive - Bronze |
 | Scheme Widget Library (SWL) Software License Agreement | SWL | Permissive - Bronze |
 | swrule License | swrule | |
-| Symlinks License | Symlinks | |
+| Symlinks License | Symlinks | Permissive - Bronze |
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | |
 | TCL/TK License | TCL | Permissive - Bronze |
 | TCP Wrappers License | TCP-wrappers | Permissive - Bronze |
@@ -600,7 +600,7 @@
 | Technische Universitaet Berlin License 1.0 | TU-Berlin-1.0 | Permissive - Lead |
 | Technische Universitaet Berlin License 2.0 | TU-Berlin-2.0 | Permissive - Lead |
 | Ubuntu Font Licence v1.0 | Ubuntu-font-1.0 | |
-| UCAR License | UCAR | |
+| UCAR License | UCAR | Permissive - Bronze |
 | Upstream Compatibility License v1.0 | UCL-1.0 | |
 | ulem License | ulem | |
 | Michigan/Merit Networks License | UMich-Merit | |
@@ -608,7 +608,7 @@
 | Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | Permissive - Bronze |
 | Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | Permissive - Bronze |
 | Unicode Terms of Use | Unicode-TOU | |
-| UnixCrypt License | UnixCrypt | |
+| UnixCrypt License | UnixCrypt | Permissive - Bronze |
 | The Unlicense | Unlicense | Permissive - Bronze |
 | Universal Permissive License v1.0 | UPL-1.0 | Permissive - Silver |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
@@ -629,14 +629,14 @@
 | X11 swapped final paragraphs | X11-swapped | |
 | Xdebug License v 1.03 | Xdebug-1.03 | |
 | Xerox License | Xerox | Permissive - Silver |
-| Xfig License | Xfig | |
+| Xfig License | Xfig | Permissive - Silver |
 | XFree86 License 1.1 | XFree86-1.1 | Permissive - Bronze |
 | xinetd License | xinetd | Permissive - Lead |
 | xkeyboard-config Zinoviev License | xkeyboard-config-Zinoviev | |
-| xlock License | xlock | |
+| xlock License | xlock | Permissive - Bronze |
 | X.Net License | Xnet | Permissive - Bronze |
 | XPP License | xpp | Permissive - Bronze |
-| XSkat License | XSkat | |
+| XSkat License | XSkat | Permissive - Lead |
 | xzoom License | xzoom | |
 | Yahoo! Public License v1.0 | YPL-1.0 | |
 | Yahoo! Public License v1.1 | YPL-1.1 | |
