@@ -4,5 +4,5 @@ Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*
 (?:GNU\W*|(?<!Library\W)(?<!Lesser\W)(?<!L))GPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))(?:\W*v(?:er(?:sion|\.)?|\.)?)?(?:\W*Licen[sc]e)?
 (?:GNU\W*|(?<!Library\W)(?<!Lesser\W)(?<!L))GPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))
 v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?(?:\+|\W*(?:or|and)\W*(?:any\W*)?(?:later|higher|subsequent))\W*of\W*(?:the\W*)?(?:GNU\W*)?GPL\W*Licen[sc]e
-GNU\W*(?:General\W*)?Public\W*Licen[sc]e\W*(?:GPL\W*)?(?:as\W*published\W*)?(?:by\W*the\W*Free\W*Software\W*Foundation\W*(?:s\W*)?)?(?:either\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*(?:of\W*the\W*Licen[sc]e\W*)?(?:or|and)(?:\W*at\W*your\W*option)?(?:\W*any)?\W*(?:later|higher|subsequent)(?:\W*version)?
+GNU\W*(?:General\W*)?Public\W*Licen[sc]e\W*(?:GPL\W*)?(?:as\W*published\W*)?(?:by\W*the\W*Free\W*Software\W*Foundation?\W*(?:s\W*)?)?(?:either\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*(?:(?:of\W*)+the\W*Licen[sc]e\W*)?(?:or|and)(?:\W*at\W*your\W*option)?(?:\W*any)?\W*(?:later|higher|subsequent)(?:\W*version)?
 v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*(?:or|and)\W*(?:later|higher|subsequent)\W*of\W*(?:the\W*)?GNU\W*(?:General\W*)?Public\W*Licen[sc]e

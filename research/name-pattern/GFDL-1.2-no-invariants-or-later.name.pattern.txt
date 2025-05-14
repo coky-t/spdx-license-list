@@ -6,4 +6,4 @@ Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*
 v(?:er(?:sion|\.)?|\.)?\W*1\.2\W*or\W*later\W*of\W*(?:the\W*)?GFDL\W*Licen[sc]e\W*no\W*invariants
 GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:GFDL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*or\W*later\W*no\W*invariants
 v(?:er(?:sion|\.)?|\.)?\W*1\.2\W*or\W*later\W*of\W*(?:the\W*)?GNU\W*Free\W*Documentation\W*Licen[sc]e\W*no\W*invariants
-GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*or\W*(?:any\W*)?later\W*version(?:\W*published\W*by\W*the\W*Free\W*Software\W*Foundation)?\W*with\W*no\W*Invariant\W*Sections(?:\W*with)?\W*no\W*Front\W*Cover\W*Texts\W*and(?:\W*with)?\W*no\W*Back\W*Cover\W*Texts
+GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.2\W*or\W*(?:any\W*)?later\W*version(?:\W*published\W*by\W*the\W*Free\W*Software\W*Foundation?)?\W*with\W*no\W*Invariant\W*Sections(?:\W*with)?\W*no\W*Front\W*Cover\W*Texts\W*and(?:\W*with)?\W*no\W*Back\W*Cover\W*Texts

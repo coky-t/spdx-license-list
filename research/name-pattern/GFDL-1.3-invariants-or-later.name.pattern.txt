@@ -6,4 +6,4 @@ Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*
 v(?:er(?:sion|\.)?|\.)?\W*1\.3\W*or\W*later\W*of\W*(?:the\W*)?GFDL\W*Licen[sc]e\W*invariants
 GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:GFDL\W*)?(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*later\W*invariants
 v(?:er(?:sion|\.)?|\.)?\W*1\.3\W*or\W*later\W*of\W*(?:the\W*)?GNU\W*Free\W*Documentation\W*Licen[sc]e\W*invariants
-GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*(?:any\W*)?later\W*version(?:\W*published\W*by\W*the\W*Free\W*Software\W*Foundation)?\W*with\W*the\W*Invariant\W*Sections
+GNU\W*Free\W*Documentation\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*(?:any\W*)?later\W*version(?:\W*published\W*by\W*the\W*Free\W*Software\W*Foundation?)?\W*with\W*the\W*Invariant\W*Sections
