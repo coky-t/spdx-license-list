@@ -1,2 +1,2 @@
 https?://spdx\.org/licenses/CC-PDDC\.html
-https?://creativecommons\.org/publicdomain
+https?://creativecommons\.org/publicdomain(?!/zero)
