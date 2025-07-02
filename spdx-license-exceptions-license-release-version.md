@@ -17,6 +17,7 @@
 | Classpath exception 2.0 | Classpath-exception-2.0 | 2.1 |
 | CLISP exception 2.0 | CLISP-exception-2.0 | 2.1 |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | 3.21 |
+| Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | 3.27.0 |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | 2.2 |
 | eCos exception 2.0 | eCos-exception-2.0 | 2.1 |
 | Erlang/OTP Linking Exception | erlang-otp-linking-exception | 3.25.0 |
@@ -58,6 +59,7 @@
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | 3.1 |
 | OpenVPN OpenSSL Exception | openvpn-openssl-exception | 2.2 |
 | PCRE2 exception | PCRE2-exception | 3.24.0 |
+| Polyparse Exception | polyparse-exception | 3.27.0 |
 | PS/PDF font exception (2017-08-17) | PS-or-PDF-font-exception-20170817 | 3.2 |
 | INRIA QPL 1.0 2004 variant exception | QPL-1.0-INRIA-2004-exception | 3.20 |
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | 3.2 |
