@@ -47,6 +47,8 @@
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | |
 | Artistic License 2.0 | Artistic-2.0 | |
+| Artistic License 1.0 (dist) | Artistic-dist | |
+| Aspell Russian License | Aspell-RU | |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | BSD [0x, 2x, +, 4x, +, 5x] |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | BSD [0x, 2x, +, 4x, +, 5x] |
 | Baekmuk License | Baekmuk | HPND [0x, +] |
@@ -70,6 +72,7 @@
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | BSD [+, 0, 1+, 2, 5] |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | BSD [0, 1+, 2, 5] |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | BSD [0, 1, 2, +, 5] |
+| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | BSD [0, 1, 2-, +] |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | BSD [0, 1, 2, 5, +] |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | BSD [0, 1, 2, 4, 5] |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | BSD [0, 1+, 2x, 4x, 5] |
@@ -201,6 +204,7 @@
 | Code Project Open License 1.02 | CPOL-1.02 | |
 | Cronyx License | Cronyx | |
 | Crossword License | Crossword | |
+| CryptoSwift License | CryptoSwift | Zlib [0, 1, 2x, 3, 4, +] |
 | CrystalStacker License | CrystalStacker | |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | |
 | Cube License | Cube | Zlib [0, 1, 2, 3, 4, +] |
@@ -212,6 +216,7 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | |
 | DOC License | DOC | |
+| DocBook DTD License | DocBook-DTD | |
 | DocBook Schema License | DocBook-Schema | |
 | DocBook Stylesheet License | DocBook-Stylesheet | |
 | DocBook XML License | DocBook-XML | MIT [0, 1, +, +, +, 2, +] |
@@ -249,10 +254,14 @@
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | |
 | FSF Unlimited License | FSFUL | |
 | FSF Unlimited License (with License Retention) | FSFULLR | |
+| FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | |
+| Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | |
+| Functional Source License, Version 1.1, MIT Future License | FSL-1.1-MIT | |
 | Freetype Project License | FTL | |
 | Furuseth License | Furuseth | BSD [0x, 4x, 5x], HPND [2] |
 | fwlw License | fwlw | |
+| Game Programming Gems License | Game-Programming-Gems | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
 | Generic XTS License | generic-xts | |
@@ -291,6 +300,7 @@
 | gtkbook License | gtkbook | |
 | Gutmann License | Gutmann | |
 | Haskell Language Report License | HaskellReport | |
+| HDF5 License | HDF5 | BSD [0+, 1, 2, 3+, +] |
 | hdparm License | hdparm | |
 | HIDAPI License | HIDAPI | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
@@ -341,6 +351,7 @@
 | ISC Veillard variant | ISC-Veillard | HPND [0x, 3x] |
 | Jam License | Jam | |
 | JasPer License | JasPer-2.0 | MIT [0x, 1x, +, 2x] |
+| Jove License | jove | |
 | JPL Image Use Policy | JPL-image | |
 | Japan Network Information Center License | JPNIC | BSD [+, 0x, 1x, 2x, 4x, 5x] |
 | JSON License | JSON | MIT [0, 1, +, 2] |
@@ -360,6 +371,7 @@
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
 | libpng License | Libpng | |
+| PNG Reference Library License v1 (for libpng 0.5 through 1.6.35) | libpng-1.6.35 | Zlib [+, 1x, 2x, 3x, 4x] |
 | PNG Reference Library version 2 | libpng-2.0 | MIT [2x], Zlib [1x, 2, 3, 4+] |
 | libselinux public domain notice | libselinux-1.0 | |
 | libtiff License | libtiff | HPND [0x, 2x, 3x] |
@@ -390,6 +402,7 @@
 | magaz License | magaz | |
 | mailprio License | mailprio | |
 | MakeIndex License | MakeIndex | |
+| man2html License | man2html | |
 | Martin Birgmeier License | Martin-Birgmeier | |
 | McPhee Slideshow License | McPhee-slideshow | |
 | metamail License | metamail | HPND [0x, 1x, 2x] |
@@ -439,6 +452,7 @@
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | Zlib [1x, +, 3-] |
 | Nethack General Public License | NGPL | |
+| ngrep License | ngrep | Zlib [1x, 2x, 3x], BSD [3x, 4x, +, 5] |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | BSD [0x, 1x, 2x, 4, 5x, 5x, +] |
 | NIST Public Domain Notice | NIST-PD | |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | |
@@ -453,6 +467,7 @@
 | Netscape Public License v1.1 | NPL-1.1 | |
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | |
 | NRL License | NRL | BSD [+, +, +, 0x, +, 1, 2, 3x, 4, 5x] |
+| NTIA Public Domain Notice | NTIA-PD | |
 | NTP License | NTP | [0x, 1, 2] |
 | NTP No Attribution | NTP-0 | HPND [0x, 1, 2] |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
@@ -564,6 +579,7 @@
 | Secure Messaging Protocol Public License | SMPPL | |
 | SNIA Public License 1.1 | SNIA | |
 | snprintf License | snprintf | |
+| SOFA Software License | SOFA | |
 | softSurfer License | softSurfer | |
 | Soundex License | Soundex | |
 | Spencer License 86 | Spencer-86 | Zlib [1x, +, 2x, 3x] |
@@ -576,6 +592,7 @@
 | SSLeay License - standalone | SSLeay-standalone | BSD [+, +, +, 0, 1-, 2, 3x, +, 5, +] |
 | Server Side Public License, v 1 | SSPL-1.0 | |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | |
+| Sustainable Use License v1.0 | SUL-1.0 | |
 | Sun PPP License | Sun-PPP | |
 | Sun PPP License (2000) | Sun-PPP-2000 | HPND [0-, +] |
 | SunPro License | SunPro | HPND [0x] |
@@ -610,6 +627,8 @@
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | HPND [0x] |
 | The Unlicense | Unlicense | MIT [+, +, +, 2, (+)] |
+| Unlicense - libtelnet variant | Unlicense-libtelnet | |
+| Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | |
 | Universal Permissive License v1.0 | UPL-1.0 | MIT [+, +, +, +, 1x, 2] |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
 | Vim License | Vim | |

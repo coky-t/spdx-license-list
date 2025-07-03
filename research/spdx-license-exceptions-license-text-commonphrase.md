@@ -17,6 +17,7 @@
 | Classpath exception 2.0 | Classpath-exception-2.0 | As a special exception |
 | CLISP exception 2.0 | CLISP-exception-2.0 | |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | In addition, as a special exception |
+| Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | As a special exception |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | |
 | eCos exception 2.0 | eCos-exception-2.0 | As a special exception |
 | Erlang/OTP Linking Exception | erlang-otp-linking-exception | Additional permission |
@@ -58,6 +59,7 @@
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | as a special exception |
 | OpenVPN OpenSSL Exception | openvpn-openssl-exception | In addition, as a special exception |
 | PCRE2 exception | PCRE2-exception | |
+| Polyparse Exception | polyparse-exception | |
 | PS/PDF font exception (2017-08-17) | PS-or-PDF-font-exception-20170817 | As a special exception |
 | INRIA QPL 1.0 2004 variant exception | QPL-1.0-INRIA-2004-exception | As a special exception |
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | As a special exception |

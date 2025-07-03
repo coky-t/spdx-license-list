@@ -47,6 +47,8 @@
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | The intent of this document is ... reasonable modifications |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | The intent of this document is ... reasonable modifications |
 | Artistic License 2.0 | Artistic-2.0 | Everyone is permitted ... this license document |
+| Artistic License 1.0 (dist) | Artistic-dist | The intent of this document is ... reasonable modifications |
+| Aspell Russian License | Aspell-RU | Permission to use, copy |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | Redistribution and use |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | Redistribution and use |
 | Baekmuk License | Baekmuk | Permission to use, copy |
@@ -70,6 +72,7 @@
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | Redistribution and use |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | Redistribution and use |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Redistribution and use / Subject to the terms ... of this License |
+| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | Redistribution and use |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | Redistribution and use |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Redistribution and use |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | Redistribution and use |
@@ -201,6 +204,7 @@
 | Code Project Open License 1.02 | CPOL-1.02 | Subject to the terms ... of this License |
 | Cronyx License | Cronyx | |
 | Crossword License | Crossword | |
+| CryptoSwift License | CryptoSwift | Permission is granted |
 | CrystalStacker License | CrystalStacker | |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | |
 | Cube License | Cube | Permission is granted |
@@ -212,6 +216,7 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | |
 | DOC License | DOC | |
+| DocBook DTD License | DocBook-DTD | Permission to use, copy |
 | DocBook Schema License | DocBook-Schema | Permission to use, copy |
 | DocBook Stylesheet License | DocBook-Stylesheet | Permission to use, copy |
 | DocBook XML License | DocBook-XML | Permission is hereby granted |
@@ -249,10 +254,14 @@
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | |
 | FSF Unlimited License | FSFUL | |
 | FSF Unlimited License (with License Retention) | FSFULLR | |
+| FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | |
+| Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | |
+| Functional Source License, Version 1.1, MIT Future License | FSL-1.1-MIT | |
 | Freetype Project License | FTL | |
 | Furuseth License | Furuseth | Redistribution and use |
 | fwlw License | fwlw | |
+| Game Programming Gems License | Game-Programming-Gems | |
 | Gnome GCR Documentation License | GCR-docs | |
 | GD License | GD | |
 | Generic XTS License | generic-xts | Permission to use, copy |
@@ -291,6 +300,7 @@
 | gtkbook License | gtkbook | |
 | Gutmann License | Gutmann | |
 | Haskell Language Report License | HaskellReport | |
+| HDF5 License | HDF5 | Redistribution and use |
 | hdparm License | hdparm | |
 | HIDAPI License | HIDAPI | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
@@ -341,6 +351,7 @@
 | ISC Veillard variant | ISC-Veillard | Permission to use, copy |
 | Jam License | Jam | |
 | JasPer License | JasPer-2.0 | Permission is hereby granted |
+| Jove License | jove | |
 | JPL Image Use Policy | JPL-image | |
 | Japan Network Information Center License | JPNIC | |
 | JSON License | JSON | Permission is hereby granted |
@@ -360,6 +371,7 @@
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | Everyone is permitted ... this license document |
 | Lesser General Public License For Linguistic Resources | LGPLLR | |
 | libpng License | Libpng | Permission is hereby granted |
+| PNG Reference Library License v1 (for libpng 0.5 through 1.6.35) | libpng-1.6.35 | Permission is hereby granted |
 | PNG Reference Library version 2 | libpng-2.0 | Permission is hereby granted |
 | libselinux public domain notice | libselinux-1.0 | |
 | libtiff License | libtiff | Permission to use, copy |
@@ -390,6 +402,7 @@
 | magaz License | magaz | |
 | mailprio License | mailprio | |
 | MakeIndex License | MakeIndex | Permission is hereby granted / Permission is granted |
+| man2html License | man2html | Permission is granted |
 | Martin Birgmeier License | Martin-Birgmeier | |
 | McPhee Slideshow License | McPhee-slideshow | |
 | metamail License | metamail | Permission to use, copy |
@@ -439,6 +452,7 @@
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | Permission is granted |
 | Nethack General Public License | NGPL | |
+| ngrep License | ngrep | Permission is granted |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | |
 | NIST Public Domain Notice | NIST-PD | |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | |
@@ -453,6 +467,7 @@
 | Netscape Public License v1.1 | NPL-1.1 | |
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | Permission is granted |
 | NRL License | NRL | Redistribution and use |
+| NTIA Public Domain Notice | NTIA-PD | |
 | NTP License | NTP | Permission to use, copy |
 | NTP No Attribution | NTP-0 | Permission to use, copy |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
@@ -564,6 +579,7 @@
 | Secure Messaging Protocol Public License | SMPPL | |
 | SNIA Public License 1.1 | SNIA | |
 | snprintf License | snprintf | |
+| SOFA Software License | SOFA | Permission is granted |
 | softSurfer License | softSurfer | |
 | Soundex License | Soundex | |
 | Spencer License 86 | Spencer-86 | Permission is granted |
@@ -576,6 +592,7 @@
 | SSLeay License - standalone | SSLeay-standalone | Redistribution and use |
 | Server Side Public License, v 1 | SSPL-1.0 | Everyone is permitted ... this license document |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | |
+| Sustainable Use License v1.0 | SUL-1.0 | |
 | Sun PPP License | Sun-PPP | |
 | Sun PPP License (2000) | Sun-PPP-2000 | Permission to use, copy |
 | SunPro License | SunPro | Permission to use, copy |
@@ -610,6 +627,8 @@
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | Permission to use, copy |
 | The Unlicense | Unlicense | |
+| Unlicense - libtelnet variant | Unlicense-libtelnet | |
+| Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | |
 | Universal Permissive License v1.0 | UPL-1.0 | |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
 | Vim License | Vim | |

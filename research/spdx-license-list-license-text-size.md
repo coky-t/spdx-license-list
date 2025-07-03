@@ -47,6 +47,8 @@
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | 5184 |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | 6060 |
 | Artistic License 2.0 | Artistic-2.0 | 8764 |
+| Artistic License 1.0 (dist) | Artistic-dist | 6177 |
+| Aspell Russian License | Aspell-RU | 217 |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | 2230 |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | 2346 |
 | Baekmuk License | Baekmuk | 479 |
@@ -70,6 +72,7 @@
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | 1593 |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | 1328 |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 2569 |
+| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | 704 |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | 1519 |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1460 |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | 1568 |
@@ -145,7 +148,7 @@
 | Creative Commons Attribution Non Commercial Share Alike 4.0 International | CC-BY-NC-SA-4.0 | 19018 |
 | Creative Commons Attribution No Derivatives 1.0 Generic | CC-BY-ND-1.0 | 10488 |
 | Creative Commons Attribution No Derivatives 2.0 Generic | CC-BY-ND-2.0 | 11696 |
-| Creative Commons Attribution No Derivatives 2.5 Generic | CC-BY-ND-2.5 | 11921 |
+| Creative Commons Attribution No Derivatives 2.5 Generic | CC-BY-ND-2.5 | 11929 |
 | Creative Commons Attribution No Derivatives 3.0 Unported | CC-BY-ND-3.0 | 17650 |
 | Creative Commons Attribution No Derivatives 3.0 Germany | CC-BY-ND-3.0-DE | 18246 |
 | Creative Commons Attribution No Derivatives 4.0 International | CC-BY-ND-4.0 | 16830 |
@@ -201,6 +204,7 @@
 | Code Project Open License 1.02 | CPOL-1.02 | 11649 |
 | Cronyx License | Cronyx | 595 |
 | Crossword License | Crossword | 479 |
+| CryptoSwift License | CryptoSwift | 1013 |
 | CrystalStacker License | CrystalStacker | 982 |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | 23381 |
 | Cube License | Cube | 1078 |
@@ -212,6 +216,7 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | 2518 |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | 1210 |
 | DOC License | DOC | 4472 |
+| DocBook DTD License | DocBook-DTD | 1157 |
 | DocBook Schema License | DocBook-Schema | 1042 |
 | DocBook Stylesheet License | DocBook-Stylesheet | 615 |
 | DocBook XML License | DocBook-XML | 1999 |
@@ -249,10 +254,14 @@
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | 209 |
 | FSF Unlimited License | FSFUL | 198 |
 | FSF Unlimited License (with License Retention) | FSFULLR | 234 |
+| FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | 232 |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | 544 |
+| Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | 3751 |
+| Functional Source License, Version 1.1, MIT Future License | FSL-1.1-MIT | 4219 |
 | Freetype Project License | FTL | 5979 |
 | Furuseth License | Furuseth | 626 |
 | fwlw License | fwlw | 206 |
+| Game Programming Gems License | Game-Programming-Gems | 369 |
 | Gnome GCR Documentation License | GCR-docs | 1697 |
 | GD License | GD | 2983 |
 | Generic XTS License | generic-xts | 779 |
@@ -291,6 +300,7 @@
 | gtkbook License | gtkbook | 309 |
 | Gutmann License | Gutmann | 96 |
 | Haskell Language Report License | HaskellReport | 602 |
+| HDF5 License | HDF5 | 5022 |
 | hdparm License | hdparm | 253 |
 | HIDAPI License | HIDAPI | 119 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 8422 |
@@ -341,6 +351,7 @@
 | ISC Veillard variant | ISC-Veillard | 522 |
 | Jam License | Jam | 195 |
 | JasPer License | JasPer-2.0 | 2741 |
+| Jove License | jove | 268 |
 | JPL Image Use Policy | JPL-image | 3158 |
 | Japan Network Information Center License | JPNIC | 2086 |
 | JSON License | JSON | 1114 |
@@ -360,6 +371,7 @@
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | 42098 |
 | Lesser General Public License For Linguistic Resources | LGPLLR | 14556 |
 | libpng License | Libpng | 4218 |
+| PNG Reference Library License v1 (for libpng 0.5 through 1.6.35) | libpng-1.6.35 | 3702 |
 | PNG Reference Library version 2 | libpng-2.0 | 1551 |
 | libselinux public domain notice | libselinux-1.0 | 1034 |
 | libtiff License | libtiff | 1139 |
@@ -390,13 +402,14 @@
 | magaz License | magaz | 216 |
 | mailprio License | mailprio | 415 |
 | MakeIndex License | MakeIndex | 1974 |
+| man2html License | man2html | 116 |
 | Martin Birgmeier License | Martin-Birgmeier | 407 |
 | McPhee Slideshow License | McPhee-slideshow | 323 |
 | metamail License | metamail | 629 |
 | Minpack License | Minpack | 2193 |
 | MIPS License | MIPS | 192 |
 | The MirOS Licence | MirOS | 887 |
-| MIT License | MIT | 1087 |
+| MIT License | MIT | 1078 |
 | MIT No Attribution | MIT-0 | 915 |
 | Enlightenment License (e16) | MIT-advertising | 1270 |
 | MIT Click License | MIT-Click | 1695 |
@@ -406,7 +419,7 @@
 | MIT Festival Variant | MIT-Festival | 1228 |
 | MIT Khronos - old variant | MIT-Khronos-old | 1305 |
 | MIT License Modern Variant | MIT-Modern-Variant | 917 |
-| MIT Open Group variant | MIT-open-group | 1121 |
+| MIT Open Group variant | MIT-open-group | 1136 |
 | MIT testregex Variant | MIT-testregex | 1134 |
 | MIT Tom Wu Variant | MIT-Wu | 1295 |
 | MIT +no-false-attribs license | MITNFA | 1531 |
@@ -439,6 +452,7 @@
 | NetCDF license | NetCDF | 1881 |
 | Newsletr License | Newsletr | 510 |
 | Nethack General Public License | NGPL | 4703 |
+| ngrep License | ngrep | 1840 |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | 2977 |
 | NIST Public Domain Notice | NIST-PD | 890 |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | 1644 |
@@ -453,6 +467,7 @@
 | Netscape Public License v1.1 | NPL-1.1 | 28009 |
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | 11800 |
 | NRL License | NRL | 3298 |
+| NTIA Public Domain Notice | NTIA-PD | 2086 |
 | NTP License | NTP | 714 |
 | NTP No Attribution | NTP-0 | 528 |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | 3434 |
@@ -564,6 +579,7 @@
 | Secure Messaging Protocol Public License | SMPPL | 3177 |
 | SNIA Public License 1.1 | SNIA | 21717 |
 | snprintf License | snprintf | 209 |
+| SOFA Software License | SOFA | 3869 |
 | softSurfer License | softSurfer | 484 |
 | Soundex License | Soundex | 404 |
 | Spencer License 86 | Spencer-86 | 628 |
@@ -576,6 +592,7 @@
 | SSLeay License - standalone | SSLeay-standalone | 3154 |
 | Server Side Public License, v 1 | SSPL-1.0 | 30609 |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | 22087 |
+| Sustainable Use License v1.0 | SUL-1.0 | 3600 |
 | Sun PPP License | Sun-PPP | 616 |
 | Sun PPP License (2000) | Sun-PPP-2000 | 613 |
 | SunPro License | SunPro | 246 |
@@ -610,6 +627,8 @@
 | Unicode Terms of Use | Unicode-TOU | 6261 |
 | UnixCrypt License | UnixCrypt | 250 |
 | The Unlicense | Unlicense | 1211 |
+| Unlicense - libtelnet variant | Unlicense-libtelnet | 367 |
+| Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | 482 |
 | Universal Permissive License v1.0 | UPL-1.0 | 1837 |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | 771 |
 | Vim License | Vim | 4525 |
