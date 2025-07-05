@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Unlicense-libwhirlpool
+MODULE_LICENSE(Unlicense-libwhirlpool)
+License: Unlicense-libwhirlpool
+Unlicense-libwhirlpool License
+Unlicense - libwhirlpool variant

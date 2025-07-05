@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Aspell-RU
+MODULE_LICENSE(Aspell-RU)
+License: Aspell-RU
+Aspell-RU License
+Aspell Russian License

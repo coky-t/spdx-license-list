@@ -1,0 +1,5 @@
+SPDX-License-Identifier: BSD-2-Clause-pkgconf-disclaimer
+MODULE_LICENSE(BSD-2-Clause-pkgconf-disclaimer)
+License: BSD-2-Clause-pkgconf-disclaimer
+BSD-2-Clause-pkgconf-disclaimer License
+BSD 2-Clause pkgconf disclaimer variant

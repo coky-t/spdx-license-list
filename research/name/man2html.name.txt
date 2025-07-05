@@ -1,0 +1,4 @@
+SPDX-License-Identifier: man2html
+MODULE_LICENSE(man2html)
+License: man2html
+man2html License

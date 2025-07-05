@@ -1,0 +1,5 @@
+SPDX-License-Identifier: SOFA
+MODULE_LICENSE(SOFA)
+License: SOFA
+SOFA License
+SOFA Software License

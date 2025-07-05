@@ -1,0 +1,4 @@
+SPDX-License-Identifier: CryptoSwift
+MODULE_LICENSE(CryptoSwift)
+License: CryptoSwift
+CryptoSwift License

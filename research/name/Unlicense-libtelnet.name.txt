@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Unlicense-libtelnet
+MODULE_LICENSE(Unlicense-libtelnet)
+License: Unlicense-libtelnet
+Unlicense-libtelnet License
+Unlicense - libtelnet variant

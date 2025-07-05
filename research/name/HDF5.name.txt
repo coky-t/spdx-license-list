@@ -1,0 +1,6 @@
+SPDX-License-Identifier: HDF5
+MODULE_LICENSE(HDF5)
+License: HDF5
+HDF5 License
+Hierarchical Data Format 5 License
+Copyright Notice and License Terms for HDF5

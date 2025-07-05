@@ -1,0 +1,5 @@
+SPDX-License-Identifier: FSL-1.1-MIT
+MODULE_LICENSE(FSL-1.1-MIT)
+License: FSL-1.1-MIT
+FSL-1.1-MIT License
+Functional Source License, Version 1.1, MIT Future License

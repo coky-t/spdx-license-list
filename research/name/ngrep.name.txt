@@ -1,0 +1,4 @@
+SPDX-License-Identifier: ngrep
+MODULE_LICENSE(ngrep)
+License: ngrep
+ngrep License

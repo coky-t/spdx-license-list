@@ -1,0 +1,8 @@
+SPDX-License-Identifier: libpng-1.6.35
+MODULE_LICENSE(libpng-1.6.35)
+License: libpng-1.6.35
+libpng-1.6.35 License
+libpng License v1.6.35
+v1.6.35 of the libpng License
+PNG Reference Library License v1 (for libpng 0.5 through 1.6.35)
+version 1 of the PNG Reference Library (for libpng 0.5 through 1.6.35)

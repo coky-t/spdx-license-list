@@ -1,0 +1,5 @@
+SPDX-License-Identifier: DocBook-DTD
+MODULE_LICENSE(DocBook-DTD)
+License: DocBook-DTD
+DocBook-DTD License
+DocBook DTD License

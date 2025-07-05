@@ -1,0 +1,9 @@
+SPDX-License-Identifier: SUL-1.0
+MODULE_LICENSE(SUL-1.0)
+License: SUL-1.0
+SUL-1.0 License
+SUL License v1.0
+v1.0 of the SUL License
+Sustainable Use License v1.0
+Sustainable Use License (SUL), Version 1.0
+v1.0 of the Sustainable Use License

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: NTIA-PD
+MODULE_LICENSE(NTIA-PD)
+License: NTIA-PD
+NTIA-PD License
+NTIA Public Domain Notice

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: jove
+MODULE_LICENSE(jove)
+License: jove
+jove License
+Jove License

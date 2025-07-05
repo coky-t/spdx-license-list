@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Game-Programming-Gems
+MODULE_LICENSE(Game-Programming-Gems)
+License: Game-Programming-Gems
+Game-Programming-Gems License
+Game Programming Gems License
