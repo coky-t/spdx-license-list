@@ -1,0 +1,6 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HDF5(?!\w)
+(?:MODULE_LICENSE|__license__)\W*HDF5(?!\w)
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HDF5(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)HDF5\W*Licen[sc]e
+Hierarchical\W*Data\W*Format\W*5\W*Licen[sc]e
+Copyright\W*Notice\W*and\W*Licen[sc]e\W*Terms\W*for\W*HDF5

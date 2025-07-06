@@ -1,0 +1,5 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-2-Clause-pkgconf-disclaimer
+(?:MODULE_LICENSE|__license__)\W*BSD\W*2\W*Clause\W*pkgconf\W*disclaimer
+Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*2\W*Clause\W*pkgconf\W*disclaimer(?:\W*Licen[sc]e|\W*variant)?
+(?<!\w)BSD\W*2\W*Clause\W*pkgconf\W*disclaimer(?:\W*Licen[sc]e|\W*variant)
+(?<!\w)BSD\W*2\W*Clause\W*Licen[sc]e\W*pkgconf\W*disclaimer(?:\W*variant)?

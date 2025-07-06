@@ -1,0 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Digia-Qt-LGPL-exception-1\.1
+SPDX-Exception-Identifier\W*Digia-Qt-LGPL-exception-1\.1
+Digia\W*Qt\W*(?:LGPL|GNU\W*(?:Library|Lesser)\W*(?:General\W*)?Public\W*Licen[sc]e)\W*exception\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1
