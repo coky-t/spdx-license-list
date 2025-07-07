@@ -1,0 +1,1 @@
+this\W*program(?:me)?\W*is\W*copyright\W*c\W*1986\W*2002\W*by\W*jonathan\W*payne\W*jove\W*is\W*provided\W*by\W*jonathan\W*(?:and|&)\W*jovehacks\W*without\W*charge\W*(?:and|&)\W*without\W*warranty\W*you\W*may\W*copy\W*modify\W*(?:and|&)\W*or\W*distribute\W*jove\W*provided\W*that\W*this\W*notice\W*is\W*included\W*in\W*all\W*the\W*source\W*files\W*(?:and|&)\W*documentation\W*

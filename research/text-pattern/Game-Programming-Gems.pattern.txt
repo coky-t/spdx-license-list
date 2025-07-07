@@ -1,0 +1,1 @@
+this\W*software\W*is\W*provided\W*as\W*is\W*without\W*express\W*or\W*implied\W*warranties\W*you\W*may\W*freely\W*copy\W*(?:and|&)\W*compile\W*this\W*source\W*into\W*applications\W*you\W*distribute\W*provided\W*that\W*the\W*copyright\W*text\W*below\W*is\W*included\W*in\W*the\W*resulting\W*source\W*code\W*for\W*example\W*portions\W*copyright\W*c\W*scott\W*bilas\W*2000\W*

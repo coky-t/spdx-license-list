@@ -1,0 +1,1 @@
+permission\W*is\W*granted\W*to\W*distribute\W*modify\W*(?:and|&)\W*use\W*this\W*program(?:me)?\W*as\W*long\W*as\W*this\W*comment\W*is\W*not\W*removed\W*or\W*changed\W*
