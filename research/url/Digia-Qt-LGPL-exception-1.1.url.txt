@@ -1,0 +1,1 @@
+https://spdx.org/licenses/Digia-Qt-LGPL-exception-1.1.html
