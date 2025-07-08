@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/FSL-1\.1-ALv2\.html

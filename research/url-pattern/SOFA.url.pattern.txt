@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/SOFA\.html
+http://www\.iausofa\.org/tandc\.html
