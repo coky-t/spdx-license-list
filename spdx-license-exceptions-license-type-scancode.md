@@ -17,7 +17,7 @@
 | Classpath exception 2.0 | Classpath-exception-2.0 | Copyleft Limited |
 | CLISP exception 2.0 | CLISP-exception-2.0 | Copyleft Limited |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | Copyleft |
-| Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | |
+| Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | Copyleft Limited |
 | DigiRule FOSS License Exception | DigiRule-FOSS-exception | Copyleft Limited |
 | eCos exception 2.0 | eCos-exception-2.0 | Copyleft Limited |
 | Erlang/OTP Linking Exception | erlang-otp-linking-exception | Copyleft Limited |
@@ -59,7 +59,7 @@
 | OpenJDK Assembly exception 1.0 | OpenJDK-assembly-exception-1.0 | Copyleft Limited |
 | OpenVPN OpenSSL Exception | openvpn-openssl-exception | Copyleft Limited |
 | PCRE2 exception | PCRE2-exception | Unstated License |
-| Polyparse Exception | polyparse-exception | |
+| Polyparse Exception | polyparse-exception | Copyleft Limited |
 | PS/PDF font exception (2017-08-17) | PS-or-PDF-font-exception-20170817 | Copyleft Limited |
 | INRIA QPL 1.0 2004 variant exception | QPL-1.0-INRIA-2004-exception | Copyleft Limited |
 | Qt GPL exception 1.0 | Qt-GPL-exception-1.0 | Copyleft Limited |
