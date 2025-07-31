@@ -47,8 +47,8 @@
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | Copyleft Limited |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | Copyleft Limited |
 | Artistic License 2.0 | Artistic-2.0 | Copyleft Limited |
-| Artistic License 1.0 (dist) | Artistic-dist | |
-| Aspell Russian License | Aspell-RU | |
+| Artistic License 1.0 (dist) | Artistic-dist | Copyleft Limited |
+| Aspell Russian License | Aspell-RU | Permissive |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | Free Restricted |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | Free Restricted |
 | Baekmuk License | Baekmuk | Permissive |
@@ -72,7 +72,7 @@
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | Permissive |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | Permissive |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Permissive |
-| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | |
+| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | Permissive |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | Permissive |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Permissive |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | Permissive |
@@ -204,7 +204,7 @@
 | Code Project Open License 1.02 | CPOL-1.02 | Free Restricted |
 | Cronyx License | Cronyx | Permissive |
 | Crossword License | Crossword | Permissive |
-| CryptoSwift License | CryptoSwift | |
+| CryptoSwift License | CryptoSwift | Permissive |
 | CrystalStacker License | CrystalStacker | Permissive |
 | CUA Office Public License v1.0 | CUA-OPL-1.0 | Copyleft Limited |
 | Cube License | Cube | Permissive |
@@ -216,7 +216,7 @@
 | Data licence Germany - attribution - version 2.0 | DL-DE-BY-2.0 | Permissive |
 | Data licence Germany – zero – version 2.0 | DL-DE-ZERO-2.0 | Permissive |
 | DOC License | DOC | Permissive |
-| DocBook DTD License | DocBook-DTD | |
+| DocBook DTD License | DocBook-DTD | Permissive |
 | DocBook Schema License | DocBook-Schema | Permissive |
 | DocBook Stylesheet License | DocBook-Stylesheet | Permissive |
 | DocBook XML License | DocBook-XML | Permissive |
@@ -254,14 +254,14 @@
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | Permissive |
 | FSF Unlimited License | FSFUL | Public Domain |
 | FSF Unlimited License (with License Retention) | FSFULLR | Permissive |
-| FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | |
+| FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | Permissive |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | Permissive |
-| Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | |
-| Functional Source License, Version 1.1, MIT Future License | FSL-1.1-MIT | |
+| Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | Source-available |
+| Functional Source License, Version 1.1, MIT Future License | FSL-1.1-MIT | Source-available |
 | Freetype Project License | FTL | Permissive |
 | Furuseth License | Furuseth | Permissive |
 | fwlw License | fwlw | Permissive |
-| Game Programming Gems License | Game-Programming-Gems | |
+| Game Programming Gems License | Game-Programming-Gems | Permissive |
 | Gnome GCR Documentation License | GCR-docs | Copyleft Limited |
 | GD License | GD | Permissive |
 | Generic XTS License | generic-xts | Permissive |
@@ -300,7 +300,7 @@
 | gtkbook License | gtkbook | Permissive |
 | Gutmann License | Gutmann | Permissive |
 | Haskell Language Report License | HaskellReport | Permissive |
-| HDF5 License | HDF5 | |
+| HDF5 License | HDF5 | Permissive |
 | hdparm License | hdparm | Permissive |
 | HIDAPI License | HIDAPI | Permissive |
 | Hippocratic License 2.1 | Hippocratic-2.1 | Free Restricted |
@@ -351,7 +351,7 @@
 | ISC Veillard variant | ISC-Veillard | Permissive |
 | Jam License | Jam | Permissive |
 | JasPer License | JasPer-2.0 | Permissive |
-| Jove License | jove | |
+| Jove License | jove | Permissive |
 | JPL Image Use Policy | JPL-image | Source-available |
 | Japan Network Information Center License | JPNIC | Permissive |
 | JSON License | JSON | Permissive |
@@ -371,7 +371,7 @@
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | Copyleft Limited  |
 | Lesser General Public License For Linguistic Resources | LGPLLR | Copyleft Limited |
 | libpng License | Libpng | Permissive |
-| PNG Reference Library License v1 (for libpng 0.5 through 1.6.35) | libpng-1.6.35 | |
+| PNG Reference Library License v1 (for libpng 0.5 through 1.6.35) | libpng-1.6.35 | Permissive |
 | PNG Reference Library version 2 | libpng-2.0 | Permissive |
 | libselinux public domain notice | libselinux-1.0 | Public Domain |
 | libtiff License | libtiff | Permissive |
@@ -402,7 +402,7 @@
 | magaz License | magaz | Permissive |
 | mailprio License | mailprio | Permissive |
 | MakeIndex License | MakeIndex | Copyleft |
-| man2html License | man2html | |
+| man2html License | man2html | Permissive |
 | Martin Birgmeier License | Martin-Birgmeier | Permissive |
 | McPhee Slideshow License | McPhee-slideshow | Permissive |
 | metamail License | metamail | Permissive |
@@ -452,7 +452,7 @@
 | NetCDF license | NetCDF | Permissive |
 | Newsletr License | Newsletr | Permissive |
 | Nethack General Public License | NGPL | Copyleft Limited |
-| ngrep License | ngrep | |
+| ngrep License | ngrep | Permissive |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | Permissive |
 | NIST Public Domain Notice | NIST-PD | Public Domain |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | Permissive |
@@ -467,7 +467,7 @@
 | Netscape Public License v1.1 | NPL-1.1 | Copyleft Limited |
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | Copyleft |
 | NRL License | NRL | Permissive |
-| NTIA Public Domain Notice | NTIA-PD | |
+| NTIA Public Domain Notice | NTIA-PD | Public Domain |
 | NTP License | NTP | Permissive |
 | NTP No Attribution | NTP-0 | Permissive |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | Permissive |
@@ -579,7 +579,7 @@
 | Secure Messaging Protocol Public License | SMPPL | Copyleft Limited |
 | SNIA Public License 1.1 | SNIA | Copyleft |
 | snprintf License | snprintf | Permissive |
-| SOFA Software License | SOFA | |
+| SOFA Software License | SOFA | Proprietary Free |
 | softSurfer License | softSurfer | Permissive |
 | Soundex License | Soundex | Permissive |
 | Spencer License 86 | Spencer-86 | Permissive |
@@ -592,7 +592,7 @@
 | SSLeay License - standalone | SSLeay-standalone | Permissive |
 | Server Side Public License, v 1 | SSPL-1.0 | Source-available |
 | SugarCRM Public License v1.1.3 | SugarCRM-1.1.3 | Copyleft |
-| Sustainable Use License v1.0 | SUL-1.0 | |
+| Sustainable Use License v1.0 | SUL-1.0 | Free Restricted |
 | Sun PPP License | Sun-PPP | Permissive |
 | Sun PPP License (2000) | Sun-PPP-2000 | Permissive |
 | SunPro License | SunPro | Permissive |
@@ -627,8 +627,8 @@
 | Unicode Terms of Use | Unicode-TOU | Proprietary Free |
 | UnixCrypt License | UnixCrypt | Permissive |
 | The Unlicense | Unlicense | Public Domain |
-| Unlicense - libtelnet variant | Unlicense-libtelnet | |
-| Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | |
+| Unlicense - libtelnet variant | Unlicense-libtelnet | Public Domain |
+| Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | Public Domain |
 | Universal Permissive License v1.0 | UPL-1.0 | Permissive |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | Copyleft Limited |
 | Vim License | Vim | Copyleft |
