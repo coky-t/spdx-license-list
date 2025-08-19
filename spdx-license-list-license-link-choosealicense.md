@@ -72,7 +72,7 @@
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | |
-|| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | |
+| BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | |
  BSD 2-Clause with views sentence | BSD-2-Clause-Views | |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | [BSD 3-Clause "New" or "Revised" License](https://choosealicense.com/licenses/bsd-3-clause/) |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | |
