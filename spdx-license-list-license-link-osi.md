@@ -16,7 +16,7 @@
 | Academic Free License v1.2 | AFL-1.2 | |
 | Academic Free License v2.0 | AFL-2.0 | |
 | Academic Free License v2.1 | AFL-2.1 | |
-| Academic Free License v3.0 | AFL-3.0 | [Academic Free License ("AFL") v. 3.0](https://opensource.org/license/afl-3-0-php/) |
+| Academic Free License v3.0 | AFL-3.0 | [Academic Free License v. 3.0](https://opensource.org/license/afl-3-0-php/) |
 | Afmparse License | Afmparse | |
 | Affero General Public License v1.0 only | AGPL-1.0-only | |
 | Affero General Public License v1.0 or later | AGPL-1.0-or-later | |
@@ -41,12 +41,12 @@
 | Apple Public Source License 1.0 | APSL-1.0 | |
 | Apple Public Source License 1.1 | APSL-1.1 | |
 | Apple Public Source License 1.2 | APSL-1.2 | |
-| Apple Public Source License 2.0 | APSL-2.0 | [Apple Public Source License 2.0](https://opensource.org/license/apsl-2-0-php/) |
+| Apple Public Source License 2.0 | APSL-2.0 | [Apple Public Source License 2.0](https://opensource.org/license/apsl-2-0/) |
 | Arphic Public License | Arphic-1999 | |
 | Artistic License 1.0 | Artistic-1.0 | [Artistic License 1.0](https://opensource.org/license/artistic-1-0/) |
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | [Artistic License (Perl) 1.0](https://opensource.org/license/artistic-perl-1-0-2/) |
-| Artistic License 2.0 | Artistic-2.0 | [Artistic License 2.0](https://opensource.org/license/artistic-license-2-0-php/) |
+| Artistic License 2.0 | Artistic-2.0 | [Artistic License 2.0](https://opensource.org/license/artistic-2-0/) |
 | Artistic License 1.0 (dist) | Artistic-dist | |
 | Aspell Russian License | Aspell-RU | |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | |
@@ -61,7 +61,7 @@
 | BitTorrent Open Source License v1.0 | BitTorrent-1.0 | |
 | BitTorrent Open Source License v1.1 | BitTorrent-1.1 | |
 | SQLite Blessing | blessing | |
-| Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | |
+| Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | [Blue Oak Model License](https://opensource.org/license/blue-oak-model-license) |
 | Boehm-Demers-Weiser GC License | Boehm-GC | |
 | Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | |
 | Borceux license | Borceux | |
@@ -86,7 +86,7 @@
 | BSD 3-Clause No Nuclear License | BSD-3-Clause-No-Nuclear-License | |
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | |
-| BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | |
+| BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | [BSD-3-Clause-Open-MPI](https://opensource.org/license/bsd-3-clause-open-mpi) |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | |
@@ -167,7 +167,7 @@
 | Creative Commons Share Alike 1.0 Generic | CC-SA-1.0 | |
 | Creative Commons Zero v1.0 Universal | CC0-1.0 | |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | [Common Development and Distribution License 1.0](https://opensource.org/license/cddl-1-0/) |
-| Common Development and Distribution License 1.1 | CDDL-1.1 | |
+| Common Development and Distribution License 1.1 | CDDL-1.1 | [COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL)](https://opensource.org/license/cddl-1-1/) |
 | Common Documentation License 1.0 | CDL-1.0 | |
 | Community Data License Agreement Permissive 1.0 | CDLA-Permissive-1.0 | |
 | Community Data License Agreement Permissive 2.0 | CDLA-Permissive-2.0 | |
@@ -234,7 +234,7 @@
 | Elastic License 2.0 | Elastic-2.0 | |
 | Entessa Public License v1.0 | Entessa | [Entessa Public License Version. 1.0](https://opensource.org/license/entessa/) |
 | EPICS Open License | EPICS | |
-| Eclipse Public License 1.0 | EPL-1.0 | [Eclipse Public License 1.0](https://opensource.org/license/eclipse-1-0-php/) |
+| Eclipse Public License 1.0 | EPL-1.0 | [Eclipse Public License -v 1.0](https://opensource.org/license/epl-1-0) |
 | Eclipse Public License 2.0 | EPL-2.0 | [Eclipse Public License version 2.0](https://opensource.org/license/epl-2-0/) |
 | Erlang Public License v1.1 | ErlPL-1.1 | |
 | Etalab Open License 2.0 | etalab-2.0 | |
@@ -243,7 +243,7 @@
 | European Union Public License 1.1 | EUPL-1.1 | [The European Union Public License, version 1.1](https://opensource.org/license/eupl-1-1/) |
 | European Union Public License 1.2 | EUPL-1.2 | [European Union Public License, version 1.2](https://opensource.org/license/eupl-1-2/) |
 | Eurosym License | Eurosym | |
-| Fair License | Fair | [Fair License](https://opensource.org/license/fair-php/) |
+| Fair License | Fair | [Fair License](https://opensource.org/license/fair/) |
 | Fuzzy Bitmap License | FBM | |
 | Fraunhofer FDK AAC Codec Library | FDK-AAC | |
 | Ferguson Twofish License | Ferguson-Twofish | |
@@ -332,7 +332,7 @@
 | Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | |
 | HTML Tidy License | HTMLTIDY | |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | |
-| ICU License | ICU | |
+| ICU License | ICU | [ICU License](https://opensource.org/license/icu-license/) |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
 | Independent JPEG Group License | IJG | |
 | Independent JPEG Group License - short | IJG-short | |
@@ -376,9 +376,9 @@
 | libselinux public domain notice | libselinux-1.0 | |
 | libtiff License | libtiff | |
 | libutil David Nugent License | libutil-David-Nugent | |
-| Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | [Licence Libre du Québec - Permissive (LiLiQ-P) version 1.1](https://opensource.org/license/liliq-p-1-1/) |
-| Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | [Licence Libre du Québec - Réciprocité (LiLiQ-R) version 1.1](https://opensource.org/license/liliq-r-1-1/) |
-| Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | [Licence Libre du Québec – Réciprocité forte (LiLiQ-R+) version 1.1](https://opensource.org/license/liliq-rplus-1-1/) |
+| Licence Libre du Québec – Permissive version 1.1 | LiLiQ-P-1.1 | [Licence Libre du Québec - Permissive version 1.1](https://opensource.org/license/liliq-p-1-1/) |
+| Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | [Licence Libre du Québec - Réciprocité version 1.1](https://opensource.org/license/liliq-r-1-1/) |
+| Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | [Licence Libre du Québec – Réciprocité forte version 1.1](https://opensource.org/license/liliq-rplus-1-1/) |
 | Linux man-pages - 1 paragraph | Linux-man-pages-1-para | |
 | Linux man-pages Copyleft | Linux-man-pages-copyleft | |
 | Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | |
@@ -413,7 +413,7 @@
 | MIT No Attribution | MIT-0 | [MIT No Attribution License](https://opensource.org/license/mit-0/) |
 | Enlightenment License (e16) | MIT-advertising | |
 | MIT Click License | MIT-Click | |
-| CMU License | MIT-CMU | |
+| CMU License | MIT-CMU | [CMU License](https://opensource.org/license/cmu-license) |
 | enna License | MIT-enna | |
 | feh License | MIT-feh | |
 | MIT Festival Variant | MIT-Festival | |
@@ -424,12 +424,12 @@
 | MIT Tom Wu Variant | MIT-Wu | |
 | MIT +no-false-attribs license | MITNFA | |
 | MMIXware License | MMIXware | |
-| Motosoto License | Motosoto | [Motosoto Open Source License – Version 0.9.1](https://opensource.org/license/motosoto-php/) |
+| Motosoto License | Motosoto | [Motosoto Open Source License](https://opensource.org/license/motosoto) |
 | MPEG Software Simulation | MPEG-SSG | |
 | mpi Permissive License | mpi-permissive | |
 | mpich2 License | mpich2 | |
-| Mozilla Public License 1.0 | MPL-1.0 | [Mozilla Public License (MPL), version 1.0](https://opensource.org/license/mpl-1-0/) |
-| Mozilla Public License 1.1 | MPL-1.1 | [Mozilla Public License 1.1](https://opensource.org/license/mozilla1-1-php/) |
+| Mozilla Public License 1.0 | MPL-1.0 | [Mozilla Public License, version 1.0](https://opensource.org/license/mpl-1-0/) |
+| Mozilla Public License 1.1 | MPL-1.1 | [Mozilla Public License 1.1](https://opensource.org/license/mpl-1-1/) |
 | Mozilla Public License 2.0 | MPL-2.0 | [Mozilla Public License 2.0](https://opensource.org/license/mpl-2-0/) |
 | Mozilla Public License 2.0 (no copyleft exception) | MPL-2.0-no-copyleft-exception | |
 | mplus Font License | mplus | |
@@ -451,7 +451,7 @@
 | University of Illinois/NCSA Open Source License | NCSA | [The University of Illinois/NCSA Open Source License](https://opensource.org/license/uoi-ncsa-php/) |
 | NetCDF license | NetCDF | |
 | Newsletr License | Newsletr | |
-| Nethack General Public License | NGPL | [The Nethack General Public License](https://opensource.org/license/nethack-php/) |
+| Nethack General Public License | NGPL | [The Nethack General Public License](https://opensource.org/license/nethack/) |
 | ngrep License | ngrep | |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | |
 | NIST Public Domain Notice | NIST-PD | |
@@ -538,7 +538,7 @@
 | Python Software Foundation License 2.0 | PSF-2.0 | |
 | psfrag License | psfrag | |
 | psutils License | psutils | |
-| Python License 2.0 | Python-2.0 | [Python License](https://opensource.org/license/pythonsoftfoundation-php/) |
+| Python License 2.0 | Python-2.0 | [Python License, Version 2](https://opensource.org/license/python-2-0) |
 | Python License 2.0.1 | Python-2.0.1 | |
 | Python ldap License | python-ldap | |
 | Qhull License | Qhull | |
@@ -622,21 +622,21 @@
 | ulem License | ulem | |
 | Michigan/Merit Networks License | UMich-Merit | |
 | Unicode License v3 | Unicode-3.0 | [UNICODE LICENSE V3](https://opensource.org/license/unicode-license-v3/) |
-| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | |
-| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | [Unicode, Inc. License Agreement - Data Files and Software](https://opensource.org/license/unicode-inc-license-agreement-data-files-and-software/) |
+| Unicode License Agreement - Data Files and Software (2015) | Unicode-DFS-2015 | [Unicode, Inc. License Agreement - Data Files and Software](https://opensource.org/license/unicode-inc-license-agreement-data-files-and-software/) |
+| Unicode License Agreement - Data Files and Software (2016) | Unicode-DFS-2016 | |
 | Unicode Terms of Use | Unicode-TOU | |
 | UnixCrypt License | UnixCrypt | |
 | The Unlicense | Unlicense | [The Unlicense](https://opensource.org/license/unlicense/) |
 | Unlicense - libtelnet variant | Unlicense-libtelnet | |
 | Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | |
-| Universal Permissive License v1.0 | UPL-1.0 | [The Universal Permissive License (UPL), Version 1.0](https://opensource.org/license/upl/) |
+| Universal Permissive License v1.0 | UPL-1.0 | [The Universal Permissive License Version 1.0](https://opensource.org/license/upl/) |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
 | Vim License | Vim | |
 | VOSTROM Public License for Open Source | VOSTROM | |
 | Vovida Software License v1.0 | VSL-1.0 | [The Vovida Software License v. 1.0](https://opensource.org/license/vovidapl-php/) |
-| W3C Software Notice and License (2002-12-31) | W3C | [The W3C® SOFTWARE NOTICE AND LICENSE](https://opensource.org/license/w3c-php/) |
+| W3C Software Notice and License (2002-12-31) | W3C | |
 | W3C Software Notice and License (1998-07-20) | W3C-19980720 | |
-| W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | |
+| W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | [The W3C® Software and Document license](https://opensource.org/license/w3c) |
 | w3m License | w3m | |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | [The Sybase Open Source Licence](https://opensource.org/license/sybase-php/) |
 | Widget Workshop License | Widget-Workshop | |
@@ -664,10 +664,10 @@
 | Zend License v2.0 | Zend-2.0 | |
 | Zimbra Public License v1.3 | Zimbra-1.3 | |
 | Zimbra Public License v1.4 | Zimbra-1.4 | |
-| zlib License | Zlib | [The zlib/libpng License](https://opensource.org/license/zlib-license-php/) |
+| zlib License | Zlib | [The zlib/libpng License](https://opensource.org/license/zlib/) |
 | zlib/libpng License with Acknowledgement | zlib-acknowledgement | |
 | Zope Public License 1.1 | ZPL-1.1 | |
-| Zope Public License 2.0 | ZPL-2.0 | [Zope Public License Ver.2.0](https://opensource.org/license/zpl-php/) |
+| Zope Public License 2.0 | ZPL-2.0 | [Zope Public License 2.0](https://opensource.org/license/zpl-2-0/) |
 | Zope Public License 2.1 | ZPL-2.1 | [Zope Public License 2.1](https://opensource.org/license/zpl-2-1/) |
 
 ## Deprecated
