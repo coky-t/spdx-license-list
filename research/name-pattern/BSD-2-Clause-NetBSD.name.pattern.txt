@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-2-Clause-NetBSD
 (?:MODULE_LICENSE|__license__)\W*BSD\W*2\W*Clause\W*NetBSD
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*2\W*Clause\W*NetBSD(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*2\W*Clause\W*NetBSD(?:\W*Licen[sc]e)?
 (?<!\w)BSD\W*2\W*Clause\W*NetBSD\W*Licen[sc]e

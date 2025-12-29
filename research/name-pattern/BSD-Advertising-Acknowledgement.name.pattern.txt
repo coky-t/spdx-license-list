@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-Advertising-Acknowledgement(?!\w)
 (?:MODULE_LICENSE|__license__)\W*BSD\W*Advertising\W*Acknowledge?ment(?!\w)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*Advertising\W*Acknowledge?ment(?:\W*Licen[sc]e|(?!\w))
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*Advertising\W*Acknowledge?ment(?:\W*Licen[sc]e|(?!\w))
 (?<!\w)BSD\W*Advertising\W*Acknowledge?ment\W*Licen[sc]e
