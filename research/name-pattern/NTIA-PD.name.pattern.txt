@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*NTIA-PD(?!\w)
 (?:MODULE_LICENSE|__license__)\W*NTIA\W*PD(?!\w)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NTIA\W*PD(?:\W*Licen[sc]e|(?!\w))
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)NTIA\W*PD(?:\W*Licen[sc]e|(?!\w))
 (?<!\w)NTIA\W*PD\W*Licen[sc]e
 NTIA\W*Public\W*Domain\W*Notice
