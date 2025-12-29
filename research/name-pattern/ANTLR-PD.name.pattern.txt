@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ANTLR-PD(?!\w|-fallback)
 (?:MODULE_LICENSE|__license__)\W*ANTLR\W*PD(?!\w|\W*fallback)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ANTLR\W*PD(?!\w|\W*fallback)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ANTLR\W*PD(?!\w|\W*fallback)
 (?<!\w)ANTLR\W*PD\W*Licen[sc]e(?!\W*with\W*licen[sc]e\W*fallback)
 (?<!\w)ANTLR\W*Software\W*Rights\W*Notice(?!\W*with\W*licen[sc]e\W*fallback)

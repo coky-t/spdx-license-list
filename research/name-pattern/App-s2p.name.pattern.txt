@@ -1,4 +1,4 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*App-s2p(?!\w)
 (?:MODULE_LICENSE|__license__)\W*App\W*s2p(?!\w)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)App\W*s2p(?:\W*Licen[sc]e|(?!\w))
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)App\W*s2p(?:\W*Licen[sc]e|(?!\w))
 (?<!\w)App\W*s2p\W*Licen[sc]e
