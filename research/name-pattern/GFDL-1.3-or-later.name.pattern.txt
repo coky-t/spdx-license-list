@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*GFDL-1\.3-or-later
 (?:MODULE_LICENSE|__license__)\W*GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*later(?!\W*invariants|\W*no\W*invariants)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*later(?!\W*invariants|\W*no\W*invariants)(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*later(?!\W*invariants|\W*no\W*invariants)(?:\W*Licen[sc]e)?
 (?<!\w)GFDL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*later\W*Licen[sc]e
 (?<!\w)GFDL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.3\W*or\W*later(?!\W*invariants|\W*no\W*invariants)
 v(?:er(?:sion|\.)?|\.)?\W*1\.3\W*or\W*later\W*of\W*(?:the\W*)?GFDL\W*Licen[sc]e(?!\W*invariants|\W*no\W*invariants)
