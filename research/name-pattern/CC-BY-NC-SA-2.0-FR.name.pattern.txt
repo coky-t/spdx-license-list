@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-NC-SA-2\.0-FR
 (?:MODULE_LICENSE|__license__)\W*CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*FR
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*FR(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*FR(?:\W*Licen[sc]e)?
 (?<!\w)CC\W*BY\W*NC\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*FR\W*Licen[sc]e
 Creative\W*Commons\W*Attribution\W*Non\W*Commercial\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*France
 Creative\W*Commons\W*Paternité\W*Pas\W*d\W*Utilisation\W*Commerciale\W*Partage\W*Des\W*Conditions\W*Initiales\W*A\W*l\W*Identique\W*2(?:\.0)?

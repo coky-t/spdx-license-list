@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-SA-2\.1-JP
 (?:MODULE_LICENSE|__license__)\W*CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*JP
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*JP(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*JP(?:\W*Licen[sc]e)?
 (?<!\w)CC\W*BY\W*SA\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*JP\W*Licen[sc]e
 Creative\W*Commons\W*Attribution\W*Share\W*Alike\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.1\W*Japan
 アトリビューション\W*シェアアライク\W*2\.1(?:\W*帰属\W*同一条件許諾)?

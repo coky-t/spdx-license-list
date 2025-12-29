@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CC-BY-3\.0-US
 (?:MODULE_LICENSE|__license__)\W*CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*US
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*US
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*US
 (?<!\w)CC\W*BY\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*US\W*Licen[sc]e
 Creative\W*Commons\W*Attribution\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?3(?:\.0)?\W*United\W*States

@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*CAL-1\.0-Combined-Work-Exception
 (?:MODULE_LICENSE|__license__)\W*CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*(?:with\W*)?Combined\W*Work\W*Exception
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*(?:with\W*)?Combined\W*Work\W*Exception
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*(?:with\W*)?Combined\W*Work\W*Exception
 (?<!\w)CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*(?:with\W*)?Combined\W*Work\W*Exception\W*Licen[sc]e
 (?<!\w)CAL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*Licen[sc]e\W*(?:with\W*)?Combined\W*Work\W*Exception
 (?<!\w)CAL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(?:\.0)?\W*(?:with\W*)?Combined\W*Work\W*Exception
