@@ -1,5 +1,5 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*HPND-UC(?!-export)
 (?:MODULE_LICENSE|__license__)\W*HPND\W*UC(?!\W*export)
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*UC(?!\W*export)(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)HPND\W*UC(?!\W*export)(?:\W*Licen[sc]e)?
 (?<!\w)HPND\W*UC\W*Licen[sc]e(?!\W*export)
 Historical\W*Permission\W*Notice\W*and\W*Disclaimer\W*University\W*of\W*California\W*variant
