@@ -1,6 +1,6 @@
 SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*DL-DE-ZERO-2\.0
 (?:MODULE_LICENSE|__license__)\W*DL\W*DE\W*ZERO\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
-Licen[sc]e(?:\W*|d\W*under\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)DL\W*DE\W*ZERO\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\W*Licen[sc]e)?
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)DL\W*DE\W*ZERO\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?(?:\W*Licen[sc]e)?
 (?<!\w)DL\W*DE\W*ZERO\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?\W*Licen[sc]e
 (?<!\w)DL\W*DE\W*ZERO\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2(?:\.0)?
 v(?:er(?:sion|\.)?|\.)?\W*2(?:\.0)?\W*of\W*(?:the\W*)?DL\W*DE\W*ZERO\W*Licen[sc]e
