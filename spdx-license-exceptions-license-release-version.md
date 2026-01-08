@@ -83,9 +83,9 @@
 
 ## Deprecated
 
-| License Name | Identifier | Release | Deprecated |
-| ------------ | ---------- | ------- | ---------- |
-| Nokia Qt LGPL exception 1.1 | Nokia-Qt-exception-1.1 | 2.1 | 3.1 |
+| License Name | Identifier | Release | Deprecated | Replace To |
+| ------------ | ---------- | ------- | ---------- | ---------- |
+| Nokia Qt LGPL exception 1.1 | Nokia-Qt-exception-1.1 | 2.1 | 3.1 | Qt-LGPL-exception-1.1 |
 
 ## Reference
 
