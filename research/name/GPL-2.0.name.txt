@@ -13,3 +13,6 @@ GNU General Public License ("GPL") version 2
 v2.0 of the GNU General Public License
 GNU GPL License version 2
 version 2 of the GNU GPL
+GPLv2
+GPL v2 terms
+GNU GPLv2
