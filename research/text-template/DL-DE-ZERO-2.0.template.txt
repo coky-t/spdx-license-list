@@ -1,6 +1,4 @@
-<<beginOptional>>DL-DE->Zero-2.0<<endOptional>><<beginOptional>> Datenlizenz Deutschland – Zero – Version 2.0<<endOptional>>
-
-   Jede Nutzung ist ohne Einschränkungen oder Bedingungen zulässig.
+Jede Nutzung ist ohne Einschränkungen oder Bedingungen zulässig.
 
    Die bereitgestellten Daten und Metadaten dürfen für die kommerzielle und nicht kommerzielle Nutzung insbesondere
 
