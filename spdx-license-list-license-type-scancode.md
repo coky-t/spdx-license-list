@@ -12,6 +12,7 @@
 | Adobe Glyph List License | Adobe-Glyph | Permissive |
 | Adobe Utopia Font License | Adobe-Utopia | Permissive |
 | Amazon Digital Services License | ADSL | Permissive |
+| Advanced Cryptics Dictionary License | Advanced-Cryptics-Dictionary | |
 | Academic Free License v1.1 | AFL-1.1 | Permissive |
 | Academic Free License v1.2 | AFL-1.2 | Permissive |
 | Academic Free License v2.0 | AFL-2.0 | Permissive |
@@ -23,6 +24,7 @@
 | GNU Affero General Public License v3.0 only | AGPL-3.0-only | Copyleft |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | Copyleft |
 | Aladdin Free Public License | Aladdin | Copyleft |
+| ALGLIB Documentation License | ALGLIB-Documentation | |
 | AMD newlib License | AMD-newlib | Permissive |
 | AMD's plpa_map.c License | AMDPLPA | Permissive |
 | Apple MIT License | AML | Permissive |
@@ -64,6 +66,7 @@
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | Permissive |
 | Boehm-Demers-Weiser GC License | Boehm-GC | Permissive |
 | Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | Permissive |
+| Buena Onda License Agreement v1.1 | BOLA-1.1 | |
 | Borceux license | Borceux | Permissive |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | Permissive |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | Permissive |
@@ -88,6 +91,7 @@
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | Free Restricted |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | Permissive |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | Permissive |
+| BSD 3-Clause Tso variant | BSD-3-Clause-Tso | |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | Permissive |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | Permissive |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | Permissive |
@@ -96,12 +100,14 @@
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | Permissive |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | Permissive |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | Permissive |
+| BSD Mark Modifications License | BSD-Mark-Modifications | |
 | BSD Protection License | BSD-Protection | Copyleft |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | Permissive |
 | BSD Source Code Attribution | BSD-Source-Code | Permissive |
 | Systemics BSD variant license | BSD-Systemics | Permissive |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | Permissive |
 | Boost Software License 1.0 | BSL-1.0 | Permissive |
+| Buddy License | Buddy | |
 | Business Source License 1.1 | BUSL-1.1 | Source-available |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | Permissive |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | Free Restricted |
@@ -109,6 +115,7 @@
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | Copyleft Limited |
 | Caldera License | Caldera | Free Restricted |
 | Caldera License (without preamble) | Caldera-no-preamble | Permissive |
+| Common Attack Pattern Enumeration and Classification License | CAPEC-tou | |
 | Catharon License | Catharon | Permissive |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | Copyleft Limited |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | Permissive |
@@ -237,6 +244,9 @@
 | Eclipse Public License 1.0 | EPL-1.0 | Copyleft Limited |
 | Eclipse Public License 2.0 | EPL-2.0 | Copyleft Limited |
 | Erlang Public License v1.1 | ErlPL-1.1 | Copyleft |
+| European Space Agency Public License – v2.4 – Permissive (Type 3) | ESA-PL-permissive-2.4 | |
+| European Space Agency Public License (ESA-PL) - V2.4 - Strong Copyleft (Type 1) | ESA-PL-strong-copyleft-2.4 | |
+| European Space Agency Public License – v2.4 – Weak Copyleft (Type 2) | ESA-PL-weak-copyleft-2.4 | |
 | Etalab Open License 2.0 | etalab-2.0 | Permissive |
 | EU DataGrid Software License | EUDatagrid | Permissive |
 | European Union Public License 1.0 | EUPL-1.0 | Copyleft |
@@ -326,11 +336,14 @@
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | Permissive |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | Permissive |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | Permissive |
+| HPND - sell variant with safety critical systems clause | HPND-sell-variant-critical-systems | |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | Permissive |
 | HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | Permissive |
+| Historical Permission Notice and Disclaimer - SMC variant | HPND-SMC | |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | Permissive |
 | Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | Free Restricted |
 | HTML Tidy License | HTMLTIDY | Permissive |
+| hyphen-bulgarian License | hyphen-bulgarian | |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | Permissive |
 | ICU License | ICU | Permissive |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | Permissive |
@@ -349,6 +362,7 @@
 | IBM Public License v1.0 | IPL-1.0 | Copyleft Limited |
 | ISC License | ISC | Permissive |
 | ISC Veillard variant | ISC-Veillard | Permissive |
+| ISO permission notice | ISO-permission | |
 | Jam License | Jam | Permissive |
 | JasPer License | JasPer-2.0 | Permissive |
 | Jove License | jove | Permissive |
@@ -420,10 +434,12 @@
 | MIT Khronos - old variant | MIT-Khronos-old | Permissive |
 | MIT License Modern Variant | MIT-Modern-Variant | Permissive |
 | MIT Open Group variant | MIT-open-group | Permissive |
+| MIT-STK License | MIT-STK | |
 | MIT testregex Variant | MIT-testregex | Permissive |
 | MIT Tom Wu Variant | MIT-Wu | Permissive |
 | MIT +no-false-attribs license | MITNFA | Permissive |
 | MMIXware License | MMIXware | Permissive |
+| Minecraft Mod Public License v1.0.1 | MMPL-1.0.1 | |
 | Motosoto License | Motosoto | Copyleft |
 | MPEG Software Simulation | MPEG-SSG | Permissive |
 | mpi Permissive License | mpi-permissive | Permissive |
@@ -456,6 +472,7 @@
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | Permissive |
 | NIST Public Domain Notice | NIST-PD | Public Domain |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | Permissive |
+| NIST Public Domain Notice TNT variant | NIST-PD-TNT | |
 | NIST Software License | NIST-Software | Permissive |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | Permissive |
 | Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | Permissive |
@@ -508,6 +525,7 @@
 | Open LDAP Public License v2.8 | OLDAP-2.8 | Permissive |
 | Open Logistics Foundation License Version 1.3 | OLFL-1.3 | Permissive |
 | Open Market License | OML | Permissive |
+| OpenMDW License Agreement v1.0 | OpenMDW-1.0 | |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | Copyleft Limited |
 | OpenSSL License | OpenSSL | Permissive |
 | OpenSSL License - standalone | OpenSSL-standalone | Permissive |
@@ -515,13 +533,16 @@
 | Open Public License v1.0 | OPL-1.0 | Copyleft Limited |
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | Permissive |
 | Open Publication License v1.0 | OPUBL-1.0 | Permissive |
+| OSC License 1.0 | OSC-1.0 | |
 | OSET Public License version 2.1 | OSET-PL-2.1 | Copyleft Limited |
 | Open Software License 1.0 | OSL-1.0 | Copyleft |
 | Open Software License 1.1 | OSL-1.1 | Copyleft |
 | Open Software License 2.0 | OSL-2.0 | Copyleft |
 | Open Software License 2.1 | OSL-2.1 | Copyleft |
 | Open Software License 3.0 | OSL-3.0 | Copyleft |
+| OSSP License | OSSP | |
 | PADL License | PADL | Permissive |
+| ParaType Free Font Licensing Agreement v1.3 | ParaType-Free-Font-1.3 | |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | Copyleft |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | Copyleft |
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | Public Domain |
@@ -566,6 +587,7 @@
 | SGI Free Software License B v1.1 | SGI-B-1.1 | Permissive |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | Permissive |
 | SGI OpenGL License | SGI-OpenGL | Permissive |
+| SGMLUG Parser Materials License | SGMLUG-PM | |
 | SGP4 Permission Notice | SGP4 | Permissive |
 | Solderpad Hardware License v0.5 | SHL-0.5 | Permissive |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | Permissive |
@@ -602,6 +624,7 @@
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | Copyleft Limited |
 | TCL/TK License | TCL | Permissive |
 | TCP Wrappers License | TCP-wrappers | Permissive |
+| TekHVC License | TekHVC | |
 | TermReadKey License | TermReadKey | Permissive |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | Copyleft |
 | ThirdEye License | ThirdEye | Permissive |
@@ -629,9 +652,11 @@
 | The Unlicense | Unlicense | Public Domain |
 | Unlicense - libtelnet variant | Unlicense-libtelnet | Public Domain |
 | Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | Public Domain |
+| UnRAR License | UnRAR | |
 | Universal Permissive License v1.0 | UPL-1.0 | Permissive |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | Copyleft Limited |
 | Vim License | Vim | Copyleft |
+| Vixie Cron License | Vixie-Cron | |
 | VOSTROM Public License for Open Source | VOSTROM | Copyleft |
 | Vovida Software License v1.0 | VSL-1.0 | Permissive |
 | W3C Software Notice and License (2002-12-31) | W3C | Permissive |
@@ -640,11 +665,14 @@
 | w3m License | w3m | Permissive |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | Proprietary Free |
 | Widget Workshop License | Widget-Workshop | Permissive |
+| WordNet License | WordNet | |
 | Wsuipa License | Wsuipa | Permissive |
+| Do What The F*ck You Want To But It's Not My Fault Public License | WTFNMFPL | |
 | Do What The F*ck You Want To Public License | WTFPL | Public Domain |
 | WWL License | wwl | Permissive |
 | X11 License | X11 | Permissive |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | Permissive |
+| X11 no permit persons clause | X11-no-permit-persons | |
 | X11 swapped final paragraphs | X11-swapped | Permissive |
 | Xdebug License v 1.03 | Xdebug-1.03 | Permissive |
 | Xerox License | Xerox | Permissive |

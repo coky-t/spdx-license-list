@@ -15,6 +15,7 @@
 | Bootloader Distribution Exception | Bootloader-exception | 3.0 |
 | CGAL Linking Exception | CGAL-linking-exception | 3.26.0 |
 | Classpath exception 2.0 | Classpath-exception-2.0 | 2.1 |
+| Classpath exception 2.0 - short | Classpath-exception-2.0-short | 3.28.0 |
 | CLISP exception 2.0 | CLISP-exception-2.0 | 2.1 |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | 3.21 |
 | Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | 3.27.0 |
@@ -45,6 +46,7 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | 2.1 |
 | Independent Module Linking exception | Independent-modules-exception | 3.26.0 |
 | KiCad Libraries Exception | KiCad-libraries-exception | 3.17 |
+| kvirc OpenSSL Exception | kvirc-openssl-exception | 3.28.0 |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | 3.9 |
 | libpri OpenH323 exception | libpri-OpenH323-exception | 3.21 |
 | Libtool Exception | Libtool-exception | 2.1 |
@@ -67,9 +69,12 @@
 | Qwt exception 1.0 | Qwt-exception-1.0 | 2.1 |
 | Romic Exception | romic-exception | 3.25.0 |
 | RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | 3.24.0 |
+| rsync Linking Exception | rsync-linking-exception | 3.28.0 |
 | SANE Exception | SANE-exception | 3.22 |
 | Solderpad Hardware License v2.0 | SHL-2.0 | 3.9 |
 | Solderpad Hardware License v2.1 | SHL-2.1 | 3.9 |
+| Simple Library Usage Exception | Simple-Library-Usage-exception | 3.28.0 |
+| sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | 3.28.0 |
 | stunnel Exception | stunnel-exception | 3.22 |
 | SWI exception | SWI-exception | 3.20 |
 | Swift Exception | Swift-exception | 3.6 |

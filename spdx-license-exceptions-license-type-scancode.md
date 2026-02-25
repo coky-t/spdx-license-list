@@ -15,6 +15,7 @@
 | Bootloader Distribution Exception | Bootloader-exception | Copyleft Limited |
 | CGAL Linking Exception | CGAL-linking-exception | Copyleft Limited |
 | Classpath exception 2.0 | Classpath-exception-2.0 | Copyleft Limited |
+| Classpath exception 2.0 - short | Classpath-exception-2.0-short | |
 | CLISP exception 2.0 | CLISP-exception-2.0 | Copyleft Limited |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | Copyleft |
 | Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | Copyleft Limited |
@@ -45,6 +46,7 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | Copyleft Limited |
 | Independent Module Linking exception | Independent-modules-exception | Copyleft Limited |
 | KiCad Libraries Exception | KiCad-libraries-exception | Copyleft Limited |
+| kvirc OpenSSL Exception | kvirc-openssl-exception | |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | Copyleft Limited |
 | libpri OpenH323 exception | libpri-OpenH323-exception | Copyleft |
 | Libtool Exception | Libtool-exception | Copyleft Limited |
@@ -67,9 +69,12 @@
 | Qwt exception 1.0 | Qwt-exception-1.0 | Copyleft Limited |
 | Romic Exception | romic-exception | Copyleft Limited |
 | RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | Copyleft Limited |
+| rsync Linking Exception | rsync-linking-exception | |
 | SANE Exception | SANE-exception | Copyleft Limited |
 | Solderpad Hardware License v2.0 | SHL-2.0 | Permissive |
 | Solderpad Hardware License v2.1 | SHL-2.1 | Permissive |
+| Simple Library Usage Exception | Simple-Library-Usage-exception | |
+| sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | |
 | stunnel Exception | stunnel-exception | Copyleft Limited |
 | SWI exception | SWI-exception | Copyleft Limited |
 | Swift Exception | Swift-exception | Permissive |

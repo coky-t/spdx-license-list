@@ -12,6 +12,7 @@
 | Adobe Glyph List License | Adobe-Glyph | 1.20 |
 | Adobe Utopia Font License | Adobe-Utopia | 3.22 |
 | Amazon Digital Services License | ADSL | 1.20 |
+| Advanced Cryptics Dictionary License | Advanced-Cryptics-Dictionary | 3.28.0 |
 | Academic Free License v1.1 | AFL-1.1 | 1.14 |
 | Academic Free License v1.2 | AFL-1.2 | 1.0 |
 | Academic Free License v2.0 | AFL-2.0 | 1.0 |
@@ -23,6 +24,7 @@
 | GNU Affero General Public License v3.0 only | AGPL-3.0-only | 3.0 |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | 3.0 |
 | Aladdin Free Public License | Aladdin | 1.17 |
+| ALGLIB Documentation License | ALGLIB-Documentation | 3.28.0 |
 | AMD newlib License | AMD-newlib | 3.24.0 |
 | AMD's plpa_map.c License | AMDPLPA | 1.20 |
 | Apple MIT License | AML | 1.20 |
@@ -64,6 +66,7 @@
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | 3.6 |
 | Boehm-Demers-Weiser GC License | Boehm-GC | 3.21 |
 | Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | 3.26.0 |
+| Buena Onda License Agreement v1.1 | BOLA-1.1 | 3.28.0 |
 | Borceux license | Borceux | 1.20 |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | 3.23 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 3.20 |
@@ -88,6 +91,7 @@
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | 2.5 |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | 3.6 |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | 3.22 |
+| BSD 3-Clause Tso variant | BSD-3-Clause-Tso | 3.28.0 |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | 1.0 beta |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | 3.12 |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | 1.15 |
@@ -96,12 +100,14 @@
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | 3.20 |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | 3.20 |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | 3.22 |
+| BSD Mark Modifications License | BSD-Mark-Modifications | 3.28.0 |
 | BSD Protection License | BSD-Protection | 1.20 |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | 3.23 |
 | BSD Source Code Attribution | BSD-Source-Code | 2.5 |
 | Systemics BSD variant license | BSD-Systemics | 3.22 |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | 3.23 |
 | Boost Software License 1.0 | BSL-1.0 | 1.0 beta |
+| Buddy License | Buddy | 3.28.0 |
 | Business Source License 1.1 | BUSL-1.1 | 3.11 |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | 1.20 |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | 3.12 |
@@ -109,6 +115,7 @@
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | 3.9 |
 | Caldera License | Caldera | 1.20 |
 | Caldera License (without preamble) | Caldera-no-preamble | 3.23 |
+| Common Attack Pattern Enumeration and Classification License | CAPEC-tou | 3.28.0 |
 | Catharon License | Catharon | 3.24.0 |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | 1.0 beta |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | 1.0 beta |
@@ -237,6 +244,9 @@
 | Eclipse Public License 1.0 | EPL-1.0 | 1.0 beta |
 | Eclipse Public License 2.0 | EPL-2.0 | 3.0 |
 | Erlang Public License v1.1 | ErlPL-1.1 | 1.0 |
+| European Space Agency Public License – v2.4 – Permissive (Type 3) | ESA-PL-permissive-2.4 | 3.28.0 |
+| European Space Agency Public License (ESA-PL) - V2.4 - Strong Copyleft (Type 1) | ESA-PL-strong-copyleft-2.4 | 3.28.0 |
+| European Space Agency Public License – v2.4 – Weak Copyleft (Type 2) | ESA-PL-weak-copyleft-2.4 | 3.28.0 |
 | Etalab Open License 2.0 | etalab-2.0 | 3.7 |
 | EU DataGrid Software License | EUDatagrid | 1.0 beta |
 | European Union Public License 1.0 | EUPL-1.0 | 1.0 |
@@ -326,11 +336,14 @@
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | 3.23 |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | 3.22 |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | 3.5 |
+| HPND - sell variant with safety critical systems clause | HPND-sell-variant-critical-systems | 3.28.0 |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | 3.20 |
 | HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | 3.24.0 |
+| Historical Permission Notice and Disclaimer - SMC variant | HPND-SMC | 3.28.0 |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | 3.22 |
 | Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | 3.24.0 |
 | HTML Tidy License | HTMLTIDY | 3.11 |
+| hyphen-bulgarian License | hyphen-bulgarian | 3.28.0 |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | 1.19 |
 | ICU License | ICU | 2.0 |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | 3.20 |
@@ -349,6 +362,7 @@
 | IBM Public License v1.0 | IPL-1.0 | 1.0 beta |
 | ISC License | ISC | 1.0 beta |
 | ISC Veillard variant | ISC-Veillard | 3.23 |
+| ISO permission notice | ISO-permission | 3.28.0 |
 | Jam License | Jam | 3.16 |
 | JasPer License | JasPer-2.0 | 1.20 |
 | Jove License | jove | 3.27.0 |
@@ -420,10 +434,12 @@
 | MIT Khronos - old variant | MIT-Khronos-old | 3.24.0 |
 | MIT License Modern Variant | MIT-Modern-Variant | 3.12 |
 | MIT Open Group variant | MIT-open-group | 3.11 |
+| MIT-STK License | MIT-STK | 3.28.0 |
 | MIT testregex Variant | MIT-testregex | 3.22 |
 | MIT Tom Wu Variant | MIT-Wu | 3.20 |
 | MIT +no-false-attribs license | MITNFA | 1.20 |
 | MMIXware License | MMIXware | 3.22 |
+| Minecraft Mod Public License v1.0.1 | MMPL-1.0.1 | 3.28.0 |
 | Motosoto License | Motosoto | 1.0 beta |
 | MPEG Software Simulation | MPEG-SSG | 3.22 |
 | mpi Permissive License | mpi-permissive | 3.18 |
@@ -456,6 +472,7 @@
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | 3.18 |
 | NIST Public Domain Notice | NIST-PD | 3.10 |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | 3.10 |
+| NIST Public Domain Notice TNT variant | NIST-PD-TNT | 3.28.0 |
 | NIST Software License | NIST-Software | 3.21 |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | 2.4 |
 | Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | 3.14 |
@@ -508,6 +525,7 @@
 | Open LDAP Public License v2.8 | OLDAP-2.8 | 1.0 |
 | Open Logistics Foundation License Version 1.3 | OLFL-1.3 | 3.21 |
 | Open Market License | OML | 1.20 |
+| OpenMDW License Agreement v1.0 | OpenMDW-1.0 | 3.28.0 |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | 3.20 |
 | OpenSSL License | OpenSSL | 1.0 |
 | OpenSSL License - standalone | OpenSSL-standalone | 3.23 |
@@ -515,13 +533,16 @@
 | Open Public License v1.0 | OPL-1.0 | 1.17 |
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | 3.21 |
 | Open Publication License v1.0 | OPUBL-1.0 | 3.14 |
+| OSC License 1.0 | OSC-1.0 | 3.28.0 |
 | OSET Public License version 2.1 | OSET-PL-2.1 | 2.4 |
 | Open Software License 1.0 | OSL-1.0 | 1.0 |
 | Open Software License 1.1 | OSL-1.1 | 1.20 |
 | Open Software License 2.0 | OSL-2.0 | 1.0 |
 | Open Software License 2.1 | OSL-2.1 | 1.14 |
 | Open Software License 3.0 | OSL-3.0 | 1.0 beta |
+| OSSP License | OSSP | 3.28.0 |
 | PADL License | PADL | 3.22 |
+| ParaType Free Font Licensing Agreement v1.3 | ParaType-Free-Font-1.3 | 3.28.0 |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | 3.6 |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | 3.9 |
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | 1.0 |
@@ -566,6 +587,7 @@
 | SGI Free Software License B v1.1 | SGI-B-1.1 | 1.17 |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | 1.17 |
 | SGI OpenGL License | SGI-OpenGL | 3.22 |
+| SGMLUG Parser Materials License | SGMLUG-PM | 3.28.0 |
 | SGP4 Permission Notice | SGP4 | 3.21 |
 | Solderpad Hardware License v0.5 | SHL-0.5 | 3.6 |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | 3.6 |
@@ -602,6 +624,7 @@
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | 3.5 |
 | TCL/TK License | TCL | 1.20 |
 | TCP Wrappers License | TCP-wrappers | 2.6 |
+| TekHVC License | TekHVC | 3.28.0 |
 | TermReadKey License | TermReadKey | 3.21 |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | 3.23 |
 | ThirdEye License | ThirdEye | 3.26.0 |
@@ -629,9 +652,11 @@
 | The Unlicense | Unlicense | 1.19 |
 | Unlicense - libtelnet variant | Unlicense-libtelnet | 3.27.0 |
 | Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | 3.27.0 |
+| UnRAR License | UnRAR | 3.28.0 |
 | Universal Permissive License v1.0 | UPL-1.0 | 2.1 |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | 3.22 |
 | Vim License | Vim | 1.20 |
+| Vixie Cron License | Vixie-Cron | 3.28.0 |
 | VOSTROM Public License for Open Source | VOSTROM | 1.20 |
 | Vovida Software License v1.0 | VSL-1.0 | 1.0 beta |
 | W3C Software Notice and License (2002-12-31) | W3C | 1.0 beta |
@@ -640,11 +665,14 @@
 | w3m License | w3m | 3.20 |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | 1.0 beta |
 | Widget Workshop License | Widget-Workshop | 3.21 |
+| WordNet License | WordNet | 3.28.0 |
 | Wsuipa License | Wsuipa | 1.20 |
+| Do What The F*ck You Want To But It's Not My Fault Public License | WTFNMFPL | 3.28.0 |
 | Do What The F*ck You Want To Public License | WTFPL | 1.17 |
 | WWL License | wwl | 3.26.0 |
 | X11 License | X11 | 1.17 |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | 3.16 |
+| X11 no permit persons clause | X11-no-permit-persons | 3.28.0 |
 | X11 swapped final paragraphs | X11-swapped | 3.25.0 |
 | Xdebug License v 1.03 | Xdebug-1.03 | 3.21 |
 | Xerox License | Xerox | 1.20 |
