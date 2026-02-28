@@ -15,6 +15,7 @@
 | Bootloader Distribution Exception | Bootloader-exception | GPL |
 | CGAL Linking Exception | CGAL-linking-exception | |
 | Classpath exception 2.0 | Classpath-exception-2.0 | GPL |
+| Classpath exception 2.0 - short | Classpath-exception-2.0-short | |
 | CLISP exception 2.0 | CLISP-exception-2.0 | GPL-2.0-only, GPL-2.0-and-later |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | GPL |
 | Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | LGPL-2.1 |
@@ -45,6 +46,7 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | GPL-2.0-only, GPL-2.0-and-later |
 | Independent Module Linking exception | Independent-modules-exception | LGPL |
 | KiCad Libraries Exception | KiCad-libraries-exception | CC-BY-SA-4.0 |
+| kvirc OpenSSL Exception | kvirc-openssl-exception | GPL |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | LGPL-3.0 |
 | libpri OpenH323 exception | libpri-OpenH323-exception | |
 | Libtool Exception | Libtool-exception | GPL, LGPL |
@@ -67,9 +69,12 @@
 | Qwt exception 1.0 | Qwt-exception-1.0 | LGPL-2.1 |
 | Romic Exception | romic-exception | AGPL-3.0 |
 | RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | GPL-2.0 |
+| rsync Linking Exception | rsync-linking-exception | GPL-3.0 |
 | SANE Exception | SANE-exception | GPL |
 | Solderpad Hardware License v2.0 | SHL-2.0 | Apache-2.0 |
 | Solderpad Hardware License v2.1 | SHL-2.1 | Apache-2.0 |
+| Simple Library Usage Exception | Simple-Library-Usage-exception | LGPL-2.1 |
+| sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | GPL |
 | stunnel Exception | stunnel-exception | GPL |
 | SWI exception | SWI-exception | GPL |
 | Swift Exception | Swift-exception | Apache-2.0 |

@@ -15,6 +15,7 @@
 | [Bootloader Distribution Exception](https://spdx.org/licenses/Bootloader-exception.html) | Bootloader-exception | 3.0 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Bootloader-exception.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Bootloader-exception.html)) | N/A | N/A |
 | [CGAL Linking Exception](https://spdx.org/licenses/CGAL-linking-exception.html) | CGAL-linking-exception | red (since [3.26.0](https://github.com/spdx/license-list-data/blob/v3.26.0/html/CGAL-linking-exception.html)) | N/A | N/A |
 | [Classpath exception 2.0](https://spdx.org/licenses/Classpath-exception-2.0.html) | Classpath-exception-2.0 | 2.1 | none | N/A | N/A |
+| [Classpath exception 2.0 - short](https://spdx.org/licenses/Classpath-exception-2.0-short.html) | Classpath-exception-2.0-short | 3.28.0 | none | N/A | N/A |
 | [CLISP exception 2.0](https://spdx.org/licenses/CLISP-exception-2.0.html) | CLISP-exception-2.0 | 2.1 | none | N/A | N/A |
 | [cryptsetup OpenSSL exception](https://spdx.org/licenses/cryptsetup-OpenSSL-exception.html) | cryptsetup-OpenSSL-exception | 3.21 | red2 (since [3.27.0](https://github.com/spdx/license-list-data/blob/v3.27.0/html/cryptsetup-OpenSSL-exception.html)), red1 (until [3.26.0](https://github.com/spdx/license-list-data/blob/v3.26.0/html/cryptsetup-OpenSSL-exception.html), since [3.24.0](https://github.com/spdx/license-list-data/blob/v3.24.0/html/cryptsetup-OpenSSL-exception.html)), none (until [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/cryptsetup-OpenSSL-exception.html)) | N/A | N/A |
 | Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | 3.27.0 | none | N/A | N/A |
@@ -32,7 +33,7 @@
 | [Gmsh exception](https://spdx.org/licenses/Gmsh-exception.html) | Gmsh-exception | 3.23 | none | N/A | N/A |
 | [GNAT exception](https://spdx.org/licenses/GNAT-exception.html) | GNAT-exception | 3.20 | none | N/A | N/A |
 | [GNOME examples exception](https://spdx.org/licenses/GNOME-examples-exception.html) | GNOME-examples-exception | 3.23 | none | N/A | N/A |
-| [GNU Compiler Exception](https://spdx.org/licenses/GNU-compiler-exception.html) | GNU-compiler-exception | 3.22 | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/GNU-compiler-exception.html)), none (until [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GNU-compiler-exception.html)) | N/A | N/A |
+| [GNU Compiler Exception](https://spdx.org/licenses/GNU-compiler-exception.html) | GNU-compiler-exception | 3.22 | red2 (since [3.28.0](https://github.com/spdx/license-list-data/blob/v3.28.0/html/GNU-compiler-exception.html)), red1 (until [3.27.0](https://github.com/spdx/license-list-data/blob/v3.27.0/html/GNU-compiler-exception.html), since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/GNU-compiler-exception.html)), none (until [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GNU-compiler-exception.html)) | N/A | N/A |
 | [GNU JavaMail exception](https://spdx.org/licenses/gnu-javamail-exception.html) | gnu-javamail-exception | 2.1 | none | N/A | N/A |
 | [GPL-3.0 389 DS Base Exception](https://spdx.org/licenses/GPL-3.0-389-ds-base-exception.html) | GPL-3.0-389-ds-base-exception | none | N/A | N/A |
 | [GPL-3.0 Interface Exception](https://spdx.org/licenses/GPL-3.0-interface-exception.html) | GPL-3.0-interface-exception | 3.21 | red (since [3.21](https://github.com/spdx/license-list-data/blob/v3.21/html/GPL-3.0-interface-exception.html)) | N/A | N/A |
@@ -45,6 +46,7 @@
 | [i2p GPL+Java Exception](https://spdx.org/licenses/i2p-gpl-java-exception.html) | i2p-gpl-java-exception | 2.1 | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/i2p-gpl-java-exception.html)), none (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/i2p-gpl-java-exception.html)) | N/A | N/A |
 | [Independent Module Linking exception](https://spdx.org/licenses/Independent-modules-exception.html) | Independent-modules-exception | red (since [3.26.0](https://github.com/spdx/license-list-data/blob/v3.26.0/html/Independent-modules-exception.html)) | N/A | N/A |
 | [KiCad Libraries Exception](https://spdx.org/licenses/KiCad-libraries-exception.html) | KiCad-libraries-exception | 3.17 | none | N/A | N/A |
+| [kvirc OpenSSL Exception](https://spdx.org/licenses/kvirc-openssl-exception.html) | kvirc-openssl-exception | 3.28.0 | none | red (since [3.28.0](https://github.com/spdx/license-list-data/blob/v3.28.0/html/kvirc-openssl-exception.html)) | N/A |
 | [LGPL-3.0 Linking Exception](https://spdx.org/licenses/LGPL-3.0-linking-exception.html) | LGPL-3.0-linking-exception | 3.9 | none | N/A | N/A |
 | [libpri OpenH323 exception](https://spdx.org/licenses/libpri-OpenH323-exception.html) | libpri-OpenH323-exception | 3.21 | none | N/A | N/A |
 | [Libtool Exception](https://spdx.org/licenses/Libtool-exception.html) | Libtool-exception | 2.1 | none | N/A | N/A |
@@ -67,9 +69,12 @@
 | [Qwt exception 1.0](https://spdx.org/licenses/Qwt-exception-1.0.html) | Qwt-exception-1.0 | 2.1 | none | red (since [3.1](https://github.com/spdx/license-list-data/blob/v3.1/html/Qwt-exception-1.0.html)), black (until [3.0](https://github.com/spdx/license-list-data/blob/v3.0/html/Qwt-exception-1.0.html)) | N/A |
 | [Romic Exception](https://spdx.org/licenses/romic-exception.html) | romic-exception | 3.25.0 | none | N/A | N/A |
 | [RRDtool FLOSS exception 2.0](https://spdx.org/licenses/RRDtool-FLOSS-exception-2.0.html) | RRDtool-FLOSS-exception-2.0 | 3.24.0 | none | red (since [3.24.0](https://github.com/spdx/license-list-data/blob/v3.24.0/html/RRDtool-FLOSS-exception-2.0.html)) | N/A |
+| [rsync Linking Exception](https://spdx.org/licenses/rsync-linking-exception.html) | rsync-linking-exception | 3.28.0 | none | N/A | N/A |
 | [SANE Exception](https://spdx.org/licenses/SANE-exception.html) | SANE-exception | 3.22 | red (since [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/SANE-exception.html)) | N/A | N/A |
 | [Solderpad Hardware License v2.0](https://spdx.org/licenses/SHL-2.0.html) | SHL-2.0 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/SHL-2.0.html)) | N/A |
 | [Solderpad Hardware License v2.1](https://spdx.org/licenses/SHL-2.1.html) | SHL-2.1 | 3.9 | none | red (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/SHL-2.1.html)) | N/A |
+| [Simple Library Usage Exception](https://spdx.org/licenses/Simple-Library-Usage-exception.html) | Simple-Library-Usage-exception | 3.28.0 | none | red (since [3.28.0](https://github.com/spdx/license-list-data/blob/main/html/Simple-Library-Usage-exception.html)) | N/A |
+| [sqlitestudio OpenSSL exception](https://spdx.org/licenses/sqlitestudio-OpenSSL-exception.html) | sqlitestudio-OpenSSL-exception | 3.28.0 | red (since [3.28.0](https://github.com/spdx/license-list-data/blob/v3.28.0/html/sqlitestudio-OpenSSL-exception.html)) | N/A | N/A |
 | [stunnel Exception](https://spdx.org/licenses/stunnel-exception.html) | stunnel-exception | 3.22 | none | N/A | N/A |
 | [SWI exception](https://spdx.org/licenses/SWI-exception.html) | SWI-exception | 3.20 | none | N/A | N/A |
 | [Swift Exception](https://spdx.org/licenses/Swift-exception.html) | Swift-exception | 3.6 | none | N/A | N/A |

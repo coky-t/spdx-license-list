@@ -15,6 +15,7 @@
 | Bootloader Distribution Exception | Bootloader-exception | In addition to the permissions |
 | CGAL Linking Exception | CGAL-linking-exception | As a special exception |
 | Classpath exception 2.0 | Classpath-exception-2.0 | As a special exception |
+| Classpath exception 2.0 - short | Classpath-exception-2.0-short | As a special exception |
 | CLISP exception 2.0 | CLISP-exception-2.0 | |
 | cryptsetup OpenSSL exception | cryptsetup-OpenSSL-exception | In addition, as a special exception |
 | Digia Qt LGPL Exception version 1.1 | Digia-Qt-LGPL-exception-1.1 | As a special exception |
@@ -45,6 +46,7 @@
 | i2p GPL+Java Exception | i2p-gpl-java-exception | In addition, as a special exception |
 | Independent Module Linking exception | Independent-modules-exception | As a special exception |
 | KiCad Libraries Exception | KiCad-libraries-exception | |
+| kvirc OpenSSL Exception | kvirc-openssl-exception | OpenSSL Exception |
 | LGPL-3.0 Linking Exception | LGPL-3.0-linking-exception | As a special exception |
 | libpri OpenH323 exception | libpri-OpenH323-exception | As a special exception |
 | Libtool Exception | Libtool-exception | As a special exception |
@@ -67,9 +69,12 @@
 | Qwt exception 1.0 | Qwt-exception-1.0 | with the following exceptions |
 | Romic Exception | romic-exception | Additional permission |
 | RRDtool FLOSS exception 2.0 | RRDtool-FLOSS-exception-2.0 | As a special exception |
+| rsync Linking Exception | rsync-linking-exception | In addition, as a special exception |
 | SANE Exception | SANE-exception | As a special exception |
 | Solderpad Hardware License v2.0 | SHL-2.0 | Subject to the terms ... of this License |
 | Solderpad Hardware License v2.1 | SHL-2.1 | Subject to the terms ... of this License |
+| Simple Library Usage Exception | Simple-Library-Usage-exception | As a special exception |
+| sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | In addition, as a special exception |
 | stunnel Exception | stunnel-exception | In addition, as a special exception |
 | SWI exception | SWI-exception | As a special exception |
 | Swift Exception | Swift-exception | As an exception |

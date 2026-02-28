@@ -12,6 +12,7 @@
 | Adobe Glyph List License | Adobe-Glyph | MIT [0x, +, 1x, +, +] |
 | Adobe Utopia Font License | Adobe-Utopia | |
 | Amazon Digital Services License | ADSL | |
+| Advanced Cryptics Dictionary License | Advanced-Cryptics-Dictionary | |
 | Academic Free License v1.1 | AFL-1.1 | |
 | Academic Free License v1.2 | AFL-1.2 | |
 | Academic Free License v2.0 | AFL-2.0 | |
@@ -23,6 +24,7 @@
 | GNU Affero General Public License v3.0 only | AGPL-3.0-only | |
 | GNU Affero General Public License v3.0 or later | AGPL-3.0-or-later | |
 | Aladdin Free Public License | Aladdin | |
+| ALGLIB Documentation License | ALGLIB-Documentation | BSD [0x, 5x] |
 | AMD newlib License | AMD-newlib | |
 | AMD's plpa_map.c License | AMDPLPA | BSD [0x, 1x, 2x, 4x, +, 5x, +] |
 | Apple MIT License | AML | |
@@ -62,8 +64,9 @@
 | BitTorrent Open Source License v1.1 | BitTorrent-1.1 | |
 | SQLite Blessing | blessing | |
 | Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | |
-| Boehm-Demers-Weiser GC License | Boehm-GC | |
+| Boehm-Demers-Weiser GC License | Boehm-GC | Zlib [0x, +] |
 | Boehm-Demers-Weiser GC License (without fee) | Boehm-GC-without-fee | |
+| Buena Onda License Agreement v1.1 | BOLA-1.1 | |
 | Borceux license | Borceux | |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | BSD [0x, 1x, 2x, 5x] |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | BSD [0x, 1x, 2x, 4x, +, 5x]|
@@ -88,6 +91,7 @@
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | BSD [0, 1x, 2x, 4, 5x, +] |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | BSD [0, 1, 2x, 4, +, 5] |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | BSD [0, 1, 2x, 4, 5x] |
+| BSD 3-Clause Tso variant | BSD-3-Clause-Tso | BSD [0, 1x, 2, 4x,, 5x] |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | BSD [0, 1, 2, 3, 4, 5] |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | BSD [0-, 1x, 2x, 3-, 4, 5-] |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | BSD [0, 1, 2, 3, 4, 5] |
@@ -96,12 +100,14 @@
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | BSD [0, 1, 2, 3, +, 5x] |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | BSD [0, 1, 2, 4x, +], HPND [3] |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | BSD [0, 1x, 3, 4, 5, +] |
+| BSD Mark Modifications License | BSD-Mark-Modifications | BSD [0, 1, 2, +, 4x, 5x] |
 | BSD Protection License | BSD-Protection | |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | BSD [0, 1+, 4, 5] |
 | BSD Source Code Attribution | BSD-Source-Code | BSD [0+, 1, 4+, 5] |
 | Systemics BSD variant license | BSD-Systemics | BSD [+, 0, 1-, 2, 3, 5, +] |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | BSD [+, 0, 1-, 2, 3, 5, +] |
 | Boost Software License 1.0 | BSL-1.0 | MIT [0x, +, 2x] |
+| Buddy License | Buddy | |
 | Business Source License 1.1 | BUSL-1.1 | |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | BSD [0, 1], Zlib [2, 3], BSD [4, 5, (+)] |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
@@ -109,6 +115,7 @@
 | Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | |
 | Caldera License | Caldera | BSD [+, 0, 1+, 2, 3+, 4, 5x] |
 | Caldera License (without preamble) | Caldera-no-preamble | BSD [0, 1+, 2, 3+, 4, 5x] |
+| Common Attack Pattern Enumeration and Classification License | CAPEC-tou | |
 | Catharon License | Catharon | |
 | Computer Associates Trusted Open Source License 1.1 | CATOSL-1.1 | |
 | Creative Commons Attribution 1.0 Generic | CC-BY-1.0 | |
@@ -237,6 +244,9 @@
 | Eclipse Public License 1.0 | EPL-1.0 | |
 | Eclipse Public License 2.0 | EPL-2.0 | |
 | Erlang Public License v1.1 | ErlPL-1.1 | |
+| European Space Agency Public License – v2.4 – Permissive (Type 3) | ESA-PL-permissive-2.4 | |
+| European Space Agency Public License (ESA-PL) - V2.4 - Strong Copyleft (Type 1) | ESA-PL-strong-copyleft-2.4 | |
+| European Space Agency Public License – v2.4 – Weak Copyleft (Type 2) | ESA-PL-weak-copyleft-2.4 | |
 | Etalab Open License 2.0 | etalab-2.0 | |
 | EU DataGrid Software License | EUDatagrid | |
 | European Union Public License 1.0 | EUPL-1.0 | |
@@ -326,11 +336,14 @@
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | HPND[0x, 3x] |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | HPND [0x, 2] |
 | Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | HPND [0x, 1, 2, 3] |
+| HPND - sell variant with safety critical systems clause | HPND-sell-variant-critical-systems | HPND [0x, 1, 2, 3, +] |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | HPND [0x], MIT [2] |
 | HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | MIT [2], HPND [0x] |
+| Historical Permission Notice and Disclaimer - SMC variant | HPND-SMC | HPND [0x] |
 | Historical Permission Notice and Disclaimer - University of California variant | HPND-UC | HPND [0-, 1, 2] |
 | Historical Permission Notice and Disclaimer - University of California, US export warning | HPND-UC-export-US | HPND [0-, 1, 2, +] |
 | HTML Tidy License | HTMLTIDY | |
+| hyphen-bulgarian License | hyphen-bulgarian | |
 | IBM PowerPC Initialization and Boot Software | IBM-pibs | |
 | ICU License | ICU | MIT [0x, 1x, 2x], X11 [3x] |
 | IEC Code Components End-user licence agreement | IEC-Code-Components-EULA | |
@@ -349,6 +362,7 @@
 | IBM Public License v1.0 | IPL-1.0 | |
 | ISC License | ISC | HPND [0x, 3x] |
 | ISC Veillard variant | ISC-Veillard | HPND [0x, 3x] |
+| ISO permission notice | ISO-permission | |
 | Jam License | Jam | |
 | JasPer License | JasPer-2.0 | MIT [0x, 1x, +, 2x] |
 | Jove License | jove | |
@@ -420,10 +434,12 @@
 | MIT Khronos - old variant | MIT-Khronos-old | MIT [0x, 1x, +, 2x] |
 | MIT License Modern Variant | MIT-Modern-Variant | |
 | MIT Open Group variant | MIT-open-group | MIT [0x, 1, 2], X11 [3] |
+| MIT-STK License | MIT-STK | MIT [0, 1, +, 2] |
 | MIT testregex Variant | MIT-testregex | MIT [0x], BSD [5] |
 | MIT Tom Wu Variant | MIT-Wu | MIT [0, 1, 2x, +, +] |
 | MIT +no-false-attribs license | MITNFA | MIT [0, 1, +, 2] |
 | MMIXware License | MMIXware | |
+| Minecraft Mod Public License v1.0.1 | MMPL-1.0.1 | |
 | Motosoto License | Motosoto | |
 | MPEG Software Simulation | MPEG-SSG | |
 | mpi Permissive License | mpi-permissive | |
@@ -456,6 +472,7 @@
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | BSD [0x, 1x, 2x, 4, 5x, 5x, +] |
 | NIST Public Domain Notice | NIST-PD | |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | |
+| NIST Public Domain Notice TNT variant | NIST-PD-TNT | |
 | NIST Software License | NIST-Software | |
 | Norwegian Licence for Open Government Data (NLOD) 1.0 | NLOD-1.0 | |
 | Norwegian Licence for Open Government Data (NLOD) 2.0 | NLOD-2.0 | |
@@ -468,7 +485,7 @@
 | Non-Profit Open Software License 3.0 | NPOSL-3.0 | |
 | NRL License | NRL | BSD [+, +, +, 0x, +, 1, 2, 3x, 4, 5x] |
 | NTIA Public Domain Notice | NTIA-PD | |
-| NTP License | NTP | [0x, 1, 2] |
+| NTP License | NTP | HPND [0x, 1, 2] |
 | NTP No Attribution | NTP-0 | HPND [0x, 1, 2] |
 | Open Use of Data Agreement v1.0 | O-UDA-1.0 | |
 | OAR License | OAR | HPND [0x, 2, +] |
@@ -508,6 +525,7 @@
 | Open LDAP Public License v2.8 | OLDAP-2.8 | BSD [0x, 1x, 2x, +, +, 5x, +, +] |
 | Open Logistics Foundation License Version 1.3 | OLFL-1.3 | |
 | Open Market License | OML | |
+| OpenMDW License Agreement v1.0 | OpenMDW-1.0 | |
 | OpenPBS v2.3 Software License | OpenPBS-2.3 | |
 | OpenSSL License | OpenSSL | OpenSSL-standalone AND SSLeay-standalone |
 | OpenSSL License - standalone | OpenSSL-standalone | BSD [0, 1, 2, 3, 4x, +, +, 5x, (+)] |
@@ -515,13 +533,16 @@
 | Open Public License v1.0 | OPL-1.0 | |
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | |
 | Open Publication License v1.0 | OPUBL-1.0 | |
+| OSC License 1.0 | OSC-1.0 | |
 | OSET Public License version 2.1 | OSET-PL-2.1 | |
 | Open Software License 1.0 | OSL-1.0 | |
 | Open Software License 1.1 | OSL-1.1 | |
 | Open Software License 2.0 | OSL-2.0 | |
 | Open Software License 2.1 | OSL-2.1 | |
 | Open Software License 3.0 | OSL-3.0 | |
+| OSSP License | OSSP | HPND [0x], BSD [5x] |
 | PADL License | PADL | BSD [0x], HPND [2] |
+| ParaType Free Font Licensing Agreement v1.3 | ParaType-Free-Font-1.3 | |
 | The Parity Public License 6.0.0 | Parity-6.0.0 | |
 | The Parity Public License 7.0.0 | Parity-7.0.0 | |
 | Open Data Commons Public Domain Dedication & License 1.0 | PDDL-1.0 | |
@@ -566,6 +587,7 @@
 | SGI Free Software License B v1.1 | SGI-B-1.1 | |
 | SGI Free Software License B v2.0 | SGI-B-2.0 | MIT [0, 1x, 2], X11 [3] |
 | SGI OpenGL License | SGI-OpenGL | HPND [0, 3x, +] |
+| SGMLUG Parser Materials License | SGMLUG-PM | |
 | SGP4 Permission Notice | SGP4 | |
 | Solderpad Hardware License v0.5 | SHL-0.5 | |
 | Solderpad Hardware License, Version 0.51 | SHL-0.51 | |
@@ -602,6 +624,7 @@
 | TAPR Open Hardware License v1.0 | TAPR-OHL-1.0 | |
 | TCL/TK License | TCL | |
 | TCP Wrappers License | TCP-wrappers | BSD [+, 0x, 5x] |
+| TekHVC License | TekHVC | |
 | TermReadKey License | TermReadKey | |
 | Transitive Grace Period Public Licence 1.0 | TGPPL-1.0 | |
 | ThirdEye License | ThirdEye | |
@@ -629,9 +652,11 @@
 | The Unlicense | Unlicense | MIT [+, +, +, 2, (+)] |
 | Unlicense - libtelnet variant | Unlicense-libtelnet | |
 | Unlicense - libwhirlpool variant | Unlicense-libwhirlpool | |
+| UnRAR License | UnRAR | |
 | Universal Permissive License v1.0 | UPL-1.0 | MIT [+, +, +, +, 1x, 2] |
 | Utah Raster Toolkit Run Length Encoded License | URT-RLE | |
 | Vim License | Vim | |
+| Vixie Cron License | Vixie-Cron | |
 | VOSTROM Public License for Open Source | VOSTROM | |
 | Vovida Software License v1.0 | VSL-1.0 | BSD [0, 1, 2, 4x, +, 5x] |
 | W3C Software Notice and License (2002-12-31) | W3C | |
@@ -640,11 +665,14 @@
 | w3m License | w3m | |
 | Sybase Open Watcom Public License 1.0 | Watcom-1.0 | |
 | Widget Workshop License | Widget-Workshop | |
+| WordNet License | WordNet | |
 | Wsuipa License | Wsuipa | |
+| Do What The F*ck You Want To But It's Not My Fault Public License | WTFNMFPL | |
 | Do What The F*ck You Want To Public License | WTFPL | |
 | WWL License | wwl | |
 | X11 License | X11 | MIT [0, 1, 2], X11 [3] |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | MIT [0+, 1, 2], X11 [3x] |
+| X11 no permit persons clause | X11-no-permit-persons | MIT [0x, 1, 2x], X11 [3] |
 | X11 swapped final paragraphs | X11-swapped | MIT [0, 1, +, 2] |
 | Xdebug License v 1.03 | Xdebug-1.03 | BSD [0x, 1, 2, 4x, +, +, +, 5x, +] |
 | Xerox License | Xerox | |
