@@ -1,0 +1,5 @@
+SPDX-License-Identifier: ISO-permission
+MODULE_LICENSE(ISO-permission)
+License: ISO-permission
+ISO-permission License
+ISO permission notice

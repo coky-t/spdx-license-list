@@ -1,0 +1,4 @@
+SPDX-License-Identifier: Advanced-Cryptics-Dictionary
+MODULE_LICENSE(Advanced-Cryptics-Dictionary)
+License: Advanced-Cryptics-Dictionary
+Advanced Cryptics Dictionary License

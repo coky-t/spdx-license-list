@@ -1,0 +1,5 @@
+SPDX-License-Identifier: WTFNMFPL
+MODULE_LICENSE(WTFNMFPL)
+License: WTFNMFPL
+Do What The F*ck You Want To But It's Not My Fault Public License
+DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE Version 1

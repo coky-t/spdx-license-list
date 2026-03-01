@@ -1,0 +1,4 @@
+SPDX-License-Identifier: TekHVC
+MODULE_LICENSE(TekHVC)
+License: TekHVC
+TekHVC License

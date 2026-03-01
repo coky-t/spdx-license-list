@@ -1,0 +1,4 @@
+SPDX-License-Identifier: hyphen-bulgarian
+MODULE_LICENSE(hyphen-bulgarian)
+License: hyphen-bulgarian
+hyphen-bulgarian License

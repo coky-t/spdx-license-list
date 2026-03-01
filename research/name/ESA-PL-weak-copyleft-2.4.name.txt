@@ -1,0 +1,6 @@
+SPDX-License-Identifier: ESA-PL-weak-copyleft-2.4
+MODULE_LICENSE(ESA-PL-weak-copyleft-2.4)
+License: ESA-PL-weak-copyleft-2.4
+ESA-PL-weak-copyleft-2.4 License
+European Space Agency Public License – v2.4 – Weak Copyleft (Type 2)
+European Space Agency Public License (ESA-PL) Weak Copyleft (Type 2) – v2.4

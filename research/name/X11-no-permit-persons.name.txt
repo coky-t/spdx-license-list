@@ -1,0 +1,5 @@
+SPDX-License-Identifier: X11-no-permit-persons
+MODULE_LICENSE(X11-no-permit-persons)
+License: X11-no-permit-persons
+X11-no-permit-persons License
+X11 no permit persons clause

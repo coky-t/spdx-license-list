@@ -1,0 +1,5 @@
+SPDX-License-Identifier: UnRAR
+MODULE_LICENSE(UnRAR)
+License: UnRAR
+UnRAR License
+UnRAR - free utility for RAR archives License for use and distribution of FREE portable version

@@ -1,0 +1,3 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*sqlitestudio-OpenSSL-exception
+SPDX-Exception-Identifier\W*sqlitestudio-OpenSSL-exception
+sqlitestudio\W*OpenSSL\W*exception

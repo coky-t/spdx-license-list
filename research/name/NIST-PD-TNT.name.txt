@@ -1,0 +1,5 @@
+SPDX-License-Identifier: NIST-PD-TNT
+MODULE_LICENSE(NIST-PD-TNT)
+License: NIST-PD-TNT
+NIST-PD-TNT License
+NIST Public Domain Notice TNT variant

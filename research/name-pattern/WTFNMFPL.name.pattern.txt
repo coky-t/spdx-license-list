@@ -1,0 +1,5 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*WTFNMFPL(?!\w)
+(?:MODULE_LICENSE|__license__)\W*WTFNMFPL(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)WTFNMFPL(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)WTFNMFPL\W*Licen[sc]e
+(?<!\w)Do\W*What\W*The\W*F[u\*]ck\W*You\W*Want\W*To\W*But\W*It\W*s\W*Not\W*My\W*Fault\W*Public\W*Licen[sc]e(?:\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1(\.0)?)?

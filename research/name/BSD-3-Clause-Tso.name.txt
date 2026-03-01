@@ -1,0 +1,4 @@
+SPDX-License-Identifier: BSD-3-Clause-Tso
+MODULE_LICENSE(BSD-3-Clause-Tso)
+License: BSD-3-Clause-Tso
+BSD 3-Clause Tso variant

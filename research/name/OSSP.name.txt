@@ -1,0 +1,4 @@
+SPDX-License-Identifier: OSSP
+MODULE_LICENSE(OSSP)
+License: OSSP
+OSSP License

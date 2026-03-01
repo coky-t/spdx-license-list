@@ -1,0 +1,4 @@
+SPDX-License-Identifier: Buddy
+MODULE_LICENSE(Buddy)
+License: Buddy
+Buddy License

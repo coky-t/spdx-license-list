@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*BSD-Mark-Modifications(?!\w)
+(?:MODULE_LICENSE|__license__)\W*BSD\W*Mark\W*Modifications(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)BSD\W*Mark\W*Modifications(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)BSD\W*Mark\W*Modifications\W*Licen[sc]e

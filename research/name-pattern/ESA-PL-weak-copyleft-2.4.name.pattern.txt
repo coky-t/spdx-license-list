@@ -1,0 +1,7 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ESA-PL-weak-copyleft-2\.4(?!\w)
+(?:MODULE_LICENSE|__license__)\W*ESA\W*PL\W*weak-copyleft\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ESA\W*PL\W*weak\W*copyleft\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)ESA\W*PL\W*weak\W*copyleft\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4\W*Licen[sc]e
+(?<!\w)ESA\W*PL\W*weak\W*copyleft\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4
+European\W*Space\W*Agency\W*Public\W*Licen[sc]e(?:\W*ESA\W*PL)?\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4\W*Weak\W*Copyleft\W*Type\W*2
+European\W*Space\W*Agency\W*Public\W*Licen[sc]e(?:\W*ESA\W*PL)?\W*Weak\W*Copyleft\W*Type\W*2\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?2\.4

@@ -1,0 +1,6 @@
+SPDX-License-Identifier: OpenMDW-1.0
+MODULE_LICENSE(OpenMDW-1.0)
+License: OpenMDW-1.0
+OpenMDW-1.0 License
+OpenMDW License Agreement v1.0
+OpenMDW License Agreement, version 1.0 (OpenMDW-1.0)

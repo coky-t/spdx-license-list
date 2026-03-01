@@ -1,0 +1,6 @@
+SPDX-License-Identifier: ESA-PL-permissive-2.4
+MODULE_LICENSE(ESA-PL-permissive-2.4)
+License: ESA-PL-permissive-2.4
+ESA-PL-permissive-2.4 License
+European Space Agency Public License – v2.4 – Permissive (Type 3)
+European Space Agency Public License (ESA-PL) Permissive (Type 3) – v2.4

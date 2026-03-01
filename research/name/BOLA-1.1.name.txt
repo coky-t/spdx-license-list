@@ -1,0 +1,7 @@
+SPDX-License-Identifier: BOLA-1.1
+MODULE_LICENSE(BOLA v1.1)
+License: BOLA v1.1
+BOLA v1.1 License
+BOLA License v1.1
+Buena Onda License Agreement v1.1
+Buena Onda License Agreement (v1.1)

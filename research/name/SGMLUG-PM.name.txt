@@ -1,0 +1,5 @@
+SPDX-License-Identifier: SGMLUG-PM
+MODULE_LICENSE(SGMLUG-PM)
+License: SGMLUG-PM
+SGMLUG-PM License
+SGMLUG Parser Materials License

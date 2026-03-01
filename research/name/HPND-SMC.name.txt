@@ -1,0 +1,5 @@
+SPDX-License-Identifier: HPND-SMC
+MODULE_LICENSE(HPND-SMC)
+License: HPND-SMC
+HPND-SMC License
+Historical Permission Notice and Disclaimer - SMC variant

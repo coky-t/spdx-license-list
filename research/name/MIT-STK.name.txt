@@ -1,0 +1,4 @@
+SPDX-License-Identifier: MIT-STK
+MODULE_LICENSE(MIT-STK)
+License: MIT-STK
+MIT-STK License

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: CAPEC-tou
+MODULE_LICENSE(CAPEC-tou)
+License: CAPEC-tou
+CAPEC-tou License
+Common Attack Pattern Enumeration and Classification License

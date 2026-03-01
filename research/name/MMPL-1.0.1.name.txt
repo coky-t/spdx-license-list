@@ -1,0 +1,6 @@
+SPDX-License-Identifier: MMPL-1.0.1
+MODULE_LICENSE(MMPL-1.0.1)
+License: MMPL-1.0.1
+MMPL-1.0.1 License
+Minecraft Mod Public License v1.0.1
+Minecraft Mod Public License Version 1.0.1

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: OSC-1.0
+MODULE_LICENSE(OSC-1.0)
+License: OSC-1.0
+OSC-1.0 License
+OSC License 1.0

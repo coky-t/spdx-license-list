@@ -1,0 +1,4 @@
+SPDX-License-Identifier: BSD-Mark-Modifications
+MODULE_LICENSE(BSD-Mark-Modifications)
+License: BSD-Mark-Modifications
+BSD Mark Modifications License

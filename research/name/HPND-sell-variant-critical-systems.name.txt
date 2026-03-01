@@ -1,0 +1,5 @@
+SPDX-License-Identifier: HPND-sell-variant-critical-systems
+MODULE_LICENSE(HPND-sell-variant-critical-systems)
+License: HPND-sell-variant-critical-systems
+HPND-sell-variant-critical-systems License
+HPND - sell variant with safety critical systems clause

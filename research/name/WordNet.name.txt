@@ -1,0 +1,4 @@
+SPDX-License-Identifier: WordNet
+MODULE_LICENSE(WordNet)
+License: WordNet
+WordNet License

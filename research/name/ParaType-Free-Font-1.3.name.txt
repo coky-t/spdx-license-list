@@ -1,0 +1,5 @@
+SPDX-License-Identifier: ParaType-Free-Font-1.3
+MODULE_LICENSE(ParaType-Free-Font-1.3)
+License: ParaType-Free-Font-1.3
+ParaType-Free-Font-1.3 License
+ParaType Free Font Licensing Agreement v1.3

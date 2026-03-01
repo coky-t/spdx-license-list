@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*ALGLIB-Documentation(?!\w)
+(?:MODULE_LICENSE|__license__)\W*ALGLIB\W*Documentation(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)ALGLIB\W*Documentation(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)ALGLIB\W*Documentation\W*Licen[sc]e

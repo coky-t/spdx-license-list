@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Vixie-Cron
+MODULE_LICENSE(Vixie-Cron)
+License: Vixie-Cron
+Vixie-Cron License
+Vixie Cron License

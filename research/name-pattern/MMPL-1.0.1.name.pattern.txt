@@ -1,0 +1,7 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*MMPL-1\.0\.1(?!\w)
+(?:MODULE_LICENSE|__license__)\W*MMPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.1(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)MMPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.1(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)MMPL\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.1\W*Licen[sc]e
+(?<!\w)MMPL\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.1
+Minecraft\W*Mod\W*Public\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.1\W*Licen[sc]e
+Minecraft\W*Mod\W*Public\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.0\.1

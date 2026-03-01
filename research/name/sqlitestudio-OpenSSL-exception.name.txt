@@ -1,0 +1,3 @@
+SPDX-License-Identifier: GPL-2.0-only WITH sqlitestudio-OpenSSL-exception
+SPDX-Exception-Identifier: sqlitestudio-OpenSSL-exception
+sqlitestudio OpenSSL exception

@@ -1,0 +1,3 @@
+SPDX-License-Identifier: GPL-3.0-only WITH rsync-linking-exception
+SPDX-Exception-Identifier: rsync-linking-exception
+rsync Linking Exception

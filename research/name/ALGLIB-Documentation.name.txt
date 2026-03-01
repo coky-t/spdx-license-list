@@ -1,0 +1,4 @@
+SPDX-License-Identifier: ALGLIB-Documentation
+MODULE_LICENSE(ALGLIB-Documentation)
+License: ALGLIB-Documentation
+ALGLIB Documentation License

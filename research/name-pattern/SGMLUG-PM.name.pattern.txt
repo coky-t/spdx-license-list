@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*SGMLUG-PM(?!\w)
+(?:MODULE_LICENSE|__license__)\W*SGMLUG\W*PM(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)SGMLUG\W*PM(?:\W*Licen[sc]e|(?!\w))
+(?<!\w)SGMLUG\W*(?:PM|Parser\W*Materials)\W*Licen[sc]e

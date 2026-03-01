@@ -1,0 +1,4 @@
+SPDX-License-Identifier: LGPL-2.1-only WITH Simple-Library-Usage-exception
+SPDX-Exception-Identifier: Simple-Library-Usage-exception
+Simple Library Usage Exception
+Simple Library Usage License
