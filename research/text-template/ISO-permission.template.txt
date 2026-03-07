@@ -1,0 +1,2 @@
+Permission to copy in any form is granted for use with conforming <<var;name="name";original="SGML systems";match="(?:SGML\W*systems|to\W*MHEG-3\W*engines)">> and applications as defined <<var;name="defined";original="in ISO 8879,";match="(?:in\W*ISO\W*8879|by\W*this\W*Recommendation)">> provided this notice is included in all copies.
+
