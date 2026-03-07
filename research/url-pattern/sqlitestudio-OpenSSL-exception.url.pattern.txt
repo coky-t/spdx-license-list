@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/sqlitestudio-OpenSSL-exception\.html

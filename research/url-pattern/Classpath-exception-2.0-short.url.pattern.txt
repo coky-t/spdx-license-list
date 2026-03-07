@@ -1,0 +1,1 @@
+https?://spdx\.org/licenses/Classpath-exception-2\.0-short\.html

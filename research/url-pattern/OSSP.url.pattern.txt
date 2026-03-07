@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/OSSP\.html
+https?://git\.sr\.ht/~nabijaczleweli/ossp-var

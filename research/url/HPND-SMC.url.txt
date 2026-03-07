@@ -1,0 +1,2 @@
+https://spdx.org/licenses/HPND-SMC.html
+https://docs.python.org/3/license.html#execution-tracing

@@ -1,0 +1,2 @@
+https://spdx.org/licenses/OSC-1.0.html
+https://opensource.org/license/osc-1-0

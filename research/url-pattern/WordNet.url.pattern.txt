@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/WordNet\.html
+https?://wordnet\.princeton\.edu/license-and-commercial-use

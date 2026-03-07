@@ -1,0 +1,2 @@
+https://spdx.org/licenses/BSD-3-Clause-Tso.html
+https://www.x.org/archive/current/doc/xorg-docs/License.html#Theodore_Tso

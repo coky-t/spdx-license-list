@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/MMPL-1\.0\.1\.html
+https?://mod-buildcraft\.com/MMPL-1\.0\.txt
