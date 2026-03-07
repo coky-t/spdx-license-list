@@ -533,7 +533,7 @@
 | Open Public License v1.0 | OPL-1.0 | |
 | United Kingdom Open Parliament Licence v3.0 | OPL-UK-3.0 | |
 | Open Publication License v1.0 | OPUBL-1.0 | |
-| OSC License 1.0 | OSC-1.0 | |
+| OSC License 1.0 | OSC-1.0 | [OSC License 1.0](https://opensource.org/license/osc-1-0) |
 | OSET Public License version 2.1 | OSET-PL-2.1 | [OSET Public License version 2.1](https://opensource.org/license/opl-2-1/) |
 | Open Software License 1.0 | OSL-1.0 | [Open Software License, version 1.0](https://opensource.org/license/osl-1-0/) |
 | Open Software License 1.1 | OSL-1.1 | |
