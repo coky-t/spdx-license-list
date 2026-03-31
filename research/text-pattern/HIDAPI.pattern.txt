@@ -1,0 +1,1 @@
+this\W*software\W*may\W*be\W*used\W*by\W*anyone\W*for\W*any\W*reason\W*so\W*long\W*as\W*the\W*copyright\W*notice\W*in\W*the\W*source\W*files\W*remains\W*intact\W*
