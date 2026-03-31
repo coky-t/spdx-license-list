@@ -1,0 +1,1 @@
+this\W*file\W*may\W*be\W*distributed\W*modified\W*(?:and|&)\W*used\W*in\W*other\W*works\W*with\W*just\W*one\W*restriction\W*modified\W*versions\W*must\W*clearly\W*indicate\W*the\W*modification\W*a\W*name\W*change\W*or\W*a\W*displayed\W*message\W*or\W*
