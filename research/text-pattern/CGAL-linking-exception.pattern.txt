@@ -1,0 +1,1 @@
+as\W*a\W*special\W*exception\W*you\W*have\W*permission\W*to\W*link\W*this\W*program|library\W*with\W*the\W*cgal\W*library(?:\W*https?\W*www\W*cgal\W*org\W*)?\W*(?:and|&)\W*distribute\W*executables\W*as\W*long\W*as\W*you\W*follow\W*the\W*requirements\W*of\W*the\W*gnu\W*gpl\W*in\W*regard\W*to\W*all\W*of\W*the\W*software\W*in\W*the\W*executable\W*aside\W*from\W*cgal\W*
