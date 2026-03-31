@@ -1,0 +1,1 @@
+mips\W*computer\W*systems\W*inc\W*grants\W*reproduction\W*(?:and|&)\W*use\W*rights\W*to\W*all\W*parties\W*provided\W*that\W*this\W*comment\W*is\W*maintained\W*in\W*the\W*copy\W*
