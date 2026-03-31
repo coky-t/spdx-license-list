@@ -1,1 +1,0 @@
-you\W*can\W*do\W*what\W*you\W*want\W*with\W*it\W*.{0,20}i\W*refuse\W*any\W*responsibility\W*for\W*the\W*consequences\W*

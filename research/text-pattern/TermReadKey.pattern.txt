@@ -1,1 +1,0 @@
-unlimited\W*distribution\W*(?:and|&)\W*or\W*modification\W*is\W*allowed\W*as\W*long\W*as\W*this\W*copyright\W*notice\W*remains\W*intact\W*
