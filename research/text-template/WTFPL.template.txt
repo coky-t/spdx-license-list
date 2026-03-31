@@ -4,5 +4,5 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-   <<var;name="bullet";original="0.";match=".{0,20}">> You just DO WHAT THE FUCK YOU WANT TO.
+   <<var;name="bullet";original="0. ";match=".{0,20}">>You just DO WHAT THE FUCK YOU WANT TO.
 
