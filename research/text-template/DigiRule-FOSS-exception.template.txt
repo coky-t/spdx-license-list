@@ -10,19 +10,19 @@ Definitions.
 
    "Program" means a copy of DigiRule Solutions's Client Libraries that contain a FOSS Notice.
 
-   <<var;name="bullet";original="2.";match=".{0,20}">> A FOSS application developer ("you" or "your") may distribute a Derivative Work provided that you and the Derivative Work meet all of the following conditions:
+   <<var;name="bullet";original="2. ";match=".{0,20}">>A FOSS application developer ("you" or "your") may distribute a Derivative Work provided that you and the Derivative Work meet all of the following conditions:
 
-      <<var;name="bullet";original="1.";match=".{0,20}">> You obey the GPL in all respects for the Program and all portions (including modifications) of the Program included in the Derivative Work (provided that this condition does not apply to Independent Works);
+      <<var;name="bullet";original="1. ";match=".{0,20}">>You obey the GPL in all respects for the Program and all portions (including modifications) of the Program included in the Derivative Work (provided that this condition does not apply to Independent Works);
 
-      <<var;name="bullet";original="2.";match=".{0,20}">> The Derivative Work does not include any work licensed under the GPL other than the Program;
+      <<var;name="bullet";original="2. ";match=".{0,20}">>The Derivative Work does not include any work licensed under the GPL other than the Program;
 
-      <<var;name="bullet";original="3.";match=".{0,20}">> You distribute Independent Works subject to a license listed in the section below titled "FOSS License List";
+      <<var;name="bullet";original="3. ";match=".{0,20}">>You distribute Independent Works subject to a license listed in the section below titled "FOSS License List";
 
-      <<var;name="bullet";original="4.";match=".{0,20}">> You distribute Independent Works in object code or executable form with the complete corresponding machine-readable source code on the same medium and under the same FOSS license applying to the object code or executable forms;
+      <<var;name="bullet";original="4. ";match=".{0,20}">>You distribute Independent Works in object code or executable form with the complete corresponding machine-readable source code on the same medium and under the same FOSS license applying to the object code or executable forms;
 
-      <<var;name="bullet";original="5.";match=".{0,20}">> All works that are aggregated with the Program or the Derivative Work on a medium or volume of storage are not derivative works of the Program, Derivative Work or FOSS Application, and must reasonably be considered independent and separate works.
+      <<var;name="bullet";original="5. ";match=".{0,20}">>All works that are aggregated with the Program or the Derivative Work on a medium or volume of storage are not derivative works of the Program, Derivative Work or FOSS Application, and must reasonably be considered independent and separate works.
 
-   <<var;name="bullet";original="3.";match=".{0,20}">> DigiRule Solutions reserves all rights not expressly granted in these terms and conditions. If all of the above conditions are not met, then this FOSS License Exception does not apply to you or your Derivative Work.
+   <<var;name="bullet";original="3. ";match=".{0,20}">>DigiRule Solutions reserves all rights not expressly granted in these terms and conditions. If all of the above conditions are not met, then this FOSS License Exception does not apply to you or your Derivative Work.
 
 FOSS License List
 

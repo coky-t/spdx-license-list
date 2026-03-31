@@ -6,8 +6,8 @@ Definitions
 
    "OpenSSL Licenses" means the OpenSSL License and Original SSLeay License under which the OpenSSL Project distributes the OpenSSL toolkit software, as those licenses appear in the file LICENSE-OPENSSL.
 
-   <<var;name="bullet";original="1.";match=".{0,20}">>
-   Exception
+   <<var;name="bullet";original="1.
+";match=".{0,20}">>   Exception
 
    You have permission to copy, modify, propagate, and distribute a work formed by combining OpenSSL with KVIrc, or a work derivative of such a combination, even if such copying, modification, propagation, or distribution would otherwise violate the terms of the GPL. You must comply with the GPL in all respects for all of the code used other than OpenSSL.
 
