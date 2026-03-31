@@ -1,0 +1,1 @@
+permission\W*to\W*use\W*copy\W*redistribute\W*is\W*granted\W*permission\W*to\W*redistribute\W*modifications\W*in\W*patch\W*form\W*is\W*granted\W*permission\W*to\W*redistribute\W*binaries\W*made\W*of\W*modified\W*sources\W*is\W*granted\W*all\W*other\W*rights\W*reserved\W*
