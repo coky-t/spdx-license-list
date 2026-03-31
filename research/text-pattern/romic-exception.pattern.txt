@@ -1,0 +1,1 @@
+additional\W*permission\W*under\W*the\W*gnu\W*affero\W*gpl\W*version\W*3\W*section\W*7\W*if\W*you\W*modify\W*this\W*program(?:me)?\W*or\W*any\W*covered\W*work\W*by\W*linking\W*or\W*combining\W*it\W*with\W*other\W*code\W*such\W*other\W*code\W*is\W*not\W*for\W*that\W*reason\W*alone\W*subject\W*to\W*any\W*of\W*the\W*requirements\W*of\W*the\W*gnu\W*affero\W*gpl\W*version\W*3\W*
