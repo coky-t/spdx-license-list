@@ -1,12 +1,12 @@
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-   <<var;name="bullet";original="1. ";match=".{0,20}">>Redistributions in source code must retain the accompanying copyright notice, this list of conditions, and the following disclaimer.
+   <<var;name="bullet";original="1. ";match="(?:.{0,20}\W*)?">>Redistributions in source code must retain the accompanying copyright notice, this list of conditions, and the following disclaimer.
 
-   <<var;name="bullet";original="2. ";match=".{0,20}">>Redistributions in binary form must reproduce the accompanying copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+   <<var;name="bullet";original="2. ";match="(?:.{0,20}\W*)?">>Redistributions in binary form must reproduce the accompanying copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
-   <<var;name="bullet";original="3. ";match=".{0,20}">>Names of the copyright holders must not be used to endorse or promote products derived from this software without prior written permission from the copyright holders.
+   <<var;name="bullet";original="3. ";match="(?:.{0,20}\W*)?">>Names of the copyright holders must not be used to endorse or promote products derived from this software without prior written permission from the copyright holders.
 
-   <<var;name="bullet";original="4. ";match=".{0,20}">>If any files are modified, you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change.
+   <<var;name="bullet";original="4. ";match="(?:.{0,20}\W*)?">>If any files are modified, you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change.
 
 Disclaimer
 

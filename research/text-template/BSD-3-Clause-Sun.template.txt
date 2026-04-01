@@ -1,8 +1,8 @@
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>Redistribution in binary form must reproduct the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Redistribution in binary form must reproduct the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
 Neither the name of Sun Microsystems, Inc. or the names of contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 

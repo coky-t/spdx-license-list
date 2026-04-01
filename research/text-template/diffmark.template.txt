@@ -1,4 +1,4 @@
 you can do what you want with it
 
-   <<var;name="bullet";original="2. ";match=".{0,20}">>I refuse any responsibility for the consequences
+   <<var;name="bullet";original="2. ";match="(?:.{0,20}\W*)?">>I refuse any responsibility for the consequences
 

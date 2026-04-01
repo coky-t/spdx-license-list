@@ -1,8 +1,8 @@
 This file may be freely copied and redistributed as long as:
 
-   <<var;name="bullet";original="1) ";match=".{0,20}">>This entire notice continues to be included in the file,
+   <<var;name="bullet";original="1) ";match="(?:.{0,20}\W*)?">>This entire notice continues to be included in the file,
 
-   <<var;name="bullet";original="2) ";match=".{0,20}">>If the file has been modified in any way, a notice of such modification is conspicuously indicated.
+   <<var;name="bullet";original="2) ";match="(?:.{0,20}\W*)?">>If the file has been modified in any way, a notice of such modification is conspicuously indicated.
 
 PostScript, Display PostScript, and Adobe are registered trademarks of Adobe Systems Incorporated.
 
