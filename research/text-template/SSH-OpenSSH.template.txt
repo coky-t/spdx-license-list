@@ -6,25 +6,25 @@ However, I am not implying to give any licenses to any patents or copyrights hel
 
 [However, none of that term is relevant at this point in time. All of these restrictively licenced software components which he talks about have been removed from OpenSSH, i.e.,
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>RSA is no longer included, found in the OpenSSL library
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>RSA is no longer included, found in the OpenSSL library
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>IDEA is no longer included, its use is deprecated
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>IDEA is no longer included, its use is deprecated
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>DES is now external, in the OpenSSL library
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>DES is now external, in the OpenSSL library
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>GMP is no longer used, and instead we call BN code from OpenSSL
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>GMP is no longer used, and instead we call BN code from OpenSSL
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>Zlib is now external, in a library
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Zlib is now external, in a library
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>The make-ssh-known-hosts script is no longer included
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>The make-ssh-known-hosts script is no longer included
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>TSS has been removed
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>TSS has been removed
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>MD5 is now external, in the OpenSSL library
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>MD5 is now external, in the OpenSSL library
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>RC4 support has been replaced with ARC4 support from OpenSSL
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>RC4 support has been replaced with ARC4 support from OpenSSL
 
-   <<var;name="bullet";original="- ";match=".{0,20}">>Blowfish is now external, in the OpenSSL library
+   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Blowfish is now external, in the OpenSSL library
 
 [The licence continues]
 
