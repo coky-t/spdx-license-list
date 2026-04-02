@@ -1,10 +1,10 @@
 Redistribution and use of this software and associated documentation ("Software"), with or without modification, are permitted provided that the following conditions are met:
 
-   <<var;name="bullet";original="1. ";match="(?:.{0,20}\W*)?">>Redistributions of source code must retain copyright statements and notices,
+   <<var;name="bullet";original="1.";match=".{0,20}">> Redistributions of source code must retain copyright statements and notices,
 
-   <<var;name="bullet";original="2. ";match="(?:.{0,20}\W*)?">>Redistributions in binary form must reproduce applicable copyright statements and notices, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution, and
+   <<var;name="bullet";original="2.";match=".{0,20}">> Redistributions in binary form must reproduce applicable copyright statements and notices, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution, and
 
-   <<var;name="bullet";original="3. ";match="(?:.{0,20}\W*)?">>Redistributions must contain a verbatim copy of this document.
+   <<var;name="bullet";original="3.";match=".{0,20}">> Redistributions must contain a verbatim copy of this document.
 
 The OpenLDAP Foundation may revise this license from time to time. Each revision is distinguished by a version number. You may use this Software under terms of this license revision or under the terms of any subsequent revision of the license.
 
