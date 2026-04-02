@@ -2,35 +2,35 @@ The SimPL applies to the software's source and object code and comes with any ri
 
 You get the royalty free right to:
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Use the software for any purpose;
+   <<var;name="bullet";original="-";match=".{0,20}">> Use the software for any purpose;
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Make derivative works of it (this is called a "Derived Work");
+   <<var;name="bullet";original="-";match=".{0,20}">> Make derivative works of it (this is called a "Derived Work");
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Copy and distribute it and any Derived Work.
+   <<var;name="bullet";original="-";match=".{0,20}">> Copy and distribute it and any Derived Work.
 
 If you distribute the software or a Derived Work, you must give back to the community by:
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Prominently noting the date of any changes you make;
+   <<var;name="bullet";original="-";match=".{0,20}">> Prominently noting the date of any changes you make;
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Leaving other people's copyright notices, warranty disclaimers, and license terms in place;
+   <<var;name="bullet";original="-";match=".{0,20}">> Leaving other people's copyright notices, warranty disclaimers, and license terms in place;
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Providing the source code, build scripts, installation scripts, and interface definitions in a form that is easy to get and best to modify;
+   <<var;name="bullet";original="-";match=".{0,20}">> Providing the source code, build scripts, installation scripts, and interface definitions in a form that is easy to get and best to modify;
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without adding further restrictions to the rights provided;
+   <<var;name="bullet";original="-";match=".{0,20}">> Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without adding further restrictions to the rights provided;
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Conspicuously announcing that it is available under that license.
+   <<var;name="bullet";original="-";match=".{0,20}">> Conspicuously announcing that it is available under that license.
 
 There are some things that you must shoulder:
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>You get NO WARRANTIES. None of any kind;
+   <<var;name="bullet";original="-";match=".{0,20}">> You get NO WARRANTIES. None of any kind;
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>If the software damages you in any way, you may only recover direct damages up to the amount you paid for it (that is zero if you did not pay anything). You may not recover any other damages, including those called "consequential damages." (The state or country where you live may not allow you to limit your liability in this way, so this may not apply to you);
+   <<var;name="bullet";original="-";match=".{0,20}">> If the software damages you in any way, you may only recover direct damages up to the amount you paid for it (that is zero if you did not pay anything). You may not recover any other damages, including those called "consequential damages." (The state or country where you live may not allow you to limit your liability in this way, so this may not apply to you);
 
 The SimPL continues perpetually, except that your license rights end automatically if:
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>You do not abide by the "give back to the community" terms (your licensees get to keep their rights if they abide);
+   <<var;name="bullet";original="-";match=".{0,20}">> You do not abide by the "give back to the community" terms (your licensees get to keep their rights if they abide);
 
-   <<var;name="bullet";original="- ";match="(?:.{0,20}\W*)?">>Anyone prevents you from distributing the software under the terms of the SimPL.
+   <<var;name="bullet";original="-";match=".{0,20}">> Anyone prevents you from distributing the software under the terms of the SimPL.
 
 License for the License
 
