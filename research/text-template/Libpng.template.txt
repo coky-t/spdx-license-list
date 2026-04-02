@@ -72,11 +72,11 @@ The PNG Reference Library is supplied "AS IS". The Contributing Authors and Grou
 
 Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, for any purpose, without fee, subject to the following restrictions:
 
-   <<var;name="bullet";original="1. ";match="(?:.{0,20}\W*)?">>The origin of this source code must not be misrepresented.
+   <<var;name="bullet";original="1.";match=".{0,20}">> The origin of this source code must not be misrepresented.
 
-   <<var;name="bullet";original="2. ";match="(?:.{0,20}\W*)?">>Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+   <<var;name="bullet";original="2.";match=".{0,20}">> Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
 
-   <<var;name="bullet";original="3. ";match="(?:.{0,20}\W*)?">>This Copyright notice may not be removed or altered from any source or altered source distribution.
+   <<var;name="bullet";original="3.";match=".{0,20}">> This Copyright notice may not be removed or altered from any source or altered source distribution.
 
 The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products. If you use this source code in a product, acknowledgment is not required but would be appreciated.
 
