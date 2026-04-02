@@ -4,9 +4,9 @@ To all effects and purposes, this work is to be considered Public Domain.
 
 However, if you want to be "buena onda", you should:
 
-   <<var;name="bullet";original="1. ";match="(?:.{0,20}\W*)?">>Not take credit for it, and give proper recognition to the authors.
-   <<var;name="bullet";original="2. ";match="(?:.{0,20}\W*)?">>Share your modifications, so everybody benefits from them.
-   <<var;name="bullet";original="3. ";match="(?:.{0,20}\W*)?">>Do something nice for the authors.
-   <<var;name="bullet";original="4. ";match="(?:.{0,20}\W*)?">>Help someone who needs it: sign up for some volunteer work or help your neighbour paint the house.
-   <<var;name="bullet";original="5. ";match="(?:.{0,20}\W*)?">>Don't waste. Anything, but specially energy that comes from natural non-renewable resources. Extra points if you discover or invent something to replace them.
-   <<var;name="bullet";original="6. ";match="(?:.{0,20}\W*)?">>Be tolerant. Everything that's good in nature comes from cooperation.
+   <<var;name="bullet";original="1.";match=".{0,20}">> Not take credit for it, and give proper recognition to the authors.
+   <<var;name="bullet";original="2.";match=".{0,20}">> Share your modifications, so everybody benefits from them.
+   <<var;name="bullet";original="3.";match=".{0,20}">> Do something nice for the authors.
+   <<var;name="bullet";original="4.";match=".{0,20}">> Help someone who needs it: sign up for some volunteer work or help your neighbour paint the house.
+   <<var;name="bullet";original="5.";match=".{0,20}">> Don't waste. Anything, but specially energy that comes from natural non-renewable resources. Extra points if you discover or invent something to replace them.
+   <<var;name="bullet";original="6.";match=".{0,20}">> Be tolerant. Everything that's good in nature comes from cooperation.
