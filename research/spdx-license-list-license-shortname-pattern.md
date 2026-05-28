@@ -45,7 +45,7 @@
 | Apple Public Source License 1.2 | APSL-1.2 | APSL | 1.2 | |
 | Apple Public Source License 2.0 | APSL-2.0 | APSL | 2.0 | |
 | Arphic Public License | Arphic-1999 | Arphic-1999 | | |
-| Artistic License 1.0 | Artistic-1.0 | Artistic | 1.0 | `(?!\W*cl8|\W*Perl)` |
+| Artistic License 1.0 | Artistic-1.0 | Artistic | 1.0 | `(?!\W*cl8\|\W*Perl)` |
 | Artistic License 1.0 w/clause 8 | Artistic-1.0-cl8 | Artistic | 1.0 | cl8 |
 | Artistic License 1.0 (Perl) | Artistic-1.0-Perl | Artistic | 1.0 | Perl |
 | Artistic License 2.0 | Artistic-2.0 | Artistic | 2.0 | |
@@ -71,13 +71,13 @@
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | Brian-Gladman | 2-Clause | |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | Brian-Gladman | 3-Clause | |
 | BSD 1-Clause License | BSD-1-Clause | BSD | 1-Clause | |
-| BSD 2-Clause "Simplified" License | BSD-2-Clause | BSD | 2-Clause | `(?!\W*Darwin|\W*Patent|\W*Views)` |
+| BSD 2-Clause "Simplified" License | BSD-2-Clause | BSD | 2-Clause | `(?!\W*Darwin\|\W*Patent\|\W*Views)` |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin |  BSD | 2-Clause | Darwin |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | BSD | 2-Clause | first-lines |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | BSD | 2-Clause | Patent |
 | BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | BSD | 2-Clause | pkgconf-disclaimer |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | BSD | 2-Clause | Views |
-| BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | BSD | 3-Clause | `(?!\W*acpica|\W*Attribution|\W*Clear|\W*flex|\W*HP|\W*LBNL|\W*Modification|\W*No|\W*Open|\W*Sun|\W*Tso)` |
+| BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | BSD | 3-Clause | `(?!\W*acpica\|\W*Attribution\|\W*Clear\|\W*flex\|\W*HP\|\W*LBNL\|\W*Modification\|\W*No\|\W*Open\|\W*Sun\|\W*Tso)` |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | BSD | 3-Clause | acpica |
 | BSD with attribution | BSD-3-Clause-Attribution | BSD | 3-Clause | Attribution |
 | BSD 3-Clause Clear License | BSD-3-Clause-Clear | BSD | 3-Clause | Clear |
@@ -92,7 +92,7 @@
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | BSD | 3-Clause | Open-MPI |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | BSD | 3-Clause | Sun |
 | BSD 3-Clause Tso variant | BSD-3-Clause-Tso | BSD | 3-Clause | Tso |
-| BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | BSD | 4-Clause | `(?!\W*Shortened|\W*UC)` |
+| BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | BSD | 4-Clause | `(?!\W*Shortened\|\W*UC)` |
 | BSD 4 Clause Shortened | BSD-4-Clause-Shortened | BSD | 4-Clause | Shortened |
 | BSD-4-Clause (University of California-Specific) | BSD-4-Clause-UC | BSD | 4-Clause | UC |
 | BSD 4.3 RENO License | BSD-4.3RENO | BSD-4.3 | | RENO |
@@ -122,7 +122,7 @@
 | Creative Commons Attribution 2.0 Generic | CC-BY-2.0 | CC-BY | 2.0 | |
 | Creative Commons Attribution 2.5 Generic | CC-BY-2.5 | CC-BY | 2.5 | `(?!\W*AU)` |
 | Creative Commons Attribution 2.5 Australia | CC-BY-2.5-AU | CC-BY | 2.5 | AU |
-| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | CC-BY | 3.0 | `(?!\W*AT|\W*AU|\W*DE|\W*IGO|\W*NL|\W*US)` |
+| Creative Commons Attribution 3.0 Unported | CC-BY-3.0 | CC-BY | 3.0 | `(?!\W*AT\|\W*AU\|\W*DE\|\W*IGO\|\W*NL\|\W*US)` |
 | Creative Commons Attribution 3.0 Austria | CC-BY-3.0-AT | CC-BY | 3.0 | AT |
 | Creative Commons Attribution 3.0 Australia | CC-BY-3.0-AU | CC-BY | 3.0 | AU |
 | Creative Commons Attribution 3.0 Germany | CC-BY-3.0-DE | CC-BY | 3.0 | DE |
@@ -139,17 +139,17 @@
 | Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | CC-BY-NC-ND | 1.0 | |
 | Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | CC-BY-NC-ND | 2.0 | |
 | Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic | CC-BY-NC-ND-2.5 | CC-BY-NC-ND | 2.5 | |
-| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | CC-BY-NC-ND | 3.0 | `(?!\W*DE|\W*IGO)` |
+| Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported | CC-BY-NC-ND-3.0 | CC-BY-NC-ND | 3.0 | `(?!\W*DE\|\W*IGO)` |
 | Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany | CC-BY-NC-ND-3.0-DE | CC-BY-NC-ND | 3.0 | DE |
 | Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO | CC-BY-NC-ND-3.0-IGO | CC-BY-NC-ND | 3.0 | IGO |
 | Creative Commons Attribution Non Commercial No Derivatives 4.0 International | CC-BY-NC-ND-4.0 | CC-BY-NC-ND | 4.0 | |
 | Creative Commons Attribution Non Commercial Share Alike 1.0 Generic | CC-BY-NC-SA-1.0 | CC-BY-NC-SA | 1.0 | |
-| Creative Commons Attribution Non Commercial Share Alike 2.0 Generic | CC-BY-NC-SA-2.0 | CC-BY-NC-SA | 2.0 | `(?!\W*DE|\W*FR|\W*UK)` |
+| Creative Commons Attribution Non Commercial Share Alike 2.0 Generic | CC-BY-NC-SA-2.0 | CC-BY-NC-SA | 2.0 | `(?!\W*DE\|\W*FR\|\W*UK)` |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 Germany | CC-BY-NC-SA-2.0-DE | CC-BY-NC-SA | 2.0 | DE |
 | Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France | CC-BY-NC-SA-2.0-FR | CC-BY-NC-SA | 2.0 | FR |
 | Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales | CC-BY-NC-SA-2.0-UK | CC-BY-NC-SA | 2.0 | UK |
 | Creative Commons Attribution Non Commercial Share Alike 2.5 Generic | CC-BY-NC-SA-2.5 | CC-BY-NC-SA | 2.5 | |
-| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | CC-BY-NC-SA | 3.0 | `(?!\W*DE|\W*IGO)` |
+| Creative Commons Attribution Non Commercial Share Alike 3.0 Unported | CC-BY-NC-SA-3.0 | CC-BY-NC-SA | 3.0 | `(?!\W*DE\|\W*IGO)` |
 | Creative Commons Attribution Non Commercial Share Alike 3.0 Germany | CC-BY-NC-SA-3.0-DE | CC-BY-NC-SA | 3.0 | DE |
 | Creative Commons Attribution Non Commercial Share Alike 3.0 IGO | CC-BY-NC-SA-3.0-IGO | CC-BY-NC-SA | 3.0 | IGO |
 | Creative Commons Attribution Non Commercial Share Alike 4.0 International | CC-BY-NC-SA-4.0 | CC-BY-NC-SA | 4.0 | |
@@ -164,7 +164,7 @@
 | Creative Commons Attribution Share Alike 2.0 England and Wales | CC-BY-SA-2.0-UK | CC-BY-SA | 2.0 | UK |
 | Creative Commons Attribution Share Alike 2.1 Japan | CC-BY-SA-2.1-JP | CC-BY-SA | 2.1 | JP |
 | Creative Commons Attribution Share Alike 2.5 Generic | CC-BY-SA-2.5 | CC-BY-SA | 2.5 | |
-| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | CC-BY-SA | 3.0 | `(?!\W*AT|\W*DE|\W*IGO)` |
+| Creative Commons Attribution Share Alike 3.0 Unported | CC-BY-SA-3.0 | CC-BY-SA | 3.0 | `(?!\W*AT\|\W*DE\|\W*IGO)` |
 | Creative Commons Attribution Share Alike 3.0 Austria | CC-BY-SA-3.0-AT | CC-BY-SA | 3.0 | AT |
 | Creative Commons Attribution Share Alike 3.0 Germany | CC-BY-SA-3.0-DE | CC-BY-SA | 3.0 | DE |
 | Creative Commons Attribution-ShareAlike 3.0 IGO | CC-BY-SA-3.0-IGO | CC-BY-SA | 3.0 | IGO |
@@ -263,7 +263,7 @@
 | FSF All Permissive License | FSFAP | FSFAP | | `(?!\W*no\W*warranty\W*disclaimer)` |
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | FSFAP | | no-warranty-disclaimer |
 | FSF Unlimited License | FSFUL | FSFUL | | `(?!LR)` |
-| FSF Unlimited License (with License Retention) | FSFULLR | FSFULLR | | `(?!SD|WD)` |
+| FSF Unlimited License (with License Retention) | FSFULLR | FSFULLR | | `(?!SD\|WD)` |
 | FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | FSFULLRSD | | |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | FSFULLRWD | | |
 | Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | FSL | 1.1 | ALv2 |
@@ -316,11 +316,11 @@
 | Hippocratic License 2.1 | Hippocratic-2.1 | Hippocratic | 2.1 | |
 | Hewlett-Packard 1986 License | HP-1986 | HP | 1986 | |
 | Hewlett-Packard 1989 License | HP-1989 | HP | 1989 | |
-| Historical Permission Notice and Disclaimer | HPND | HPND | | `(?!\W*DEC|\W*doc|\W*export|\W*Fenneberg|\W*INRIA|\W*Kevlin|\W*Markus|\W*MIT|\W*Netrek|\W*Pbmplus|\W*sell|\W*SMC|\W*UC)` |
+| Historical Permission Notice and Disclaimer | HPND | HPND | | `(?!\W*DEC\|\W*doc\|\W*export\|\W*Fenneberg\|\W*INRIA\|\W*Kevlin\|\W*Markus\|\W*MIT\|\W*Netrek\|\W*Pbmplus\|\W*sell\|\W*SMC\|\W*UC)` |
 | Historical Permission Notice and Disclaimer - DEC variant | HPND-DEC | HPND-DEC | | |
 | Historical Permission Notice and Disclaimer - documentation variant | HPND-doc | HPND-doc | | `(?!\W*sell)` |
 | Historical Permission Notice and Disclaimer - documentation sell variant | HPND-doc-sell | HPND-doc-sell | | |
-| HPND with US Government export control warning | HPND-export-US | HPND-export-US | | `(?!\W*acknowledgement|\W*modify)` |
+| HPND with US Government export control warning | HPND-export-US | HPND-export-US | | `(?!\W*acknowledgement\|\W*modify)` |
 | HPND with US Government export control warning and acknowledgment | HPND-export-US-acknowledgement | HPND-export-US | | acknowledgement |
 | HPND with US Government export control warning and modification rqmt | HPND-export-US-modify | HPND-export-US-modify | | |
 | HPND with US Government export control and 2 disclaimers | HPND-export2-US | HPND-export2-US | | |
@@ -335,7 +335,7 @@
 | Historical Permission Notice and Disclaimer - Pbmplus variant | HPND-Pbmplus | HPND-Pbmplus | | |
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer | HPND-sell-MIT-disclaimer-xserver | HPND-sell-MIT-disclaimer-xserver |
 | Historical Permission Notice and Disclaimer - sell regexpr variant | HPND-sell-regexpr | HPND-sell-regexpr | | |
-| Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | HPND-sell-variant | | `(?!\W*critical-systems|\W*MIT)` |
+| Historical Permission Notice and Disclaimer - sell variant | HPND-sell-variant | HPND-sell-variant | | `(?!\W*critical-systems\|\W*MIT)` |
 | HPND - sell variant with safety critical systems clause | HPND-sell-variant-critical-systems | HPND-sell-variant-critical-systems | | |
 | HPND sell variant with MIT disclaimer | HPND-sell-variant-MIT-disclaimer | HPND-sell-variant-MIT-disclaimer | | |
 | HPND sell variant with MIT disclaimer - reverse | HPND-sell-variant-MIT-disclaimer-rev | HPND-sell-variant-MIT-disclaimer | | rev |
@@ -384,7 +384,7 @@
 | GNU Lesser General Public License v3.0 only | LGPL-3.0-only | LGPL | 3.0 | only |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0-or-later | LGPL | 3.0 | or-later |
 | Lesser General Public License For Linguistic Resources | LGPLLR | LGPLLR | | |
-| libpng License | Libpng | Libpng | | `(?!\W*1\.6\.35|2\.0)` |
+| libpng License | Libpng | Libpng | | `(?!\W*1\.6\.35\|2\.0)` |
 | PNG Reference Library License v1 (for libpng 0.5 through 1.6.35) | libpng-1.6.35 | libpng | 1.6.35 | |
 | PNG Reference Library version 2 | libpng-2.0 | libpng | 2.0 | |
 | libselinux public domain notice | libselinux-1.0 | libselinux | 1.0 | |
@@ -394,7 +394,7 @@
 | Licence Libre du Québec – Réciprocité version 1.1 | LiLiQ-R-1.1 | LiLiQ-R | 1.1 | |
 | Licence Libre du Québec – Réciprocité forte version 1.1 | LiLiQ-Rplus-1.1 | LiLiQ-Rplus | 1.1 | |
 | Linux man-pages - 1 paragraph | Linux-man-pages-1-para | Linux-man-pages-1-para | | |
-| Linux man-pages Copyleft | Linux-man-pages-copyleft | Linux-man-pages-copyleft | | `(?!\W*2|\W*var)` |
+| Linux man-pages Copyleft | Linux-man-pages-copyleft | Linux-man-pages-copyleft | | `(?!\W*2\|\W*var)` |
 | Linux man-pages Copyleft - 2 paragraphs | Linux-man-pages-copyleft-2-para | Linux-man-pages-copyleft-2-para | | |
 | Linux man-pages Copyleft Variant | Linux-man-pages-copyleft-var | Linux-man-pages-copyleft-var | | |
 | Linux Kernel Variant of OpenIB.org license | Linux-OpenIB | Linux-OpenIB | | |
@@ -423,7 +423,7 @@
 | Minpack License | Minpack | Minpack | | |
 | MIPS License | MIPS | MIPS | | |
 | The MirOS Licence | MirOS | MirOS | | |
-| MIT License | MIT | MIT | | `(?!\W*0|\W*advertising|\W*CMU|\W*enna|\W*feh|\W*Festival\W*Khronos|\W*Modern|\W*open|\W*STK|\W*testregex|\W*Wu|\W*NFA)` |
+| MIT License | MIT | MIT | | `(?!\W*0\|\W*advertising\|\W*CMU\|\W*enna\|\W*feh\|\W*Festiva\l\W*Khronos\|\W*Modern\|\W*open\|\W*STK\|\W*testregex\|\W*Wu\|\W*NFA)` |
 | MIT No Attribution | MIT-0 | MIT-0 | | |
 | Enlightenment License (e16) | MIT-advertising | MIT-advertising | | |
 | MIT Click License | MIT-Click | MIT-Click | | |
@@ -470,7 +470,7 @@
 | Nethack General Public License | NGPL | NGPL | | |
 | ngrep License | ngrep | ngrep | | |
 | NICTA Public Software License, Version 1.0 | NICTA-1.0 | NICTA | 1.0 | |
-| NIST Public Domain Notice | NIST-PD | NIST-PD | | `(?!\W*fallback|\W*TNT)` |
+| NIST Public Domain Notice | NIST-PD | NIST-PD | | `(?!\W*fallback\|\W*TNT)` |
 | NIST Public Domain Notice with license fallback | NIST-PD-fallback | NIST-PD-fallback | | |
 | NIST Public Domain Notice TNT variant | NIST-PD-TNT | NIST-PD-TNT | | |
 | NIST Software License | NIST-Software | NIST-Software | | |
@@ -494,10 +494,10 @@
 | Open Data Commons Open Database License v1.0 | ODbL-1.0 | ODbL | 1.0 | |
 | Open Data Commons Attribution License v1.0 | ODC-By-1.0 | ODC-By | 1.0 | |
 | OFFIS License | OFFIS | OFFIS | | |
-| SIL Open Font License 1.0 | OFL-1.0 | OFL | 1.0 | `(?!\W*no|\W*RFN)` |
+| SIL Open Font License 1.0 | OFL-1.0 | OFL | 1.0 | `(?!\W*no\|\W*RFN)` |
 | SIL Open Font License 1.0 with no Reserved Font Name | OFL-1.0-no-RFN | OFL | 1.0 | no-RFN |
 | SIL Open Font License 1.0 with Reserved Font Name | OFL-1.0-RFN | OFL | 1.0 | RFN |
-| SIL Open Font License 1.1 | OFL-1.1 | OFL | 1.1 | `(?!\W*no|\W*RFN)` |
+| SIL Open Font License 1.1 | OFL-1.1 | OFL | 1.1 | `(?!\W*no\|\W*RFN)` |
 | SIL Open Font License 1.1 with no Reserved Font Name | OFL-1.1-no-RFN | OFL | 1.1 | no-RFN |
 | SIL Open Font License 1.1 with Reserved Font Name | OFL-1.1-RFN | OFL | 1.1 | RFN |
 | OGC Software License, Version 1.0 | OGC-1.0 | OGC | 1.0 | |
@@ -514,7 +514,7 @@
 | Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B) | OLDAP-2.0 | OLDAP | 2.0 | `(?!\.1)` |
 | Open LDAP Public License v2.0.1 | OLDAP-2.0.1 | OLDAP | 2.0.1 | |
 | Open LDAP Public License v2.1 | OLDAP-2.1 | OLDAP | 2.1 | |
-| Open LDAP Public License v2.2 | OLDAP-2.2 | OLDAP | 2.2 | `(?!\.1|\.2)` |
+| Open LDAP Public License v2.2 | OLDAP-2.2 | OLDAP | 2.2 | `(?!\.1\|\.2)` |
 | Open LDAP Public License v2.2.1 | OLDAP-2.2.1 | OLDAP | 2.2.1 | |
 | Open LDAP Public License 2.2.2 | OLDAP-2.2.2 | OLDAP | 2.2.2 | |
 | Open LDAP Public License v2.3 | OLDAP-2.3 | OLDAP | 2.3 | |
@@ -659,7 +659,7 @@
 | Vixie Cron License | Vixie-Cron | Vixie-Cron | | |
 | VOSTROM Public License for Open Source | VOSTROM | VOSTROM | | |
 | Vovida Software License v1.0 | VSL-1.0 | VSL | 1.0 | |
-| W3C Software Notice and License (2002-12-31) | W3C | W3C | | `(?!\W*19980720|\W*20150513)` |
+| W3C Software Notice and License (2002-12-31) | W3C | W3C | | `(?!\W*19980720\|\W*20150513)` |
 | W3C Software Notice and License (1998-07-20) | W3C-19980720 | W3C-19980720 | | |
 | W3C Software Notice and Document License (2015-05-13) | W3C-20150513 | W3C-20150513 | | |
 | w3m License | w3m | w3m | | |
@@ -670,7 +670,7 @@
 | Do What The F*ck You Want To But It's Not My Fault Public License | WTFNMFPL | WTFNMFPL | | |
 | Do What The F*ck You Want To Public License | WTFPL | WTFPL | | |
 | WWL License | wwl | wwl | | |
-| X11 License | X11 | X11 | | `(?!\W*distribute|\W*no|\W*swapped)` |
+| X11 License | X11 | X11 | | `(?!\W*distribute\|\W*no\|\W*swapped)` |
 | X11 License Distribution Modification Variant | X11-distribute-modifications-variant | X11-distribute-modifications-variant | | |
 | X11 no permit persons clause | X11-no-permit-persons | X11-no-permit-persons |
 | X11 swapped final paragraphs | X11-swapped | X11-swapped | | |
@@ -702,33 +702,33 @@
 
 | License Name | Identifier | Short Base | Version / Clause | Variant |
 | ------------ | ---------- | ---------- | ---------------- | ------- |
-| Affero General Public License v1.0 | AGPL-1.0 | AGPL | 1.0 | `(?!\W*only|\W*or\W*later)` |
-| GNU Affero General Public License v3.0 | AGPL-3.0 | AGPL | 3.0 | `(?!\W*only|\W*or\W*later)` |
+| Affero General Public License v1.0 | AGPL-1.0 | AGPL | 1.0 | `(?!\W*only\|\W*or\W*later)` |
+| GNU Affero General Public License v3.0 | AGPL-3.0 | AGPL | 3.0 | `(?!\W*only\|\W*or\W*later)` |
 | BSD 2-Clause FreeBSD License | BSD-2-Clause-FreeBSD | BSD | 2-Clause | FreeBSD |
 | BSD 2-Clause NetBSD License | BSD-2-Clause-NetBSD | BSD | 2-Clause | NetBSD |
 | bzip2 and libbzip2 License v1.0.5 | bzip2-1.0.5 | bzip2 | 1.0.5 | |
 | eCos license version 2.0 | eCos-2.0 | eCos | 2.0 | |
-| GNU Free Documentation License v1.1 | GFDL-1.1 | GFDL | 1.1 | `(?!\W*invariants|\W*no\W*invariants)` |
-| GNU Free Documentation License v1.2 | GFDL-1.2 | GFDL | 1.2 | `(?!\W*invariants|\W*no\W*invariants)` |
-| GNU Free Documentation License v1.3 | GFDL-1.3 | GFDL | 1.3 | `(?!\W*invariants|\W*no\W*invariants)` |
-| GNU General Public License v1.0 only | GPL-1.0 | GPL | 1.0 | `(?!\W*only|\W*or\W*later|\W*\+)` |
+| GNU Free Documentation License v1.1 | GFDL-1.1 | GFDL | 1.1 | `(?!\W*invariants\|\W*no\W*invariants)` |
+| GNU Free Documentation License v1.2 | GFDL-1.2 | GFDL | 1.2 | `(?!\W*invariants\|\W*no\W*invariants)` |
+| GNU Free Documentation License v1.3 | GFDL-1.3 | GFDL | 1.3 | `(?!\W*invariants\|\W*no\W*invariants)` |
+| GNU General Public License v1.0 only | GPL-1.0 | GPL | 1.0 | `(?!\W*only\|\W*or\W*later\|\W*\+)` |
 | GNU General Public License v1.0 or later | GPL | 1.0 | + |
-| GNU General Public License v2.0 only | GPL-2.0 | GPL | 2.0 | `(?!\W*only|\W*or\W*later|\W*\+|\W*with)` |
+| GNU General Public License v2.0 only | GPL-2.0 | GPL | 2.0 | `(?!\W*only\|\W*or\W*later\|\W*\+\|\W*with)` |
 | GNU General Public License v2.0 or later | GPL-2.0+ | GPL | 2.0 | + |
 | GNU General Public License v2.0 w/Autoconf exception | GPL-2.0-with-autoconf-exception | GPL | 2.0 | with-autoconf-exception |
 | GNU General Public License v2.0 w/Bison exception | GPL-2.0-with-bison-exception | GPL | 2.0 | with-bison-exception |
 | GNU General Public License v2.0 w/Classpath exception | GPL-2.0-with-classpath-exception | GPL | 2.0 | with-classpath-exception |
 | GNU General Public License v2.0 w/Font exception | GPL-2.0-with-font-exception | GPL | 2.0 | with-font-exception |
 | GNU General Public License v2.0 w/GCC Runtime Library exception | GPL-2.0-with-GCC-exception | GPL | 2.0 | with-GCC-exception |
-| GNU General Public License v3.0 only | GPL-3.0 | GPL | 3.0 | `(?!\W*only|\W*or\W*later|\W*\+|\W*with)` |
+| GNU General Public License v3.0 only | GPL-3.0 | GPL | 3.0 | `(?!\W*only\|\W*or\W*later\|\W*\+\|\W*with)` |
 | GNU General Public License v3.0 or later | GPL-3.0+ | GPL | 3.0 | + |
 | GNU General Public License v3.0 w/Autoconf exception | GPL-3.0-with-autoconf-exception | GPL | 3.0 | with-autoconf-exception |
 | GNU General Public License v3.0 w/GCC Runtime Library exception | GPL-3.0-with-GCC-exception | GPL | 3.0 | with-GCC-exception |
-| GNU Library General Public License v2 only | LGPL-2.0 | LGPL | 2.0 | `(?!\W*only|\W*or\W*later|\W*\+)` |
+| GNU Library General Public License v2 only | LGPL-2.0 | LGPL | 2.0 | `(?!\W*only\|\W*or\W*later\|\W*\+)` |
 | GNU Library General Public License v2 or later | LGPL-2.0+ | LGPL | 2.0 | + |
-| GNU Lesser General Public License v2.1 only | LGPL-2.1 | LGPL | 2.1 | `(?!\W*only|\W*or\W*later|\W*\+)` |
+| GNU Lesser General Public License v2.1 only | LGPL-2.1 | LGPL | 2.1 | `(?!\W*only\|\W*or\W*later\|\W*\+)` |
 | GNU Lesser General Public License v2.1 or later | LGPL-2.1+ | LGPL | 2.1 | + |
-| GNU Lesser General Public License v3.0 only | LGPL-3.0 | LGPL | 3.0 | `(?!\W*only|\W*or\W*later|\W*\+)` |
+| GNU Lesser General Public License v3.0 only | LGPL-3.0 | LGPL | 3.0 | `(?!\W*only\|\W*or\W*later\|\W*\+)` |
 | GNU Lesser General Public License v3.0 or later | LGPL-3.0+ | LGPL | 3.0 | + |
 | Net-SNMP License | Net-SNMP | Net-SNMP | | |
 | Nunit License | Nunit | Nunit | | |
