@@ -263,7 +263,7 @@
 | FSF All Permissive License | FSFAP | `(?!\-)` |
 | FSF All Permissive License (without Warranty) | FSFAP-no-warranty-disclaimer | |
 | FSF Unlimited License | FSFUL | `(?!LR)` |
-| FSF Unlimited License (with License Retention) | FSFULLR | `(?!SD|WD)` |
+| FSF Unlimited License (with License Retention) | FSFULLR | `(?!SD\|WD)` |
 | FSF Unlimited License (with License Retention and Short Disclaimer) | FSFULLRSD | |
 | FSF Unlimited License (With License Retention and Warranty Disclaimer) | FSFULLRWD | |
 | Functional Source License, Version 1.1, ALv2 Future License | FSL-1.1-ALv2 | |
