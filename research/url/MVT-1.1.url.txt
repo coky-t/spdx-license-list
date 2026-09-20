@@ -1,0 +1,4 @@
+https://spdx.org/licenses/MVT-1.1.html
+https://license.mvt.re/1.1/
+https://docs.mvt.re/en/latest/license/
+https://github.com/mvt-project/mvt/blob/main/LICENSE

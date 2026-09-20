@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Google-Patent-WebM\.html
+https?://www\.webmproject\.org/license/additional

@@ -1,0 +1,2 @@
+https?://spdx\.org/licenses/Hippocratic-3\.0-core\.html
+https?://firstdonoharm\.dev/version/3/0/core\.txt
