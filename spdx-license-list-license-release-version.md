@@ -53,6 +53,7 @@
 | Aspell Russian License | Aspell-RU | 3.27.0 |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | 3.21 |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | 3.21 |
+| atc Game License | atc-game | 3.29.0 |
 | Baekmuk License | Baekmuk | 3.17 |
 | Bahyph License | Bahyph | 1.20 |
 | Barr License | Barr | 1.20 |
@@ -70,12 +71,14 @@
 | Borceux license | Borceux | 1.20 |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | 3.23 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 3.20 |
+| Brian Gladman 3-Clause License (no conversion clause) | Brian-Gladman-3-Clause-no-conversion | 3.29.0 |
 | BSD 1-Clause License | BSD-1-Clause | 3.0 |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | 1.0 beta |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | 3.23 |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | 3.24.0 |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 3.0 |
 | BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | 3.27.0 |
+| BSD 2-Clause - position unchanged variant | BSD-2-Clause-pos-unchanged | 3.29.0 |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | 3.10 |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1.0 beta |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | 3.23 |
@@ -90,6 +93,7 @@
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | 2.5 |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | 2.5 |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | 3.6 |
+| BSD 3-Clause - OpenWebUI variant | BSD-3-Clause-OpenWebUI | 3.29.0 |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | 3.22 |
 | BSD 3-Clause Tso variant | BSD-3-Clause-Tso | 3.28.0 |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | 1.0 beta |
@@ -98,16 +102,20 @@
 | BSD 4.3 RENO License | BSD-4.3RENO | 3.20 |
 | BSD 4.3 TAHOE License | BSD-4.3TAHOE | 3.20 |
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | 3.20 |
+| BSD - ask to endorse | BSD-ask-to-endorse | 3.29.0 |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | 3.20 |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | 3.22 |
 | BSD Mark Modifications License | BSD-Mark-Modifications | 3.28.0 |
 | BSD Protection License | BSD-Protection | 1.20 |
+| BSD Source Code Attribution - GPL alternative | BSD-Source-alt-GPL | 3.29.0 |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | 3.23 |
 | BSD Source Code Attribution | BSD-Source-Code | 2.5 |
+| BSD Source Code Attribution - no disclaimer | BSD-Source-Code-no-disclaimer | 3.29.0 |
 | Systemics BSD variant license | BSD-Systemics | 3.22 |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | 3.23 |
 | Boost Software License 1.0 | BSL-1.0 | 1.0 beta |
 | Buddy License | Buddy | 3.28.0 |
+| Bugroff License | Bugroff | 3.29.0 |
 | Business Source License 1.1 | BUSL-1.1 | 3.11 |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | 1.20 |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | 3.12 |
@@ -135,6 +143,7 @@
 | Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | 1.0 beta |
 | Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | 1.0 beta |
 | Creative Commons Attribution Non Commercial 3.0 Germany | CC-BY-NC-3.0-DE | 3.14 |
+| Creative Commons Attribution Non Commercial 3.0 IGO | CC-BY-NC-3.0-IGO | 3.29.0 |
 | Creative Commons Attribution Non Commercial 4.0 International | CC-BY-NC-4.0 | 1.20 |
 | Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | 1.0 beta |
 | Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | 1.0 beta |
@@ -256,6 +265,7 @@
 | Fair License | Fair | 1.0 beta |
 | Fuzzy Bitmap License | FBM | 3.22 |
 | Fraunhofer FDK AAC Codec Library | FDK-AAC | 3.15 |
+| Fraunhofer FDK MPEG-H Software | FDK-MPEG-H | 3.29.0 |
 | Ferguson Twofish License | Ferguson-Twofish | 3.22 |
 | Frameworx Open License 1.0 | Frameworx-1.0 | 1.0 beta |
 | FreeBSD Documentation License | FreeBSD-DOC | 3.12 |
@@ -314,6 +324,7 @@
 | hdparm License | hdparm | 3.23 |
 | HIDAPI License | HIDAPI | 3.25.0 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 3.9 |
+| Hippocratic License 3.0 | Hippocratic-3.0-core | 3.29.0 |
 | Hewlett-Packard 1986 License | HP-1986 | 3.20 |
 | Hewlett-Packard 1989 License | HP-1989 | 3.22 |
 | Historical Permission Notice and Disclaimer | HPND | 1.0 |
@@ -353,6 +364,7 @@
 | iMatix Standard Function Library Agreement | iMatix | 1.20 |
 | Imlib2 License | Imlib2 | 1.17 |
 | Info-ZIP License | Info-ZIP | 2.3 |
+| Informatica License | Informatica | 3.29.0 |
 | Inner Net License v2.0 | Inner-Net-2.0 | 3.21 |
 | Inno Setup License | InnoSetup | 3.26.0 |
 | Intel Open Source License | Intel | 1.17 |
@@ -457,6 +469,7 @@
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | 3.9 |
 | Multics License | Multics | 1.0 beta |
 | Mup License | Mup | 1.20 |
+| MVT License 1.1 | MVT-1.1 | 3.29.0 |
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | 3.12 |
 | NASA Open Source Agreement 1.3 | NASA-1.3 | 1.0 beta |
 | Naumen Public License | Naumen | 1.0 beta |

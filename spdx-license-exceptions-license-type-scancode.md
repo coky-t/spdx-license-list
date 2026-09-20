@@ -35,6 +35,7 @@
 | GNOME examples exception | GNOME-examples-exception | Permissive |
 | GNU Compiler Exception | GNU-compiler-exception | Copyleft Limited |
 | GNU JavaMail exception | gnu-javamail-exception | Copyleft Limited |
+| Google Additional IP Rights Grant (Patents) - WebM | Google-Patent-WebM | |
 | GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | Copyleft Limited |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | Copyleft Limited |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | Copyleft Limited |
@@ -74,6 +75,7 @@
 | Solderpad Hardware License v2.0 | SHL-2.0 | Permissive |
 | Solderpad Hardware License v2.1 | SHL-2.1 | Permissive |
 | Simple Library Usage Exception | Simple-Library-Usage-exception | Copyleft Limited |
+| Spelling Provider LGPL exception | Spelling-Provider-LGPL-exception | |
 | sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | Copyleft Limited |
 | stunnel Exception | stunnel-exception | Copyleft Limited |
 | SWI exception | SWI-exception | Copyleft Limited |
