@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*Informatica
+(?:MODULE_LICENSE|__license__)\W*Informatica
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)Informatica(?:\W*Licen[sc]e)?
+Informatica\W*Licen[sc]e

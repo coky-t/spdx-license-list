@@ -1,0 +1,3 @@
+SPDX-License-Identifier: XXX WITH Google-Patent-WebM
+SPDX-Exception-Identifier: Google-Patent-WebM
+Google Additional IP Rights Grant (Patents) - WebM

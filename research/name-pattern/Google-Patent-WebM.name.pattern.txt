@@ -1,0 +1,4 @@
+SPDX-License-Identifier\W*[A-Za-z0-9\+\-\.]+\W*(?:(?:AND\W*|OR\W*|WITH\W*)[A-Za-z0-9\+\-\.]+\W*)*WITH\W*Google-Patent-WebM
+SPDX-Exception-Identifier\W*Google-Patent-WebM
+Google\W*Patent\W*WebM
+Google\W*Additional\W*IP\W*Rights\W*Grant\W*Patents\W*WebM

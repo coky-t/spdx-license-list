@@ -1,0 +1,5 @@
+SPDX-License-Identifier: Brian-Gladman-3-Clause-no-conversion
+MODULE_LICENSE(Brian-Gladman-3-Clause-no-conversion)
+License: Brian-Gladman-3-Clause-no-conversion
+Brian-Gladman-3-Clause-no-conversion License
+Brian Gladman 3-Clause License (no conversion clause)

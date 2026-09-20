@@ -1,0 +1,5 @@
+SPDX-License-Identifier: BSD-ask-to-endorse
+MODULE_LICENSE(BSD-ask-to-endorse)
+License: BSD-ask-to-endorse
+BSD-ask-to-endorse License
+BSD - ask to endorse

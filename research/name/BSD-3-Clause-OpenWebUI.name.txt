@@ -1,0 +1,5 @@
+SPDX-License-Identifier: BSD-3-Clause-OpenWebUI
+MODULE_LICENSE(BSD-3-Clause-OpenWebUI)
+License: BSD-3-Clause-OpenWebUI
+BSD-3-Clause-OpenWebUI License
+BSD 3-Clause - OpenWebUI variant

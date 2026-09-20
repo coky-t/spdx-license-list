@@ -1,0 +1,6 @@
+SPDX-License-Identifier: Hippocratic-3.0-core
+MODULE_LICENSE(Hippocratic-3.0-core)
+License: Hippocratic-3.0-core
+Hippocratic-3.0-core License
+Hippocratic License 3.0
+HIPPOCRATIC LICENSE Version 3.0

@@ -1,0 +1,5 @@
+SPDX-License-Identifier: BSD-2-Clause-pos-unchanged
+MODULE_LICENSE(BSD-2-Clause-pos-unchanged)
+License: BSD-2-Clause-pos-unchanged
+BSD-2-Clause-pos-unchanged License
+BSD 2-Clause - position unchanged variant

@@ -1,0 +1,3 @@
+SPDX-License-Identifier: XXX WITH Spelling-Provider-LGPL-exception
+SPDX-Exception-Identifier: Spelling-Provider-LGPL-exception
+Spelling Provider LGPL exception

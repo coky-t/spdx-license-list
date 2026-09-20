@@ -1,0 +1,6 @@
+SPDX-License-Identifier: CC-BY-NC-3.0-IGO
+MODULE_LICENSE(CC-BY-NC-3.0-IGO)
+License: CC-BY-NC-3.0-IGO
+CC-BY-NC-3.0-IGO License
+Creative Commons Attribution Non Commercial 3.0 IGO
+Creative Commons Attribution-NonCommercial 3.0 IGO

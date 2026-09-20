@@ -1,0 +1,4 @@
+SPDX-License-Identifier: Informatica
+MODULE_LICENSE(Informatica)
+License: Informatica
+Informatica License

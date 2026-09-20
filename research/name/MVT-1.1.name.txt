@@ -1,0 +1,6 @@
+SPDX-License-Identifier: MVT-1.1
+MODULE_LICENSE(MVT-1.1)
+License: MVT-1.1
+MVT-1.1 License
+MVT License 1.1
+MVT License, v. 1.1

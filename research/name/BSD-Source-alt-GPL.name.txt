@@ -1,0 +1,5 @@
+SPDX-License-Identifier: BSD-Source-alt-GPL
+MODULE_LICENSE(BSD-Source-alt-GPL)
+License: BSD-Source-alt-GPL
+BSD-Source-alt-GPL License
+BSD Source Code Attribution - GPL alternative

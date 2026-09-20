@@ -1,0 +1,6 @@
+SPDX-License-Identifier: FDK-MPEG-H
+MODULE_LICENSE(FDK-MPEG-H)
+License: FDK-MPEG-H
+FDK-MPEG-H License
+Fraunhofer FDK MPEG-H Software
+Software License for The Fraunhofer FDK MPEG-H Software

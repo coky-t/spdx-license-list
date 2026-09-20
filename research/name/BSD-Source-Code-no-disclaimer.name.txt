@@ -1,0 +1,5 @@
+SPDX-License-Identifier: BSD-Source-Code-no-disclaimer
+MODULE_LICENSE(BSD-Source-Code-no-disclaimer)
+License: BSD-Source-Code-no-disclaimer
+BSD-Source-Code-no-disclaimer License
+BSD Source Code Attribution - no disclaimer

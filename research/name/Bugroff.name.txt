@@ -1,0 +1,4 @@
+SPDX-License-Identifier: Bugroff
+MODULE_LICENSE(Bugroff)
+License: Bugroff
+Bugroff License

@@ -1,0 +1,4 @@
+SPDX-License-Identifier: atc-game
+MODULE_LICENSE(atc-game)
+License: atc-game
+atc Game License
