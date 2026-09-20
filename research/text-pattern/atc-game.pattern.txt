@@ -1,0 +1,1 @@
+copy\W*permission\W*is\W*hereby\W*granted\W*provided\W*that\W*this\W*notice\W*is\W*retained\W*on\W*all\W*partial\W*or\W*complete\W*copies\W*for\W*more\W*info\W*on\W*this\W*(?:and|&)\W*all\W*of\W*my\W*stuff\W*mail\W*edjames\W*berkeley\W*edu\W*
