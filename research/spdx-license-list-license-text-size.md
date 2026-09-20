@@ -16,7 +16,7 @@
 | Academic Free License v1.1 | AFL-1.1 | 4676 |
 | Academic Free License v1.2 | AFL-1.2 | 4950 |
 | Academic Free License v2.0 | AFL-2.0 | 8987 |
-| Academic Free License v2.1 | AFL-2.1 | 8948 |
+| Academic Free License v2.1 | AFL-2.1 | 10602 |
 | Academic Free License v3.0 | AFL-3.0 | 10334 |
 | Afmparse License | Afmparse | 893 |
 | Affero General Public License v1.0 only | AGPL-1.0-only | 15839 |
@@ -53,6 +53,7 @@
 | Aspell Russian License | Aspell-RU | 217 |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | 2230 |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | 2346 |
+| atc Game License | atc-game | 247 |
 | Baekmuk License | Baekmuk | 479 |
 | Bahyph License | Bahyph | 1377 |
 | Barr License | Barr | 603 |
@@ -70,12 +71,14 @@
 | Borceux license | Borceux | 647 |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | 655 |
 | Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | 1096 |
+| Brian Gladman 3-Clause License (no conversion clause) | Brian-Gladman-3-Clause-no-conversion | 880 |
 | BSD 1-Clause License | BSD-1-Clause | 1086 |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | 1267 |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | 1593 |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | 1328 |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | 2569 |
 | BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | 704 |
+| BSD 2-Clause - position unchanged variant | BSD-2-Clause-pos-unchanged | 1276 |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | 1519 |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | 1460 |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | 1568 |
@@ -90,6 +93,7 @@
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | 1709 |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | 1699 |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | 1820 |
+| BSD 3-Clause - OpenWebUI variant | BSD-3-Clause-OpenWebUI | 2820 |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | 1620 |
 | BSD 3-Clause Tso variant | BSD-3-Clause-Tso | 1460 |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | 1618 |
@@ -98,16 +102,20 @@
 | BSD 4.3 RENO License | BSD-4.3RENO | 476 |
 | BSD 4.3 TAHOE License | BSD-4.3TAHOE | 781 |
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | 1626 |
+| BSD - ask to endorse | BSD-ask-to-endorse | 1099 |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | 1679 |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | 2084 |
 | BSD Mark Modifications License | BSD-Mark-Modifications | 1763 |
 | BSD Protection License | BSD-Protection | 6244 |
+| BSD Source Code Attribution - GPL alternative | BSD-Source-alt-GPL | 1284 |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | 1284 |
 | BSD Source Code Attribution | BSD-Source-Code | 1301 |
+| BSD Source Code Attribution - no disclaimer | BSD-Source-Code-no-disclaimer | 416 |
 | Systemics BSD variant license | BSD-Systemics | 2225 |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | 3180 |
 | Boost Software License 1.0 | BSL-1.0 | 1338 |
 | Buddy License | Buddy | 1447 |
+| Bugroff License | Bugroff | 2652 |
 | Business Source License 1.1 | BUSL-1.1 | 3424 |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | 1739 |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | 3451 |
@@ -135,6 +143,7 @@
 | Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | 13790 |
 | Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | 20479 |
 | Creative Commons Attribution Non Commercial 3.0 Germany | CC-BY-NC-3.0-DE | 20434 |
+| Creative Commons Attribution Non Commercial 3.0 IGO | CC-BY-NC-3.0-IGO | 18216 |
 | Creative Commons Attribution Non Commercial 4.0 International | CC-BY-NC-4.0 | 17649 |
 | Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | 11032 |
 | Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | 12711 |
@@ -256,6 +265,7 @@
 | Fair License | Fair | 245 |
 | Fuzzy Bitmap License | FBM | 330 |
 | Fraunhofer FDK AAC Codec Library | FDK-AAC | 4447 |
+| Fraunhofer FDK MPEG-H Software | FDK-MPEG-H | 3795 |
 | Ferguson Twofish License | Ferguson-Twofish | 886 |
 | Frameworx Open License 1.0 | Frameworx-1.0 | 9771 |
 | FreeBSD Documentation License | FreeBSD-DOC | 2781 |
@@ -314,6 +324,7 @@
 | hdparm License | hdparm | 253 |
 | HIDAPI License | HIDAPI | 119 |
 | Hippocratic License 2.1 | Hippocratic-2.1 | 8422 |
+| Hippocratic License 3.0 | Hippocratic-3.0-core | 16264 |
 | Hewlett-Packard 1986 License | HP-1986 | 617 |
 | Hewlett-Packard 1989 License | HP-1989 | 947 |
 | Historical Permission Notice and Disclaimer | HPND | 1187 |
@@ -353,6 +364,7 @@
 | iMatix Standard Function Library Agreement | iMatix | 3473 |
 | Imlib2 License | Imlib2 | 2002 |
 | Info-ZIP License | Info-ZIP | 3171 |
+| Informatica License | Informatica | 737 |
 | Inner Net License v2.0 | Inner-Net-2.0 | 1996 |
 | Inno Setup License | InnoSetup | 1424 |
 | Intel Open Source License | Intel | 2084 |
@@ -360,7 +372,7 @@
 | Interbase Public License v1.0 | Interbase-1.0 | 24344 |
 | IPA Font License | IPA | 9093 |
 | IBM Public License v1.0 | IPL-1.0 | 11409 |
-| ISC License | ISC | 823 |
+| ISC License | ISC | 737 |
 | ISC Veillard variant | ISC-Veillard | 522 |
 | ISO permission notice | ISO-permission | 225 |
 | Jam License | Jam | 195 |
@@ -457,6 +469,7 @@
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | 9233 |
 | Multics License | Multics | 2040 |
 | Mup License | Mup | 1459 |
+| MVT License 1.1 | MVT-1.1 | 17791 |
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | 3792 |
 | NASA Open Source Agreement 1.3 | NASA-1.3 | 13778 |
 | Naumen Public License | Naumen | 1953 |

@@ -53,6 +53,7 @@
 | Aspell Russian License | Aspell-RU | Permission to use, copy |
 | ASWF Digital Assets License version 1.0 | ASWF-Digital-Assets-1.0 | Redistribution and use |
 | ASWF Digital Assets License 1.1 | ASWF-Digital-Assets-1.1 | Redistribution and use |
+| atc Game License | atc-game | permission is hereby granted |
 | Baekmuk License | Baekmuk | Permission to use, copy |
 | Bahyph License | Bahyph | |
 | Barr License | Barr | |
@@ -69,13 +70,15 @@
 | Buena Onda License Agreement v1.1 | BOLA-1.1 | |
 | Borceux license | Borceux | |
 | Brian Gladman 2-Clause License | Brian-Gladman-2-Clause | redistribution and use |
-| Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | |
+| Brian Gladman 3-Clause License | Brian-Gladman-3-Clause | distribution and use |
+| Brian Gladman 3-Clause License (no conversion clause) | Brian-Gladman-3-Clause-no-conversion | distribution and use |
 | BSD 1-Clause License | BSD-1-Clause | Redistribution and use |
 | BSD 2-Clause "Simplified" License | BSD-2-Clause | Redistribution and use |
 | BSD 2-Clause - Ian Darwin variant | BSD-2-Clause-Darwin | Redistribution and use |
 | BSD 2-Clause - first lines requirement | BSD-2-Clause-first-lines | Redistribution and use |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | Redistribution and use / Subject to the terms ... of this License |
 | BSD 2-Clause pkgconf disclaimer variant | BSD-2-Clause-pkgconf-disclaimer | Redistribution and use |
+| BSD 2-Clause - position unchanged variant | BSD-2-Clause-pos-unchanged | Redistribution and use |
 | BSD 2-Clause with views sentence | BSD-2-Clause-Views | Redistribution and use |
 | BSD 3-Clause "New" or "Revised" License | BSD-3-Clause | Redistribution and use |
 | BSD 3-Clause acpica variant | BSD-3-Clause-acpica | Redistribution and use |
@@ -90,6 +93,7 @@
 | BSD 3-Clause No Nuclear License 2014 | BSD-3-Clause-No-Nuclear-License-2014 | Redistribution and use |
 | BSD 3-Clause No Nuclear Warranty | BSD-3-Clause-No-Nuclear-Warranty | Redistribution and use |
 | BSD 3-Clause Open MPI variant | BSD-3-Clause-Open-MPI | Redistribution and use |
+| BSD 3-Clause - OpenWebUI variant | BSD-3-Clause-OpenWebUI | Redistribution and use |
 | BSD 3-Clause Sun Microsystems | BSD-3-Clause-Sun | Redistribution and use |
 | BSD 3-Clause Tso variant | BSD-3-Clause-Tso | Redistribution and use |
 | BSD 4-Clause "Original" or "Old" License | BSD-4-Clause | Redistribution and use |
@@ -98,16 +102,20 @@
 | BSD 4.3 RENO License | BSD-4.3RENO | Redistribution and use |
 | BSD 4.3 TAHOE License | BSD-4.3TAHOE | Redistribution and use |
 | BSD Advertising Acknowledgement License | BSD-Advertising-Acknowledgement | Redistribution and use |
+| BSD - ask to endorse | BSD-ask-to-endorse | Redistribution and use |
 | BSD with Attribution and HPND disclaimer | BSD-Attribution-HPND-disclaimer | Redistribution and use |
 | BSD-Inferno-Nettverk | BSD-Inferno-Nettverk | Redistribution and use |
 | BSD Mark Modifications License | BSD-Mark-Modifications | Redistribution and use |
 | BSD Protection License | BSD-Protection | |
+| BSD Source Code Attribution - GPL alternative | BSD-Source-alt-GPL | Redistribution and use |
 | BSD Source Code Attribution - beginning of file variant | BSD-Source-beginning-file | Redistribution and use |
 | BSD Source Code Attribution | BSD-Source-Code | Redistribution and use |
+| BSD Source Code Attribution - no disclaimer | BSD-Source-Code-no-disclaimer | Redistribution and use |
 | Systemics BSD variant license | BSD-Systemics | Redistribution and use |
 | Systemics W3Works BSD variant license | BSD-Systemics-W3Works | Redistribution and use |
 | Boost Software License 1.0 | BSL-1.0 | Permission is hereby granted |
 | Buddy License | Buddy | Permission is hereby granted |
+| Bugroff License | Bugroff | |
 | Business Source License 1.1 | BUSL-1.1 | |
 | bzip2 and libbzip2 License v1.0.6 | bzip2-1.0.6 | Redistribution and use |
 | Computational Use of Data Agreement v1.0 | C-UDA-1.0 | |
@@ -135,6 +143,7 @@
 | Creative Commons Attribution Non Commercial 2.5 Generic | CC-BY-NC-2.5 | Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial 3.0 Unported | CC-BY-NC-3.0 | You may Distribute ... of this License / Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial 3.0 Germany | CC-BY-NC-3.0-DE | |
+| Creative Commons Attribution Non Commercial 3.0 IGO | CC-BY-NC-3.0-IGO | |
 | Creative Commons Attribution Non Commercial 4.0 International | CC-BY-NC-4.0 | |
 | Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic | CC-BY-NC-ND-1.0 | Subject to the terms ... of this License |
 | Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic | CC-BY-NC-ND-2.0 | Subject to the terms ... of this License |
@@ -256,6 +265,7 @@
 | Fair License | Fair | |
 | Fuzzy Bitmap License | FBM | Permission is granted |
 | Fraunhofer FDK AAC Codec Library | FDK-AAC | Redistribution and use |
+| Fraunhofer FDK MPEG-H Software | FDK-MPEG-H | Redistribution and use |
 | Ferguson Twofish License | Ferguson-Twofish | |
 | Frameworx Open License 1.0 | Frameworx-1.0 | |
 | FreeBSD Documentation License | FreeBSD-DOC | Redistribution and use |
@@ -314,6 +324,7 @@
 | hdparm License | hdparm | |
 | HIDAPI License | HIDAPI | |
 | Hippocratic License 2.1 | Hippocratic-2.1 | |
+| Hippocratic License 3.0 | Hippocratic-3.0-core | |
 | Hewlett-Packard 1986 License | HP-1986 | |
 | Hewlett-Packard 1989 License | HP-1989 | |
 | Historical Permission Notice and Disclaimer | HPND | Permission to use, copy |
@@ -353,6 +364,7 @@
 | iMatix Standard Function Library Agreement | iMatix | |
 | Imlib2 License | Imlib2 | Permission is hereby granted |
 | Info-ZIP License | Info-ZIP | Permission is granted |
+| Informatica License | Informatica | Redistribution and use |
 | Inner Net License v2.0 | Inner-Net-2.0 | |
 | Inno Setup License | InnoSetup | Permission is granted |
 | Intel Open Source License | Intel | Redistribution and use |
@@ -457,6 +469,7 @@
 | Mulan Permissive Software License, Version 2 | MulanPSL-2.0 | Subject to the terms ... of this License |
 | Multics License | Multics | Permission to use, copy |
 | Mup License | Mup | Redistribution and use |
+| MVT License 1.1 | MVT-1.1 | |
 | Nara Institute of Science and Technology License (2003) | NAIST-2003 | |
 | NASA Open Source Agreement 1.3 | NASA-1.3 | |
 | Naumen Public License | Naumen | Redistribution and use |

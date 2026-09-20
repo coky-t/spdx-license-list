@@ -35,6 +35,7 @@
 | GNOME examples exception | GNOME-examples-exception | As a special exception |
 | GNU Compiler Exception | GNU-compiler-exception | As a special exception |
 | GNU JavaMail exception | gnu-javamail-exception | As a special exception |
+| Google Additional IP Rights Grant (Patents) - WebM | Google-Patent-WebM | |
 | GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | Additional permission / grant you additional permission |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | As a special exception |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | Additional permission / grant you additional permission |
@@ -74,6 +75,7 @@
 | Solderpad Hardware License v2.0 | SHL-2.0 | Subject to the terms ... of this License |
 | Solderpad Hardware License v2.1 | SHL-2.1 | Subject to the terms ... of this License |
 | Simple Library Usage Exception | Simple-Library-Usage-exception | As a special exception |
+| Spelling Provider LGPL exception | Spelling-Provider-LGPL-exception | In addition, as a special exception |
 | sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | In addition, as a special exception |
 | stunnel Exception | stunnel-exception | In addition, as a special exception |
 | SWI exception | SWI-exception | As a special exception |

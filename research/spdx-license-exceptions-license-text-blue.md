@@ -35,6 +35,7 @@
 | [GNOME examples exception](https://spdx.org/licenses/GNOME-examples-exception.html) | GNOME-examples-exception | 3.23 | none | N/A | N/A |
 | [GNU Compiler Exception](https://spdx.org/licenses/GNU-compiler-exception.html) | GNU-compiler-exception | 3.22 | blue (since [3.23](https://github.com/spdx/license-list-data/blob/v3.23/html/GNU-compiler-exception.html)), none (until [3.22](https://github.com/spdx/license-list-data/blob/v3.22/html/GNU-compiler-exception.html)) | N/A | N/A |
 | [GNU JavaMail exception](https://spdx.org/licenses/gnu-javamail-exception.html) | gnu-javamail-exception | 2.1 | none | N/A | N/A |
+| [Google Additional IP Rights Grant (Patents) - WebM](https://spdx.org/licenses/Google-Patent-WebM.html) | Google-Patent-WebM | 3.29.0 | none | blue (since [3.29.0](https://github.com/spdx/license-list-data/blob/v3.29.0/html/Google-Patent-WebM.html)) | N/A |
 | [GPL-3.0 389 DS Base Exception](https://spdx.org/licenses/GPL-3.0-389-ds-base-exception.html) | GPL-3.0-389-ds-base-exception | none | N/A | N/A |
 | [GPL-3.0 Interface Exception](https://spdx.org/licenses/GPL-3.0-interface-exception.html) | GPL-3.0-interface-exception | 3.21 | none | N/A | N/A |
 | [GPL-3.0 Linking Exception](https://spdx.org/licenses/GPL-3.0-linking-exception.html) | GPL-3.0-linking-exception | 3.8 | blue (since [3.8](https://github.com/spdx/license-list-data/blob/v3.8/html/GPL-3.0-linking-exception.html)) | N/A | N/A |
@@ -74,6 +75,7 @@
 | [Solderpad Hardware License v2.0](https://spdx.org/licenses/SHL-2.0.html) | SHL-2.0 | 3.9 | none | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/SHL-2.0.html)) | N/A |
 | [Solderpad Hardware License v2.1](https://spdx.org/licenses/SHL-2.1.html) | SHL-2.1 | 3.9 | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/SHL-2.1.html)) | blue (since [3.9](https://github.com/spdx/license-list-data/blob/v3.9/html/SHL-2.1.html)) | N/A |
 | [Simple Library Usage Exception](https://spdx.org/licenses/Simple-Library-Usage-exception.html) | Simple-Library-Usage-exception | 3.28.0 | none | blue (since [3.28.0](https://github.com/spdx/license-list-data/blob/main/html/Simple-Library-Usage-exception.html)) | N/A |
+| [Spelling Provider LGPL exception](https://spdx.org/licenses/Spelling-Provider-LGPL-exception.html) | Spelling-Provider-LGPL-exception | 3.29.0 | none | N/A | N/A |
 | [sqlitestudio OpenSSL exception](https://spdx.org/licenses/sqlitestudio-OpenSSL-exception.html) | sqlitestudio-OpenSSL-exception | 3.28.0 | none | N/A | N/A |
 | [stunnel Exception](https://spdx.org/licenses/stunnel-exception.html) | stunnel-exception | 3.22 | none | N/A | N/A |
 | [SWI exception](https://spdx.org/licenses/SWI-exception.html) | SWI-exception | 3.20 | none | N/A | N/A |

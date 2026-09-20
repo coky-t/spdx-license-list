@@ -35,6 +35,7 @@
 | GNOME examples exception | GNOME-examples-exception | GNOME-examples-exception | | |
 | GNU Compiler Exception | GNU-compiler-exception | GNU-compiler-exception | | |
 | GNU JavaMail exception | gnu-javamail-exception | gnu-javamail-exception | | |
+| Google Additional IP Rights Grant (Patents) - WebM | Google-Patent-WebM | Google-Patent-WebM | | |
 | GPL-3.0 389 DS Base Exception | GPL-3.0-389-ds-base-exception | GPL | 3.0 | 389-ds-base-exception |
 | GPL-3.0 Interface Exception | GPL-3.0-interface-exception | GPL | 3.0 | interface-exception |
 | GPL-3.0 Linking Exception | GPL-3.0-linking-exception | GPL | 3.0 | linking-exception |
@@ -74,6 +75,7 @@
 | Solderpad Hardware License v2.0 | SHL-2.0 | SHL | 2.0 | |
 | Solderpad Hardware License v2.1 | SHL-2.1 | SHL | 2.1 | |
 | Simple Library Usage Exception | Simple-Library-Usage-exception | Simple-Library-Usage-exception | | |
+| Spelling Provider LGPL exception | Spelling-Provider-LGPL-exception | Spelling-Provider-LGPL-exception | | |
 | sqlitestudio OpenSSL exception | sqlitestudio-OpenSSL-exception | sqlitestudio-OpenSSL-exception | | |
 | stunnel Exception | stunnel-exception | stunnel-exception | | |
 | SWI exception | SWI-exception | SWI-exception | | |
